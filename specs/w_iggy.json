@@ -1,0 +1,135 @@
+{
+ "team": "warriors",
+ "name": "iggy",
+ "record": "7-3",
+ "caption": "IGGY 🎮🏀 He didn't start a single game all season. Then he won Finals MVP.\n\n• 2015 Finals: we're down 2-1, Andre Iguodala makes his first start of the season\n• Game 4: 22 points\n• Finals: 16.3 PPG, and LeBron shoots 38.1% with him on the floor\n• First player ever to win Finals MVP without starting a regular-season game\n• His No. 9 is retired. Steph and Draymond are still here from that team\n\nFinals MVP: Iggy or Steph? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "SIXTH MAN",
+   "key": "p:2386@GSW",
+   "name": "IGGY",
+   "badge": "OFF THE BENCH",
+   "lines": [
+    [
+     "0",
+     "STARTS"
+    ]
+   ],
+   "vo": "Andre Iguodala doesn't start a single game for us all season. Then he wins Finals MVP.",
+   "dlg": "ZERO STARTS ALL SEASON...|THEN FINALS MVP."
+  },
+  {
+   "kind": "fire",
+   "head": "GAME 4",
+   "key": "p:2386@GSW",
+   "name": "IGGY",
+   "badge": "FIRST START",
+   "lines": [
+    [
+     "2-1",
+     "DOWN"
+    ],
+    [
+     "22",
+     "PTS"
+    ]
+   ],
+   "vo": "Twenty fifteen Finals. We're down two games to one. Steve Kerr starts him for the first time all year. He scores twenty-two.",
+   "dlg": "DOWN 2-1 IN THE FINALS.|HE STARTS. 22 POINTS."
+  },
+  {
+   "kind": "fire",
+   "head": "LEBRON STOPPER",
+   "key": "p:2386@GSW",
+   "name": "IGGY",
+   "badge": "2015 FINALS",
+   "lines": [
+    [
+     "16.3",
+     "PPG"
+    ],
+    [
+     "38.1",
+     "LEBRON FG%"
+    ]
+   ],
+   "vo": "Sixteen point three a night. And with Iggy on the floor, LeBron shoots just thirty-eight percent.",
+   "dlg": "FINALS: 16.3 PPG.|LEBRON: 38.1% VS IGGY."
+  },
+  {
+   "kind": "fire",
+   "head": "FINALS MVP",
+   "key": "p:2386@GSW",
+   "name": "IGGY",
+   "badge": "NO. 9 RETIRED",
+   "lines": [
+    [
+     "2015",
+     "FINALS MVP"
+    ],
+    [
+     "4",
+     "TITLES"
+    ]
+   ],
+   "vo": "We win the title. He's Finals MVP, the first ever without starting a regular-season game. His number nine now hangs in our rafters.",
+   "dlg": "FINALS MVP. 4 TITLES.|NO. 9 IN OUR RAFTERS."
+  },
+  {
+   "kind": "fire",
+   "head": "STILL HERE",
+   "key": "p:6589@GSW",
+   "name": "DRAYMOND",
+   "badge": "2015 CHAMP",
+   "lines": [
+    [
+     "7.8",
+     "APG"
+    ],
+    [
+     "8",
+     "GAMES IN"
+    ]
+   ],
+   "vo": "Two guys from that team are still with us. Steph, and Draymond Green, dishing seven point eight assists through eight games.",
+   "dlg": "STEPH AND DRAYMOND:|STILL HERE FROM 2015."
+  },
+  {
+   "kind": "next",
+   "head": "IGGY OR STEPH?",
+   "logo": "l:GSW",
+   "rec": "2015",
+   "ntxt": "FINALS MVP",
+   "nday": "OFF THE BENCH",
+   "vo": "Finals MVP: Iggy or Steph? Comment below.",
+   "dlg": "FINALS MVP: IGGY OR STEPH?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "6589",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 7.8
+  },
+  {
+   "player": "6589",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "2015 Finals: Warriors down 2–1, Iguodala made his first start of the season (0 regular-season starts) in Game 4 and scored a season-high 22 points; averaged 16.3 points; James shot 38.1% with Iguodala in the game; Finals MVP, first to win it without starting a game in the regular season; 4× NBA champion; No. 9 retired by Golden State",
+   "source": "https://en.wikipedia.org/wiki/Andre_Iguodala"
+  },
+  {
+   "claim": "Draymond Green: 4× NBA champion (2015, 2017, 2018, 2022), with Golden State 2012–present",
+   "source": "https://en.wikipedia.org/wiki/Draymond_Green"
+  },
+  {
+   "claim": "Stephen Curry: 4× NBA champion including 2015, Warriors 2009–present",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "team": "warriors",
+ "name": "24and0",
+ "pace": "wolves",
+ "record": "7-3",
+ "caption": "24-0. WHO STOPPED US? 🎮🏀 We won our first 24 games of 2015-16. Nobody had ever started better.\n\n• Best start in NBA history, breaking the 1993-94 Rockets' mark\n• Better than the 1884 St. Louis Maroons' 20-0: best start in US pro sports\n• Win 24: 124-119 in double OT at Boston, Draymond with a 5x5 line\n• The next night: Milwaukee 108, us 95\n• It ended a 28-game win streak, the 2nd longest in NBA history\n\nWill anyone ever start 25-0? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "24-0. WHO STOPPED US?",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "2015-16",
+   "lines": [
+    [
+     "24-0",
+     "START"
+    ]
+   ],
+   "vo": "We won our first twenty-four games. Nobody had ever started better.",
+   "dlg": "OUR FIRST 24 GAMES?|ALL WINS."
+  },
+  {
+   "kind": "fire",
+   "head": "BEST START EVER",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "NBA RECORD",
+   "lines": [
+    [
+     "24-0",
+     "BEST EVER"
+    ]
+   ],
+   "vo": "It broke the NBA record for best start, and beat a twenty and oh baseball mark from eighteen eighty-four.",
+   "dlg": "BEST START IN NBA HISTORY|BEST IN ALL US PRO SPORTS"
+  },
+  {
+   "kind": "fire",
+   "head": "WIN NO. 24",
+   "key": "p:6589@GSW",
+   "name": "DRAYMOND",
+   "badge": "AT BOSTON",
+   "lines": [
+    [
+     "124",
+     "GS"
+    ],
+    [
+     "119",
+     "BOS"
+    ]
+   ],
+   "vo": "Win number twenty-four took double overtime in Boston. Draymond put up a five-by-five.",
+   "dlg": "WIN 24: 2OT IN BOSTON.|DRAYMOND: A 5-BY-5!"
+  },
+  {
+   "kind": "fire",
+   "head": "THE NEXT NIGHT",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "AT MILWAUKEE",
+   "lines": [
+    [
+     "95",
+     "GS"
+    ],
+    [
+     "108",
+     "MIL"
+    ]
+   ],
+   "vo": "The very next night, in Milwaukee, it ended. One hundred eight to ninety-five.",
+   "dlg": "THE NEXT NIGHT, MILWAUKEE|ENDS IT: 108-95."
+  },
+  {
+   "kind": "fire",
+   "head": "28 STRAIGHT",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "WIN STREAK",
+   "lines": [
+    [
+     "28",
+     "STRAIGHT"
+    ]
+   ],
+   "vo": "That loss also ended a twenty-eight game win streak, the second longest in NBA history.",
+   "dlg": "IT ENDS A 28-GAME STREAK,|2ND LONGEST EVER."
+  },
+  {
+   "kind": "next",
+   "head": "25-0 EVER?",
+   "logo": "l:GSW",
+   "rec": "24-0",
+   "ntxt": "START",
+   "nday": "2015-16",
+   "vo": "Twenty-four and oh, then the Bucks. Will anyone ever start twenty-five and oh? Comment below.",
+   "dlg": "WILL ANYONE EVER|START 25-0? COMMENT!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "400828223",
+   "score": "124-119"
+  },
+  {
+   "game": "400828238",
+   "score": "108-95"
+  },
+  {
+   "claim": "2015-16 Warriors won their first 24 games (24-0), eclipsing the previous best start in NBA history set by the 1993-94 Houston Rockets; broke the 131-year-old record of 20-0 set by the 1884 St. Louis Maroons baseball team for best start in all major professional sports in America (US pro sports); December 11 (2015): beat Boston 124-119 (2OT, double overtime) to improve to 24-0, Draymond Green recorded a five-by-five (5x5); the start ended when they were beaten by the Milwaukee Bucks 108-95 on December 12, 2015, which also ended a 28-game winning streak, the second-longest (2nd) in NBA history; 25-0 has never happened",
+   "source": "https://en.wikipedia.org/wiki/2015%E2%80%9316_Golden_State_Warriors_season"
+  }
+ ]
+}

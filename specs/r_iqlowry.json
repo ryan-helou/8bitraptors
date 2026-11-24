@@ -1,0 +1,136 @@
+{
+ "team": "raptors",
+ "name": "iqlowry",
+ "record": "5-4",
+ "caption": "AGE 27 🎮🏀 Kyle Lowry wasn't an All-Star yet at 27. Immanuel Quickley is 27 right now.\n\n• Lowry at 27 (2013-14): 17.9 PPG, 7.4 APG, 38.0% from three\n• Quickley at 27, first 8 games: 17.4 PPG, 5.8 APG\n• Lowry's first All-Star game came at 28, then 6 straight\n• Half a point apart at the same age\n\nLowry at 27 or Quickley at 27? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "LOWRY VS QUICKLEY",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "AGE 27",
+   "lines": [
+    [
+     "27",
+     "SAME AGE"
+    ]
+   ],
+   "vo": "Kyle Lowry wasn't an All-Star yet at twenty-seven. Immanuel Quickley is twenty-seven right now.",
+   "dlg": "LOWRY AT 27 VS|QUICKLEY AT 27."
+  },
+  {
+   "kind": "fire",
+   "head": "LOWRY AT 27",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "2013-14",
+   "lines": [
+    [
+     "17.9",
+     "PPG"
+    ],
+    [
+     "7.4",
+     "APG"
+    ]
+   ],
+   "vo": "Lowry at twenty-seven: seventeen point nine points and seven point four assists a night.",
+   "dlg": "LOWRY AT 27: 17.9 PPG,|7.4 APG."
+  },
+  {
+   "kind": "fire",
+   "head": "QUICKLEY AT 27",
+   "key": "p:4395724@TOR",
+   "name": "IQ",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "17.4",
+     "PPG"
+    ],
+    [
+     "5.8",
+     "APG"
+    ]
+   ],
+   "vo": "Immanuel Quickley at twenty-seven, through eight games: seventeen point four points and five point eight assists.",
+   "dlg": "QUICKLEY AT 27: 17.4 PPG,|5.8 APG."
+  },
+  {
+   "kind": "fire",
+   "head": "WHAT CAME NEXT",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "ALL-STAR",
+   "lines": [
+    [
+     "28",
+     "ALL-STAR AGE"
+    ],
+    [
+     "6",
+     "STRAIGHT"
+    ]
+   ],
+   "vo": "Half a point apart. Then at twenty-eight, Lowry made his first All-Star game, and kept going six years straight.",
+   "dlg": "AT 28, HIS FIRST ALL-STAR.|THEN 6 STRAIGHT."
+  },
+  {
+   "kind": "next",
+   "head": "WHO'S BETTER?",
+   "logo": "l:TOR",
+   "rec": "27",
+   "ntxt": "LOWRY OR",
+   "nday": "QUICKLEY?",
+   "vo": "Lowry at twenty-seven, or Immanuel Quickley at twenty-seven? Comment below.",
+   "dlg": "LOWRY OR QUICKLEY AT 27?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3012",
+   "season": "2013-14",
+   "stat": "PTS",
+   "value": 17.9
+  },
+  {
+   "player": "3012",
+   "season": "2013-14",
+   "stat": "AST",
+   "value": 7.4
+  },
+  {
+   "player": "3012",
+   "season": "2013-14",
+   "stat": "3P%",
+   "value": 38.0
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 17.4
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.8
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Lowry (born March 25, 1986) was 27 in the 2013-14 season; his first All-Star selection came in 2014-15 (age 28), and 2019-20 was his sixth straight (6) All-Star selection",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Lowry"
+  },
+  {
+   "claim": "Quickley (born June 17, 1999) is 27",
+   "source": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "team": "warriors",
+ "name": "webber",
+ "pace": "wolves",
+ "caption": "TRADE COURT, CASE #3: ROOKIE OF THE YEAR. GONE AFTER 1 SEASON 🎮🏀\n\n• 1993 draft night: we got Chris Webber, the No. 1 pick, from Orlando for Penny Hardaway and three future firsts\n• 1993-94: Webber was Rookie of the Year\n• He used a one-year escape clause, and we had to send him to Washington for Tom Gugliotta and three firsts\n\nWhat if Webber had stayed?\n\nYour verdict: comment W or L 👇\nCase #4 drops Sunday night. Follow so you don't miss it.",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "DRAFT NIGHT",
+   "key": "l:GSW",
+   "name": "WEBBER",
+   "badge": "TRADE COURT #3",
+   "lines": [
+    [
+     "1",
+     "PICK"
+    ],
+    [
+     "3",
+     "FIRSTS + PENNY"
+    ]
+   ],
+   "vo": "We traded Penny Hardaway and three first-round picks for one player: Chris Webber.",
+   "dlg": "PENNY AND THREE FIRSTS|FOR CHRIS WEBBER."
+  },
+  {
+   "kind": "fire",
+   "head": "YEAR ONE",
+   "key": "l:GSW",
+   "name": "WEBBER",
+   "badge": "1993-94",
+   "lines": [
+    [
+     "ROY",
+     "ROOKIE OF THE YEAR"
+    ]
+   ],
+   "vo": "And in year one, he was the NBA's Rookie of the Year.",
+   "dlg": "ROOKIE OF THE YEAR."
+  },
+  {
+   "kind": "fire",
+   "head": "GONE",
+   "key": "l:GSW",
+   "name": "WEBBER",
+   "badge": "1994",
+   "lines": [
+    [
+     "1",
+     "SEASON WITH US"
+    ]
+   ],
+   "vo": "Then he used an escape clause, and we had to trade him to Washington. One season.",
+   "dlg": "AN ESCAPE CLAUSE.|ONE SEASON. GONE."
+  },
+  {
+   "kind": "next",
+   "head": "THE VERDICT",
+   "logo": "l:GSW",
+   "rec": "W OR L?",
+   "ntxt": "CASE #4",
+   "nday": "SUNDAY",
+   "vo": "Did we win this trade? W or L. Case four, Sunday night.",
+   "dlg": "DID WE WIN THIS TRADE?|W OR L? CASE #4: SUNDAY NIGHT."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Chris Webber was the No. 1 overall (#1, 1st) pick of the 1993 NBA draft by Orlando, immediately traded to the Golden State Warriors for Penny Hardaway and three (3) future first-round picks. NBA Rookie of the Year for 1993-94. After one (1) season, he exercised a one-year escape clause and Golden State sent him to the Washington Bullets in a sign-and-trade for Tom Gugliotta and three first-round picks (1994). ESPN id 897.",
+   "source": "https://en.wikipedia.org/wiki/Chris_Webber"
+  }
+ ]
+}

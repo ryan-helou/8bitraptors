@@ -1,0 +1,303 @@
+{
+ "team": "raptors",
+ "name": "team_vince",
+ "record": "5-4",
+ "mode": "starters",
+ "caption": "IF THE VINSANITY ERA WERE POKÉMON 🎮🏀\n\n🔥 Vince Carter = Blaziken: clears a 30-story building in one leap. 27.6 a night in 2000-01\n🦎 Tracy McGrady = Grovyle: astounding jumps, and nobody catches a fleeing Grovyle. 1.9 blocks a night in 1999-00, then he left for Orlando\n🌊 Morris Peterson = Horsea: shoots down bugs with precision blasts of ink. 38.2% from three as a rookie\n🦈 Chris Bosh = Gible: get too close and it pounces. 7.4 boards a night as a rookie\n🗿 Loren Woods = Golurk: built to protect, follows orders faithfully. 4.9 boards a night\n\nThat's a team we're taking into any gym in the league. Who would you change? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "key": "p:136@TOR",
+   "mon": "pk:blaziken",
+   "nick": "CARTER",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "BLAZE",
+   "stat": "27.6 PPG"
+  },
+  {
+   "key": "p:532@TOR",
+   "mon": "pk:grovyle",
+   "nick": "MCGRADY",
+   "types": [
+    [
+     "GRASS",
+     "#78c850"
+    ]
+   ],
+   "label": "WOOD GECKO",
+   "stat": "1.9 BPG"
+  },
+  {
+   "key": "p:656@TOR",
+   "mon": "pk:horsea",
+   "nick": "MO PETE",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "DRAGON",
+   "stat": "38.2 3P%"
+  },
+  {
+   "key": "p:1977@TOR",
+   "mon": "pk:gible",
+   "nick": "BOSH",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "LAND SHARK",
+   "stat": "7.4 RPG"
+  },
+  {
+   "key": "p:1029@TOR",
+   "mon": "pk:golurk",
+   "nick": "WOODS",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "label": "AUTOMATON",
+   "stat": "4.9 RPG"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If the Vinsanity era were Pokemon,",
+   "dlg": "IF THE VINSANITY ERA|WERE MONSTERS..."
+  },
+  {
+   "kind": "p_intro",
+   "cont": true,
+   "vo": "here's the team.",
+   "dlg": "HERE'S THE TEAM!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "Vince Carter is Blaziken.",
+   "dlg": "GO! VINCE CARTER!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "fx": "poster",
+   "vo": "Its legs are so strong, it can clear a thirty-story building in one leap.",
+   "dlg": "IT CLEARS A 30-STORY|BUILDING IN ONE LEAP."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "That's Vinsanity. Twenty-seven point six a night in twenty oh one, a career high.",
+   "dlg": "VINSANITY IN 2000-01:|27.6 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "Tracy McGrady is Grovyle.",
+   "dlg": "GO! TRACY MCGRADY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "Its thigh muscles give it astounding jumping, and no Pokemon can catch a fleeing Grovyle.",
+   "dlg": "AMAZING JUMPS. NO ONE CAN|CATCH A FLEEING GROVYLE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "Vince's cousin, starting next to him. One point nine blocks a night... then he fled to Orlando.",
+   "dlg": "VINCE'S COUSIN:|1.9 BLOCKS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "Morris Peterson is Horsea.",
+   "dlg": "GO! MORRIS PETERSON!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "It shoots down flying bugs with precision blasts of ink.",
+   "dlg": "IT SHOOTS DOWN BUGS WITH|PRECISION BLASTS OF INK."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "Mo Pete as a rookie, starting next to Vince. Thirty-eight point two percent from three.",
+   "dlg": "MO PETE, ROOKIE YEAR:|38.2% FROM THREE!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "vo": "Chris Bosh is Gible.",
+   "dlg": "GO! CHRIS BOSH!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "Foes who get too close can expect to be pounced on and bitten.",
+   "dlg": "GET TOO CLOSE|AND IT POUNCES."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "stat": true,
+   "vo": "Bosh as a rookie: seven point four boards a night, leading all rookies in rebounds and blocks.",
+   "dlg": "BOSH, ROOKIE YEAR:|7.4 REBOUNDS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "vo": "And Loren Woods is Golurk.",
+   "dlg": "GO! LOREN WOODS!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "vo": "It was built to protect people, and it follows its master's orders faithfully.",
+   "dlg": "BUILT TO PROTECT. FOLLOWS|ORDERS FAITHFULLY."
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "stat": true,
+   "vo": "Seven-foot-one, starting at center next to Vince. Four point nine boards a night.",
+   "dlg": "7-FOOT-1 AT CENTER:|4.9 REBOUNDS A NIGHT!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a team we're taking into any gym in the league.",
+   "dlg": "A TEAM WE'RE TAKING INTO|ANY GYM IN THE LEAGUE."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who would you change? Comment below.",
+   "dlg": "WHO WOULD YOU CHANGE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "136",
+   "season": "2000-01",
+   "stat": "PTS",
+   "value": 27.6
+  },
+  {
+   "player": "532",
+   "season": "1999-00",
+   "stat": "BLK",
+   "value": 1.9
+  },
+  {
+   "player": "532",
+   "season": "1999-00",
+   "stat": "GS",
+   "value": 34
+  },
+  {
+   "player": "656",
+   "season": "2000-01",
+   "stat": "3P%",
+   "value": 38.2
+  },
+  {
+   "player": "656",
+   "season": "2000-01",
+   "stat": "GS",
+   "value": 49
+  },
+  {
+   "player": "1977",
+   "season": "2003-04",
+   "stat": "REB",
+   "value": 7.4
+  },
+  {
+   "player": "1977",
+   "season": "2003-04",
+   "stat": "GS",
+   "value": 63
+  },
+  {
+   "player": "1029",
+   "season": "2004-05",
+   "stat": "REB",
+   "value": 4.9
+  },
+  {
+   "player": "1029",
+   "season": "2004-05",
+   "stat": "GS",
+   "value": 30
+  },
+  {
+   "claim": "3P% = three-point (3) field goal percentage, as listed by ESPN",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3012/stats?seasontype=2"
+  },
+  {
+   "claim": "In 2000-01, his third season, Carter averaged a career-high 27.6 points per game",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "claim": "Carter and his second cousin once removed, Tracy McGrady, were teammates in Toronto 1998-2000; McGrady left in free agency to the Orlando Magic in August 2000",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "claim": "Peterson was selected 21st overall by the Raptors in the 2000 NBA draft and was a starter in the majority of their games during his first three seasons",
+   "source": "https://en.wikipedia.org/wiki/Morris_Peterson"
+  },
+  {
+   "claim": "Bosh as a rookie (2003-04): 11.5 points, 7.4 rebounds, 1.4 blocks, leading all rookies in rebounding and blocks",
+   "source": "https://en.wikipedia.org/wiki/Chris_Bosh"
+  },
+  {
+   "claim": "Loren Woods: listed height 7 ft 1 in (7-1); Toronto Raptors 2004-2006",
+   "source": "https://en.wikipedia.org/wiki/Loren_Woods"
+  },
+  {
+   "claim": "November 5, 2004: Raptors starters Chris Bosh, Loren Woods, Rafer Alston, Jalen Rose, Vince Carter",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=241105028"
+  },
+  {
+   "claim": "Blaziken flavor text: it can easily clear a 30-story building in one leap",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/blaziken"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

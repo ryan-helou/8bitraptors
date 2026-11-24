@@ -1,0 +1,190 @@
+{
+ "team": "raptors",
+ "name": "tr_shead",
+ "record": "5-4",
+ "caption": "IF JAMAL SHEAD WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n⚔️ Aegislash, sword and shield: Big 12 Player and Defensive Player of the Year in one season, the first ever to win both\n👻 Haunter, the trade: pick 45 to Sacramento, traded to us that same night\n🥚 Happiny, the giver: 307 assists as a rookie, 2nd most by a rookie in our history\n🐍 Steelix, the iron man: all 82 games last season\n🦅 Xatu, the vision: 16 assists in our win at Milwaukee\n🔥 Infernape, the ace: 6.6 assists a night through 9 games, and a new 3-year extension\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "SHEAD'S TEAM",
+   "key": "p:4432241@TOR",
+   "logo": "l:TOR",
+   "team": [
+    "pk:aegislash",
+    "pk:haunter",
+    "pk:happiny",
+    "pk:steelix",
+    "pk:xatu",
+    "pk:infernape"
+   ],
+   "vo": "If Jamal Shead was a trainer... this is his team.",
+   "dlg": "IF SHEAD WAS A TRAINER...|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "SHEAD'S TEAM",
+   "key": "p:4432241@TOR",
+   "mon": "pk:aegislash",
+   "name": "SWORD + SHIELD",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "species": "BOTH ENDS",
+   "callout": "POY + DPOY",
+   "vo": "First up, sword and shield. At Houston: Big Twelve Player of the Year and Defensive Player of the Year. The first ever to win both.",
+   "dlg": "SWORD AND SHIELD!|BIG 12 POY AND DPOY."
+  },
+  {
+   "kind": "mon",
+   "head": "SHEAD'S TEAM",
+   "key": "p:4432241@TOR",
+   "mon": "pk:haunter",
+   "name": "DRAFT TRADE",
+   "types": [
+    [
+     "GHOST",
+     "#705898"
+    ],
+    [
+     "POISON",
+     "#a040a0"
+    ]
+   ],
+   "species": "EVOLVES BY TRADE",
+   "callout": "PICK 45",
+   "vo": "Then the trade. Sacramento took him forty-fifth, and traded him to us that same night.",
+   "dlg": "PICK 45 TO SACRAMENTO...|TRADED TO US THAT NIGHT!"
+  },
+  {
+   "kind": "mon",
+   "head": "SHEAD'S TEAM",
+   "key": "p:4432241@TOR",
+   "mon": "pk:happiny",
+   "name": "THE GIVER",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "species": "SHARES IT ALL",
+   "callout": "307 AST",
+   "vo": "The giver. Three hundred seven assists as a rookie, second most by a rookie in our history.",
+   "dlg": "THE GIVER: 307 ASSISTS.|2ND-MOST BY OUR ROOKIES!"
+  },
+  {
+   "kind": "mon",
+   "head": "SHEAD'S TEAM",
+   "key": "p:4432241@TOR",
+   "mon": "pk:steelix",
+   "name": "IRON MAN",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "species": "NEVER SITS",
+   "callout": "82 GAMES",
+   "vo": "The iron man. Last season, he played all eighty-two games.",
+   "dlg": "THE IRON MAN:|ALL 82 GAMES LAST SEASON!"
+  },
+  {
+   "kind": "mon",
+   "head": "SHEAD'S TEAM",
+   "key": "p:4432241@TOR",
+   "mon": "pk:xatu",
+   "name": "THE VISION",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "species": "SEES THE PASS",
+   "callout": "16 AST",
+   "vo": "The vision. Sixteen assists in our win at Milwaukee.",
+   "dlg": "THE VISION:|16 ASSISTS AT MILWAUKEE!"
+  },
+  {
+   "kind": "mon",
+   "head": "SHEAD'S TEAM",
+   "key": "p:4432241@TOR",
+   "mon": "pk:infernape",
+   "name": "THE ACE",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "species": "OUR ENGINE",
+   "callout": "6.6 APG",
+   "vo": "And the ace. Our engine. Six point six assists a night through nine games, and a new three-year extension.",
+   "dlg": "THE ACE: OUR ENGINE.|6.6 ASSISTS, FIRST 9 GAMES"
+  },
+  {
+   "kind": "next",
+   "head": "SHEAD'S TEAM",
+   "logo": "l:TOR",
+   "rec": "#45",
+   "ntxt": "SHEAD",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4432241",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 82
+  },
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 6.6
+  },
+  {
+   "game": "401909292",
+   "player": "4432241",
+   "stat": "AST",
+   "value": 16
+  },
+  {
+   "claim": "2023-24 (Houston, Big 12): Big 12 Player of the Year and Defensive Player of the Year, the first player to win both awards in the same season; 2024 NBA draft: selected 45th overall by the Sacramento Kings, traded on draft night to Toronto; rookie year 307 total assists, second (2nd) among rookies in franchise history; appeared in all 82 games in 2025-26; October 1, 2026: three-year (3-year) contract extension",
+   "source": "https://en.wikipedia.org/wiki/Jamal_Shead"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

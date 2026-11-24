@@ -1,0 +1,245 @@
+{
+ "team": "warriors",
+ "name": "tr_iggy",
+ "record": "7-3",
+ "caption": "IF IGGY HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🦵 Hitmonlee: an awesome sense of balance. #9 pick in 2004, then All-Rookie First Team\n🌵 Ferrothorn: its steel spikes crush boulders. First year with us: All-Defensive First Team\n🎭 Mimikyu: nobody knows what's under its disguise. 0 starts in 2014-15, off our bench all season\n🛡️ Cobalion: its glare makes even unruly foes obey. First start of the season in the Finals, guarding LeBron. Finals MVP\n🐢 Torterra: smaller monsters build their nests on its back. Back with us for ring number 4 in 2022\n🦌 Xerneas: legends say it shares eternal life. His No. 9, retired by us in 2025\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Andre Iguodala had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF IGGY HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Hitmonlee. It has an awesome sense of balance, and can kick from any position. Ninth pick, then All-Rookie First Team.",
+   "dlg": "AN AWESOME SENSE OF|BALANCE. PICK 9!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Ferrothorn. A hit from its steel spikes can reduce a boulder to rubble. His first year with us: All-Defensive First Team.",
+   "dlg": "ITS STEEL SPIKES CRUSH|BOULDERS. ALL-D 1ST TEAM!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Mimikyu. Nobody knows what's really under its disguise. In twenty fifteen he came off our bench all season. Zero starts.",
+   "dlg": "NOBODY KNOWS WHAT'S UNDER|ITS DISGUISE. 0 STARTS."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Cobalion. Its glare alone makes even an unruly foe obey. His first start came in the Finals, on LeBron James. Finals MVP.",
+   "dlg": "ITS GLARE MAKES FOES OBEY.|ON LEBRON: FINALS MVP!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Torterra. Small monsters gather on its back to build their nests. He came back to us for one more run. Ring number four, in twenty twenty-two.",
+   "dlg": "OTHERS BUILD ON ITS BACK.|RING NUMBER 4 IN 2022!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Xerneas. Legends say it can share eternal life. We hung his number nine in the rafters forever.",
+   "dlg": "IT SHARES ETERNAL LIFE.|NO. 9, RETIRED FOREVER!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Iguodala: ninth (9) overall pick by the Philadelphia 76ers in 2004; NBA All-Rookie First Team (2005); acquired by Golden State in 2013; NBA All-Defensive First (1st) Team (2014), the 2013-14 season; in 2014-15 a reserve for the first time in his career; in the 2015 Finals he was the team's best defender against LeBron James and made his first start of the season in Game 4; 2015 Finals MVP; 4x NBA champion (2015, 2017, 2018, 2022), with Golden State again 2021-2023; Golden State retired his No. 9 jersey on February 23, 2025",
+   "source": "https://en.wikipedia.org/wiki/Andre_Iguodala"
+  },
+  {
+   "player": "2386",
+   "season": "2014-15",
+   "stat": "GS",
+   "value": 0
+  },
+  {
+   "claim": "Hitmonlee: an awesome sense of balance; it can kick in succession from any position",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/hitmonlee"
+  },
+  {
+   "claim": "Ferrothorn: a hit from these steel spikes can reduce a boulder to rubble",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/ferrothorn"
+  },
+  {
+   "claim": "Mimikyu: its actual appearance is unknown; it conceals itself beneath an old rag",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/mimikyu"
+  },
+  {
+   "claim": "Cobalion: its glare is sufficient to make even an unruly Pokemon obey it",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/cobalion"
+  },
+  {
+   "claim": "Torterra: small Pokemon occasionally gather on its unmoving back to begin building their nests",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/torterra"
+  },
+  {
+   "claim": "Xerneas: legends say it can share eternal life",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/xerneas"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:2386@GSW",
+   "mon": "pk:hitmonlee",
+   "nick": "HITMONLEE",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "ROOKIE",
+   "stat": "PICK 9"
+  },
+  {
+   "key": "p:2386@GSW",
+   "mon": "pk:ferrothorn",
+   "nick": "FERROTHORN",
+   "types": [
+    [
+     "GRASS",
+     "#78c850"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "LOCKDOWN",
+   "stat": "ALL-D 1ST"
+  },
+  {
+   "key": "p:2386@GSW",
+   "mon": "pk:mimikyu",
+   "nick": "MIMIKYU",
+   "types": [
+    [
+     "GHOST",
+     "#705898"
+    ],
+    [
+     "FAIRY",
+     "#ee99ac"
+    ]
+   ],
+   "label": "DISGUISED",
+   "stat": "0 STARTS"
+  },
+  {
+   "key": "p:2386@GSW",
+   "mon": "pk:cobalion",
+   "nick": "COBALION",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "FINALS MVP",
+   "stat": "VS LEBRON"
+  },
+  {
+   "key": "p:2386@GSW",
+   "mon": "pk:torterra",
+   "nick": "TORTERRA",
+   "types": [
+    [
+     "GRASS",
+     "#78c850"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "VETERAN",
+   "stat": "4 RINGS"
+  },
+  {
+   "key": "p:2386@GSW",
+   "mon": "pk:xerneas",
+   "nick": "XERNEAS",
+   "types": [
+    [
+     "FAIRY",
+     "#ee99ac"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "NO. 9"
+  }
+ ],
+ "mode": "trainer"
+}

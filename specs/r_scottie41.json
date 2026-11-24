@@ -1,0 +1,180 @@
+{
+ "team": "raptors",
+ "name": "scottie41",
+ "record": "5-4",
+ "caption": "41 AND 0 🎮🏀 Scottie Barnes scored 41 in one game this season. Five days earlier, he scored zero.\n\n• Vs Orlando: 41 points on 19-of-34 shooting, and we still lost\n• At Minnesota: 0 points, 0-for-12\n• At the Clippers: 22 points, 15 rebounds, 8 assists, a win\n• First 9 games: 24.2 PPG, 7.8 RPG, 5.0 APG, 2.1 SPG\n\nIs Scottie a top-15 player in the league? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "41 POINTS",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "VS ORLANDO",
+   "lines": [
+    [
+     "41",
+     "PTS"
+    ],
+    [
+     "19-34",
+     "FG"
+    ]
+   ],
+   "vo": "Scottie Barnes drops forty-one points on Orlando, on nineteen of thirty-four shooting... and we still lose.",
+   "dlg": "41 ON ORLANDO, 19-OF-34.|AND WE STILL LOSE."
+  },
+  {
+   "kind": "fire",
+   "head": "ZERO",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "AT MINNESOTA",
+   "lines": [
+    [
+     "0",
+     "PTS"
+    ],
+    [
+     "0-12",
+     "FG"
+    ]
+   ],
+   "vo": "Five days earlier, at Minnesota? Zero points. Oh for twelve.",
+   "dlg": "DAYS EARLIER AT MINNESOTA:|0 POINTS, 0-FOR-12."
+  },
+  {
+   "kind": "fire",
+   "head": "15 AND 8",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "AT CLIPPERS",
+   "lines": [
+    [
+     "15",
+     "REB"
+    ],
+    [
+     "8",
+     "AST"
+    ]
+   ],
+   "vo": "Then at the Clippers: twenty-two points, fifteen rebounds, eight assists, and a win.",
+   "dlg": "AT THE CLIPPERS: 22 PTS,|15 REB, 8 AST. WE WIN."
+  },
+  {
+   "kind": "fire",
+   "head": "FIRST 9 GAMES",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "24.2",
+     "PPG"
+    ],
+    [
+     "2.1",
+     "SPG"
+    ]
+   ],
+   "vo": "Through his first nine games: twenty-four point two points, seven point eight rebounds, five assists, and two point one steals a night.",
+   "dlg": "FIRST 9 GAMES: 24.2 PPG,|7.8 RPG, 2.1 STEALS."
+  },
+  {
+   "kind": "next",
+   "head": "TOP 15?",
+   "logo": "l:TOR",
+   "rec": "24.2",
+   "ntxt": "SCOTTIE",
+   "nday": "PPG",
+   "vo": "Is Scottie Barnes a top-fifteen player in the league? Comment below.",
+   "dlg": "IS SCOTTIE TOP 15?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401909281",
+   "player": "4433134",
+   "stat": "PTS",
+   "value": 41
+  },
+  {
+   "game": "401909281",
+   "player": "4433134",
+   "stat": "FG",
+   "value": "19-34"
+  },
+  {
+   "game": "401909281",
+   "score": "121-114"
+  },
+  {
+   "game": "401909864",
+   "player": "4433134",
+   "stat": "PTS",
+   "value": 0
+  },
+  {
+   "game": "401909864",
+   "player": "4433134",
+   "stat": "FG",
+   "value": "0-12"
+  },
+  {
+   "game": "401909920",
+   "player": "4433134",
+   "stat": "PTS",
+   "value": 22
+  },
+  {
+   "game": "401909920",
+   "player": "4433134",
+   "stat": "REB",
+   "value": 15
+  },
+  {
+   "game": "401909920",
+   "player": "4433134",
+   "stat": "AST",
+   "value": 8
+  },
+  {
+   "game": "401909920",
+   "score": "125-118"
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 24.2
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 7.8
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.0
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 2.1
+  },
+  {
+   "claim": "Barnes: 0 points (0-12) at Minnesota on Oct 25, 2026 and 41 points vs Orlando on Oct 30, 2026: five days apart",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433134/gamelog"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "team": "raptors",
+ "name": "champs",
+ "l1": "2019 CHAMPS. ONE PICK...",
+ "q": "WHO'S YOUR GUY?",
+ "boxA": "2019 RAPTORS",
+ "boxB": "NBA CHAMPIONS",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: 2019 CHAMPS 🎮🏆 Kawhi's taken. Who's your guy from our title team?\n\n1️⃣ Pascal Siakam, two-way: 16.9 PPG, 2019 Most Improved, 32 in Finals Game 1\n2️⃣ Fred VanVleet, shooter: 22 points and 5 threes in the Game 6 clincher\n3️⃣ Marc Gasol, anchor: 2013 DPOY, 3x All-Star, 2019 champ\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "3149673",
+   "name": "SIAKAM",
+   "full": "PASCAL SIAKAM",
+   "jersey": "43",
+   "type": "TWO-WAY",
+   "season": "RAPTORS 2018-19",
+   "stats": [
+    [
+     "16.9",
+     "PPG"
+    ],
+    [
+     "MIP",
+     "2019"
+    ],
+    [
+     "32",
+     "PTS G1"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "2991230",
+   "name": "FRED",
+   "full": "FRED VANVLEET",
+   "jersey": "23",
+   "type": "SHOOTER",
+   "season": "RAPTORS 2018-19",
+   "stats": [
+    [
+     "22",
+     "PTS G6"
+    ],
+    [
+     "5",
+     "3S IN G6"
+    ],
+    [
+     "1",
+     "TITLE"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3206",
+   "name": "GASOL",
+   "full": "MARC GASOL",
+   "jersey": "33",
+   "type": "ANCHOR",
+   "season": "RAPTORS 2018-19",
+   "stats": [
+    [
+     "DPOY",
+     "2013"
+    ],
+    [
+     "3X",
+     "ALL-STAR"
+    ],
+    [
+     "1",
+     "TITLE"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ]
+}

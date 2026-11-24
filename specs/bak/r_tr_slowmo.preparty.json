@@ -1,0 +1,162 @@
+{
+ "team": "raptors",
+ "name": "tr_slowmo",
+ "record": "5-4",
+ "caption": "IF KYLE ANDERSON WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n🐌 Slowpoke, Slow-Mo: his nickname since 8th grade, for his deliberate pace\n🪄 Alakazam, the magician: his high school coach called him a modern-day Magic Johnson\n🐉 Hydreigon, the triple threat: 13 points, 12 rebounds, 11 assists in one UCLA game\n🐱 Meowth, the pickpocket: 6 steals in one playoff game, a Memphis record\n🌊 Lapras, the traveler: 7 franchises counting us, plus China at the 2023 World Cup\n👑 Slowking, the ace: a 6-9 point guard with a 7-3 wingspan, now ours\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "SLOW-MO'S TEAM",
+   "key": "p:2993874@TOR",
+   "logo": "l:TOR",
+   "team": [
+    "pk:slowpoke",
+    "pk:alakazam",
+    "pk:hydreigon",
+    "pk:meowth",
+    "pk:lapras",
+    "pk:slowking"
+   ],
+   "vo": "If Kyle Anderson was a trainer... this is his team.",
+   "dlg": "IF SLOW-MO WAS A TRAINER,|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "SLOW-MO'S TEAM",
+   "key": "p:2993874@TOR",
+   "mon": "pk:slowpoke",
+   "name": "SLOW-MO",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "species": "TAKES ITS TIME",
+   "callout": "SINCE GRADE 8",
+   "vo": "First up, the nickname. He plays so deliberately, he's been Slow-Mo since eighth grade.",
+   "dlg": "FIRST UP: SLOW-MO!|THE NAME SINCE GRADE 8."
+  },
+  {
+   "kind": "mon",
+   "head": "SLOW-MO'S TEAM",
+   "key": "p:2993874@TOR",
+   "mon": "pk:alakazam",
+   "name": "THE MAGICIAN",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "species": "BENDS DEFENSES",
+   "callout": "MODERN MAGIC",
+   "vo": "The magician. His high school coach called him a modern-day Magic Johnson.",
+   "dlg": "THE MAGICIAN:|A MODERN-DAY MAGIC JOHNSON"
+  },
+  {
+   "kind": "mon",
+   "head": "SLOW-MO'S TEAM",
+   "key": "p:2993874@TOR",
+   "mon": "pk:hydreigon",
+   "name": "TRIPLE THREAT",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "species": "THREE HEADS",
+   "callout": "TRIPLE-DOUBLE",
+   "vo": "The three-headed one. At UCLA: thirteen points, twelve rebounds, eleven assists in one night.",
+   "dlg": "THREE HEADS, ONE PLAYER:|13 PTS, 12 REB, 11 AST!"
+  },
+  {
+   "kind": "mon",
+   "head": "SLOW-MO'S TEAM",
+   "key": "p:2993874@TOR",
+   "mon": "pk:meowth",
+   "name": "PICKPOCKET",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "species": "STEALS COINS",
+   "callout": "6 STEALS",
+   "vo": "The pickpocket. Six steals in one playoff game, a Memphis franchise record.",
+   "dlg": "THE PICKPOCKET:|6 PLAYOFF STEALS, A RECORD"
+  },
+  {
+   "kind": "mon",
+   "head": "SLOW-MO'S TEAM",
+   "key": "p:2993874@TOR",
+   "mon": "pk:lapras",
+   "name": "THE TRAVELER",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "species": "CROSSES OCEANS",
+   "callout": "7 FRANCHISES",
+   "vo": "The traveler. Seven franchises counting us, and the World Cup with China's national team.",
+   "dlg": "THE TRAVELER: 7 TEAMS,|AND CHINA'S WORLD CUP TEAM"
+  },
+  {
+   "kind": "mon",
+   "head": "SLOW-MO'S TEAM",
+   "key": "p:2993874@TOR",
+   "mon": "pk:slowking",
+   "name": "THE ACE",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "species": "SLOW GENIUS",
+   "callout": "7-3 WINGSPAN",
+   "vo": "And the ace. Slow, but a genius. Six-nine, a seven-three wingspan, running the point. Now he's ours.",
+   "dlg": "THE ACE: SLOW GENIUS.|6-9, 7-3 WINGSPAN, OURS!"
+  },
+  {
+   "kind": "next",
+   "head": "SLOW-MO'S TEAM",
+   "logo": "l:TOR",
+   "rec": "#30",
+   "ntxt": "SLOW-MO",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Anderson nicknamed Slow Mo after his deliberate style, a nickname earned in eighth (8th) grade in AAU; high school coach Bob Hurley: 'I think he's a modern-day Magic Johnson'; November 22, 2013 at UCLA: 13 points, 12 rebounds, 11 assists (triple-double) vs Morehead State; 2021 playoff opener at Utah: Memphis franchise single-game playoff record six (6) steals; franchises: Spurs, Grizzlies, Timberwolves, Warriors, Heat, Jazz, Raptors (7); Chinese citizenship, played for China at the 2023 FIBA World Cup; standing 6 feet 9 inches (6-9) with a 7 feet 3 inches (7-3) wingspan, ran the offense as point guard; 2014 NBA draft 30th overall pick (#30)",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Anderson_(basketball)"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

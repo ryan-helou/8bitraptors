@@ -1,0 +1,154 @@
+{
+ "team": "raptors",
+ "name": "lowrymiami",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "WHAT DID LOWRY GET US? 🎮🏀 Kyle Lowry left us in a sign-and-trade. Look what it turned into.\n\n• Lowry's last season with us (2020-21): 17.2 PPG, 7.3 APG\n• Aug 6, 2021: sign-and-trade to Miami for Goran Dragic (5 games with us) and Precious Achiuwa\n• Dec 30, 2023: Achiuwa goes to New York in the OG trade that brings us RJ Barrett and Immanuel Quickley\n• RJ, first 12 games: 21.3 PPG. IQ, 10 games: 17.6 PPG\n• July 7, 2026: Lowry signs a one-day deal to retire with us\n\nLetting Lowry go: right call or mistake? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "WHAT DID LOWRY GET US?",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "TO MIAMI",
+   "lines": [
+    [
+     "2021",
+     "AUG 6"
+    ]
+   ],
+   "vo": "Kyle Lowry left for Miami in a sign-and-trade. What we got back helped land RJ Barrett and Immanuel Quickley.",
+   "dlg": "KYLE LOWRY LEAVES|FOR MIAMI."
+  },
+  {
+   "kind": "fire",
+   "head": "LAST YEAR HERE",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "6X ALL-STAR",
+   "lines": [
+    [
+     "17.2",
+     "PPG"
+    ],
+    [
+     "7.3",
+     "APG"
+    ]
+   ],
+   "vo": "His last season with us: seventeen point two points and seven point three assists a night.",
+   "dlg": "LAST SEASON WITH US:|17.2 PPG, 7.3 APG."
+  },
+  {
+   "kind": "fire",
+   "head": "THE RETURN",
+   "key": "p:4431679@TOR",
+   "name": "PRECIOUS",
+   "badge": "SIGN-AND-TRADE",
+   "lines": [
+    [
+     "5",
+     "DRAGIC GP"
+    ]
+   ],
+   "vo": "Back came Goran Dragic, who played five games for us, and a young big man named Precious Achiuwa.",
+   "dlg": "BACK: GORAN DRAGIC|AND PRECIOUS ACHIUWA."
+  },
+  {
+   "kind": "fire",
+   "head": "THE CHAIN",
+   "key": "p:4395625@TOR",
+   "name": "RJ",
+   "badge": "OUR GUYS",
+   "lines": [
+    [
+     "21.3",
+     "RJ PPG"
+    ],
+    [
+     "17.6",
+     "IQ PPG"
+    ]
+   ],
+   "vo": "In twenty twenty-three, Achiuwa went to New York in the OG trade that brought us RJ and Immanuel Quickley. RJ's at twenty-one point three through twelve games.",
+   "dlg": "ACHIUWA HELPS LAND US|RJ AND IQ."
+  },
+  {
+   "kind": "fire",
+   "head": "COMING HOME",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "ONE-DAY DEAL",
+   "lines": [
+    [
+     "JULY 7",
+     "2026"
+    ]
+   ],
+   "vo": "And on July seventh, Lowry signed a one-day contract to retire with us.",
+   "dlg": "JULY 7, 2026: LOWRY|RETIRES AS ONE OF US."
+  },
+  {
+   "kind": "next",
+   "head": "RIGHT CALL?",
+   "logo": "l:TOR",
+   "rec": "2021",
+   "ntxt": "LOWRY",
+   "nday": "TO MIAMI",
+   "vo": "Letting Lowry go: right call, or mistake? Comment below.",
+   "dlg": "RIGHT CALL OR MISTAKE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3012",
+   "season": "2020-21",
+   "stat": "PTS",
+   "value": 17.2
+  },
+  {
+   "player": "3012",
+   "season": "2020-21",
+   "stat": "AST",
+   "value": 7.3
+  },
+  {
+   "player": "3423",
+   "season": "2021-22",
+   "stat": "GP",
+   "value": 5
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.3
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 12
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 17.6
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "claim": "On August 6, 2021 (Aug 6) Miami signed Lowry via a sign-and-trade with the Raptors for Goran Dragic and Precious Achiuwa; NBA All-Star 2015-2020 (6x); 2020-21 his final year in Toronto; on July 7, 2026 he signed a one-day contract to retire with the Raptors",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Lowry"
+  },
+  {
+   "claim": "On December 30, 2023 (Dec 30) Achiuwa was traded with OG Anunoby and Malachi Flynn to the Knicks for RJ Barrett, Immanuel Quickley and a second-round pick",
+   "source": "https://en.wikipedia.org/wiki/Precious_Achiuwa"
+  }
+ ]
+}

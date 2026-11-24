@@ -1,0 +1,176 @@
+{
+ "team": "raptors",
+ "name": "tr_quickley",
+ "record": "5-4",
+ "caption": "IF QUICKLEY WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n😴 Snorlax, the sleeper: the 25th pick\n⚡ Jolteon, the spark plug: 2nd in Sixth Man of the Year voting\n🗡️ Bisharp, the dagger: buzzer-beating three, 97-96 over Charlotte\n🎯 Alakazam, the sharpshooter: 40 points on 11-of-13, the most efficient 40 ever\n🐧 Empoleon, the playmaker: 5.8 assists a night through 8 games\n🥷 Greninja, the ace: quick by name, 17.4 points a night through 8 games\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "QUICKLEY'S TEAM",
+   "key": "p:4395724@TOR",
+   "logo": "l:TOR",
+   "team": [
+    "pk:snorlax",
+    "pk:jolteon",
+    "pk:bisharp",
+    "pk:alakazam",
+    "pk:empoleon",
+    "pk:greninja"
+   ],
+   "vo": "If Immanuel Quickley was a trainer... this is his team.",
+   "dlg": "IF QUICKLEY WAS A TRAINER|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "QUICKLEY'S TEAM",
+   "key": "p:4395724@TOR",
+   "mon": "pk:snorlax",
+   "name": "THE SLEEPER",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "species": "LATE PICK",
+   "callout": "25TH PICK",
+   "vo": "First up, the sleeper. Twenty-four players went before him in the draft.",
+   "dlg": "THE SLEEPER:|THE 25TH PICK!"
+  },
+  {
+   "kind": "mon",
+   "head": "QUICKLEY'S TEAM",
+   "key": "p:4395724@TOR",
+   "mon": "pk:jolteon",
+   "name": "SPARK PLUG",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "species": "OFF THE BENCH",
+   "callout": "6MOY RUNNER-UP",
+   "vo": "The spark plug. Off the bench, second in Sixth Man of the Year voting.",
+   "dlg": "THE SPARK PLUG:|2ND IN SIXTH MAN VOTING!"
+  },
+  {
+   "kind": "mon",
+   "head": "QUICKLEY'S TEAM",
+   "key": "p:4395724@TOR",
+   "mon": "pk:bisharp",
+   "name": "THE DAGGER",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "species": "BUZZER BLADE",
+   "callout": "97-96 WIN",
+   "vo": "The dagger. A three at the buzzer to beat Charlotte by one.",
+   "dlg": "THE DAGGER: AT THE BUZZER.|A THREE TO WIN 97-96!"
+  },
+  {
+   "kind": "mon",
+   "head": "QUICKLEY'S TEAM",
+   "key": "p:4395724@TOR",
+   "mon": "pk:alakazam",
+   "name": "SHARPSHOOTER",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "species": "NEVER MISSES",
+   "callout": "40 ON 11-OF-13",
+   "vo": "The sharpshooter. Forty points on eleven of thirteen shooting. The most efficient forty ever.",
+   "dlg": "THE SHARPSHOOTER:|40 ON 11-OF-13 SHOOTING!"
+  },
+  {
+   "kind": "mon",
+   "head": "QUICKLEY'S TEAM",
+   "key": "p:4395724@TOR",
+   "mon": "pk:empoleon",
+   "name": "PLAYMAKER",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "species": "LEADS THE LINE",
+   "callout": "5.8 APG",
+   "vo": "The playmaker. Five point eight assists a night through eight games.",
+   "dlg": "THE PLAYMAKER:|5.8 ASSISTS, 8 GAMES IN!"
+  },
+  {
+   "kind": "mon",
+   "head": "QUICKLEY'S TEAM",
+   "key": "p:4395724@TOR",
+   "mon": "pk:greninja",
+   "name": "THE ACE",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "species": "QUICK BY NAME",
+   "callout": "17.4 PPG",
+   "vo": "And the ace. Quick by name, quick by nature. Seventeen point four a night.",
+   "dlg": "THE ACE: QUICK BY NAME.|17.4 POINTS A NIGHT!"
+  },
+  {
+   "kind": "next",
+   "head": "QUICKLEY'S TEAM",
+   "logo": "l:TOR",
+   "rec": "#25",
+   "ntxt": "QUICKLEY",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 17.4
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.8
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Quickley was drafted with the 25th overall pick (#25) in 2020; finished second (2nd) in the voting for the Sixth Man of the Year Award (6MOY) in 2023; January 7, 2026: buzzer-beating three-point shot for a 97-96 victory over the Charlotte Hornets; January 20, 2026: 40 points on 11-of-13 shooting in a 145-127 win over Golden State, described as the most efficient 40-point game in league history",
+   "source": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

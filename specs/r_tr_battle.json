@@ -1,0 +1,223 @@
+{
+ "team": "raptors",
+ "name": "tr_battle",
+ "record": "5-4",
+ "caption": "IF JAMISON BATTLE HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🏹 Decidueye: fires arrow quills from its wings, and its shots never miss. 89 threes as a George Washington freshman, a school record\n🐟 Magikarp: called the weakest Pokémon, but it survives anywhere. Undrafted in 2024, we signed him anyway\n💦 Blastoise: the water cannons on its shell are pinpoint accurate. 24 points at New Orleans, 6-of-8 from three\n🐲 Bagon: dreams of flying, so it leaps off cliffs every day. From a two-way deal to a standard 3-year contract\n❄️ Froslass: freezes its foes with icy breath. 14 points, all in the 4th quarter, no misses, in our playoff win over Cleveland\n🐉 Gyarados: what Magikarp evolves into, and its rampages don't stop. 42.1% from three through 9 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Jamison Battle had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF BATTLE HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Decidueye. It fires arrow quills from its wings, and its shots never miss. As a George Washington freshman: eighty-nine threes, a school record.",
+   "dlg": "ITS ARROWS NEVER MISS.|89 THREES, A SCHOOL RECORD"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Magikarp. Everyone calls it the weakest Pokemon, but it survives anywhere. Undrafted in twenty twenty-four. We signed him anyway.",
+   "dlg": "CALLED WEAK. IT SURVIVES.|UNDRAFTED IN 2024. SIGNED!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Blastoise. The water cannons on its shell are pinpoint accurate. Twenty-four points at New Orleans, six of eight from three.",
+   "dlg": "PINPOINT WATER CANNONS.|24 POINTS, 6 OF 8 FROM 3!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Bagon. It dreams of flying, so it leaps off cliffs every day. From a two-way contract to a full three-year deal.",
+   "dlg": "IT DREAMS OF FLYING.|TWO-WAY TO A 3-YEAR DEAL!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Froslass. It freezes its foes with icy breath. Playoffs, Game three against Cleveland: fourteen points, all in the fourth, no misses.",
+   "dlg": "IT FREEZES ITS FOES.|14 IN THE 4TH, NO MISSES"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Gyarados. Magikarp evolves into this, and once it rampages, it doesn't stop. Forty-two point one percent from three through nine games.",
+   "dlg": "THE MAGIKARP, EVOLVED.|42.1% 3PT, FIRST 9 GAMES"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4431893",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4431893",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 42.1
+  },
+  {
+   "claim": "Freshman at George Washington: program single-season record 89 three-pointers; undrafted in the 2024 NBA draft, signed by Toronto July 16, 2024, converted to a two-way contract; November 27: career-high 24 points, 6-of-8 three-pointers, road win at New Orleans; February 7, 2025: converted into a standard three-year (3-year) contract; April 23, 2026, Game 3 of the first round vs Cleveland: 14 points, all in the fourth (4th) quarter, perfect shooting, 126-104 win",
+   "source": "https://en.wikipedia.org/wiki/Jamison_Battle"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:4431893@TOR",
+   "mon": "pk:decidueye",
+   "nick": "DECIDUEYE",
+   "types": [
+    [
+     "GRASS",
+     "#78c850"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "label": "THE ARCHER",
+   "stat": "89 THREES"
+  },
+  {
+   "key": "p:4431893@TOR",
+   "mon": "pk:magikarp",
+   "nick": "MAGIKARP",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "OVERLOOKED",
+   "stat": "UNDRAFTED"
+  },
+  {
+   "key": "p:4431893@TOR",
+   "mon": "pk:blastoise",
+   "nick": "BLASTOISE",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "THE CANNONS",
+   "stat": "24 PTS"
+  },
+  {
+   "key": "p:4431893@TOR",
+   "mon": "pk:bagon",
+   "nick": "BAGON",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "label": "THE DREAMER",
+   "stat": "3-YEAR DEAL"
+  },
+  {
+   "key": "p:4431893@TOR",
+   "mon": "pk:froslass",
+   "nick": "FROSLASS",
+   "types": [
+    [
+     "ICE",
+     "#58b8d0"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "label": "ICE COLD",
+   "stat": "14 IN THE 4TH"
+  },
+  {
+   "key": "p:4431893@TOR",
+   "mon": "pk:gyarados",
+   "nick": "GYARADOS",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "42.1% 3PT"
+  }
+ ],
+ "mode": "trainer"
+}

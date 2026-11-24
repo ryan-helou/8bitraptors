@@ -1,0 +1,125 @@
+{
+ "team": "raptors",
+ "name": "poll2_shooter",
+ "l1": "ONE SHOT TO WIN...",
+ "q": "WHO'S YOUR SHOOTER?",
+ "boxA": "SHOOTERS",
+ "boxB": "FREE THROWS OR THREES",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: SHOOTER 🎮🏀 Free throws or threes, the game's on the line. Who's shooting for us?\n\n1️⃣ José Calderón, automatic: 98.1% from the line in 2008-09, an NBA record, #1 in our history at 87.7%\n2️⃣ Danny Green, sniper: 45.5% from three in 2018-19 (#2 in our history), 1 title\n3️⃣ Jamison Battle, today: 40.8% from three with us (#9 in our history), 41.2% last season\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "2806",
+   "name": "CALDERON",
+   "full": "JOSE CALDERON",
+   "jersey": "8",
+   "type": "AUTOMATIC",
+   "season": "RAPTORS 2005-2013",
+   "stats": [
+    [
+     "98.1",
+     "FT%"
+    ],
+    [
+     "NBA",
+     "RECORD"
+    ],
+    [
+     "#1",
+     "ALL-TIME"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3988",
+   "name": "GREEN",
+   "full": "DANNY GREEN",
+   "jersey": "14",
+   "type": "SNIPER",
+   "season": "RAPTORS 2018-19",
+   "stats": [
+    [
+     "45.5",
+     "3P%"
+    ],
+    [
+     "#2",
+     "ALL-TIME"
+    ],
+    [
+     "1",
+     "TITLE"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "4431893",
+   "name": "BATTLE",
+   "full": "JAMISON BATTLE",
+   "jersey": "77",
+   "type": "SHOOTER",
+   "season": "RAPTORS 2024-NOW",
+   "stats": [
+    [
+     "40.8",
+     "3P%"
+    ],
+    [
+     "#9",
+     "ALL-TIME"
+    ],
+    [
+     "41.2",
+     "LAST YR"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "player": "2806",
+   "season": "2008-09",
+   "stat": "FT%",
+   "value": 98.1
+  },
+  {
+   "claim": "Calderon set an NBA record for highest free-throw percentage in a season, 98.1% in 2008-09; Toronto Raptors 2005-2013",
+   "source": "https://en.wikipedia.org/wiki/José_Calderón_(basketball)"
+  },
+  {
+   "claim": "Raptors career leaders: free throw pct #1 Jose Calderon .877 (87.7%); 3-pt pct #2 Danny Green .455 (45.5%), #9 Jamison Battle .408 (40.8%)",
+   "source": "https://www.basketball-reference.com/teams/TOR/leaders_career.html"
+  },
+  {
+   "claim": "Calderon wore #8 for Toronto",
+   "source": "https://www.basketball-reference.com/players/c/calderjo01.html"
+  },
+  {
+   "player": "3988",
+   "season": "2018-19",
+   "stat": "3P%",
+   "value": 45.5
+  },
+  {
+   "claim": "Danny Green: Toronto Raptors 2018-2019, NBA champion 2019 (1 title with us); wore #14",
+   "source": "https://www.basketball-reference.com/players/g/greenda02.html"
+  },
+  {
+   "claim": "Jamison Battle: undrafted 2024, Toronto Raptors 2024-present",
+   "source": "https://en.wikipedia.org/wiki/Jamison_Battle"
+  },
+  {
+   "claim": "Battle wears #77 for Toronto",
+   "source": "https://www.basketball-reference.com/players/b/battlja01.html"
+  },
+  {
+   "player": "4431893",
+   "season": "2025-26",
+   "stat": "3P%",
+   "value": 41.2
+  }
+ ]
+}

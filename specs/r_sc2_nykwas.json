@@ -1,0 +1,515 @@
+{
+ "team": "raptors",
+ "name": "sc2_nykwas",
+ "template": "fmt_sc2.html",
+ "music": "sc134",
+ "duck_bridge": true,
+ "duck_depth": 0.9,
+ "cps": 40,
+ "voice_eq": "bright",
+ "pace": "wolves",
+ "tts_speed": 1.3,
+ "minp": 0.38,
+ "record": "5-10",
+ "caption": "WE LOST BOTH. BY 13 POINTS TOTAL. 🦖 The shot chart says we've got work to do before the Pistons.\n\n🗓️ TUE 11/17: Knicks 111, Raptors 102 · WED 11/18: Wizards 103, Raptors 99\n🎯 2 games: our opponents made 77 shots, we made 78\n🧾 Tuesday was lost on the glass: 44 rebounds to 23\n🔥 Jamison Battle Wednesday: 19 PTS, 5 of 10 from three\n⏱️ Down 3 with 22 seconds left: Ja'Kobe Walter had just scored, AJ Dybantsa lost it out of bounds, Jamison Battle's three to tie missed\n\nThe 3 fixes:\n1️⃣ Free throws: they made 37 in 2 games, we made 17\n2️⃣ The rim: 12 of 25 on Wednesday\n3️⃣ 4th quarters: 39 points in 2, after leading both games through 3\n\nThe Pistons are 10-4, 3rd in the East at +90, and we haven't played them yet. We're 5-10, 9th in the East. Next: Pistons, FRI 11/20 · 7:30 PM ET.\n\nWhich fix matters most against Detroit?",
+ "beats": [
+  {
+   "kind": "sc2_hall",
+   "cfg": {
+    "us": "l:TOR",
+    "them": [
+     "l:NY",
+     "l:WSH"
+    ],
+    "usc": "#c2204c",
+    "themc": "#284885"
+   },
+   "full": true,
+   "pal": "pink",
+   "ban": "l:NY",
+   "plate": "LOST BOTH. BY 13 TOTAL.",
+   "faces": [
+    {
+     "pk": "p:4684272",
+     "nm": "WALTER"
+    },
+    {
+     "pk": "p:4431893",
+     "nm": "BATTLE"
+    }
+   ],
+   "wm": "l:WSH",
+   "scores": [
+    "TUE 102-111",
+    "WED 99-103"
+   ],
+   "dlg": "WE LOST BOTH GAMES.|BY 13 POINTS. TOTAL.",
+   "vo": "We lost both games this week, by thirteen points total."
+  },
+  {
+   "kind": "sc2_hall",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_title",
+   "sb": [
+    0,
+    2
+   ],
+   "sbl": [
+    "l:NY",
+    "l:WSH"
+   ],
+   "head2": "2-GAME SHOT CHART",
+   "chip": "3 THINGS TO FIX",
+   "dlg": "THE 2-GAME SHOT CHART|+ 3 THINGS TO FIX.",
+   "vo": "Here's the two game shot chart, and the three things we have to fix before the Pistons."
+  },
+  {
+   "kind": "sc2_title",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_zones",
+   "sb": [
+    0,
+    2
+   ],
+   "sbl": [
+    "l:NY",
+    "l:WSH"
+   ],
+   "tz": [
+    {
+     "z": "RIM",
+     "v": "34/47"
+    },
+    {
+     "z": "PAINT",
+     "v": "12/23"
+    },
+    {
+     "z": "MIDRANGE",
+     "v": "8/22"
+    },
+    {
+     "z": "CORNER 3",
+     "v": "3/17"
+    },
+    {
+     "z": "3 PT",
+     "v": "20/48"
+    }
+   ],
+   "uz": [
+    {
+     "z": "RIM",
+     "v": "27/45"
+    },
+    {
+     "z": "PAINT",
+     "v": "18/37"
+    },
+    {
+     "z": "MIDRANGE",
+     "v": "5/17"
+    },
+    {
+     "z": "CORNER 3",
+     "v": "10/26"
+    },
+    {
+     "z": "3 PT",
+     "v": "18/45"
+    }
+   ],
+   "tfoot": "OPP: 77/157 FG",
+   "ufoot": "TOR: 78/170 FG",
+   "dlg": "OPPONENTS: 77 MADE.",
+   "dlg2": "OPPONENTS: 77 MADE.|US: 78 MADE.",
+   "vo": "Our opponents made seventy seven shots, we made seventy eight."
+  },
+  {
+   "kind": "sc2_zones",
+   "pad": true,
+   "hold": 0.68,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_bars",
+   "sb": [
+    102,
+    111
+   ],
+   "sbl": "l:NY",
+   "head2": "TUE 11/17: 102-111",
+   "card": {
+    "title": "REBOUNDS",
+    "rows": [
+     {
+      "l": "l:NY",
+      "v": 44
+     },
+     {
+      "l": "l:TOR",
+      "v": 23,
+      "us": true
+     }
+    ]
+   },
+   "dlg": "TUE: THE GLASS.|44 REBOUNDS TO 23.",
+   "vo": "Tuesday, the Knicks won the glass, forty four rebounds to twenty three."
+  },
+  {
+   "kind": "sc2_bars",
+   "pad": true,
+   "hold": 0.56,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_dots",
+   "sb": [
+    99,
+    103
+   ],
+   "sbl": "l:WSH",
+   "shots": "nc+oa.wH+HV+Pc+uU.wE.sV+kf.",
+   "chips": [
+    "3PT: 5/10"
+   ],
+   "pk": "p:4431893",
+   "dlg": "WED: JAMISON BATTLE.|5 THREES. 19 POINTS.",
+   "vo": "Wednesday, Jamison Battle hit five threes and scored nineteen."
+  },
+  {
+   "kind": "sc2_dots",
+   "pad": true,
+   "hold": 0.82,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_moment",
+   "sb": [
+    99,
+    102
+   ],
+   "sbl": "l:WSH",
+   "chip": "0:22 TURNOVER",
+   "faces": [
+    {
+     "pk": "p:4684272",
+     "nm": "WALTER",
+     "tg": ""
+    },
+    {
+     "pk": "p:5142718",
+     "nm": "DYBANTSA",
+     "tg": "TURNOVER"
+    },
+    {
+     "pk": "p:4431893",
+     "nm": "BATTLE",
+     "tg": ""
+    }
+   ],
+   "dlg": "DOWN 3, 0:22 LEFT.|TURNOVER. MISSED 3.",
+   "vo": "Down three, twenty two seconds left."
+  },
+  {
+   "kind": "sc2_moment",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_moment",
+   "more": true,
+   "vo": "Dybantsa lost it out of bounds, and Battle missed a three to tie."
+  },
+  {
+   "kind": "sc2_moment",
+   "pad": true,
+   "hold": 1.08,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "head": "NOW THE FIXES",
+   "headB": "FIX 1 OF 3: FREE THROWS",
+   "lg": "them",
+   "dlg": "NOW THE FIXES.",
+   "dlg2": "1: FREE THROWS.|THEM 37 MADE, US 17.",
+   "vo": "Now the fixes."
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "more": true,
+   "vo": "One, free throws."
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "head": "FIX 1 OF 3: FREE THROWS",
+   "lg": "them",
+   "clu": {
+    "shots": "ZT+aS+YS+ZS+bT+XS+aU+YT+YU+XS+ZS+aS+ZS+bT+ZU+YS+ZT+YT+ZS+bS+XT+aU+ZU+aT+ZT+YT+YT+bU+ZU+ZS+YU+YT+YU+aS+YT+ZT+aU+YS.ZU.YS.ZU.ZU.ZS.aT.YS.aS.",
+    "side": "them"
+   },
+   "card": {
+    "title": "FREE THROWS MADE, 2 GAMES",
+    "rows": [
+     {
+      "l": [
+       "l:NY",
+       "l:WSH"
+      ],
+      "v": 37
+     },
+     {
+      "l": "l:TOR",
+      "v": 17,
+      "us": true
+     }
+    ]
+   },
+   "dlg": "1: FREE THROWS.|THEM 37 MADE, US 17.",
+   "dcont": true,
+   "vo": "Our opponents hit thirty seven, we hit seventeen."
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "head": "FIX 2 OF 3: THE RIM",
+   "lg": "us",
+   "late": true,
+   "dlg": "2: THE RIM.|WED: 12 OF 25.",
+   "vo": "Two.",
+   "card": {
+    "title": "WED 11/18 AT THE RIM: MADE / TRIED",
+    "mode": "ma",
+    "rows": [
+     {
+      "l": "l:TOR",
+      "m": 12,
+      "a": 25,
+      "us": true
+     },
+     {
+      "l": "l:WSH",
+      "m": 16,
+      "a": 24
+     }
+    ]
+   }
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "more": true,
+   "vo": "The rim."
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "more": true,
+   "vo": "Wednesday, we went twelve for twenty five."
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "head": "FIX 3 OF 3: 4TH QUARTERS",
+   "lg": "us",
+   "late": true,
+   "dlg": "3: 39 PTS IN TWO 4THS.|NO BARNES OR BARRETT.",
+   "vo": "Three.",
+   "big": {
+    "title": "OUR 4TH QUARTER POINTS, 2 GAMES",
+    "v": 39
+   },
+   "face": "p:4433134"
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "more": true,
+   "vo": "Thirty nine fourth quarter points, after leading both through three."
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_hall",
+   "pal": "blue",
+   "ban": "l:DET",
+   "pills": [
+    "DET 10-4",
+    "+90 DIFF"
+   ],
+   "ped": "l:DET",
+   "ul": true,
+   "dlg": "PISTONS: 10-4.|3RD IN THE EAST, +90.",
+   "vo": "The Pistons are ten and four, plus ninety."
+  },
+  {
+   "kind": "sc2_hall",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_hall",
+   "more": true,
+   "vo": "We haven't played them yet."
+  },
+  {
+   "kind": "sc2_hall",
+   "pad": true,
+   "hold": 1.637,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_hall",
+   "pal": "blue",
+   "ban": "l:DET",
+   "ped": "l:DET",
+   "ul": true,
+   "stand": {
+    "title": "EAST STANDINGS",
+    "rows": [
+     [
+      "8. ORL 6-8",
+      false
+     ],
+     [
+      "9. TOR 5-10",
+      true
+     ],
+     [
+      "10. IND 5-10",
+      false
+     ]
+    ]
+   },
+   "dlg": "WE'RE 5-10, 9TH EAST.|PISTONS ON FRIDAY.",
+   "vo": "We're five and ten, ninth in the East."
+  },
+  {
+   "kind": "sc2_hall",
+   "pad": true,
+   "hold": 0.44,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_hall",
+   "pal": "blue",
+   "ban": "l:DET",
+   "ped": "l:DET",
+   "ul": true,
+   "stand": {
+    "title": "EAST STANDINGS",
+    "rows": [
+     [
+      "8. ORL 6-8",
+      false
+     ],
+     [
+      "9. TOR 5-10",
+      true
+     ],
+     [
+      "10. IND 5-10",
+      false
+     ]
+    ]
+   },
+   "cont": true,
+   "dcont": true,
+   "date": {
+    "txt": "FRI 11/20, 7:30 PM ET"
+   },
+   "dlg": "WE'RE 5-10, 9TH EAST.|PISTONS ON FRIDAY.",
+   "vo": "Two losses, plenty of tape, Pistons on Friday."
+  },
+  {
+   "kind": "sc2_hall",
+   "pad": true,
+   "hold": 0.38,
+   "vo": ""
+  }
+ ],
+ "facts": [
+  {
+   "game": "401910002",
+   "score": "111-102"
+  },
+  {
+   "game": "401910012",
+   "score": "103-99"
+  },
+  {
+   "game": "401910012",
+   "player": "4431893",
+   "stat": "PTS",
+   "value": "19"
+  },
+  {
+   "game": "401910012",
+   "player": "4431893",
+   "stat": "FG",
+   "value": "7-15"
+  },
+  {
+   "game": "401910012",
+   "player": "4431893",
+   "stat": "3PT",
+   "value": "5-10"
+  },
+  {
+   "claim": "TUE 11/17: TOR 102, NY 111 (https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401910002). Box: TOR FG 39-78, 3PT 14-35, FT 10-18, REB 23, TO 6, points conceded off turnovers 11; NY FG 41-78, 3PT 12-35, FT 17-19, REB 44. Linescore TOR 29 21 33 19, NY 23 31 26 31. WED 11/18: TOR 99, WSH 103 (https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401910012). Box: TOR FG 39-92, 3PT 14-36, FT 7-14, REB 41, TO 8, points conceded off turnovers 7; WSH FG 36-79, 3PT 11-30, FT 20-27, REB 51. Linescore TOR 23 24 32 20, WSH 29 20 29 25. Two games combined (box score): TOR FG 78-170, opponents FG 77-157. Zones from the play-by-play shot logs, both games: TOR RIM 27/45, PAINT 18/37, MIDRANGE 5/17, CORNER 3 10/26, 3 PT 18/45; opponents RIM 34/47, PAINT 12/23, MIDRANGE 8/22, CORNER 3 3/17, 3 PT 20/48. ESPN standings (https://site.api.espn.com/apis/v2/sports/basketball/nba/standings): TOR 5-10, 9 in the East; DET 10-4, 3 in the East, point differential +90. East seeds 8-10: 8. ORL 6-8, 9. TOR 5-10, 10. IND 5-10. ESPN schedule: next game TOR at DET, Fri 11/20 7:30 PM ET (event 401909308). No earlier meeting this season. Play-by-play, 4th quarter: 27.0 Ja'Kobe Walter makes driving layup (Jamal Shead assists) (score TOR 99, WSH 102); 21.9 AJ Dybantsa out of bounds lost ball turnover; 3.0 Jamison Battle misses 27-foot three point jumper. Down 3 with 22 seconds left; final 99-103. Free throws, both games (box score): TOR 17-32, opponents 37-46. WED 11/18 play-by-play shot log, within 5 ft of the rim: TOR 12/25, WSH 16/24. Linescores: after three quarters TOR led both games (83-80, 79-78); 4th quarters TOR 19 + 20 = 39, opponents 56. Did not play (no line in the ESPN box score): athlete 4433134, athlete 4395625 in WED 11/18. Two-game record 0-2, total margin 9 + 4 = 13. The fixes are numbered 1 of 3 to 3 of 3 on screen. Portraits are ESPN athlete ids from the box scores: Ja'Kobe Walter 4684272, Jamison Battle 4431893, AJ Dybantsa 5142718.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401910002"
+  }
+ ]
+}

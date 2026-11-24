@@ -1,0 +1,90 @@
+{
+ "team": "raptors",
+ "name": "casey",
+ "pace": "wolves",
+ "record": "59-23",
+ "caption": "WE FIRED THE COACH OF THE YEAR 🎮🏀\n\n• 2017-18: 59-23, a franchise record, and the No. 1 seed in the East for the first time\n• Then Cleveland swept us, 0-4, in the second round\n• May 11, 2018: we fired Dwane Casey\n• June 25, 2018: he was named NBA Coach of the Year\n• June 14, 2018: we promoted assistant Nick Nurse. In his first season, we won the 2019 title\n\nRight call? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "59 WINS",
+   "key": "l:TOR",
+   "name": "CASEY",
+   "badge": "2017-18",
+   "lines": [
+    [
+     "59-23",
+     "RECORD"
+    ],
+    [
+     "0-4",
+     "VS CLEVELAND"
+    ]
+   ],
+   "vo": "We won fifty-nine games. Then Cleveland swept us. So we fired our coach.",
+   "dlg": "59 WINS. SWEPT BY CLEVELAND.|SO WE FIRED THE COACH."
+  },
+  {
+   "kind": "fire",
+   "head": "45 DAYS LATER",
+   "key": "l:TOR",
+   "name": "CASEY",
+   "badge": "JUNE 25, 2018",
+   "lines": [
+    [
+     "45",
+     "DAYS LATER"
+    ]
+   ],
+   "vo": "Forty-five days later, Dwane Casey was named Coach of the Year.",
+   "dlg": "45 DAYS LATER:|NBA COACH OF THE YEAR."
+  },
+  {
+   "kind": "fire",
+   "head": "THE NEW GUY",
+   "key": "l:TOR",
+   "name": "NURSE",
+   "badge": "JUNE 14, 2018",
+   "lines": [
+    [
+     "1ST",
+     "SEASON"
+    ],
+    [
+     "2019",
+     "NBA CHAMPS"
+    ]
+   ],
+   "vo": "We promoted his assistant, Nick Nurse. In his first season, we won the title.",
+   "dlg": "WE PROMOTED NICK NURSE.|YEAR ONE: CHAMPIONS."
+  },
+  {
+   "kind": "next",
+   "head": "RIGHT CALL?",
+   "logo": "l:TOR",
+   "rec": "59-23",
+   "ntxt": "FIRE HIM",
+   "nday": "OR KEEP HIM?",
+   "vo": "Was firing the Coach of the Year the right call? Comment below.",
+   "dlg": "FIRE HIM OR KEEP HIM?|COMMENT BELOW."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "2017-18 Raptors: 59-23, a franchise record for wins (59), first time as the 1st seed (No. 1) in the East; lost to the Cleveland Cavaliers 0-4 in the Conference Semifinals (second round).",
+   "source": "https://en.wikipedia.org/wiki/2017%E2%80%9318_Toronto_Raptors_season"
+  },
+  {
+   "claim": "On May 11, 2018, Casey was fired as the Raptors' head coach; he won NBA Coach of the Year at the 2018 NBA Awards on June 25, 2018, 45 days later.",
+   "source": "https://en.wikipedia.org/wiki/Dwane_Casey"
+  },
+  {
+   "claim": "2018 NBA Awards held June 25, 2018; NBA Coach of the Year: Dwane Casey, Toronto Raptors.",
+   "source": "https://en.wikipedia.org/wiki/2018_NBA_Awards"
+  },
+  {
+   "claim": "On June 14, 2018, the Raptors promoted assistant Nick Nurse to head coach; he won the 2019 NBA championship in his 1st (first) season (head coach 2018-2022).",
+   "source": "https://en.wikipedia.org/wiki/Nick_Nurse"
+  }
+ ]
+}

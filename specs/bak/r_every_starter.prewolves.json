@@ -1,0 +1,204 @@
+{
+ "team": "raptors",
+ "name": "every_starter",
+ "record": "5-4",
+ "caption": "IF OUR RAPTORS CORE FIVE WERE POKÉMON 🎮🏀\n\n🧬 Mew: it can learn any move. Scottie Barnes, 23.5 points a night through 8 games\n🐂 Tauros: once it starts running, it won't stop. RJ Barrett, Toronto-born, 21.6 points a night through 9 games\n🥷 Ninjask: so fast it was long believed invisible. Immanuel Quickley, 5.8 assists a night through 8 games\n🐼 Pangoro: charges in like a berserker. Collin Murray-Boyles, 5.0 rebounds in 22.1 minutes a night\n😴 Snorlax: keeps eating even in its sleep. Jakob Poeltl, 61.1% from the field through 7 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If our core five were Pokemon, here's the team.",
+   "dlg": "IF OUR CORE FIVE|WERE MONSTERS..."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "Scottie Barnes is Mew. Its DNA holds the code of every Pokemon, so it can learn any move. So can Scottie. Twenty-three point five a night through eight games.",
+   "dlg": "MEW CAN LEARN ANY MOVE.|23.5 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "RJ Barrett is Tauros. Once it starts running, it won't stop until it hits something. Our Toronto-born bull, twenty-one point six a night through nine games.",
+   "dlg": "TAUROS CHARGES HEADLONG.|21.6 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Immanuel Quickley is Ninjask. It moves so fast it was long believed to be invisible. Quick by name, and five point eight assists a night through eight games.",
+   "dlg": "TOO FAST TO SEE.|5.8 ASSISTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Collin Murray-Boyles is Pangoro. It charges in like a berserker and doesn't care what hits it takes. Our bruiser: five boards a night in just twenty-two minutes.",
+   "dlg": "BASHES LIKE A BERSERKER.|5.0 REBOUNDS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Jakob Poeltl is Snorlax. It keeps eating even while it's asleep. Poeltl just eats around the rim: sixty-one percent from the field through seven games.",
+   "dlg": "IT EATS EVEN IN ITS SLEEP.|61.1% FROM THE FIELD!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.6
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.8
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 5.0
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 22.1
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 61.1
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 7
+  },
+  {
+   "claim": "Barrett was born in Toronto",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:4433134@TOR",
+   "mon": "pk:mew",
+   "nick": "MEW",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "POINT FORWARD",
+   "stat": "23.5 PPG"
+  },
+  {
+   "key": "p:4395625@TOR",
+   "mon": "pk:tauros",
+   "nick": "TAUROS",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "SCORING WING",
+   "stat": "21.6 PPG"
+  },
+  {
+   "key": "p:4395724@TOR",
+   "mon": "pk:ninjask",
+   "nick": "NINJASK",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "POINT GUARD",
+   "stat": "5.8 APG"
+  },
+  {
+   "key": "p:5093267@TOR",
+   "mon": "pk:pangoro",
+   "nick": "PANGORO",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "POWER FORWARD",
+   "stat": "5.0 RPG"
+  },
+  {
+   "key": "p:3134908@TOR",
+   "mon": "pk:snorlax",
+   "nick": "SNORLAX",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "CENTER",
+   "stat": "61.1 FG%"
+  }
+ ],
+ "mode": "starters"
+}

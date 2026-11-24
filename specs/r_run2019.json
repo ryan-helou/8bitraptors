@@ -1,0 +1,21 @@
+{"team": "raptors", "name": "run2019", "record": "58-24",
+ "caption": "THE 2019 RUN 🎮🏆 From a trade nobody was sure about to the first title in franchise history.\n\n• July 2018: DeRozan for Kawhi\n• 58-24, 2nd in the East\n• Round 1: Magic in 5\n• Round 2: THE SHOT. Game 7 vs Philly, 4 bounces, 92-90\n• East Finals: down 0-2 to the Bucks, then 4 straight\n• Finals: Warriors in 6, 114-110 at Oracle\n• Kawhi: Finals MVP\n\nBest Raptors moment ever? 👇",
+ "beats": [
+  {"kind": "fire", "head": "THE 2019 RUN", "key": "p:6450@TOR", "name": "KAWHI", "badge": "THE TRADE", "lines": [["2018", "FOR DEMAR DEROZAN"]],
+   "vo": "July 2018. The Raptors trade DeMar DeRozan for Kawhi Leonard, with one year left on his deal.", "dlg": "JULY 2018: THE RAPTORS|TRADE FOR KAWHI LEONARD."},
+  {"kind": "trainer", "head": "TRAINER CARD", "tag": "2018-19", "reveal": true, "chip": "2ND IN EAST", "games": [],
+   "vo": "The Raptors finish fifty-eight and twenty-four. Second in the East.", "dlg": "58-24.|SECOND IN THE EAST."},
+  {"kind": "gym", "head": "ROUND 1: MAGIC", "logo": "l:ORL", "ocol": "auto:ORL", "rec": "4-1", "chip": "ROUND 1", "me": true, "line": "RAPTORS IN 5",
+   "vo": "Round one: Orlando. Gone in five.", "dlg": "ROUND 1: ORLANDO.|GONE IN FIVE."},
+  {"kind": "fire", "head": "THE SHOT", "key": "p:6450@TOR", "name": "KAWHI", "badge": "GAME 7", "lines": [["92-90", "AT THE BUZZER"], ["41 PTS", "FOUR BOUNCES"]],
+   "vo": "Round two. Game seven against Philly, tied with four seconds left. Kawhi, from the corner... four bounces... and in.", "dlg": "GAME 7 VS PHILLY. TIED...|4 BOUNCES... AND IN!"},
+  {"kind": "gym", "head": "EAST FINALS: BUCKS", "logo": "l:MIL", "ocol": "auto:MIL", "rec": "0-2", "chip": "DOWN 0-2", "me": true, "line": "WON IN 6",
+   "vo": "East finals: Milwaukee. Down oh and two... then four straight wins.", "dlg": "DOWN 0-2 TO THE BUCKS...|THEN 4 STRAIGHT WINS!"},
+  {"kind": "final", "head": "THE FINALS", "oname": "WARRIORS", "logo": "l:GSW", "ocol": "auto:GSW", "my": 114, "th": 110, "win": true,
+   "vo": "The Finals: Golden State. Game six, at Oracle. One fourteen, one ten.", "dlg": "GAME 6 AT ORACLE:|114-110!"},
+  {"kind": "trainer", "head": "CHAMPIONS!", "tag": "2019", "reveal": true, "chip": "NBA CHAMPS",
+   "games": [{"logo": "l:ORL", "w": 1}, {"logo": "l:PHI", "w": 1}, {"logo": "l:MIL", "w": 1}, {"logo": "l:GSW", "w": 1}],
+   "vo": "Four badges. One championship. And Kawhi, Finals MVP.", "dlg": "4 BADGES. 1 TITLE.|KAWHI: FINALS MVP."},
+  {"kind": "next", "head": "WE THE NORTH", "logo": "l:TOR", "rec": "2019", "ntxt": "NBA CHAMPS", "nday": "FIRST TITLE",
+   "vo": "Best Raptors moment ever? Comment below.", "dlg": "BEST RAPTORS MOMENT EVER?|COMMENT BELOW!"}
+ ]}

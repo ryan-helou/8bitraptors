@@ -1,0 +1,255 @@
+{
+ "team": "raptors",
+ "name": "every_starter",
+ "record": "5-4",
+ "mode": "starters",
+ "caption": "IF OUR STARTING FIVE WERE POKÉMON 🎮🏀\n\n🧠 PG Immanuel Quickley = Alakazam: the Pokédex says its IQ is 5,000. Ours just goes by IQ. 5.6 assists a night\n🐢 SG Ja'Kobe Walter = Wartortle: say it fast. 2.3 threes and 11.1 points a night\n🐂 SF RJ Barrett = Tauros: once it starts running, it won't stop. 21.3 a night\n🧬 PF Scottie Barnes = Mew: learns every move, does it all. 23.5 a night\n😴 C Jakob Poeltl = Snorlax: blocks the road, nobody gets past. 61.7% from the field\n\nWho would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "key": "p:4395724@TOR",
+   "mon": "pk:alakazam",
+   "nick": "QUICKLEY",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "IQ",
+   "stat": "5.6 APG",
+   "pos": "PG"
+  },
+  {
+   "key": "p:4684272@TOR",
+   "mon": "pk:wartortle",
+   "nick": "WALTER",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "SAY IT FAST",
+   "stat": "11.1 PPG",
+   "pos": "SG"
+  },
+  {
+   "key": "p:4395625@TOR",
+   "mon": "pk:tauros",
+   "nick": "BARRETT",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "DOWNHILL",
+   "stat": "21.3 PPG",
+   "pos": "SF"
+  },
+  {
+   "key": "p:4433134@TOR",
+   "mon": "pk:mew",
+   "nick": "BARNES",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "DOES IT ALL",
+   "stat": "23.5 PPG",
+   "pos": "PF"
+  },
+  {
+   "key": "p:3134908@TOR",
+   "mon": "pk:snorlax",
+   "nick": "POELTL",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "THE WALL",
+   "stat": "61.7 FG%",
+   "pos": "C"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If our starting five were Pokemon, who'd be who?",
+   "dlg": "IF OUR STARTING FIVE|WERE POKEMON..."
+  },
+  {
+   "kind": "p_intro",
+   "cont": true,
+   "vo": "Here's the party.",
+   "dlg": "HERE'S THE PARTY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "Point guard. Immanuel Quickley is Alakazam.",
+   "dlg": "POINT GUARD:|IMMANUEL QUICKLEY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "vo": "The Pokedex says its I Q is five thousand. Ours just goes by I Q.",
+   "dlg": "ITS IQ IS 5,000.|OURS GOES BY IQ."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "Five point six assists a night.",
+   "dlg": "5.6 ASSISTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "Shooting guard. Jah-Kobe Walter is War-tortle.",
+   "dlg": "SHOOTING GUARD:|JA'KOBE WALTER!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "Say it fast. Walter. War-tortle.",
+   "dlg": "SAY IT FAST:|WALTER. WARTORTLE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "Two point three made threes and eleven point one points a night.",
+   "dlg": "2.3 THREES, 11.1 POINTS|A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "Small forward. RJ Barrett is Tauros.",
+   "dlg": "SMALL FORWARD:|RJ BARRETT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "Once it starts running, it won't stop until it hits something. That's RJ going downhill.",
+   "dlg": "ONCE IT STARTS RUNNING,|IT WON'T STOP."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "Twenty-one point three a night.",
+   "dlg": "21.3 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "fx": "aura",
+   "vo": "Power forward. Scottie Barnes is Mew.",
+   "dlg": "POWER FORWARD:|SCOTTIE BARNES!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "fx": "aura",
+   "vo": "Mew can learn every move in the game. Scottie does it all.",
+   "dlg": "MEW CAN LEARN EVERY MOVE.|SCOTTIE DOES IT ALL."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "fx": "aura",
+   "stat": true,
+   "vo": "Our franchise. Twenty-three point five a night.",
+   "dlg": "OUR FRANCHISE:|23.5 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "vo": "Center. Jakob Poeltl is Snorlax.",
+   "dlg": "CENTER:|JAKOB POELTL!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "vo": "In the games, Snorlax blocks the road. Nobody gets past.",
+   "dlg": "SNORLAX BLOCKS THE ROAD.|NOBODY GETS PAST."
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "stat": true,
+   "vo": "Sixty-one point seven percent from the field.",
+   "dlg": "61.7% FROM THE FIELD!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we're taking into any gym.",
+   "dlg": "A PARTY WE'RE TAKING|INTO ANY GYM."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who would you swap in?",
+   "dlg": "WHO WOULD YOU SWAP IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.6
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 11.1
+  },
+  {
+   "claim": "Walter makes 2.3 threes per game in 2026-27 (3PT 2.4-6.7)",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4684272/stats?seasontype=2"
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.3
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 61.7
+  },
+  {
+   "claim": "Our five most frequent starters in 2026-27: Barrett (9 starts), Barnes (8), Quickley (8), Walter (7), Poeltl (6)",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4684272/stats?seasontype=2"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  },
+  {
+   "claim": "Alakazam Pokédex (Red): 'Its intelligence quotient is said to be 5,000.'",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/alakazam"
+  }
+ ],
+ "full_party": true
+}

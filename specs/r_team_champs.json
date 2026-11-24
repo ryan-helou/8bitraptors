@@ -1,0 +1,283 @@
+{
+ "team": "raptors",
+ "name": "team_champs",
+ "record": "5-4",
+ "mode": "starters",
+ "caption": "IF OUR 2019 CHAMPIONSHIP STARTERS WERE POKÉMON 🎮🏀\n\n🐼 Kyle Lowry = Pangoro: charges ahead, uncaring about any hits it takes. 8.7 assists a night\n🎯 Danny Green = Remoraid: its ability is Sniper, superb accuracy. 45.5% from three\n✂️ Kawhi Leonard = Scizor: steel pincers, not easily fazed. 30.5 a night in the playoffs, Finals MVP\n🌀 Pascal Siakam = Excadrill: the Drill King, bores through steel. 16.9 a night and Most Improved Player\n🧠 Marc Gasol = Metagross: four brains, smarter than a supercomputer. 38.2% from three in the playoffs\n\nThat's a team we're taking into any gym in the league. Who would you change? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "key": "p:3012@TOR",
+   "mon": "pk:pangoro",
+   "nick": "LOWRY",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "DAUNTING",
+   "stat": "8.7 APG"
+  },
+  {
+   "key": "p:3988@TOR",
+   "mon": "pk:remoraid",
+   "nick": "GREEN",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "JET",
+   "stat": "45.5 3P%"
+  },
+  {
+   "key": "p:6450@TOR",
+   "mon": "pk:scizor",
+   "nick": "LEONARD",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "PINCER",
+   "stat": "30.5 PPG"
+  },
+  {
+   "key": "p:3149673@TOR",
+   "mon": "pk:excadrill",
+   "nick": "SIAKAM",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "SUBTERRENE",
+   "stat": "16.9 PPG"
+  },
+  {
+   "key": "p:3206@TOR",
+   "mon": "pk:metagross",
+   "nick": "GASOL",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "IRON LEG",
+   "stat": "38.2 3P%"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If our twenty nineteen championship starters were Pokemon,",
+   "dlg": "IF OUR 2019 CHAMPIONSHIP|STARTERS WERE MONSTERS..."
+  },
+  {
+   "kind": "p_intro",
+   "cont": true,
+   "vo": "here's the team.",
+   "dlg": "HERE'S THE TEAM!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "Kyle Lowry is Pangoro.",
+   "dlg": "GO! KYLE LOWRY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "vo": "It charges ahead like a berserker, uncaring about any hits it might take.",
+   "dlg": "IT CHARGES AHEAD,|UNCARING ABOUT ANY HITS."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "That's Lowry. He'd go on to become the league's leader in charges drawn since they started tracking it. Eight point seven assists a night in our title year.",
+   "dlg": "THE CHARGE KING:|8.7 ASSISTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "Danny Green is Remoraid.",
+   "dlg": "GO! DANNY GREEN!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "Its ability is Sniper. It has superb accuracy, and can hit moving prey from more than three hundred feet.",
+   "dlg": "ITS ABILITY: SNIPER.|SUPERB ACCURACY."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "Danny Green lets it fly. Forty-five point five percent from three.",
+   "dlg": "DANNY GREEN LETS IT FLY:|45.5% FROM THREE!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "Kawhi Leonard is Scizor.",
+   "dlg": "GO! KAWHI LEONARD!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "Its steel pincers crush anything they grab, and its body is not easily fazed.",
+   "dlg": "STEEL PINCERS.|NOT EASILY FAZED."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "That's the Claw. Thirty point five points a night in the playoffs, and Finals MVP.",
+   "dlg": "THE CLAW IN THE PLAYOFFS:|30.5 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "vo": "Pascal Siakam is Excadrill.",
+   "dlg": "GO! PASCAL SIAKAM!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "Known as the Drill King, it forms a drill that can bore through a steel plate, no matter how thick.",
+   "dlg": "THE DRILL KING. IT BORES|THROUGH STEEL PLATES."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "stat": true,
+   "vo": "That's the Siakam spin, drilling to the rim. Sixteen point nine a night, and Most Improved Player.",
+   "dlg": "THE SIAKAM SPIN:|16.9 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "fx": "aura",
+   "vo": "And Marc Gasol is Metagross.",
+   "dlg": "GO! MARC GASOL!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "fx": "aura",
+   "vo": "It has four brains, and together its brains beat a supercomputer.",
+   "dlg": "FOUR BRAINS. SMARTER THAN|A SUPERCOMPUTER."
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "fx": "aura",
+   "stat": true,
+   "vo": "Our big man spacing the floor. Thirty-eight point two percent from three in the playoffs.",
+   "dlg": "BIG MARC IN THE PLAYOFFS:|38.2% FROM THREE!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a team we're taking into any gym in the league.",
+   "dlg": "A TEAM WE'RE TAKING INTO|ANY GYM IN THE LEAGUE."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who would you change? Comment below.",
+   "dlg": "WHO WOULD YOU CHANGE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3012",
+   "season": "2018-19",
+   "stat": "AST",
+   "value": 8.7
+  },
+  {
+   "player": "3988",
+   "season": "2018-19",
+   "stat": "3P%",
+   "value": 45.5
+  },
+  {
+   "player": "6450",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 30.5,
+   "type": "playoffs"
+  },
+  {
+   "player": "3149673",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 16.9
+  },
+  {
+   "player": "3206",
+   "season": "2018-19",
+   "stat": "3P%",
+   "value": 38.2,
+   "type": "playoffs"
+  },
+  {
+   "claim": "3P% = three-point (3) field goal percentage, as listed by ESPN",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3012/stats?seasontype=2"
+  },
+  {
+   "claim": "Our starters in the title-clinching Game 6 of the 2019 Finals: Danny Green, Kawhi Leonard, Pascal Siakam, Marc Gasol, Kyle Lowry",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401134820"
+  },
+  {
+   "claim": "Leonard, nicknamed the Claw; NBA champion and Finals MVP in 2019 with the Raptors",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "On Dec. 19, 2021, Lowry drew the 252nd charge of his career, making him the NBA's charges drawn leader for the play-by-play era",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Lowry"
+  },
+  {
+   "claim": "Excadrill, known as the Drill King, forms a drill that can bore through a steel plate",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/excadrill"
+  },
+  {
+   "claim": "Siakam: NBA Most Improved Player in 2019, the first to win the award and an NBA title in the same season",
+   "source": "https://en.wikipedia.org/wiki/Pascal_Siakam"
+  },
+  {
+   "claim": "Remoraid's abilities include Sniper; flavor text: superb accuracy, can strike moving prey from more than 300 feet",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/remoraid"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

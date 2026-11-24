@@ -1,0 +1,167 @@
+{
+ "team": "raptors",
+ "name": "poll_bench",
+ "l1": "OFF THE BENCH...",
+ "q": "WHO'S YOUR SIXTH MAN?",
+ "boxA": "BENCH MOB",
+ "boxB": "PICK OUR SIXTH MAN",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: SIXTH MAN 🎮🏀 Starters need a breather. Who's the first guy we bring off the bench?\n\n1️⃣ Lou Williams, bucket getter: 15.5 PPG with 0 starts in 2014-15, 2015 Sixth Man of the Year\n2️⃣ Fred VanVleet, undrafted shooter: 41.4% from three with 0 starts in 2017-18\n3️⃣ Jamal Shead, today: 6.6 APG and 1.4 SPG through 9 games (1 start) this season\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "2799",
+   "name": "LOU",
+   "full": "LOU WILLIAMS",
+   "jersey": "23",
+   "type": "BUCKETS",
+   "season": "RAPTORS 2014-15",
+   "stats": [
+    [
+     "15.5",
+     "PPG"
+    ],
+    [
+     "0",
+     "STARTS"
+    ],
+    [
+     "2015",
+     "6TH MAN"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "2991230",
+   "name": "FRED",
+   "full": "FRED VANVLEET",
+   "jersey": "23",
+   "type": "SHOOTER",
+   "season": "RAPTORS 2017-18",
+   "stats": [
+    [
+     "8.6",
+     "PPG"
+    ],
+    [
+     "41.4",
+     "3P%"
+    ],
+    [
+     "0",
+     "STARTS"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "4432241",
+   "name": "SHEAD",
+   "full": "JAMAL SHEAD",
+   "jersey": "1",
+   "type": "PEST",
+   "season": "2026-27",
+   "stats": [
+    [
+     "6.6",
+     "APG"
+    ],
+    [
+     "1.4",
+     "SPG"
+    ],
+    [
+     "86.7",
+     "FT%"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "player": "2799",
+   "season": "2014-15",
+   "stat": "PTS",
+   "value": 15.5
+  },
+  {
+   "player": "2799",
+   "season": "2014-15",
+   "stat": "GS",
+   "value": 0
+  },
+  {
+   "claim": "Lou Williams: played for Toronto 2014-2015; NBA Sixth Man (6th Man) of the Year 2015",
+   "source": "https://en.wikipedia.org/wiki/Lou_Williams"
+  },
+  {
+   "claim": "Lou Williams wore #23 for Toronto (2015)",
+   "source": "https://www.basketball-reference.com/players/w/willilo02.html"
+  },
+  {
+   "player": "2991230",
+   "season": "2017-18",
+   "stat": "PTS",
+   "value": 8.6
+  },
+  {
+   "player": "2991230",
+   "season": "2017-18",
+   "stat": "3P%",
+   "value": 41.4
+  },
+  {
+   "player": "2991230",
+   "season": "2017-18",
+   "stat": "GS",
+   "value": 0
+  },
+  {
+   "claim": "VanVleet went undrafted in the 2016 NBA draft and signed with Toronto",
+   "source": "https://en.wikipedia.org/wiki/Fred_VanVleet"
+  },
+  {
+   "claim": "VanVleet wore #23 for Toronto",
+   "source": "https://www.basketball-reference.com/players/v/vanvlfr01.html"
+  },
+  {
+   "claim": "Fred VanVleet is 2nd in Raptors career 3-pt field goals (1000)",
+   "source": "https://www.basketball-reference.com/teams/TOR/leaders_career.html"
+  },
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 6.6
+  },
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 1.4
+  },
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "FT%",
+   "value": 86.7
+  },
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "GS",
+   "value": 1
+  },
+  {
+   "claim": "Jamal Shead wears No. 1 for the Toronto Raptors (#1 in 2026-27)",
+   "source": "https://en.wikipedia.org/wiki/Jamal_Shead"
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "team": "raptors",
+ "name": "martin27",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "38 PICKED BEFORE HIM 🎮🏀 2.2 points a game as a rookie. Then 27 at Milwaukee.\n\n• 2025 draft: we take Alijah Martin at #39, on a two-way deal\n• College: Final Four with Florida Atlantic, NCAA champion with Florida in 2025\n• 2025-26 with us: 23 games, 2.2 PPG\n• At Milwaukee: 27 points, 9-of-11, 6-of-7 from three, a 121-107 win\n• In his 9 games this season: 5.8 PPG in 11.1 minutes\n\nOne big night or a real rotation guy? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "38 PICKED BEFORE HIM",
+   "key": "p:4702656@TOR",
+   "name": "MARTIN",
+   "badge": "2025 DRAFT",
+   "lines": [
+    [
+     "#39",
+     "2025 DRAFT"
+    ]
+   ],
+   "vo": "Thirty-eight players got picked before Alijah Martin. We took him thirty-ninth in twenty twenty-five, on a two-way deal.",
+   "dlg": "2025 DRAFT: PICK 39.|A TWO-WAY CONTRACT."
+  },
+  {
+   "kind": "fire",
+   "head": "NCAA CHAMP",
+   "key": "p:4702656@TOR",
+   "name": "MARTIN",
+   "badge": "FLORIDA",
+   "lines": [
+    [
+     "2025",
+     "NCAA TITLE"
+    ]
+   ],
+   "vo": "Before that: a Final Four with Florida Atlantic, and a national title with Florida.",
+   "dlg": "FINAL FOUR WITH FAU,|NCAA CHAMP WITH FLORIDA."
+  },
+  {
+   "kind": "fire",
+   "head": "ROOKIE YEAR",
+   "key": "p:4702656@TOR",
+   "name": "MARTIN",
+   "badge": "2025-26",
+   "lines": [
+    [
+     "23",
+     "GAMES"
+    ],
+    [
+     "2.2",
+     "PPG"
+    ]
+   ],
+   "vo": "His rookie year with us: twenty-three games, two point two points.",
+   "dlg": "ROOKIE YEAR: 23 GAMES,|2.2 PPG."
+  },
+  {
+   "kind": "fire",
+   "head": "27 AT MILWAUKEE",
+   "key": "p:4702656@TOR",
+   "name": "MARTIN",
+   "badge": "AT MILWAUKEE",
+   "lines": [
+    [
+     "27",
+     "PTS"
+    ],
+    [
+     "9-11",
+     "FG"
+    ]
+   ],
+   "vo": "Then at Milwaukee: twenty-seven points on nine of eleven shooting, six of seven from three, in a win.",
+   "dlg": "27 AT MILWAUKEE: 9-OF-11,|6-OF-7 FROM THREE."
+  },
+  {
+   "kind": "next",
+   "head": "FOR REAL?",
+   "logo": "l:TOR",
+   "rec": "27",
+   "ntxt": "MARTIN",
+   "nday": "AT MIL",
+   "vo": "One big night, or a real rotation guy? Comment below.",
+   "dlg": "ONE BIG NIGHT|OR ROTATION GUY?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4702656",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 23
+  },
+  {
+   "player": "4702656",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 2.2
+  },
+  {
+   "player": "4702656",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4702656",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 5.8
+  },
+  {
+   "player": "4702656",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 11.1
+  },
+  {
+   "game": "401909292",
+   "player": "4702656",
+   "stat": "PTS",
+   "value": 27
+  },
+  {
+   "game": "401909292",
+   "player": "4702656",
+   "stat": "FG",
+   "value": "9-11"
+  },
+  {
+   "game": "401909292",
+   "player": "4702656",
+   "stat": "3PT",
+   "value": "6-7"
+  },
+  {
+   "game": "401909292",
+   "score": "121-107"
+  },
+  {
+   "claim": "June 25, 2025: Martin selected 39th overall (#39) by Toronto, signed to a two-way contract; led Florida Atlantic to its first Final Four; won the national championship with Florida (NCAA champion 2025); 38 players were picked before him (pick 39 minus 1)",
+   "source": "https://en.wikipedia.org/wiki/Alijah_Martin"
+  }
+ ]
+}

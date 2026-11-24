@@ -1,0 +1,124 @@
+{
+ "team": "warriors",
+ "name": "looney22",
+ "pace": "wolves",
+ "caption": "4 POINTS. BEST PLAYER ON THE FLOOR? 🎮🏀 Kevon Looney didn't need to score.\n\n• Game 6, 2022 West semis vs Memphis, May 13, 2022\n• Looney: 22 rebounds, 11 of them offensive, plus 5 assists\n• We outrebound Memphis 70-44\n• We win 110-96 and close out the series 4-2\n\nMost underrated Warrior ever? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "4 POINTS?",
+   "key": "p:3155535@GSW",
+   "name": "LOONEY",
+   "badge": "VS MEMPHIS",
+   "lines": [
+    [
+     "4",
+     "PTS"
+    ]
+   ],
+   "vo": "Kevon Looney scored four points. And he might have been the best player on the floor.",
+   "dlg": "LOONEY: 4 POINTS.|BEST PLAYER ON THE FLOOR?"
+  },
+  {
+   "kind": "fire",
+   "head": "THE BOARDS",
+   "key": "p:3155535@GSW",
+   "name": "LOONEY",
+   "badge": "2022 WEST SEMIS",
+   "lines": [
+    [
+     "22",
+     "REB"
+    ],
+    [
+     "11",
+     "OFF REB"
+    ]
+   ],
+   "vo": "Twenty-two rebounds. Eleven of them on offense.",
+   "dlg": "22 REBOUNDS.|11 ON OFFENSE."
+  },
+  {
+   "kind": "fire",
+   "head": "OWNED THE GLASS",
+   "key": "l:GSW",
+   "name": "US",
+   "badge": "GAME 6",
+   "lines": [
+    [
+     "70",
+     "GS"
+    ],
+    [
+     "44",
+     "MEM"
+    ]
+   ],
+   "vo": "As a team, we outrebound Memphis seventy to forty-four.",
+   "dlg": "WE OUTREBOUND MEMPHIS|70 TO 44."
+  },
+  {
+   "kind": "fire",
+   "head": "SERIES OVER",
+   "key": "p:3155535@GSW",
+   "name": "LOONEY",
+   "badge": "SERIES WON 4-2",
+   "lines": [
+    [
+     "110",
+     "GS"
+    ],
+    [
+     "96",
+     "MEM"
+    ]
+   ],
+   "vo": "We win, one-ten to ninety-six. Series over. On to the conference finals.",
+   "dlg": "WE WIN 110-96.|SERIES OVER."
+  },
+  {
+   "kind": "next",
+   "head": "UNDERRATED?",
+   "logo": "l:GSW",
+   "rec": "4-2",
+   "ntxt": "SERIES",
+   "nday": "WON",
+   "vo": "Most underrated Warrior ever? Comment below.",
+   "dlg": "MOST UNDERRATED WARRIOR?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401434775",
+   "player": "3155535",
+   "stat": "PTS",
+   "value": "4"
+  },
+  {
+   "game": "401434775",
+   "player": "3155535",
+   "stat": "REB",
+   "value": "22"
+  },
+  {
+   "game": "401434775",
+   "player": "3155535",
+   "stat": "OREB",
+   "value": "11"
+  },
+  {
+   "game": "401434775",
+   "player": "3155535",
+   "stat": "AST",
+   "value": "5"
+  },
+  {
+   "game": "401434775",
+   "score": "110-96"
+  },
+  {
+   "claim": "Game 6, 2022 Western Conference semifinals vs Memphis, May 13, 2022: Warriors won 110-96 to eliminate the Grizzlies (series 4-2) and advance to the conference finals; Looney grabbed 22 rebounds; Warriors outrebounded the Grizzlies 70-44.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401434775"
+  }
+ ]
+}

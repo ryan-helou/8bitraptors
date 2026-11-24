@@ -1,0 +1,122 @@
+{
+ "team": "warriors",
+ "name": "steph7",
+ "record": "7-3",
+ "caption": "PICK 7 🎮🏀 Six teams passed on Steph Curry. Minnesota passed twice.\n\n• 2009 draft: Memphis takes Hasheem Thabeet at #2\n• Minnesota takes Ricky Rubio at #5 and Jonny Flynn at #6\n• His dad wanted the Knicks at #8. We take him at #7\n• Since then: 4 titles, 2 MVPs\n• This season: 27.8 PPG through his first 10 games\n\nWho blew it worse: Memphis or Minnesota? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 7",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "2009 DRAFT",
+   "lines": [
+    [
+     "#7",
+     "2009 DRAFT"
+    ]
+   ],
+   "vo": "Six teams pass on Steph Curry. Minnesota passes on him twice.",
+   "dlg": "SIX TEAMS PASS ON STEPH.|MINNESOTA PASSES TWICE."
+  },
+  {
+   "kind": "hot",
+   "head": "WHO PASSED",
+   "rows": [
+    {
+     "logo": "l:MEM",
+     "name": "THABEET",
+     "sub": "MEMPHIS",
+     "val": "#2",
+     "w": 0
+    },
+    {
+     "logo": "l:MIN",
+     "name": "RUBIO",
+     "sub": "MINNESOTA",
+     "val": "#5",
+     "w": 0
+    },
+    {
+     "logo": "l:MIN",
+     "name": "FLYNN",
+     "sub": "MINNESOTA",
+     "val": "#6",
+     "w": 0
+    }
+   ],
+   "vo": "Memphis takes Hasheem Thabeet at two. Minnesota takes two point guards: Ricky Rubio at five, Jonny Flynn at six.",
+   "dlg": "THABEET AT 2. RUBIO AT 5.|FLYNN AT 6."
+  },
+  {
+   "kind": "fire",
+   "head": "DAD'S PLAN",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "PICK 7",
+   "lines": [
+    [
+     "#8",
+     "KNICKS"
+    ],
+    [
+     "#7",
+     "US"
+    ]
+   ],
+   "vo": "His dad wanted him in New York at eight, and even called teams to ask them not to take him. We take him at seven.",
+   "dlg": "HIS DAD WANTED NEW YORK|AT 8. WE TAKE HIM AT 7."
+  },
+  {
+   "kind": "fire",
+   "head": "WHAT WE GOT",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "4",
+     "TITLES"
+    ],
+    [
+     "27.8",
+     "PPG NOW"
+    ]
+   ],
+   "vo": "Four titles, two MVPs. And through ten games this season: twenty-seven point eight a night.",
+   "dlg": "4 TITLES, 2 MVPS.|NOW: 27.8 PPG, 10 GAMES IN."
+  },
+  {
+   "kind": "next",
+   "head": "WORST PASS?",
+   "logo": "l:GSW",
+   "rec": "#7",
+   "ntxt": "STEPH",
+   "nday": "2009 PICK",
+   "vo": "Who blew it worse: Memphis or Minnesota? Comment below.",
+   "dlg": "MEMPHIS OR MINNESOTA:|WHO BLEW IT WORSE?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 27.8
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "claim": "2009 NBA draft: Hasheem Thabeet 2nd to Memphis, Ricky Rubio 5th and Jonny Flynn 6th to Minnesota, Stephen Curry 7th to Golden State (6 teams passed on him, 0 took him before pick 7)",
+   "source": "https://en.wikipedia.org/wiki/2009_NBA_draft"
+  },
+  {
+   "claim": "Curry's father Dell wanted him drafted 8th by the New York Knicks and called teams with higher picks urging them not to draft him; Minnesota took two other point guards at 5 and 6; Curry: 4× NBA champion, 2× MVP",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  }
+ ]
+}

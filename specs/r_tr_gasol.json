@@ -1,0 +1,227 @@
+{
+ "team": "raptors",
+ "name": "tr_gasol",
+ "record": "5-4",
+ "caption": "IF MARC GASOL HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🌯 Munchlax: wolfs down its weight in food every day. The Big Burrito, the 48th pick\n🐚 Cloyster: once it slams its shell shut, nobody can open it. 2013 Defensive Player of the Year, the first European to win it\n🕊️ Togekiss: shares its blessings with those around it. Traded to us Feb 7, 2019, his passing made us the top 3-point team the rest of the way\n🦣 Mamoswine: dug out of ancient ice, it woke up to everyone's amazement. 20 points and 7 boards in his first Finals game ever\n🐭 Tandemaus: the pair sticks together no matter what. Marc and Pau, the first brothers to both win NBA titles\n🏆 Victini: trainers with it always win. 2019: our first title and a World Cup with Spain, the same year\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Marc Gasol had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF MARC GASOL HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Munchlax. It wolfs down its own weight in food every day. They called Marc the Big Burrito, and he went forty-eighth in the draft.",
+   "dlg": "EATS ITS WEIGHT DAILY.|THE BIG BURRITO, PICK 48"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Cloyster. Once it slams its shell shut, nobody can open it. Twenty thirteen: Defensive Player of the Year, the first European to win it.",
+   "dlg": "ONCE SHUT, IT WON'T OPEN.|2013: FIRST EURO DPOY!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Togekiss. It shares its blessings with those around it. We traded for Marc in February twenty nineteen, and his passing made us the league's best three-point team the rest of the way.",
+   "dlg": "IT SHARES ITS BLESSINGS.|WE BECAME THE TOP 3PT TEAM"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Mamoswine. Dug from ancient ice, it woke up to everyone's amazement. Marc's first Finals game ever: twenty points, seven boards.",
+   "dlg": "IT WOKE UP FROM THE ICE.|FIRST FINALS GAME: 20 PTS"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Tandemaus. The pair sticks together, no matter what. When we won, Marc and Pau became the first brothers to both win NBA titles.",
+   "dlg": "THE PAIR STICKS TOGETHER.|FIRST BROTHERS WITH RINGS"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Victini. They say trainers with Victini always win. Twenty nineteen: our first title, and World Cup gold with Spain. Today he's president of the club in Girona.",
+   "dlg": "ITS TRAINERS ALWAYS WIN.|2019: OUR RING + WORLD CUP"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401134815",
+   "player": "3206",
+   "stat": "PTS",
+   "value": 20
+  },
+  {
+   "game": "401134815",
+   "player": "3206",
+   "stat": "REB",
+   "value": 7
+  },
+  {
+   "claim": "Gasol: nicknamed The Big Burrito; drafted 48th overall in 2007; 2013 NBA Defensive Player of the Year, the first European to win; traded to Toronto on February 7, 2019 (Feb 7); his pass-first offensive approach helped the Raptors become the NBA's top 3-point shooting team over the second half of the season; 20 points and 7 rebounds in his first ever NBA Finals game; with Pau, the first set of brothers to win NBA titles; won the 2019 NBA title and the 2019 World Cup with Spain the same year; president of Basquet Girona",
+   "source": "https://en.wikipedia.org/wiki/Marc_Gasol"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3206@TOR",
+   "mon": "pk:munchlax",
+   "nick": "MUNCHLAX",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "BIG BURRITO",
+   "stat": "PICK NO. 48"
+  },
+  {
+   "key": "p:3206@TOR",
+   "mon": "pk:cloyster",
+   "nick": "CLOYSTER",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "label": "THE WALL",
+   "stat": "2013 DPOY"
+  },
+  {
+   "key": "p:3206@TOR",
+   "mon": "pk:togekiss",
+   "nick": "TOGEKISS",
+   "types": [
+    [
+     "FAIRY",
+     "#ee99ac"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE PASSER",
+   "stat": "FEB 7, 2019"
+  },
+  {
+   "key": "p:3206@TOR",
+   "mon": "pk:mamoswine",
+   "nick": "MAMOSWINE",
+   "types": [
+    [
+     "ICE",
+     "#58b8d0"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "THE VETERAN",
+   "stat": "20 PTS, 7 REB"
+  },
+  {
+   "key": "p:3206@TOR",
+   "mon": "pk:tandemaus",
+   "nick": "TANDEMAUS",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "BROTHERS",
+   "stat": "PAU + MARC"
+  },
+  {
+   "key": "p:3206@TOR",
+   "mon": "pk:victini",
+   "nick": "VICTINI",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ],
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "RING+WORLD CUP"
+  }
+ ],
+ "mode": "trainer"
+}

@@ -1,0 +1,111 @@
+{
+ "team": "warriors",
+ "name": "webelieve",
+ "record": "7-3",
+ "caption": "WE BELIEVE 🎮🏀 Dallas won 67 games. We snuck in at 42-40. Then we sent them home.\n\n• 2007: we close the season 16-5 to grab the 8 seed\n• Our first playoffs since 1994\n• We beat MVP Dirk Nowitzki's 67-15 Mavericks 4-2\n• First 8 seed ever to beat a 1 seed in a 7-game series\n• 19 years later, we started this season 7-3\n\nBiggest upset in NBA history? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "WE BELIEVE",
+   "key": "l:GSW",
+   "name": "8 SEED",
+   "badge": "2007",
+   "lines": [
+    [
+     "42-40",
+     "US"
+    ],
+    [
+     "67-15",
+     "DALLAS"
+    ]
+   ],
+   "vo": "Dallas wins sixty-seven games. We sneak into the playoffs at forty-two and forty. Nobody gives us a chance.",
+   "dlg": "DALLAS WON 67 GAMES.|WE SNUCK IN AT 42-40."
+  },
+  {
+   "kind": "fire",
+   "head": "THE RUN IN",
+   "key": "l:GSW",
+   "name": "8 SEED",
+   "badge": "16-5 FINISH",
+   "lines": [
+    [
+     "16-5",
+     "TO FINISH"
+    ],
+    [
+     "1994",
+     "LAST TRIP"
+    ]
+   ],
+   "vo": "We close the season sixteen and five. Our first playoff trip since nineteen ninety-four.",
+   "dlg": "WE CLOSE 16-5.|FIRST PLAYOFFS SINCE 1994."
+  },
+  {
+   "kind": "fire",
+   "head": "THE UPSET",
+   "key": "l:DAL",
+   "name": "MAVS",
+   "badge": "MVP DIRK",
+   "lines": [
+    [
+     "4-2",
+     "SERIES"
+    ]
+   ],
+   "vo": "Against Dirk Nowitzki, the MVP, we win the series four games to two.",
+   "dlg": "WE BEAT MVP DIRK'S MAVS|4 GAMES TO 2!"
+  },
+  {
+   "kind": "fire",
+   "head": "HISTORY",
+   "key": "l:GSW",
+   "name": "WE BELIEVE",
+   "badge": "8 BEATS 1",
+   "lines": [
+    [
+     "#8",
+     "OVER #1"
+    ]
+   ],
+   "vo": "The first eight seed ever to knock out a one seed in a seven-game series.",
+   "dlg": "FIRST 8 SEED TO BEAT A 1|IN A 7-GAME SERIES."
+  },
+  {
+   "kind": "fire",
+   "head": "THIS YEAR",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "7-3 START",
+   "lines": [
+    [
+     "7-3",
+     "OUR RECORD"
+    ]
+   ],
+   "vo": "Nineteen years later, we started this season seven and three. Nobody has to sneak in this time.",
+   "dlg": "19 YEARS LATER:|WE STARTED 7-3."
+  },
+  {
+   "kind": "next",
+   "head": "BIGGEST UPSET?",
+   "logo": "l:GSW",
+   "rec": "8>1",
+   "ntxt": "WE BELIEVE",
+   "nday": "2007",
+   "vo": "Biggest upset in NBA history? Comment below.",
+   "dlg": "BIGGEST UPSET EVER?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "2006–07 (2007 playoffs): Warriors finished 42–40 after a 16–5 run, 8th seed, first playoffs since 1994; Dallas 67–15 with MVP Dirk Nowitzki; Warriors won 4–2, the first 8 seed to beat a 1 seed in a 7-game series; 2007 to 2026 is 19 years",
+   "source": "https://en.wikipedia.org/wiki/2006–07_Golden_State_Warriors_season"
+  },
+  {
+   "claim": "Warriors record this season: 7-3",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/gs"
+  }
+ ]
+}

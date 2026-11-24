@@ -1,0 +1,112 @@
+{
+ "team": "warriors",
+ "name": "steph38",
+ "record": "7-3",
+ "caption": "STILL STEPH 🎮🏀 Minnesota passed on him twice. At 38, he's dropping 31.3 a night.\n\n• 2009 draft: Minnesota takes two other point guards at 5 and 6, we take Steph at #7\n• Born March 14, 1988: he's 38 now\n• First 8 games: 31.3 PPG on 44.7% from three\n• 98.5% from the line\n\nCan he keep this up all season? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 7",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "2009 DRAFT",
+   "lines": [
+    [
+     "#7",
+     "2009 DRAFT"
+    ]
+   ],
+   "vo": "Minnesota had two straight picks, and took two other point guards. We took Steph Curry at seven.",
+   "dlg": "MINNESOTA PASSES TWICE...|WE TAKE STEPH AT 7."
+  },
+  {
+   "kind": "fire",
+   "head": "AGE 38",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "BORN 1988",
+   "lines": [
+    [
+     "38",
+     "YEARS OLD"
+    ]
+   ],
+   "vo": "Now he's thirty-eight. Everybody said he'd slow down by now.",
+   "dlg": "38 YEARS OLD...|AND NOT SLOWING DOWN."
+  },
+  {
+   "kind": "fire",
+   "head": "8 GAMES IN",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "31.3",
+     "PPG"
+    ],
+    [
+     "44.7",
+     "3P%"
+    ]
+   ],
+   "vo": "Through eight games: thirty-one point three points a night, on forty-four point seven percent from three.",
+   "dlg": "8 GAMES IN: 31.3 PPG,|44.7% FROM THREE."
+  },
+  {
+   "kind": "fire",
+   "head": "FREE THROWS",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "AUTOMATIC",
+   "lines": [
+    [
+     "98.5",
+     "FT%"
+    ]
+   ],
+   "vo": "And at the line? Ninety-eight point five percent.",
+   "dlg": "FREE THROWS: 98.5%.|ALMOST PERFECT."
+  },
+  {
+   "kind": "next",
+   "head": "STILL STEPH",
+   "logo": "l:GSW",
+   "rec": "38",
+   "ntxt": "STEPH",
+   "nday": "AGE 38",
+   "vo": "Thirty-one a night at thirty-eight. Can he keep this up all season? Comment below.",
+   "dlg": "CAN HE KEEP THIS UP?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 31.3
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 44.7
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "FT%",
+   "value": 98.5
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Minnesota took two other point guards with picks 5 and 6 in the 2009 draft; Golden State took Curry 7th overall. Born March 14, 1988 (age 38). Curry is a 3-point shooter.",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  }
+ ]
+}

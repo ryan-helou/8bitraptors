@@ -1,0 +1,192 @@
+{
+ "team": "raptors",
+ "name": "no2",
+ "pace": "wolves",
+ "record": "5-7",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "WHO'S OUR NO. 2?",
+   "key": "p:4433134@TOR",
+   "name": "BARNES",
+   "badge": "NO. 1",
+   "lines": [
+    [
+     "23.5",
+     "PPG"
+    ]
+   ],
+   "vo": "We all know our number one. Scottie's the guy. But with Kawhi out, who's our number two?",
+   "dlg": "SCOTTIE'S OUR NO. 1.|SO WHO'S OUR NO. 2?"
+  },
+  {
+   "kind": "fire",
+   "head": "NECK AND NECK",
+   "key": "p:4395625@TOR",
+   "name": "BARRETT",
+   "badge": "VS IQ",
+   "lines": [
+    [
+     "21.3",
+     "RJ"
+    ],
+    [
+     "17.6",
+     "IQ"
+    ]
+   ],
+   "vo": "It's RJ or I Q. RJ's at twenty-one point three a night through twelve games. I Q, seventeen point six through ten.",
+   "dlg": "RJ: 21.3 PPG.|IQ: 17.6 PPG."
+  },
+  {
+   "kind": "fire",
+   "head": "THE CASE FOR RJ",
+   "key": "p:4395625@TOR",
+   "name": "BARRETT",
+   "badge": "DOWNHILL",
+   "lines": [
+    [
+     "6.7",
+     "REB"
+    ],
+    [
+     "46.4",
+     "FG%"
+    ]
+   ],
+   "vo": "RJ gets downhill. Six point seven boards a night, and forty-six percent from the field.",
+   "dlg": "6.7 REBOUNDS A NIGHT.|46.4% FROM THE FIELD."
+  },
+  {
+   "kind": "fire",
+   "head": "THE CASE FOR IQ",
+   "key": "p:4395724@TOR",
+   "name": "QUICKLEY",
+   "badge": "RUNS IT",
+   "lines": [
+    [
+     "5.6",
+     "AST"
+    ],
+    [
+     "1.0",
+     "TO"
+    ]
+   ],
+   "vo": "But I Q runs the show. Five point six assists, and just one turnover a night.",
+   "dlg": "5.6 ASSISTS A NIGHT.|JUST 1.0 TURNOVER."
+  },
+  {
+   "kind": "fire",
+   "head": "THE KNOCKS",
+   "key": "p:4395724@TOR",
+   "name": "QUICKLEY",
+   "badge": "NOBODY'S PERFECT",
+   "lines": [
+    [
+     "62.1",
+     "RJ FT%"
+    ],
+    [
+     "40.0",
+     "IQ FG%"
+    ]
+   ],
+   "vo": "The knock on RJ? Sixty-two percent at the line. The knock on I Q? Forty percent from the field.",
+   "dlg": "RJ: 62.1% AT THE LINE.|IQ: 40.0% FROM THE FIELD."
+  },
+  {
+   "kind": "next",
+   "head": "WHO'S NO. 2?",
+   "logo": "l:TOR",
+   "rec": "RJ",
+   "ntxt": "OR",
+   "nday": "IQ?",
+   "vo": "Two guards, two different games. Who's our number two? Comment below.",
+   "dlg": "RJ OR IQ?|WHO'S OUR NO. 2?"
+  }
+ ],
+ "caption": "WHO'S OUR NO. 2? 🎮🏀 Scottie's the guy. With Kawhi out, it's RJ or IQ.\n\n• RJ, 12 games: 21.3 PPG, 6.7 RPG, 46.4% from the field\n• IQ, 10 games: 17.6 PPG, 5.6 APG, just 1.0 turnover a night\n• The knock on RJ: 62.1% at the line\n• The knock on IQ: 40.0% from the field\n• Kawhi: 2 games so far this season\n\nRJ or IQ? 👇",
+ "facts": [
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 12
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.3
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 6.7
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 46.4
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "FT%",
+   "value": 62.1
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 17.6
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.6
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "TO",
+   "value": 1.0
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 40.0
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 2
+  },
+  {
+   "claim": "Kawhi Leonard: October 27, 2026: out with swelling in his left knee; back with Toronto 2026-present",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "Scottie Barnes leads the Raptors in scoring this season (No. 1 scorer, 23.5 PPG), ahead of RJ Barrett 21.3 and Immanuel Quickley 17.6",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/tor/roster"
+  }
+ ]
+}

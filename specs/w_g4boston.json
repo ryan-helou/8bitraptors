@@ -1,0 +1,144 @@
+{
+ "team": "warriors",
+ "name": "g4boston",
+ "pace": "wolves",
+ "record": "7-3",
+ "caption": "43 TO SAVE THE FINALS 🎮🏀 Down two games to one in the 2022 Finals. Steph had to answer.\n\n• Game 4, June 10, 2022: 43 points, 10 rebounds\n• 14 of 26 from the field, 7 of 14 from three\n• We win 107-97, series tied 2-2\n• First player in Finals history with 5+ threes in 4 straight games\n\nSteph's best game ever? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "43 TO SAVE THE FINALS",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "2022 FINALS",
+   "lines": [
+    [
+     "2-1",
+     "DOWN"
+    ]
+   ],
+   "vo": "Down two games to one in the Finals, in Boston. So Steph drops forty-three.",
+   "dlg": "DOWN 2-1 IN BOSTON.|SO STEPH DROPS 43."
+  },
+  {
+   "kind": "fire",
+   "head": "GAME 4",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "AT BOSTON",
+   "lines": [
+    [
+     "43",
+     "PTS"
+    ],
+    [
+     "10",
+     "REB"
+    ]
+   ],
+   "vo": "Game four of the twenty twenty-two Finals. Forty-three points, ten rebounds.",
+   "dlg": "GAME 4: 43 POINTS,|10 REBOUNDS."
+  },
+  {
+   "kind": "fire",
+   "head": "14 OF 26",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "SHOOTING",
+   "lines": [
+    [
+     "14-26",
+     "FG"
+    ],
+    [
+     "7-14",
+     "THREES"
+    ]
+   ],
+   "vo": "Fourteen of twenty-six from the field. Seven of fourteen from three.",
+   "dlg": "14 OF 26 FROM THE FIELD,|7 OF 14 FROM THREE."
+  },
+  {
+   "kind": "fire",
+   "head": "SERIES TIED",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "WE WIN",
+   "lines": [
+    [
+     "107",
+     "GS"
+    ],
+    [
+     "97",
+     "BOS"
+    ]
+   ],
+   "vo": "And we win, one-oh-seven to ninety-seven. Series tied.",
+   "dlg": "WE WIN, 107-97.|SERIES TIED 2-2."
+  },
+  {
+   "kind": "fire",
+   "head": "FINALS FIRST",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "NBA FIRST",
+   "lines": [
+    [
+     "5+",
+     "THREES"
+    ],
+    [
+     "4",
+     "STRAIGHT"
+    ]
+   ],
+   "vo": "The first player in Finals history with five threes in four straight games.",
+   "dlg": "FIRST EVER: 5+ THREES IN|4 STRAIGHT FINALS GAMES"
+  },
+  {
+   "kind": "next",
+   "head": "HIS BEST GAME?",
+   "logo": "l:GSW",
+   "rec": "43",
+   "ntxt": "PTS",
+   "nday": "JUNE 10, 2022",
+   "vo": "Was Game four in Boston the best game Steph ever played? Comment below.",
+   "dlg": "STEPH'S BEST GAME EVER?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401442533",
+   "player": "3975",
+   "stat": "PTS",
+   "value": "43"
+  },
+  {
+   "game": "401442533",
+   "player": "3975",
+   "stat": "REB",
+   "value": "10"
+  },
+  {
+   "game": "401442533",
+   "player": "3975",
+   "stat": "FG",
+   "value": "14-26"
+  },
+  {
+   "game": "401442533",
+   "player": "3975",
+   "stat": "3PT",
+   "value": "7-14"
+  },
+  {
+   "game": "401442533",
+   "score": "107-97"
+  },
+  {
+   "claim": "June 10 (2022), Game 4 of the NBA Finals at Boston: Curry 43 points and 10 rebounds in a 107-97 win to even the series at 2-2 (we were down 1-2, 2-1 Boston); first player in Finals history to make 5+ three-pointers in four (4) consecutive games",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  }
+ ]
+}

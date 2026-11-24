@@ -1,0 +1,223 @@
+{
+ "team": "raptors",
+ "name": "tr_tjd",
+ "record": "5-4",
+ "caption": "IF TRAYCE JACKSON-DAVIS HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🛡️ Bastiodon: repels any attack from the front. Indiana's all-time leader in blocks (270) and rebounds (1,143)\n🔥 Magmortar: blasts fireballs from its arms. 43 points vs Marshall, Indiana's first 40-point game in 27 years\n💪 Machamp: four arms, a master of every martial art. Karl Malone Award, the nation's top power forward\n🪙 Gholdengo: a body made of stacked coins. Pick 57, Washington sold his rights for cash\n⚡ Electivire: its voltage jumps in battle. 10 points and 10 rebounds in 15 minutes in his debut for us, 5th ever in our history\n🦏 Rhyperior: fires rocks from its palms. 71.4% shooting through 8 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Trayce Jackson-Davis had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF TJD HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Bastiodon. Any attack from the front just bounces off it. Trayce left Indiana as its all-time leader in blocks and rebounds.",
+   "dlg": "REPELS ANY FRONT ATTACK.|INDIANA'S ALL-TIME BLOCKS"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Magmortar. It blasts fireballs out of its arms. Forty-three points against Marshall, Indiana's first forty-point game in twenty-seven years.",
+   "dlg": "IT BLASTS FIREBALLS.|43 PTS, 1ST 40 IN 27 YRS"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Machamp. Four arms, and it's said to have mastered every martial art. He won the Karl Malone Award, for the best power forward in the country.",
+   "dlg": "MASTERED EVERY MARTIAL ART|KARL MALONE AWARD!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Gholdengo. Its whole body is made of stacked coins. Fitting: he went fifty-seventh, and Washington sold his rights for cash.",
+   "dlg": "A BODY MADE OF COINS.|PICK 57, SOLD FOR CASH!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Electivire. Its voltage jumps whenever it's battling. His debut for us: ten points, ten rebounds in fifteen minutes. Only the fifth in our history.",
+   "dlg": "VOLTAGE JUMPS IN BATTLE.|DEBUT: 10 PTS, 10 REB!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Rhyperior. It fires rocks out of the holes in its palms. Trayce is shooting seventy-one point four percent through eight games.",
+   "dlg": "FIRES ROCKS FROM ITS PALMS|71.4% FG, FIRST 8 GAMES"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4431684",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "4431684",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 71.4
+  },
+  {
+   "claim": "Finished his Indiana career as the program's all-time leader in rebounds (1,143) and blocked shots (270); November 27, 2021: career-high 43 points vs Marshall, first (1st) Indiana player to score at least 40 points in 27 years; awarded the Karl Malone Award for the nation's top power forward; drafted 57th overall (#57) in 2023, the pick held by Washington, who traded his rights for cash considerations; Raptors debut: 10 points and 10 rebounds in 15 minutes, fifth (5th) player in franchise history with a double-double in their debut",
+   "source": "https://en.wikipedia.org/wiki/Trayce_Jackson-Davis"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:4431684@TOR",
+   "mon": "pk:bastiodon",
+   "nick": "BASTIODON",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "THE WALL",
+   "stat": "270 BLOCKS"
+  },
+  {
+   "key": "p:4431684@TOR",
+   "mon": "pk:magmortar",
+   "nick": "MAGMORTAR",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "THE CANNON",
+   "stat": "43 PTS"
+  },
+  {
+   "key": "p:4431684@TOR",
+   "mon": "pk:machamp",
+   "nick": "MACHAMP",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "POWER FORWARD",
+   "stat": "MALONE AWARD"
+  },
+  {
+   "key": "p:4431684@TOR",
+   "mon": "pk:gholdengo",
+   "nick": "GHOLDENGO",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "label": "SOLD FOR CASH",
+   "stat": "PICK 57"
+  },
+  {
+   "key": "p:4431684@TOR",
+   "mon": "pk:electivire",
+   "nick": "ELECTIVIRE",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "label": "THE JOLT",
+   "stat": "10 PTS 10 REB"
+  },
+  {
+   "key": "p:4431684@TOR",
+   "mon": "pk:rhyperior",
+   "nick": "RHYPERIOR",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "71.4 FG%"
+  }
+ ],
+ "mode": "trainer"
+}

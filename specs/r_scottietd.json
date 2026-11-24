@@ -1,0 +1,149 @@
+{
+ "team": "raptors",
+ "name": "scottietd",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "TRIPLE-DOUBLES 🎮🏀 Kyle Lowry owns our triple-double record. Scottie Barnes is coming for it.\n\n• Lowry: 16 regular-season triple-doubles for us, over 9 seasons\n• Scottie: 9 in his first 5 seasons\n• 2023-24: 4 in one season, a franchise record\n• Dec 28, 2025 vs Golden State: 23 PTS, 25 REB, 10 AST, our first 20-20 triple-double\n• In his 8 games this season: none yet, closest was 22-15-8 vs the Clippers\n\nDoes Scottie break Lowry's record? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "TRIPLE-DOUBLES",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "THE RECORD",
+   "lines": [
+    [
+     "16",
+     "TRIPLE-DBLS"
+    ],
+    [
+     "9",
+     "SEASONS"
+    ]
+   ],
+   "vo": "Kyle Lowry owns our triple-double record: sixteen, over nine seasons. Scottie Barnes already has nine, in just five.",
+   "dlg": "LOWRY: 16 IN 9 SEASONS.|SCOTTIE: 9 IN 5."
+  },
+  {
+   "kind": "fire",
+   "head": "SEASON RECORD",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "2023-24",
+   "lines": [
+    [
+     "4",
+     "IN 1 SEASON"
+    ]
+   ],
+   "vo": "In twenty twenty-four, Scottie had four in one season. A franchise record.",
+   "dlg": "2023-24: FOUR IN ONE YEAR.|A FRANCHISE RECORD."
+  },
+  {
+   "kind": "fire",
+   "head": "23-25-10",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "VS WARRIORS",
+   "lines": [
+    [
+     "25",
+     "REB"
+    ],
+    [
+     "10",
+     "AST"
+    ]
+   ],
+   "vo": "Last December against Golden State: twenty-three points, twenty-five rebounds, ten assists. Our first twenty-twenty triple-double ever.",
+   "dlg": "23 PTS, 25 REB, 10 AST.|FIRST 20-20 TRIPLE-DOUBLE."
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "22",
+     "PTS"
+    ],
+    [
+     "15",
+     "REB"
+    ]
+   ],
+   "vo": "In his eight games this season, no triple-double yet. The closest: twenty-two points, fifteen rebounds and eight assists against the Clippers.",
+   "dlg": "CLOSEST THIS YEAR: 22 PTS,|15 REB, 8 AST VS LAC."
+  },
+  {
+   "kind": "next",
+   "head": "CATCH LOWRY?",
+   "logo": "l:TOR",
+   "rec": "7",
+   "ntxt": "TO TIE",
+   "nday": "LOWRY: 16",
+   "vo": "Seven to tie, eight to break it. Does Scottie get there? Comment below.",
+   "dlg": "7 TO TIE, 8 TO BREAK IT.|DOES SCOTTIE GET THERE?"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Kyle Lowry holds the Toronto Raptors franchise record for triple-doubles: 16",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Lowry"
+  },
+  {
+   "claim": "ESPN game logs: Lowry had 16 regular-season triple-doubles with Toronto across 9 seasons (2012-13 to 2020-21); 7 to tie, 8 to break",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3012/gamelog?season=2021"
+  },
+  {
+   "claim": "ESPN game logs: Scottie Barnes had 9 regular-season triple-doubles in his first 5 seasons (2021-22 to 2025-26: 0, 1, 4, 1, 3) and none in his first 8 games of 2026-27",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433134/gamelog?season=2027"
+  },
+  {
+   "claim": "Feb 26, 2024: Barnes recorded his fourth (4) triple-double of the 2023-24 season, setting a franchise record for most triple-doubles in a season (1 season)",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "claim": "Dec 28, 2025 vs Golden State: Barnes had 23 points, 25 rebounds and 10 assists, the first 20-20 triple-double in Raptors history",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "game": "401810296",
+   "player": "4433134",
+   "stat": "PTS",
+   "value": 23
+  },
+  {
+   "game": "401810296",
+   "player": "4433134",
+   "stat": "REB",
+   "value": 25
+  },
+  {
+   "game": "401810296",
+   "player": "4433134",
+   "stat": "AST",
+   "value": 10
+  },
+  {
+   "game": "401909920",
+   "player": "4433134",
+   "stat": "PTS",
+   "value": 22
+  },
+  {
+   "game": "401909920",
+   "player": "4433134",
+   "stat": "REB",
+   "value": 15
+  },
+  {
+   "game": "401909920",
+   "player": "4433134",
+   "stat": "AST",
+   "value": 8
+  }
+ ]
+}

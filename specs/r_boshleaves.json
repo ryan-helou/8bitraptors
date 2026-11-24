@@ -1,0 +1,128 @@
+{
+ "team": "raptors",
+ "name": "boshleaves",
+ "pace": "wolves",
+ "record": "5-4",
+ "caption": "BOSH LEFT. WE WON. 🎮🏀 Chris Bosh left us for Miami. What we got back helped win us a ring.\n\n• Bosh's last season with us (2009-10): 24.0 PPG, 10.8 RPG\n• July 10, 2010: sign-and-trade to Miami, 2 first-round picks to us\n• In Miami: titles in 2012 and 2013\n• One of those picks: Jonas Valanciunas, No. 5 in 2011\n• Feb 7, 2019: JV goes to Memphis in the Marc Gasol trade. That June, we win it all\n\nDid Bosh leaving actually help win us 2019? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "BOSH LEFT. WE WON.",
+   "key": "p:1977@TOR",
+   "name": "BOSH",
+   "badge": "TO MIAMI",
+   "lines": [
+    [
+     "2010",
+     "JULY 10"
+    ]
+   ],
+   "vo": "Chris Bosh left us for Miami. What we got back helped win us a ring.",
+   "dlg": "CHRIS BOSH LEAVES US|FOR MIAMI."
+  },
+  {
+   "kind": "fire",
+   "head": "LAST YEAR HERE",
+   "key": "p:1977@TOR",
+   "name": "BOSH",
+   "badge": "ALL-STAR",
+   "lines": [
+    [
+     "24.0",
+     "PPG"
+    ],
+    [
+     "10.8",
+     "RPG"
+    ]
+   ],
+   "vo": "His last year with us: twenty-four points and almost eleven rebounds a night. He left as our all-time leader in points and rebounds.",
+   "dlg": "LAST SEASON WITH US:|24.0 PPG, 10.8 RPG."
+  },
+  {
+   "kind": "fire",
+   "head": "IN MIAMI",
+   "key": "p:1977@TOR",
+   "name": "BOSH",
+   "badge": "2X CHAMPION",
+   "lines": [
+    [
+     "2012",
+     "TITLE"
+    ],
+    [
+     "2013",
+     "TITLE"
+    ]
+   ],
+   "vo": "In Miami, next to LeBron James and Dwyane Wade, he won titles in twenty twelve and twenty thirteen.",
+   "dlg": "MIAMI: TITLES IN|2012 AND 2013."
+  },
+  {
+   "kind": "fire",
+   "head": "THE PICK",
+   "key": "p:6477@TOR",
+   "name": "JV",
+   "badge": "PICK 5",
+   "lines": [
+    [
+     "#5",
+     "2011 DRAFT"
+    ]
+   ],
+   "vo": "His sign-and-trade sent us two first-round picks. One became Jonas Valanciunas, fifth overall.",
+   "dlg": "THE BOSH DEAL BRINGS US|PICK 5: JONAS VALANCIUNAS"
+  },
+  {
+   "kind": "fire",
+   "head": "THE RING",
+   "key": "p:3206@TOR",
+   "name": "GASOL",
+   "badge": "CHAMPIONS",
+   "lines": [
+    [
+     "2019",
+     "NBA CHAMPS"
+    ]
+   ],
+   "vo": "In twenty nineteen, Valanciunas went to Memphis in the Marc Gasol trade. That June, we were champions.",
+   "dlg": "JV GOES OUT FOR GASOL...|2019: WE WIN IT ALL."
+  },
+  {
+   "kind": "next",
+   "head": "RIGHT CALL?",
+   "logo": "l:TOR",
+   "rec": "#4",
+   "ntxt": "BOSH",
+   "nday": "2003-2010",
+   "vo": "So did Bosh leaving actually help us win twenty nineteen? Comment below.",
+   "dlg": "DID BOSH LEAVING|HELP WIN US 2019?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "1977",
+   "season": "2009-10",
+   "stat": "PTS",
+   "value": 24.0
+  },
+  {
+   "player": "1977",
+   "season": "2009-10",
+   "stat": "REB",
+   "value": 10.8
+  },
+  {
+   "claim": "Bosh was selected fourth overall (#4) by Toronto in the 2003 draft and played seven seasons for Toronto (2003-2010); All-Star; left as the franchise's all-time leader in points and rebounds; on July 10, 2010 he joined Miami via a sign-and-trade that sent two (2) 2011 first-round picks to the Raptors (Valanciunas later selected); NBA titles in 2012 and 2013 (2x)",
+   "source": "https://en.wikipedia.org/wiki/Chris_Bosh"
+  },
+  {
+   "claim": "Valanciunas was drafted fifth overall (#5, No. 5) by Toronto in the 2011 draft; on 7 February 2019 (Feb 7) he was traded with C. J. Miles, Delon Wright and a 2024 second-round pick to Memphis for Marc Gasol",
+   "source": "https://en.wikipedia.org/wiki/Jonas_Valančiūnas"
+  },
+  {
+   "claim": "Gasol: NBA champion 2019 with Toronto",
+   "source": "https://en.wikipedia.org/wiki/Marc_Gasol"
+  }
+ ]
+}

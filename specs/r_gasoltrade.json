@@ -1,0 +1,123 @@
+{
+ "team": "raptors",
+ "name": "gasoltrade",
+ "pace": "wolves",
+ "record": "5-4",
+ "caption": "WAS GASOL WORTH IT? 🎮🏀 We gave up JV, Delon Wright and more for Marc Gasol. That June, we were champions.\n\n• Feb 7, 2019: Gasol from Memphis for Jonas Valanciunas, Delon Wright, C.J. Miles and a 2024 second-round pick\n• 2019 playoffs: Gasol 9.4 PPG, 6.4 RPG, NBA champion\n• JV in Memphis (2020-21): 17.1 PPG, 12.5 RPG\n• JV now: back home in Lithuania with Zalgiris since 2026\n\nWho won the Gasol trade? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "WAS GASOL WORTH IT?",
+   "key": "p:3206@TOR",
+   "name": "GASOL",
+   "badge": "DEADLINE DEAL",
+   "lines": [
+    [
+     "2019",
+     "FEB 7"
+    ]
+   ],
+   "vo": "We traded three players and a pick for Marc Gasol. Was it worth it?",
+   "dlg": "WE GET MARC GASOL...|FOR JV, DELON AND MORE."
+  },
+  {
+   "kind": "fire",
+   "head": "THE RING",
+   "key": "p:3206@TOR",
+   "name": "GASOL",
+   "badge": "CHAMPION",
+   "lines": [
+    [
+     "9.4",
+     "PPG"
+    ],
+    [
+     "6.4",
+     "RPG"
+    ]
+   ],
+   "vo": "That spring, Gasol anchored the middle for a champion: nine point four points and six point four rebounds in the playoffs.",
+   "dlg": "2019 PLAYOFFS: 9.4 PPG,|6.4 RPG. CHAMPIONS!"
+  },
+  {
+   "kind": "fire",
+   "head": "JV IN MEMPHIS",
+   "key": "p:6477@TOR",
+   "name": "JV",
+   "badge": "GRIZZLIES",
+   "lines": [
+    [
+     "17.1",
+     "PPG"
+    ],
+    [
+     "12.5",
+     "RPG"
+    ]
+   ],
+   "vo": "Valanciunas thrived in Memphis: seventeen points and twelve and a half rebounds a night in twenty twenty-one.",
+   "dlg": "JV IN MEMPHIS, 2020-21:|17.1 PPG, 12.5 RPG."
+  },
+  {
+   "kind": "fire",
+   "head": "JV NOW",
+   "key": "p:6477@TOR",
+   "name": "JV",
+   "badge": "BACK HOME",
+   "lines": [
+    [
+     "2026",
+     "ZALGIRIS"
+    ]
+   ],
+   "vo": "Today, Valanciunas is back home in Lithuania, playing for Zalgiris. And our banner still hangs.",
+   "dlg": "TODAY: JV IS BACK HOME,|PLAYING IN LITHUANIA."
+  },
+  {
+   "kind": "next",
+   "head": "WHO WON?",
+   "logo": "l:TOR",
+   "rec": "1",
+   "ntxt": "RING",
+   "nday": "2019",
+   "vo": "A ring for a package. Who won the Gasol trade? Comment below.",
+   "dlg": "WHO WON|THE GASOL TRADE?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3206",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 9.4,
+   "type": "playoffs"
+  },
+  {
+   "player": "3206",
+   "season": "2018-19",
+   "stat": "REB",
+   "value": 6.4,
+   "type": "playoffs"
+  },
+  {
+   "player": "6477",
+   "season": "2020-21",
+   "stat": "PTS",
+   "value": 17.1
+  },
+  {
+   "player": "6477",
+   "season": "2020-21",
+   "stat": "REB",
+   "value": 12.5
+  },
+  {
+   "claim": "On February 7, 2019 (Feb 7) Gasol was traded to Toronto for C. J. Miles, Jonas Valanciunas, Delon Wright and a 2024 second-round pick; NBA champion 2019 (1 ring)",
+   "source": "https://en.wikipedia.org/wiki/Marc_Gasol"
+  },
+  {
+   "claim": "Valanciunas: Zalgiris (2026-present), after Memphis 2019-2021",
+   "source": "https://en.wikipedia.org/wiki/Jonas_Valančiūnas"
+  }
+ ]
+}

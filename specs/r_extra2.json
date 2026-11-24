@@ -1,0 +1,146 @@
+{
+ "team": "raptors",
+ "name": "extra2",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "TRADE COURT, CASE #4: WHO WON THIS TRADE? 🎮🏀 We traded Norman Powell in his career year for Gary Trent Jr. Who won?\n\n• Mar 25, 2021: Powell to Portland for Gary Trent Jr. and Rodney Hood\n• Powell with us that season: 19.6 PPG, a career high at the time\n• Trent's first full season with us (2021-22): 18.3 PPG, 1.7 SPG\n• Trent left for Milwaukee in 2024; Powell was named a 2026 All-Star with Miami\n• Powell now, first 10 games in Chicago: 21.1 PPG\n\nPowell or Trent: who won the trade?\n\nYour verdict: comment W or L 👇\nCase #5 drops tomorrow night. Follow so you don't miss it.",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "WHO WON THIS TRADE?",
+   "key": "p:2595516@TOR",
+   "name": "POWELL",
+   "badge": "TRADE COURT #4",
+   "lines": [
+    [
+     "2021",
+     "MAR 25"
+    ]
+   ],
+   "vo": "We traded Norman Powell in his career year, for Gary Trent Junior. Who won?",
+   "dlg": "WE TRADE POWELL IN HIS|CAREER YEAR. FOR TRENT."
+  },
+  {
+   "kind": "fire",
+   "head": "POWELL WITH US",
+   "key": "p:2595516@TOR",
+   "name": "POWELL",
+   "badge": "2019 CHAMP",
+   "lines": [
+    [
+     "19.6",
+     "PPG"
+    ],
+    [
+     "#46",
+     "PICK"
+    ]
+   ],
+   "vo": "With us that season: nineteen point six points a night, a career high. A champion in twenty nineteen, from pick forty-six.",
+   "dlg": "19.6 PPG, A CAREER HIGH.|2019 CHAMP FROM PICK 46."
+  },
+  {
+   "kind": "fire",
+   "head": "OUR RETURN",
+   "key": "p:4277843@TOR",
+   "name": "TRENT",
+   "badge": "5 YRS YOUNGER",
+   "lines": [
+    [
+     "18.3",
+     "PPG"
+    ],
+    [
+     "1.7",
+     "STEALS"
+    ]
+   ],
+   "vo": "Our side: Gary Trent Junior, five years younger. His first full season here: eighteen point three points and one point seven steals a night.",
+   "dlg": "TRENT'S FIRST FULL YEAR:|18.3 PPG, 1.7 STEALS."
+  },
+  {
+   "kind": "fire",
+   "head": "AFTER",
+   "key": "p:2595516@TOR",
+   "name": "POWELL",
+   "badge": "ALL-STAR",
+   "lines": [
+    [
+     "2026",
+     "ALL-STAR"
+    ]
+   ],
+   "vo": "Trent left for Milwaukee in twenty twenty-four. Powell kept climbing: an All-Star in twenty twenty-six, with Miami.",
+   "dlg": "2024: TRENT TO MILWAUKEE.|2026: POWELL AN ALL-STAR."
+  },
+  {
+   "kind": "fire",
+   "head": "POWELL NOW",
+   "key": "p:2595516@CHI",
+   "name": "POWELL",
+   "badge": "AGE 33",
+   "lines": [
+    [
+     "21.1",
+     "PPG"
+    ],
+    [
+     "10",
+     "GAMES"
+    ]
+   ],
+   "vo": "And now, at thirty-three, in Chicago: twenty-one point one a night in his first ten games.",
+   "dlg": "NOW 33, IN CHICAGO:|21.1 PPG IN 10 GAMES."
+  },
+  {
+   "kind": "next",
+   "head": "THE VERDICT",
+   "logo": "l:TOR",
+   "rec": "W OR L?",
+   "ntxt": "CASE #5",
+   "nday": "TOMORROW",
+   "vo": "Did we win this trade? W or L. Case five, tomorrow night.",
+   "dlg": "DID WE WIN THIS TRADE?|W OR L? CASE #5: TOMORROW NIGHT."
+  }
+ ],
+ "facts": [
+  {
+   "player": "2595516",
+   "season": "2020-21",
+   "stat": "PTS",
+   "value": 19.6
+  },
+  {
+   "player": "2595516",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.1
+  },
+  {
+   "player": "2595516",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "player": "4277843",
+   "season": "2021-22",
+   "stat": "PTS",
+   "value": 18.3
+  },
+  {
+   "player": "4277843",
+   "season": "2021-22",
+   "stat": "STL",
+   "value": 1.7
+  },
+  {
+   "claim": "On March 25 (Mar 25), 2021, Portland acquired Powell from Toronto for Gary Trent Jr. and Rodney Hood; Powell was averaging a career-high 19.6 points at the time; drafted 46th overall (#46) in 2015 by Milwaukee, rights traded to Toronto; NBA champion 2019; named an NBA All-Star in 2026 in his only season with the Miami Heat; now with the Chicago Bulls (2026-present); born May 25, 1993, so 33 now and 27 at the trade",
+   "source": "https://en.wikipedia.org/wiki/Norman_Powell"
+  },
+  {
+   "claim": "Trent Jr. (born January 18, 1999, so 22 at the trade, 5 years younger than Powell) was acquired by Toronto on March 25, 2021 for Norman Powell; with Toronto 2021-2024, so 2021-22 was his first full season with us; July 20, 2024 signed with the Milwaukee Bucks",
+   "source": "https://en.wikipedia.org/wiki/Gary_Trent_Jr."
+  }
+ ]
+}

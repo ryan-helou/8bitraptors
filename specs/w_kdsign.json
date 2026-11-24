@@ -1,0 +1,137 @@
+{
+ "team": "warriors",
+ "name": "kdsign",
+ "record": "7-3",
+ "caption": "KD SIGNS 🎮🏀 He was up 3-1 on us in the West finals. Weeks later, he signed with us.\n\n• 2016: Kevin Durant joins our 73-win team\n• 2 titles and 2 Finals MVPs (2017, 2018)\n• 2017 playoffs: 28.5 PPG on 55.6% shooting\n• 2019: Achilles injury in the Finals, then he leaves for Brooklyn\n• Steph never left: 27.8 PPG through his first 10 games this season\n\nSigning KD: right call or not? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "KD SIGNS",
+   "key": "p:3202@GSW",
+   "name": "KD",
+   "badge": "2016 SIGNING",
+   "lines": [
+    [
+     "2016",
+     "FREE AGENT"
+    ]
+   ],
+   "vo": "Kevin Durant was up three games to one on us in the West finals. Weeks later, he signs with us.",
+   "dlg": "HE WAS UP 3-1 ON US...|THEN HE SIGNS WITH US."
+  },
+  {
+   "kind": "fire",
+   "head": "BACK-TO-BACK",
+   "key": "p:3202@GSW",
+   "name": "KD",
+   "badge": "2017 + 2018",
+   "lines": [
+    [
+     "2",
+     "TITLES"
+    ],
+    [
+     "2",
+     "FINALS MVPS"
+    ]
+   ],
+   "vo": "Two titles. Two Finals MVPs. Twenty seventeen and twenty eighteen.",
+   "dlg": "2017 AND 2018: TITLES.|FINALS MVP BOTH TIMES."
+  },
+  {
+   "kind": "fire",
+   "head": "PLAYOFF KD",
+   "key": "p:3202@GSW",
+   "name": "KD",
+   "badge": "2017 PLAYOFFS",
+   "lines": [
+    [
+     "28.5",
+     "PPG"
+    ],
+    [
+     "55.6",
+     "FG%"
+    ]
+   ],
+   "vo": "His first playoff run with us: twenty-eight point five points a night, on fifty-five point six percent shooting.",
+   "dlg": "2017 PLAYOFFS: 28.5 PPG|ON 55.6% SHOOTING."
+  },
+  {
+   "kind": "fire",
+   "head": "THEN HE LEFT",
+   "key": "p:3202@BKN",
+   "name": "KD",
+   "badge": "TO BROOKLYN",
+   "lines": [
+    [
+     "2019",
+     "ACHILLES"
+    ]
+   ],
+   "vo": "Then, in the twenty nineteen Finals, his Achilles tears. That summer, he leaves for Brooklyn.",
+   "dlg": "2019: HURT IN THE FINALS.|THEN HE GOES TO BROOKLYN."
+  },
+  {
+   "kind": "fire",
+   "head": "STILL HERE",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "NEVER LEFT",
+   "lines": [
+    [
+     "27.8",
+     "PPG"
+    ],
+    [
+     "10",
+     "GAMES IN"
+    ]
+   ],
+   "vo": "KD plays for Houston now. Steph never left: twenty-seven point eight a night through his first ten games.",
+   "dlg": "KD IS IN HOUSTON NOW.|STEPH: 27.8 PPG IN 10 GAMES"
+  },
+  {
+   "kind": "next",
+   "head": "RIGHT CALL?",
+   "logo": "l:GSW",
+   "rec": "2",
+   "ntxt": "TITLES",
+   "nday": "2016-2019",
+   "vo": "Two rings, three years. Was signing KD the right call? Comment below.",
+   "dlg": "SIGNING KD: RIGHT CALL?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3202",
+   "season": "2016-17",
+   "stat": "PTS",
+   "value": 28.5,
+   "type": "playoffs"
+  },
+  {
+   "player": "3202",
+   "season": "2016-17",
+   "stat": "FG%",
+   "value": 55.6,
+   "type": "playoffs"
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 27.8
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "claim": "OKC led the record 73-win Warriors 3–1 in the 2016 Western Conference Finals and lost in seven; Durant then signed with Golden State in 2016; 2 NBA titles and 2 Finals MVPs (2017, 2018); Achilles injury in the 2019 NBA Finals, then joined the Brooklyn Nets in 2019; Warriors 2016–2019; now with the Houston Rockets",
+   "source": "https://en.wikipedia.org/wiki/Kevin_Durant"
+  }
+ ]
+}

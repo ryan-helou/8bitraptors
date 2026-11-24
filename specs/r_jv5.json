@@ -1,0 +1,85 @@
+{
+ "team": "raptors",
+ "name": "jv5",
+ "pace": "wolves",
+ "caption": "PICK 5. THEN WE WAITED A YEAR 🎮🏀\n\n• June 23, 2011: we took Jonas Valančiūnas 5th overall\n• He stayed in Lithuania with Lietuvos rytas for one more season and signed with us on July 18, 2012\n• 2012-2019: our center\n• Feb 7, 2019: he went to Memphis in the Marc Gasol trade. That June, we won the title\n\nWorth the wait? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 5",
+   "key": "p:6477@TOR",
+   "name": "JV",
+   "badge": "2011 DRAFT",
+   "lines": [
+    [
+     "5",
+     "PICK"
+    ],
+    [
+     "2011",
+     "DRAFT"
+    ]
+   ],
+   "vo": "We took Jonas Valanciunas fifth overall. Then we waited. A whole year.",
+   "dlg": "PICK 5.|THEN WE WAITED A YEAR."
+  },
+  {
+   "kind": "fire",
+   "head": "THE WAIT",
+   "key": "p:6477@TOR",
+   "name": "JV",
+   "badge": "LITHUANIA",
+   "lines": [
+    [
+     "1",
+     "MORE SEASON"
+    ],
+    [
+     "2012",
+     "SIGNED"
+    ]
+   ],
+   "vo": "He played one more season back home in Lithuania, and signed with us in July 2012.",
+   "dlg": "ONE MORE SEASON AT HOME.|SIGNED: JULY 2012."
+  },
+  {
+   "kind": "fire",
+   "head": "THE PRICE",
+   "key": "p:6477@TOR",
+   "name": "JV",
+   "badge": "FEB 7, 2019",
+   "lines": [
+    [
+     "2012-2019",
+     "OUR CENTER"
+    ],
+    [
+     "2019",
+     "GASOL TRADE"
+    ]
+   ],
+   "vo": "He was our center until 2019, when he became the price for Marc Gasol. That June, we won it all.",
+   "dlg": "TRADED FOR MARC GASOL.|THAT JUNE: CHAMPIONS."
+  },
+  {
+   "kind": "next",
+   "head": "WORTH IT?",
+   "logo": "l:TOR",
+   "rec": "#5",
+   "ntxt": "WORTH",
+   "nday": "THE WAIT?",
+   "vo": "Was pick five worth the wait? Comment below.",
+   "dlg": "WAS PICK 5|WORTH THE WAIT?"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Valanciunas was drafted fifth overall (5th, pick 5) by Toronto in the 2011 NBA draft on 23 June 2011 (June 23, 2011); played for Lietuvos rytas 2009-2012 (one more season, 1 more); signed with the Raptors on 18 July 2012 (July 18, 2012); Toronto Raptors 2012-2019; on 7 February 2019 (Feb 7, 2019) traded with C. J. Miles, Delon Wright and a 2024 second-round pick to Memphis for Marc Gasol. ESPN id 6477.",
+   "source": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
+  },
+  {
+   "claim": "The Raptors won the 2019 NBA Finals in June 2019.",
+   "source": "https://en.wikipedia.org/wiki/Nick_Nurse"
+  }
+ ]
+}

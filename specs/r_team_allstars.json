@@ -1,0 +1,234 @@
+{
+ "team": "raptors",
+ "name": "team_allstars",
+ "record": "5-4",
+ "mode": "starters",
+ "caption": "IF FIVE OF OUR ALL-STARS WERE POKÉMON 🎮🏀\n\n🦅 Vince Carter = Staraptor: courageously challenges much larger foes. Rookie of the Year in 1999, our first playoffs ever\n💡 Chris Bosh = Ampharos: its tail is a beacon for lost people. 5 All-Star games with us\n🐕 DeMar DeRozan = Arcanine: admired for its beauty, runs as if on wings. Our all-time leading scorer, 4 All-Star games with us\n🐗 Kyle Lowry = Emboar: cares deeply about its friends, masters many moves. 6 straight All-Star games and our first ring\n🐉 Scottie Barnes = Haxorus: kind, but relentless defending its territory. Rookie of the Year, All-Star in 2024 and 2026\n\nThat's a team we're taking into any gym in the league. Who would you change? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "key": "p:136@TOR",
+   "mon": "pk:staraptor",
+   "nick": "CARTER",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "PREDATOR",
+   "stat": "ROY 1999"
+  },
+  {
+   "key": "p:1977@TOR",
+   "mon": "pk:ampharos",
+   "nick": "BOSH",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "label": "LIGHT",
+   "stat": "5x ALL-STAR"
+  },
+  {
+   "key": "p:3978@TOR",
+   "mon": "pk:arcanine",
+   "nick": "DEROZAN",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "LEGENDARY",
+   "stat": "4x ALL-STAR"
+  },
+  {
+   "key": "p:3012@TOR",
+   "mon": "pk:emboar",
+   "nick": "LOWRY",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "MEGA FIRE PIG",
+   "stat": "6x ALL-STAR"
+  },
+  {
+   "key": "p:4433134@TOR",
+   "mon": "pk:haxorus",
+   "nick": "BARNES",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "label": "AXE JAW",
+   "stat": "2x ALL-STAR"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If five of our All-Stars were Pokemon,",
+   "dlg": "IF FIVE OF OUR ALL-STARS|WERE MONSTERS..."
+  },
+  {
+   "kind": "p_intro",
+   "cont": true,
+   "vo": "here's the team.",
+   "dlg": "HERE'S THE TEAM!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "Vince Carter is Staraptor.",
+   "dlg": "GO! VINCE CARTER!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "fx": "poster",
+   "vo": "It courageously challenges foes that are much larger, and it never stops attacking.",
+   "dlg": "IT CHALLENGES FOES THAT|ARE MUCH LARGER."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "Rookie of the Year in ninety-nine, then he took us to our first playoffs ever.",
+   "dlg": "ROOKIE OF THE YEAR, 1999.|OUR FIRST PLAYOFFS EVER!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "Chris Bosh is Ampharos.",
+   "dlg": "GO! CHRIS BOSH!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "fx": "spark",
+   "vo": "The light on its tail is so bright, it acts as a beacon for lost people.",
+   "dlg": "ITS TAIL IS A BEACON|FOR LOST PEOPLE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "After Vince left, Bosh was our beacon. Five All-Star games with us.",
+   "dlg": "OUR BEACON AFTER VINCE:|5 TIMES AN ALL-STAR!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "DeMar DeRozan is Arcanine.",
+   "dlg": "GO! DEMAR DEROZAN!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "A Pokemon admired since the past for its beauty. It runs agilely, as if on wings.",
+   "dlg": "ADMIRED FOR ITS BEAUTY.|IT RUNS AS IF ON WINGS."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "Our all-time leading scorer, and four All-Star games in our jersey.",
+   "dlg": "OUR ALL-TIME|LEADING SCORER!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "vo": "Kyle Lowry is Emboar.",
+   "dlg": "GO! KYLE LOWRY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "It cares deeply about its friends, and it's adept at using many different moves.",
+   "dlg": "CARES DEEPLY FOR FRIENDS.|USES MANY DIFFERENT MOVES."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "stat": true,
+   "vo": "Six straight All-Star games, and our first ring.",
+   "dlg": "6 STRAIGHT ALL-STAR GAMES.|AND OUR FIRST RING!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "vo": "And Scottie Barnes is Haxorus.",
+   "dlg": "GO! SCOTTIE BARNES!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "vo": "It's kind, but relentless when defending its territory, with tusks that can cut steel.",
+   "dlg": "KIND, BUT RELENTLESS WHEN|DEFENDING ITS TERRITORY."
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "stat": true,
+   "vo": "Rookie of the Year, then an All-Star in twenty twenty-four and twenty twenty-six.",
+   "dlg": "ROOKIE OF THE YEAR.|ALL-STAR: 2024 AND 2026!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a team we're taking into any gym in the league.",
+   "dlg": "A TEAM WE'RE TAKING INTO|ANY GYM IN THE LEAGUE."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who would you change? Comment below.",
+   "dlg": "WHO WOULD YOU CHANGE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Carter won the 1999 NBA Rookie of the Year Award; he was instrumental in leading the Raptors to their first-ever playoff appearance in 2000",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "claim": "With the Raptors, Bosh became a five-time (5x) NBA All-Star and supplanted Vince Carter as the face and leader of the franchise",
+   "source": "https://en.wikipedia.org/wiki/Chris_Bosh"
+  },
+  {
+   "claim": "DeRozan spent nine seasons with the Raptors (2009-2018), where he became the franchise's all-time leading scorer; All-Star 2014, 2016, 2017, 2018 with Toronto (4x)",
+   "source": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
+   "claim": "Lowry: 6x NBA All-Star (2015-2020, sixth straight in 2019-20), all with Toronto (2012-2021); NBA champion 2019, the Raptors' first title",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Lowry"
+  },
+  {
+   "claim": "Barnes: NBA Rookie of the Year (2022), 2x NBA All-Star (2024, 2026)",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

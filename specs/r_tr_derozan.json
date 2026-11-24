@@ -1,0 +1,209 @@
+{
+ "team": "raptors",
+ "name": "tr_derozan",
+ "record": "5-4",
+ "caption": "IF DEMAR HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🐶 Growlithe: extremely loyal, barks at anything to protect its trainer. Drafted 9th in 2009, 9 seasons with us\n🔥 Houndoom: the pack picks its leader by fighting it out. 4 All-Star games with us, a starter in 2017\n🌋 Darmanitan: its internal fire burns hot enough to wreck a dump truck. 52 points on New Year's Day 2018\n⚡ Boltund: can run nonstop for days. By 2018, our leader in games, minutes and wins\n🐺 Lycanroc: raised young, it never betrays its trainer. July 2018, we traded him for Kawhi\n🌟 Entei: blasts fire that consumes everything it touches. Still our all-time leading scorer\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If DeMar DeRozan had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF DEMAR HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Growlithe. Extremely loyal, it barks at anything to protect its trainer. We drafted DeMar ninth in twenty oh nine, and he gave us nine seasons.",
+   "dlg": "EXTREMELY LOYAL.|#9 PICK, 9 SEASONS WITH US"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Houndoom. The pack picks its leader by fighting it out. DeMar fought his way to four All-Star games with us, and started in twenty seventeen.",
+   "dlg": "THE PACK PICKS ITS LEADER.|4 ALL-STAR GAMES WITH US"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Darmanitan. Its internal fire burns at twenty-five hundred degrees. New Year's Day, twenty eighteen: fifty-two points.",
+   "dlg": "ITS INNER FIRE BURNS HOT.|NEW YEAR'S DAY: 52 POINTS!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Boltund. It can run nonstop for three full days. By twenty eighteen, DeMar led our franchise in games, minutes and wins.",
+   "dlg": "IT RUNS NONSTOP FOR DAYS.|OUR LEADER IN GAMES, WINS"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Lycanroc. Raised from a young age, it will never betray its trainer. Nine seasons he stayed loyal. Then, in July twenty eighteen, we traded him for Kawhi.",
+   "dlg": "NEVER BETRAYS ITS TRAINER.|2018: TRADED FOR KAWHI"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Entei. It blasts fire that consumes everything it touches. Nine seasons, and he's still our all-time leading scorer. Today he's a Nugget.",
+   "dlg": "ITS FIRE CONSUMES ALL.|STILL OUR ALL-TIME SCORER"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "game": "400975292",
+   "player": "3978",
+   "stat": "PTS",
+   "value": 52
+  },
+  {
+   "claim": "DeRozan: selected ninth overall (No. 9) by Toronto in the 2009 draft; spent nine (9) seasons with the Raptors (2009-2018); All-Star 2014, 2016, 2017, 2018 with Toronto (four, 4X), named a starter for the 2017 All-Star Game; on January 1, 2018 (New Year's Day) scored a franchise-record 52 points vs Milwaukee; finished 2017-18 as the franchise leader in games played, wins and total minutes; traded to San Antonio for Kawhi Leonard on July 18, 2018; the franchise's all-time leading scorer; now with the Denver Nuggets",
+   "source": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3978@TOR",
+   "mon": "pk:growlithe",
+   "nick": "GROWLITHE",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "LOYAL PUP",
+   "stat": "NO. 9 PICK"
+  },
+  {
+   "key": "p:3978@TOR",
+   "mon": "pk:houndoom",
+   "nick": "HOUNDOOM",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "PACK LEADER",
+   "stat": "4X ALL-STAR"
+  },
+  {
+   "key": "p:3978@TOR",
+   "mon": "pk:darmanitan",
+   "nick": "DARMANITAN",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "THE FURNACE",
+   "stat": "52 PTS"
+  },
+  {
+   "key": "p:3978@TOR",
+   "mon": "pk:boltund",
+   "nick": "BOLTUND",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "label": "IRON MAN",
+   "stat": "MOST GAMES"
+  },
+  {
+   "key": "p:3978@TOR",
+   "mon": "pk:lycanroc",
+   "nick": "LYCANROC",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ]
+   ],
+   "label": "NO BETRAYAL",
+   "stat": "JULY 2018"
+  },
+  {
+   "key": "p:3978@TOR",
+   "mon": "pk:entei",
+   "nick": "ENTEI",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "ALL-TIME PTS"
+  }
+ ],
+ "mode": "trainer"
+}

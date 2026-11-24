@@ -1,0 +1,112 @@
+{
+ "team": "warriors",
+ "name": "stephwilt",
+ "record": "7-3",
+ "caption": "OUR GOAT? 🎮🏀 Wilt averaged 50.4 a night for us. Steph has 4 rings. Who's our greatest ever?\n\n• Wilt, 1961-62: 50.4 PPG, and the 100-point game\n• 1965: we trade Wilt to Philadelphia, he never wins a title with us\n• Steph: 4 titles, 2 MVPs (the only unanimous one ever), a Finals MVP\n• Steph passed Wilt's 17,783 to become our all-time leading scorer\n• Steph this season: 31.3 PPG through his first 8 games\n\nSteph or Wilt? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "WILT",
+   "key": "l:GSW",
+   "name": "WILT",
+   "badge": "1959-1965",
+   "lines": [
+    [
+     "50.4",
+     "PPG, 1962"
+    ],
+    [
+     "100",
+     "PT GAME"
+    ]
+   ],
+   "vo": "Wilt Chamberlain averages fifty point four points a game for us. In one season.",
+   "dlg": "WILT FOR US: 50.4 PPG|IN ONE SEASON."
+  },
+  {
+   "kind": "fire",
+   "head": "THE CATCH",
+   "key": "l:PHI",
+   "name": "WILT",
+   "badge": "NO RINGS HERE",
+   "lines": [
+    [
+     "1965",
+     "TRADED"
+    ]
+   ],
+   "vo": "But in nineteen sixty-five, we trade him to Philadelphia. He never wins a title with us.",
+   "dlg": "1965: WE TRADE WILT.|NO TITLE WITH US."
+  },
+  {
+   "kind": "fire",
+   "head": "STEPH",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "UNANIMOUS MVP",
+   "lines": [
+    [
+     "4",
+     "TITLES"
+    ],
+    [
+     "2",
+     "MVPS"
+    ]
+   ],
+   "vo": "Steph: four titles, two MVPs, the only unanimous one ever, and a Finals MVP.",
+   "dlg": "STEPH: 4 TITLES, 2 MVPS,|AND A FINALS MVP."
+  },
+  {
+   "kind": "fire",
+   "head": "PASSED WILT",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "#1 ALL-TIME",
+   "lines": [
+    [
+     "17,783",
+     "WILT'S MARK"
+    ],
+    [
+     "31.3",
+     "PPG NOW"
+    ]
+   ],
+   "vo": "He passes Wilt as our all-time leading scorer. And through eight games this season, he's at thirty-one point three.",
+   "dlg": "HE PASSES WILT'S 17,783.|NOW: 31.3 PPG, 8 GAMES IN."
+  },
+  {
+   "kind": "next",
+   "head": "OUR GOAT?",
+   "logo": "l:GSW",
+   "rec": "30",
+   "ntxt": "STEPH OR WILT",
+   "nday": "OUR GREATEST?",
+   "vo": "Steph or Wilt: who's our greatest ever? Comment below.",
+   "dlg": "STEPH OR WILT?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 31.3
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Wilt Chamberlain played for the Philadelphia/San Francisco Warriors 1959–1965; averaged 50.4 points in 1961–62 (the 1962 season); scored 100 points in a game; traded to the Philadelphia 76ers in 1965; his first NBA title came with the 76ers in 1966–67",
+   "source": "https://en.wikipedia.org/wiki/Wilt_Chamberlain"
+  },
+  {
+   "claim": "Curry (No. 30): 4× NBA champion, 2× MVP (2015, 2016), the only unanimous MVP in league history, 2022 Finals MVP; surpassed Wilt Chamberlain (17,783) to become the franchise's all-time scoring leader (#1)",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  }
+ ]
+}

@@ -1,0 +1,239 @@
+{
+ "team": "raptors",
+ "name": "tr_martin",
+ "record": "5-4",
+ "caption": "IF ALIJAH MARTIN HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🏈 Tauros: once it starts running, it won't stop. 2,100 passing yards and 1,300 rushing yards as a high school senior\n🦉 Noctowl: sees in the dark, never lets its prey escape. Helped Florida Atlantic to its first ever Final Four\n🐊 Feraligatr: huge jaws, and blinding speed when it attacks. 2025 national champion with the Florida Gators\n♟️ Pawniard: trains hard, dreaming of one day taking the lead. Our pick 39, on a two-way deal\n👊 Scrafty: guards its turf and never leaves it. G League All-Defensive Team and All-League Third Team\n🔥 Charizard: breathes fire hot enough to melt boulders. 27 points at Milwaukee on 6-of-7 from three, 53.3% from three through 9 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Alijah Martin had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF MARTIN HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Tauros. Once it starts running, it won't stop. In high school, he threw for twenty-one hundred yards and ran for thirteen hundred.",
+   "dlg": "IT CHARGES AND WON'T STOP.|2,100 PASS, 1,300 RUSH YDS"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Noctowl. It sees in the dark and never lets its prey escape. He helped take the Florida Atlantic Owls to their first Final Four ever.",
+   "dlg": "IT SEES IN THE DARK.|FAU'S FIRST FINAL FOUR!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Feraligatr. Huge jaws, and blinding speed when it attacks. He transferred to Florida, and won the national title in twenty twenty-five.",
+   "dlg": "HUGE JAWS, BLINDING SPEED.|2025 NATIONAL CHAMPION!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Pawniard. It trains hard, dreaming of one day taking the lead. We took him thirty-ninth, on a two-way deal.",
+   "dlg": "TRAINS TO TAKE THE LEAD.|PICK 39, A TWO-WAY DEAL."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Scrafty. It guards its turf and never leaves it. In the G League last season: All-Defensive Team, and All-League Third Team.",
+   "dlg": "IT GUARDS ITS TURF.|ALL-D, ALL-LEAGUE 3RD TEAM"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Charizard. Fire hot enough to melt boulders. Twenty-seven at Milwaukee, six of seven from three, and fifty-three point three percent from deep through nine games.",
+   "dlg": "FIRE THAT MELTS BOULDERS.|27 AT MILWAUKEE, 6 OF 7!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4702656",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4702656",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 53.3
+  },
+  {
+   "game": "401909292",
+   "player": "4702656",
+   "stat": "PTS",
+   "value": 27
+  },
+  {
+   "game": "401909292",
+   "player": "4702656",
+   "stat": "3PT",
+   "value": "6-7"
+  },
+  {
+   "claim": "High school senior season as quarterback: passed for 2,100 yards and rushed for 1,300 yards; helped lead Florida Atlantic to the school's first ever Final Four; transferred to Florida, NCAA champion (2025); selected 39th overall (#39) by Toronto in the 2025 NBA draft, signed to a two-way contract; All-NBA G League Third (3rd) Team (2026), NBA G League All-Defensive Team (2026)",
+   "source": "https://en.wikipedia.org/wiki/Alijah_Martin"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:4702656@TOR",
+   "mon": "pk:tauros",
+   "nick": "TAUROS",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "QUARTERBACK",
+   "stat": "2,100 PASS YDS"
+  },
+  {
+   "key": "p:4702656@TOR",
+   "mon": "pk:noctowl",
+   "nick": "NOCTOWL",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE OWL",
+   "stat": "FINAL FOUR"
+  },
+  {
+   "key": "p:4702656@TOR",
+   "mon": "pk:feraligatr",
+   "nick": "FERALIGATR",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "THE GATOR",
+   "stat": "2025 CHAMPS"
+  },
+  {
+   "key": "p:4702656@TOR",
+   "mon": "pk:pawniard",
+   "nick": "PAWNIARD",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "THE PAWN",
+   "stat": "PICK 39"
+  },
+  {
+   "key": "p:4702656@TOR",
+   "mon": "pk:scrafty",
+   "nick": "SCRAFTY",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "THE GRINDER",
+   "stat": "G LEAGUE ALL-D"
+  },
+  {
+   "key": "p:4702656@TOR",
+   "mon": "pk:charizard",
+   "nick": "CHARIZARD",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "27 PTS"
+  }
+ ],
+ "mode": "trainer"
+}

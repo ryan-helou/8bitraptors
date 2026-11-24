@@ -1,0 +1,73 @@
+{
+ "team": "warriors",
+ "name": "bogut",
+ "pace": "wolves",
+ "caption": "TRADE COURT, CASE #2: WE TRADED MONTA FOR A HURT CENTER 🎮🏀\n\n• March 13, 2012: Monta Ellis, Ekpe Udoh and Kwame Brown to Milwaukee for Andrew Bogut and Stephen Jackson\n• Bogut had fractured his ankle that January and was out for the season\n• 2015: Bogut was our starting center, made All-Defensive Second Team, and we won the title\n\nRight trade?\n\nYour verdict: comment W or L 👇\nCase #3 drops Saturday night. Follow so you don't miss it.",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "THE TRADE",
+   "key": "p:2751@GSW",
+   "name": "MONTA",
+   "badge": "TRADE COURT #2",
+   "lines": [
+    [
+     "MONTA",
+     "GOING OUT"
+    ]
+   ],
+   "vo": "We traded Monta Ellis for a center with a broken ankle.",
+   "dlg": "WE TRADED MONTA ELLIS|FOR A BROKEN ANKLE."
+  },
+  {
+   "kind": "fire",
+   "head": "THE CENTER",
+   "key": "p:2747@GSW",
+   "name": "BOGUT",
+   "badge": "OUT FOR THE YEAR",
+   "lines": [
+    [
+     "0",
+     "GAMES LEFT THAT SEASON"
+    ]
+   ],
+   "vo": "Andrew Bogut had fractured his ankle in January. He was out for the season.",
+   "dlg": "ANDREW BOGUT.|OUT FOR THE SEASON."
+  },
+  {
+   "kind": "fire",
+   "head": "2015",
+   "key": "p:2747@GSW",
+   "name": "BOGUT",
+   "badge": "2015",
+   "lines": [
+    [
+     "2015",
+     "NBA CHAMP"
+    ],
+    [
+     "2ND",
+     "ALL-DEFENSE TEAM"
+    ]
+   ],
+   "vo": "Three years later, he anchored our defense, and we won the title.",
+   "dlg": "2015: ALL-DEFENSIVE TEAM.|AND A RING."
+  },
+  {
+   "kind": "next",
+   "head": "THE VERDICT",
+   "logo": "l:GSW",
+   "rec": "W OR L?",
+   "ntxt": "CASE #3",
+   "nday": "SATURDAY",
+   "vo": "Did we win this trade? W or L. Case three, Saturday night.",
+   "dlg": "DID WE WIN THIS TRADE?|W OR L? CASE #3: SATURDAY NIGHT."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "On 13 March 2012 (Mar 13, 2012, March 2012), Andrew Bogut and Stephen Jackson were traded to the Golden State Warriors for Monta Ellis, Ekpe Udoh and Kwame Brown. Bogut fractured his ankle on 25 January 2012, ruling him out for the rest of the season (0 games left). He was named NBA All-Defensive Second Team (2nd) in 2015, when he won an NBA championship with the Warriors, three years later. ESPN ids Bogut 2747, Ellis 2751.",
+   "source": "https://en.wikipedia.org/wiki/Andrew_Bogut"
+  }
+ ]
+}

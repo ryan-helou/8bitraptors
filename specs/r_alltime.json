@@ -1,0 +1,81 @@
+{
+ "team": "raptors",
+ "name": "alltime",
+ "l1": "ONE GAME TO WIN...",
+ "q": "PICK ONE RAPTOR!",
+ "boxA": "ALL-TIME RAPTORS",
+ "boxB": "ONE GAME TO WIN",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: ALL-TIME 🎮🏀 One game, winner takes all. You get ONE Raptor.\n\n1️⃣ Vince Carter, high-flyer: 23.4 PPG and 5.2 RPG as a Raptor, 5x All-Star\n2️⃣ Kawhi Leonard, closer: 26.6 PPG in 2018-19, Finals MVP, 1 title\n3️⃣ Kyle Lowry, playmaker: #1 in Raptors assists, 1 title, 6x All-Star\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "136",
+   "name": "VINCE",
+   "full": "VINCE CARTER",
+   "jersey": "15",
+   "type": "HIGH-FLYER",
+   "season": "RAPTORS 1998-2004",
+   "stats": [
+    [
+     "23.4",
+     "PPG"
+    ],
+    [
+     "5.2",
+     "RPG"
+    ],
+    [
+     "5X",
+     "ALL-STAR"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "6450",
+   "name": "KAWHI",
+   "full": "KAWHI LEONARD",
+   "jersey": "2",
+   "type": "CLOSER",
+   "season": "RAPTORS 2018-19",
+   "stats": [
+    [
+     "26.6",
+     "PPG"
+    ],
+    [
+     "7.3",
+     "RPG"
+    ],
+    [
+     "1",
+     "TITLE"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3012",
+   "name": "LOWRY",
+   "full": "KYLE LOWRY",
+   "jersey": "7",
+   "type": "PLAYMAKER",
+   "season": "RAPTORS 2012-2021",
+   "stats": [
+    [
+     "#1",
+     "ASSISTS"
+    ],
+    [
+     "1",
+     "TITLE"
+    ],
+    [
+     "6X",
+     "ALL-STAR"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ]
+}

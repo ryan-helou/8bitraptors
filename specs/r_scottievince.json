@@ -1,0 +1,150 @@
+{
+ "team": "raptors",
+ "name": "scottievince",
+ "record": "5-4",
+ "caption": "YEAR 6 🎮🏀 Vince Carter was the face of our franchise. In year six, Scottie Barnes is outscoring him.\n\n• Vince, year 6 (2003-04): 22.5 PPG, 4.8 RPG, 4.8 APG, 38.3% from three\n• Scottie, year 6, first 8 games: 23.5 PPG, 7.6 RPG, 5.1 APG\n• Scottie from three so far: 15.4%\n• Vince was traded to New Jersey in December 2004, his seventh season\n\nYear-six Vince or year-six Scottie? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "VINCE VS SCOTTIE",
+   "key": "p:136@TOR",
+   "name": "VINCE",
+   "badge": "YEAR 6",
+   "lines": [
+    [
+     "6",
+     "SEASONS IN"
+    ]
+   ],
+   "vo": "Vince Carter was the face of our franchise. In year six, Scottie Barnes is outscoring him.",
+   "dlg": "VINCE CARTER VS SCOTTIE.|SAME POINT: YEAR 6."
+  },
+  {
+   "kind": "fire",
+   "head": "VINCE, YEAR 6",
+   "key": "p:136@TOR",
+   "name": "VINCE",
+   "badge": "2003-04",
+   "lines": [
+    [
+     "22.5",
+     "PPG"
+    ],
+    [
+     "38.3",
+     "FROM DEEP"
+    ]
+   ],
+   "vo": "Vince in his sixth season: twenty-two point five points a night, shooting thirty-eight percent from three.",
+   "dlg": "VINCE, YEAR 6: 22.5 PPG,|38.3% FROM THREE."
+  },
+  {
+   "kind": "fire",
+   "head": "SCOTTIE, YEAR 6",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "23.5",
+     "PPG"
+    ],
+    [
+     "7.6",
+     "RPG"
+    ]
+   ],
+   "vo": "Scottie in his sixth, through eight games: twenty-three point five points, seven point six rebounds, five assists.",
+   "dlg": "SCOTTIE, YEAR 6: 23.5 PPG,|7.6 RPG, 5.1 APG."
+  },
+  {
+   "kind": "fire",
+   "head": "THE CATCH",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "FROM THREE",
+   "lines": [
+    [
+     "15.4",
+     "FROM DEEP"
+    ]
+   ],
+   "vo": "The catch? Scottie is hitting fifteen percent from three. Vince could fly and shoot.",
+   "dlg": "THE CATCH: SCOTTIE IS AT|15.4% FROM THREE."
+  },
+  {
+   "kind": "next",
+   "head": "WHO'S BETTER?",
+   "logo": "l:TOR",
+   "rec": "YR 6",
+   "ntxt": "VINCE OR",
+   "nday": "SCOTTIE?",
+   "vo": "Year-six Vince, or year-six Scottie? Comment below.",
+   "dlg": "YEAR-6 VINCE OR SCOTTIE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "136",
+   "season": "2003-04",
+   "stat": "PTS",
+   "value": 22.5
+  },
+  {
+   "player": "136",
+   "season": "2003-04",
+   "stat": "REB",
+   "value": 4.8
+  },
+  {
+   "player": "136",
+   "season": "2003-04",
+   "stat": "AST",
+   "value": 4.8
+  },
+  {
+   "player": "136",
+   "season": "2003-04",
+   "stat": "3P%",
+   "value": 38.3
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 7.6
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.1
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 15.4
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Carter, drafted in 1998, played for Toronto 1998-2004: 2003-04 was his 6th season with Toronto; on December 17, 2004 (his 7th season) he was traded to the New Jersey Nets",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "claim": "Barnes drafted 2021 by Toronto; 2026-27 is his 6th NBA season, all with Toronto",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  }
+ ]
+}

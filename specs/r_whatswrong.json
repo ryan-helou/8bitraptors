@@ -1,0 +1,159 @@
+{
+ "team": "raptors",
+ "name": "whatswrong",
+ "pace": "wolves",
+ "record": "5-8",
+ "caption": "5-8. WHAT'S WRONG? 🎮🏀 Four straight losses. Here's what our first 13 games say.\n\n• The streak: Memphis 118-102, Boston 98-93, at Philly 123-112, Knicks 112-108\n• In our 8 losses, teams scored 118.5 a game on us. In our 5 wins: 103.6\n• We're shooting 32.8% from deep\n• Kawhi has played 2 of our 13 games\n\nDefense, shooting or Kawhi? What's really wrong? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "WHAT'S WRONG?",
+   "key": "l:TOR",
+   "name": "US",
+   "badge": "FIRST 13 GAMES",
+   "lines": [
+    [
+     "5-8",
+     "RECORD"
+    ],
+    [
+     "4",
+     "STRAIGHT LOSSES"
+    ]
+   ],
+   "vo": "Five and eight. Four straight losses. So what's actually wrong with us?",
+   "dlg": "5-8. FOUR STRAIGHT L'S.|SO WHAT'S WRONG WITH US?"
+  },
+  {
+   "kind": "hot",
+   "head": "THE STREAK",
+   "rows": [
+    {
+     "logo": "l:MEM",
+     "name": "VS MEMPHIS",
+     "sub": "118-102",
+     "val": "-16",
+     "w": 0
+    },
+    {
+     "logo": "l:BOS",
+     "name": "VS BOSTON",
+     "sub": "98-93",
+     "val": "-5",
+     "w": 0
+    },
+    {
+     "logo": "l:PHI",
+     "name": "AT PHILLY",
+     "sub": "123-112",
+     "val": "-11",
+     "w": 0
+    },
+    {
+     "logo": "l:NYK",
+     "name": "VS NEW YORK",
+     "sub": "112-108",
+     "val": "-4",
+     "w": 0
+    }
+   ],
+   "vo": "Memphis by sixteen. Boston by five. Philly by eleven. The Knicks by four.",
+   "dlg": "MEMPHIS. BOSTON. PHILLY. NEW YORK.|FOUR IN A ROW."
+  },
+  {
+   "kind": "fire",
+   "head": "THE DEFENSE",
+   "key": "l:TOR",
+   "name": "US",
+   "badge": "FIRST 13 GAMES",
+   "lines": [
+    [
+     "118.5",
+     "ALLOWED IN LOSSES"
+    ],
+    [
+     "103.6",
+     "ALLOWED IN WINS"
+    ]
+   ],
+   "vo": "In our eight losses, teams drop a hundred and eighteen a night on us. In our wins, a hundred and three.",
+   "dlg": "LOSSES: 118.5 ALLOWED.|WINS: 103.6 ALLOWED."
+  },
+  {
+   "kind": "fire",
+   "head": "FROM DEEP",
+   "key": "l:TOR",
+   "name": "US",
+   "badge": "FIRST 13 GAMES",
+   "lines": [
+    [
+     "32.8%",
+     "FROM DEEP"
+    ]
+   ],
+   "vo": "We're hitting just thirty-two point eight percent from deep.",
+   "dlg": "32.8% FROM DEEP.|THE SHOTS AREN'T FALLING."
+  },
+  {
+   "kind": "fire",
+   "head": "WHERE'S KAWHI?",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "FIRST 13 GAMES",
+   "lines": [
+    [
+     "2",
+     "OF 13 GAMES"
+    ]
+   ],
+   "vo": "And Kawhi has played two of our thirteen games.",
+   "dlg": "KAWHI: 2 OF OUR|13 GAMES."
+  },
+  {
+   "kind": "next",
+   "head": "WHAT'S WRONG?",
+   "logo": "l:TOR",
+   "rec": "5-8",
+   "ntxt": "4 STRAIGHT",
+   "nday": "LOSSES",
+   "vo": "Defense, shooting, or Kawhi? What's really wrong? Comment below.",
+   "dlg": "DEFENSE, SHOOTING OR KAWHI?|WHAT'S REALLY WRONG?"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401909955",
+   "score": "118-102"
+  },
+  {
+   "game": "401909968",
+   "score": "98-93"
+  },
+  {
+   "game": "401909976",
+   "score": "123-112"
+  },
+  {
+   "game": "401909990",
+   "score": "112-108"
+  },
+  {
+   "claim": "Raptors 2026-27 results through 13 games (5-8, 4 straight losses, 0 wins in the streak: MEM, BOS, PHI, NYK). Margins: Memphis 16, Boston 5, Philly 11, Knicks 4. Opponent points in our 8 losses: MIN 117, ORL 121, LAL 131, DEN 128, MEM 118, BOS 98, PHI 123, NYK 112 = 948, 118.5 per game. Opponent points in our 5 wins: CHI 92, WSH 102, ORL 99, LAC 118, MIL 107 = 518, 103.6 per game.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/tor/schedule"
+  },
+  {
+   "claim": "Raptors three-pointers 2026-27, first 13 games: 142 of 432 through 12 games (ESPN team statistics) plus 11 of 35 vs the Knicks on Nov 15 (ESPN box score 401909990) = 153 of 467, 32.8%",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909990"
+  },
+  {
+   "claim": "Kawhi Leonard did not appear in the Nov 15 box score vs the Knicks, so he has played 2 of our 13 games",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909990"
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 2
+  }
+ ]
+}

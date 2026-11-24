@@ -1,0 +1,1129 @@
+{
+ "team": "warriors",
+ "name": "problems_town",
+ "template": "fmt_town_problems.html",
+ "pace": "wolves",
+ "record": "8-8",
+ "music": "prob152",
+ "voice_eq": "bright",
+ "voff": 0.0,
+ "duck_bridge": true,
+ "duck_depth": 0.93,
+ "cps": 48,
+ "tts_speed": 1.15,
+ "caption": "8 LOSSES. 3 PROBLEMS. 🌉\n\nWe're 8-8 after Grizzlies 126, Warriors 98. The same things keep showing up in the losses:\n\n1️⃣ Slow starts: down at halftime in all 8 losses, by 13 or more in 4 of them (Spurs 33-63, Pelicans 36-61, Mavericks 49-62)\n2️⃣ Cold threes: 57 of 205 (28%) in this five-game skid, and 5 of 29 in Memphis\n3️⃣ One guy takes over: Booker 43, Flagg 33\n\nSteph played in one of the five: 6 minutes in Houston (he's out since Nov 12). We lost all five.\n\nThe good news: still 6-1 at home, and 7 of the 8 losses came on the road (the only home loss: Memphis by 3).\n\nNo trade, no panic. Wake up in the first quarter.\n\nWhich of the three would you fix first?\n\n#NBA #StephenCurry #Warriors #DubNation #BasketBall",
+ "beats": [
+  {
+   "kind": "town",
+   "vo": "We just lost to Memphis by twenty-eight that's eight losses now",
+   "txt": {
+    "s_arena": "FEDEXFORUM",
+    "s_arena_sub": "GRIZZLIES 126, WARRIORS 98",
+    "dz": "WE JUST LOST TO|MEMPHIS BY 28.",
+    "do": "THAT'S EIGHT LOSSES|NOW.",
+    "dw": "THE SAME 3 PROBLEMS|KEEP SHOWING UP.",
+    "sc_head": "8 LOSSES",
+    "sc_headw": "8 LOSSES. 3 PROBLEMS.",
+    "scz": "108-115",
+    "sco": "85-123",
+    "scw": "94-115",
+    "sch": "94-116",
+    "scf": "98-126",
+    "sc_ot": "OT",
+    "rec": "WARRIORS: 8-8",
+    "s_ro": "ROUTE 1",
+    "s_ro_sub": "THE FIRST HALF",
+    "tl": "TOO LATE",
+    "mz": "-30",
+    "mo": "-25",
+    "mw": "-13",
+    "dh": "ONE: WE START ASLEEP.",
+    "df": "DOWN AT THE HALF IN|ALL 8 LOSSES.",
+    "dv": "SPURS, PELICANS,|MAVERICKS.",
+    "dx": "EVERY TIME WE WERE|DOWN BIG...",
+    "ds": "...AND WE LOST BY|20 OR MORE.",
+    "h_head": "HALFTIME, ROAD LOSSES",
+    "hz": "SPURS",
+    "hvz": "33-63",
+    "ho": "PELICANS",
+    "hvo": "36-61",
+    "hw": "MAVERICKS",
+    "hvw": "49-62",
+    "s_lake": "LAKE THREE",
+    "s_lake_sub": "NOTHING'S BITING",
+    "de": "TWO: THE THREES.",
+    "dn": "5-GAME SKID: 28%|FROM DEEP.",
+    "doz": "IN MEMPHIS WE MADE|5 OF 29.",
+    "p_head": "3-POINTERS, 5-GAME SKID",
+    "p_a": "57/205",
+    "p_b": "28%",
+    "p_sub": "5-29 AT MEMPHIS",
+    "t_nib": "NOT EVEN A NIBBLE...",
+    "t_boot": "...AN OLD BOOT.",
+    "s_pass": "STAR PASS",
+    "s_pass_sub": "ONE GUY BEAT US",
+    "doo": "THREE: ONE GUY GETS|WHATEVER HE WANTS.",
+    "dow": "BOOKER HAD 43.",
+    "doh": "FLAGG HAD 33.",
+    "n_a": "BOOKER",
+    "n_b": "FLAGG",
+    "pt_a": "43 PTS",
+    "pt_b": "33 PTS",
+    "ft_a": "17-25 FG",
+    "ft_b": "11-15 FG",
+    "s_city": "SAN FRANCISCO",
+    "s_city_sub": "8-8 SO FAR",
+    "s_good": "THE GOOD NEWS",
+    "n_star": "CURRY",
+    "t_star": "PLAYED IN 1 OF 5",
+    "g_star": "6 MIN AT HOU",
+    "dof": "STEPH PLAYED IN ONE|OF THE FIVE.",
+    "dov": "HE PLAYED 6 MINUTES.",
+    "dox": "HERE'S THE GOOD NEWS.",
+    "dos": "WE'RE STILL 6-1 AT|HOME.",
+    "doe": "AND 7 OF 8 LOSSES|CAME ON THE ROAD.",
+    "gn_head": "WARRIORS: 8-8",
+    "gnz": "6-1 AT HOME",
+    "gno": "7 LOSSES ON THE ROAD",
+    "gnw": "ONLY HOME LOSS: MEMPHIS BY 3",
+    "s_fix": "THE FIX",
+    "bag": "BAG",
+    "bz": "TRADE",
+    "bo": "PANIC",
+    "bw": "AWAKENING",
+    "bxz": "X0",
+    "bxo": "X1",
+    "woke": "WARRIORS WOKE UP!",
+    "don": "SO NO TRADE, NO PANIC.",
+    "dwz": "WAKE UP IN THE FIRST|QUARTER...",
+    "dwo": "...AND A COUPLE OF|THESE FLIP."
+   },
+   "stat": {
+    "shots": [
+     {
+      "t": 0,
+      "map": "arena",
+      "mood": "dusk",
+      "tabs": true,
+      "sign": [
+       "@s_arena",
+       "@s_arena_sub"
+      ],
+      "sprites": [
+       {
+        "k": "l:GS",
+        "x": 225,
+        "y": 372,
+        "sz": 60,
+        "bub": [
+         0,
+         "!",
+         null,
+         1.0
+        ],
+        "zz": [
+         5.2,
+         99
+        ]
+       },
+       {
+        "k": "l:MEM",
+        "x": 454,
+        "y": 365,
+        "sz": 50,
+        "path": [
+         [
+          1.45,
+          454,
+          365
+         ],
+         [
+          2.1,
+          580,
+          365
+         ]
+        ],
+        "hopmove": true,
+        "out": 2.1
+       }
+      ],
+      "pages": [
+       {
+        "t": 0,
+        "dlg": "@dz",
+        "pre": true
+       },
+       {
+        "t": 2.72,
+        "dlg": "@do"
+       },
+       {
+        "t": 4.25,
+        "dlg": "@dw"
+       }
+      ],
+      "pops": [
+       {
+        "t": 2.75,
+        "type": "scores",
+        "head": "@sc_head",
+        "head2": "@sc_headw",
+        "ht": 4.3,
+        "items": [
+         {
+          "logo": "l:HOU",
+          "s": "@scz"
+         },
+         {
+          "logo": "l:SA",
+          "s": "@sco"
+         },
+         {
+          "logo": "l:NO",
+          "s": "@scw"
+         },
+         {
+          "logo": "l:DAL",
+          "s": "@sch"
+         },
+         {
+          "logo": "l:MEM",
+          "s": "@scf"
+         }
+        ],
+        "at": [
+         2.75,
+         3.1,
+         3.4,
+         3.65,
+         3.95
+        ]
+       },
+       {
+        "t": 2.75,
+        "type": "toast",
+        "s": "@rec",
+        "x": 328,
+        "y": 342,
+        "w": 128
+       }
+      ]
+     },
+     {
+      "t": 7.15,
+      "fo": 0.2,
+      "fin": 0.1,
+      "map": "route",
+      "mood": "dusk",
+      "sign": [
+       "@s_ro",
+       "@s_ro_sub"
+      ],
+      "sprites": [
+       {
+        "k": "l:GS",
+        "x": 78,
+        "y": 324,
+        "sz": 54,
+        "zz": [
+         7.15,
+         16.0
+        ],
+        "bub": [
+         16.1,
+         "!",
+         null,
+         16.7
+        ],
+        "tag": "@tl",
+        "tagc": "#d83a3a",
+        "tagin": 18.1
+       },
+       {
+        "k": "l:SA",
+        "x": 217,
+        "y": 363,
+        "sz": 50,
+        "hopmove": true,
+        "path": [
+         [
+          9.25,
+          0,
+          363
+         ],
+         [
+          10.6,
+          217,
+          363
+         ],
+         [
+          15.45,
+          217,
+          363
+         ],
+         [
+          16.4,
+          600,
+          363
+         ]
+        ],
+        "out": 16.15,
+        "tag": "@mz",
+        "tagc": "#d83a3a",
+        "tagbig": true,
+        "tagin": 11.0,
+        "tagout": 15.3
+       },
+       {
+        "k": "l:NO",
+        "x": 304,
+        "y": 363,
+        "sz": 50,
+        "hopmove": true,
+        "path": [
+         [
+          9.45,
+          -60,
+          363
+         ],
+         [
+          10.75,
+          304,
+          363
+         ],
+         [
+          15.549999999999999,
+          304,
+          363
+         ],
+         [
+          16.5,
+          690,
+          363
+         ]
+        ],
+        "out": 16.03,
+        "tag": "@mo",
+        "tagc": "#d83a3a",
+        "tagbig": true,
+        "tagin": 11.0,
+        "tagout": 15.42
+       },
+       {
+        "k": "l:DAL",
+        "x": 409,
+        "y": 363,
+        "sz": 50,
+        "hopmove": true,
+        "path": [
+         [
+          9.65,
+          -120,
+          363
+         ],
+         [
+          10.9,
+          409,
+          363
+         ],
+         [
+          15.649999999999999,
+          409,
+          363
+         ],
+         [
+          16.599999999999998,
+          780,
+          363
+         ]
+        ],
+        "out": 15.88,
+        "tag": "@mw",
+        "tagc": "#d83a3a",
+        "tagbig": true,
+        "tagin": 11.0,
+        "tagout": 15.55
+       }
+      ],
+      "pages": [
+       {
+        "t": 7.1,
+        "dlg": "@dh"
+       },
+       {
+        "t": 8.85,
+        "dlg": "@df"
+       },
+       {
+        "t": 13.35,
+        "dlg": "@dv"
+       },
+       {
+        "t": 15.25,
+        "dlg": "@dx"
+       },
+       {
+        "t": 16.62,
+        "dlg": "@ds"
+       }
+      ],
+      "pops": [
+       {
+        "t": 11.85,
+        "type": "rows",
+        "head": "@h_head",
+        "rows": [
+         {
+          "s": "@hz",
+          "v": "@hvz",
+          "t": 13.4
+         },
+         {
+          "s": "@ho",
+          "v": "@hvo",
+          "t": 13.9
+         },
+         {
+          "s": "@hw",
+          "v": "@hvw",
+          "t": 14.35
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "t": 18.85,
+      "fin": 0.1,
+      "map": "lake",
+      "mood": "lake",
+      "sign": [
+       "@s_lake",
+       "@s_lake_sub"
+      ],
+      "sprites": [
+       {
+        "k": "l:GS",
+        "x": 116,
+        "y": 318,
+        "sz": 54,
+        "bobs": [
+         [
+          19.95,
+          20.3
+         ]
+        ],
+        "bub": [
+         25.6,
+         "!",
+         null,
+         26.1
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 18.85,
+        "dlg": "@de"
+       },
+       {
+        "t": 20.69,
+        "dlg": "@dn"
+       },
+       {
+        "t": 24.42,
+        "dlg": "@doz"
+       }
+      ],
+      "pops": [
+       {
+        "t": 18.85,
+        "type": "fish",
+        "x": 116,
+        "y": 318,
+        "bob": [
+         [
+          0,
+          170,
+          252
+         ],
+         [
+          19.95,
+          170,
+          252
+         ],
+         [
+          20.3,
+          300,
+          240,
+          30
+         ],
+         [
+          22.5,
+          356,
+          236
+         ],
+         [
+          25.9,
+          356,
+          236
+         ],
+         [
+          26.1,
+          300,
+          262
+         ]
+        ],
+        "boot": 26.1,
+        "bootAt": [
+         186,
+         300
+        ]
+       },
+       {
+        "t": 20.3,
+        "type": "ring",
+        "x": 300,
+        "y": 240,
+        "r": 60
+       },
+       {
+        "t": 20.75,
+        "type": "pct",
+        "head": "@p_head",
+        "a": "@p_a",
+        "b": "@p_b",
+        "vt": 22.4,
+        "sub": "@p_sub",
+        "st": 25.45
+       },
+       {
+        "t": 21.0,
+        "until": 24.25,
+        "type": "toast",
+        "s": "@t_nib",
+        "x": 250,
+        "y": 304,
+        "w": 195
+       },
+       {
+        "t": 26.55,
+        "type": "toast",
+        "s": "@t_boot",
+        "x": 275,
+        "y": 306,
+        "w": 186,
+        "col": "#c83a3a",
+        "edge": "#f0a0a0"
+       }
+      ]
+     },
+     {
+      "t": 27.45,
+      "fin": 0.04,
+      "map": "pass",
+      "sign": [
+       "@s_pass",
+       "@s_pass_sub"
+      ],
+      "sprites": [
+       {
+        "k": "l:PHX",
+        "x": 161,
+        "y": 322,
+        "sz": 50,
+        "path": [
+         [
+          30.55,
+          161,
+          322
+         ],
+         [
+          30.85,
+          74,
+          322
+         ]
+        ]
+       },
+       {
+        "k": "l:DAL",
+        "x": 379,
+        "y": 322,
+        "sz": 50,
+        "path": [
+         [
+          31.66,
+          379,
+          322
+         ],
+         [
+          31.98,
+          461,
+          322
+         ]
+        ]
+       },
+       {
+        "k": "l:GS",
+        "x": 270,
+        "y": 442,
+        "sz": 56,
+        "path": [
+         [
+          27.6,
+          270,
+          499
+         ],
+         [
+          28.7,
+          270,
+          442
+         ]
+        ],
+        "jump": [
+         29.15,
+         29.75
+        ],
+        "bub": [
+         29.15,
+         "!",
+         null,
+         30.2
+        ]
+       },
+       {
+        "k": "p:3136193",
+        "x": 158,
+        "y": 326,
+        "sz": 56,
+        "in": 30.55,
+        "glowin": true,
+        "tag": "@n_a",
+        "tagin": 30.95
+       },
+       {
+        "k": "m:emberfox",
+        "x": 228,
+        "y": 326,
+        "sz": 44,
+        "in": 30.9
+       },
+       {
+        "k": "m:frostram",
+        "x": 315,
+        "y": 326,
+        "sz": 44,
+        "in": 32.45,
+        "flip": true
+       },
+       {
+        "k": "p:5041939",
+        "x": 380,
+        "y": 326,
+        "sz": 56,
+        "in": 31.98,
+        "fade": 0.6,
+        "glowin": true,
+        "tag": "@n_b",
+        "tagin": 32.5
+       }
+      ],
+      "pages": [
+       {
+        "t": 27.39,
+        "dlg": "@doo"
+       },
+       {
+        "t": 30.52,
+        "dlg": "@dow"
+       },
+       {
+        "t": 31.95,
+        "dlg": "@doh"
+       }
+      ],
+      "pops": [
+       {
+        "t": 30.55,
+        "type": "flash",
+        "a": 0.05
+       },
+       {
+        "t": 30.95,
+        "type": "tag",
+        "s": "@pt_a",
+        "x": 158,
+        "y": 229,
+        "col": "#d83a3a"
+       },
+       {
+        "t": 31.0,
+        "type": "toast",
+        "s": "@ft_a",
+        "x": 113,
+        "y": 341,
+        "w": 90
+       },
+       {
+        "t": 32.5,
+        "type": "tag",
+        "s": "@pt_b",
+        "x": 380,
+        "y": 229,
+        "col": "#d83a3a"
+       },
+       {
+        "t": 33.0,
+        "type": "toast",
+        "s": "@ft_b",
+        "x": 335,
+        "y": 341,
+        "w": 90
+       }
+      ]
+     },
+     {
+      "t": 33.65,
+      "fin": 0.1,
+      "map": "city",
+      "mood": "city",
+      "sign": [
+       [
+        33.65,
+        "@s_city",
+        "@s_city_sub"
+       ],
+       [
+        37.05,
+        "@s_city",
+        "@s_good"
+       ]
+      ],
+      "sprites": [
+       {
+        "k": "p:3975",
+        "x": 142,
+        "y": 378,
+        "sz": 64,
+        "tag": "@n_star",
+        "tagin": 34.0
+       },
+       {
+        "k": "m:galehawk",
+        "x": 211,
+        "y": 362,
+        "sz": 46
+       },
+       {
+        "k": "l:GS",
+        "x": 377,
+        "y": 370,
+        "sz": 56,
+        "in": 37.05,
+        "bobs": [
+         [
+          41.9,
+          42.3
+         ]
+        ],
+        "path": [
+         [
+          37.05,
+          560,
+          370
+         ],
+         [
+          37.6,
+          497,
+          370
+         ],
+         [
+          37.85,
+          497,
+          370
+         ],
+         [
+          38.6,
+          377,
+          370
+         ]
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 33.65,
+        "dlg": "@dof"
+       },
+       {
+        "t": 35.15,
+        "dlg": "@dov"
+       },
+       {
+        "t": 37.02,
+        "dlg": "@dox"
+       },
+       {
+        "t": 38.05,
+        "dlg": "@dos"
+       },
+       {
+        "t": 40.45,
+        "dlg": "@doe"
+       }
+      ],
+      "pops": [
+       {
+        "t": 37.05,
+        "type": "flash",
+        "a": 0.03,
+        "dark": true,
+        "sfx": "none"
+       },
+       {
+        "t": 34.0,
+        "until": 37.05,
+        "type": "toast",
+        "s": "@t_star",
+        "x": 285,
+        "y": 349,
+        "w": 160
+       },
+       {
+        "t": 35.6,
+        "type": "tag",
+        "s": "@g_star",
+        "x": 142,
+        "y": 271,
+        "col": "#2a8a4a"
+       },
+       {
+        "t": 38.25,
+        "type": "rows",
+        "head": "@gn_head",
+        "rows": [
+         {
+          "s": "@gnz",
+          "t": 38.9
+         },
+         {
+          "s": "@gno",
+          "t": 40.75,
+          "col": "#3a9a5a",
+          "shc": "#c8ecd4"
+         },
+         {
+          "s": "@gnw",
+          "small": true,
+          "t": 41.9,
+          "y": 487
+         }
+        ]
+       },
+       {
+        "t": 41.9,
+        "type": "ring",
+        "x": 377,
+        "y": 345,
+        "r": 50
+       }
+      ]
+     },
+     {
+      "t": 43.15,
+      "fo": 0.2,
+      "fin": 0.1,
+      "map": "route",
+      "mood": "lake",
+      "sign": [
+       "@s_ro",
+       "@s_fix"
+      ],
+      "props": [
+       {
+        "type": "specks",
+        "in": 47.3,
+        "n": 15
+       }
+      ],
+      "sprites": [
+       {
+        "k": "l:GS",
+        "x": 165,
+        "y": 373,
+        "sz": 56,
+        "zz": [
+         0,
+         44.95
+        ],
+        "bub": [
+         44.95,
+         "!",
+         null,
+         45.5
+        ],
+        "jump": [
+         45.0,
+         49.7
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 43.05,
+        "dlg": "@don"
+       },
+       {
+        "t": 44.89,
+        "dlg": "@dwz"
+       },
+       {
+        "t": 46.05,
+        "dlg": "@dwo"
+       }
+      ],
+      "pops": [
+       {
+        "t": 43.15,
+        "type": "rows",
+        "head": "@bag",
+        "rows": [
+         {
+          "x": 92,
+          "vx": 470,
+          "val": "right",
+          "col": "#c2c2ca",
+          "shc": "#ececf0",
+          "vcol": "#c2c2ca",
+          "vshc": "#ececf0",
+          "s": "@bz",
+          "v": "@bxz",
+          "t": 43.6
+         },
+         {
+          "x": 92,
+          "vx": 470,
+          "val": "right",
+          "col": "#c2c2ca",
+          "shc": "#ececf0",
+          "vcol": "#c2c2ca",
+          "vshc": "#ececf0",
+          "s": "@bo",
+          "v": "@bxz",
+          "t": 44.15
+         },
+         {
+          "s": "@bw",
+          "v": "@bxo",
+          "x": 92,
+          "vx": 470,
+          "val": "right",
+          "col": "#3a9a5a",
+          "shc": "#c8ecd4",
+          "vcol": "#3a9a5a",
+          "vshc": "#c8ecd4",
+          "ball": true,
+          "bx": 78,
+          "t": 44.95
+         }
+        ]
+       },
+       {
+        "t": 44.95,
+        "type": "ring",
+        "x": 165,
+        "y": 345,
+        "r": 70
+       },
+       {
+        "t": 44.95,
+        "type": "flash",
+        "a": 0.07
+       },
+       {
+        "t": 44.95,
+        "type": "toast",
+        "s": "@woke",
+        "x": 290,
+        "y": 322,
+        "w": 150,
+        "col": "#2e8a4a",
+        "edge": "#9ad8aa"
+       }
+      ]
+     }
+    ],
+    "endDim": 49.05,
+    "fadeOut": 0.1,
+    "fadeDepth": 0.35,
+    "fadeIn": 0.12,
+    "grain": 4
+   }
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.5
+  },
+  {
+   "kind": "town",
+   "vo": "and the same three problems keep showing up One we start asleep."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 1.08
+  },
+  {
+   "kind": "town",
+   "vo": "In all eight losses we were down at halftime four times by 13 or more."
+  },
+  {
+   "kind": "town",
+   "vo": "Spurs Pelicans Mavericks every time we were down big"
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.4
+  },
+  {
+   "kind": "town",
+   "vo": "and every time we lost by twenty plus Two the threes."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.86
+  },
+  {
+   "kind": "town",
+   "vo": "In this five-game skid we shot 28% from deep in Memphis we made five of twenty-nine."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 1.37
+  },
+  {
+   "kind": "town",
+   "vo": "Three one guy gets whatever he wants Booker had 43 Flagg had 33."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 1.43
+  },
+  {
+   "kind": "town",
+   "vo": "Steph played in one of the five he played six minutes Here's the good news."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 1.0
+  },
+  {
+   "kind": "town",
+   "vo": "We're still six and one at home this year and seven of the eight losses came on the road."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.32
+  },
+  {
+   "kind": "town",
+   "vo": "So no trade no panic wake up in the first quarter and a couple of these flip."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 2.54
+  }
+ ],
+ "facts": [
+  {
+   "game": "401910019",
+   "score": "98-126"
+  },
+  {
+   "claim": "Latest game (Nov 19, 2026, FedExForum): Grizzlies 126, Warriors 98, we lost by 28; Warriors 5-29 from three (5 of 29 in Memphis)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401910019"
+  },
+  {
+   "claim": "Warriors 8-8 (8 losses; home 6-1, road 2-7) on ESPN, Nov 21 2026; 8-8 so far",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/9"
+  },
+  {
+   "claim": "The 8 losses: at LAL 105-127, vs MEM 108-111 (the only home loss, Memphis by 3), at PHX 122-131, at HOU 108-115, at SA 85-123, at NO 94-115, at DAL 94-116, at MEM 98-126; 7 of the 8 on the road; the last five (HOU, SA, NO, DAL, MEM) are a 5-game skid (five-game skid)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/9/schedule"
+  },
+  {
+   "game": "401909974",
+   "score": "108-115"
+  },
+  {
+   "game": "401909302",
+   "score": "85-123"
+  },
+  {
+   "game": "401910000",
+   "score": "94-115"
+  },
+  {
+   "game": "401910016",
+   "score": "94-116"
+  },
+  {
+   "claim": "Halftime in all 8 losses we trailed: LAL 52-66, MEM 56-60, PHX 54-57, HOU 51-56, SA 33-63 (-30), NO 36-61 (-25), DAL 49-62 (-13), MEM 47-55; down 13 or more in 4 of them (LAL, SA, NO, DAL); Spurs, Pelicans and Mavericks games were on the road and we lost them by 38, 21 and 22 (20 or more)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909302"
+  },
+  {
+   "claim": "3-pointers in the 5-game skid: HOU 17-51, SA 15-41, NO 11-46, DAL 9-38, MEM 5-29 = 57/205 = 27.8%, 28%",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401910016"
+  },
+  {
+   "game": "401909860",
+   "player": "3136193",
+   "stat": "PTS",
+   "value": "43"
+  },
+  {
+   "game": "401909860",
+   "player": "3136193",
+   "stat": "FG",
+   "value": "17-25"
+  },
+  {
+   "game": "401910016",
+   "player": "5041939",
+   "stat": "PTS",
+   "value": "33"
+  },
+  {
+   "game": "401910016",
+   "player": "5041939",
+   "stat": "FG",
+   "value": "11-15"
+  },
+  {
+   "claim": "Booker 43 PTS (17-25 FG) at PHX Oct 24, 2026; Flagg 33 PTS (11-15 FG) at DAL Nov 18, 2026",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909860"
+  },
+  {
+   "game": "401909974",
+   "player": "3975",
+   "stat": "MIN",
+   "value": "6"
+  },
+  {
+   "claim": "Curry played 6 minutes (6 min) at Houston (HOU) on Nov 11, then did not play at SA, NO, DAL or MEM: he played in 1 of the 5 skid games (one of the five), we lost all 5; ESPN lists him Out since 2026-11-12 (11/12, Nov 12)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/9/roster"
+  },
+  {
+   "claim": "On-screen labels, not stats: ROUTE 1 is a map name, '3 problems' is this reel's three points (one, two, three), bag counts X0 / X0 / X1 (trade 0, panic 0, awakening 1) are the joke",
+   "source": "https://www.instagram.com/8bitwarriors/"
+  }
+ ]
+}

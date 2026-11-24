@@ -1,0 +1,119 @@
+{
+ "team": "raptors",
+ "name": "siakam",
+ "record": "58-24",
+ "caption": "PICK 27 🎮🏀 Our best draft steal ever?\n\n• 2016 draft: we take Pascal Siakam 27th\n• 2019: Most Improved Player, 16.9 PPG\n• Finals Game 1 vs the Warriors: 32 points on 14-of-17, we win 118-109\n• A ring and 2 All-NBA teams with us\n\nBest pick we've ever made? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PASCAL SIAKAM",
+   "key": "p:3149673@TOR",
+   "name": "SIAKAM",
+   "badge": "PICK 27",
+   "lines": [
+    [
+     "#27",
+     "2016 DRAFT"
+    ]
+   ],
+   "vo": "The twenty sixteen draft. With pick twenty-seven, we take a raw forward from Cameroon: Pascal Siakam.",
+   "dlg": "2016 DRAFT, PICK 27:|WE TAKE PASCAL SIAKAM."
+  },
+  {
+   "kind": "fire",
+   "head": "LEVEL UP",
+   "key": "p:3149673@TOR",
+   "name": "SIAKAM",
+   "badge": "MIP",
+   "lines": [
+    [
+     "2019",
+     "MOST IMPROVED"
+    ],
+    [
+     "16.9",
+     "PPG"
+    ]
+   ],
+   "vo": "Three years later: Most Improved Player, sixteen point nine a game.",
+   "dlg": "2019: MOST IMPROVED PLAYER.|16.9 A GAME."
+  },
+  {
+   "kind": "final",
+   "head": "FINALS GAME 1",
+   "oname": "WARRIORS",
+   "logo": "l:GSW",
+   "ocol": "auto:GSW",
+   "my": 118,
+   "th": 109,
+   "win": true,
+   "vo": "Finals Game one against the Warriors: thirty-two points, on fourteen of seventeen. We win.",
+   "dlg": "FINALS GAME 1: SIAKAM DROPS|32 ON 14-OF-17!"
+  },
+  {
+   "kind": "fire",
+   "head": "CHAMPION",
+   "key": "p:3149673@TOR",
+   "name": "SIAKAM",
+   "badge": "CHAMPION",
+   "lines": [
+    [
+     "1",
+     "TITLE"
+    ],
+    [
+     "2X",
+     "ALL-NBA"
+    ]
+   ],
+   "vo": "A ring for us, and two All-NBA teams... from pick twenty-seven.",
+   "dlg": "A RING. 2X ALL-NBA.|FROM PICK 27."
+  },
+  {
+   "kind": "next",
+   "head": "PICK 27",
+   "logo": "l:TOR",
+   "rec": "#43",
+   "ntxt": "SIAKAM",
+   "nday": "2016-2024",
+   "vo": "Best draft pick we've ever made? Comment below.",
+   "dlg": "BEST PICK WE'VE EVER MADE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3149673",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 16.9
+  },
+  {
+   "game": "401134815",
+   "score": "118-109"
+  },
+  {
+   "game": "401134815",
+   "player": "3149673",
+   "stat": "PTS",
+   "value": 32
+  },
+  {
+   "game": "401134815",
+   "player": "3149673",
+   "stat": "FG",
+   "value": "14-17"
+  },
+  {
+   "claim": "2016 NBA draft: Raptors take Pascal Siakam with pick 27",
+   "source": "https://www.basketball-reference.com/draft/NBA_2016.html"
+  },
+  {
+   "claim": "2019 Most Improved Player; 2019 NBA Finals Game 1 vs Golden State",
+   "source": "https://www.basketball-reference.com/players/s/siakapa01.html"
+  },
+  {
+   "claim": "1 title (2019), 2x All-NBA, wore #43 for Toronto 2016-2024",
+   "source": "https://www.basketball-reference.com/players/s/siakapa01.html"
+  }
+ ]
+}

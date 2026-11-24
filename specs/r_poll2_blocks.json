@@ -1,0 +1,129 @@
+{
+ "team": "raptors",
+ "name": "poll2_blocks",
+ "l1": "ONE STOP TO WIN...",
+ "q": "WHO PROTECTS THE RIM?",
+ "boxA": "SHOT-BLOCKERS",
+ "boxB": "LAST PLAY, LANE OPEN",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: SHOT-BLOCKER 🎮🏀 Last play, the lane is open. Who's protecting our rim?\n\n1️⃣ Marcus Camby, rim protector: 3.7 BPG in 1997-98, the most in the NBA, #1 in our history at 2.9 BPG\n2️⃣ Vince Carter, surprise: 415 blocks for us, #4 in our history, 1.5 BPG as a rookie\n3️⃣ Jakob Poeltl, today: 336 blocks for us (#10 in our history), 1.5 BPG in 2023-24\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "125",
+   "name": "CAMBY",
+   "full": "MARCUS CAMBY",
+   "jersey": "21",
+   "type": "RIM GUARD",
+   "season": "RAPTORS 1996-1998",
+   "stats": [
+    [
+     "3.7",
+     "BPG"
+    ],
+    [
+     "#1",
+     "IN NBA"
+    ],
+    [
+     "2.9",
+     "CAREER"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "136",
+   "name": "VINCE",
+   "full": "VINCE CARTER",
+   "jersey": "15",
+   "type": "SURPRISE",
+   "season": "RAPTORS 1998-2004",
+   "stats": [
+    [
+     "415",
+     "BLOCKS"
+    ],
+    [
+     "#4",
+     "ALL-TIME"
+    ],
+    [
+     "1.5",
+     "ROOKIE"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3134908",
+   "name": "POELTL",
+   "full": "JAKOB POELTL",
+   "jersey": "19",
+   "type": "WALL",
+   "season": "RAPTORS 2023-NOW",
+   "stats": [
+    [
+     "336",
+     "BLOCKS"
+    ],
+    [
+     "#10",
+     "EVER"
+    ],
+    [
+     "1.5",
+     "BEST BPG"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "player": "125",
+   "season": "1997-98",
+   "stat": "BLK",
+   "value": 3.7
+  },
+  {
+   "claim": "Camby: NBA blocks leader (#1 in the NBA) in 1998 (1997-98 season); Toronto Raptors 1996-1998",
+   "source": "https://en.wikipedia.org/wiki/Marcus_Camby"
+  },
+  {
+   "claim": "Raptors career leaders: blocks per game #1 Marcus Camby 2.9; total blocks #4 Vince Carter 415, #10 Jakob Poeltl 336",
+   "source": "https://www.basketball-reference.com/teams/TOR/leaders_career.html"
+  },
+  {
+   "claim": "Camby wore #21 for Toronto",
+   "source": "https://www.basketball-reference.com/players/c/cambyma01.html"
+  },
+  {
+   "player": "136",
+   "season": "1998-99",
+   "stat": "BLK",
+   "value": 1.5
+  },
+  {
+   "claim": "Vince Carter: Toronto Raptors 1998-2004, rookie season 1998-99; No. 15",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "claim": "Carter wore #15 for Toronto",
+   "source": "https://www.basketball-reference.com/players/c/cartevi01.html"
+  },
+  {
+   "player": "3134908",
+   "season": "2023-24",
+   "stat": "BLK",
+   "value": 1.5
+  },
+  {
+   "claim": "Poeltl: Toronto Raptors 2016-2018 and 2023-present",
+   "source": "https://en.wikipedia.org/wiki/Jakob_Poeltl"
+  },
+  {
+   "claim": "Poeltl wears #19 for Toronto",
+   "source": "https://www.basketball-reference.com/players/p/poeltja01.html"
+  }
+ ]
+}

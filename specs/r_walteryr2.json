@@ -1,0 +1,153 @@
+{
+ "team": "raptors",
+ "name": "walteryr2",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "CAN WALTER SHOOT NOW? 🎮🏀 We drafted Ja'Kobe Walter to shoot. As a rookie, he hit 34.9% from three.\n\n• Rookie year (2024-25): 40.5% from the field, 34.9% from three\n• Year 2 (2025-26): 44.6% from the field, 40.9% from three\n• Turnovers cut in half: 1.0 a game to 0.5\n• Year 3: 8 starts in our first 10 games, 22 points on 5-of-8 threes at Minnesota\n\nBreakout year, or is this who he is? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "CAN WALTER SHOOT NOW?",
+   "key": "p:4684272@TOR",
+   "name": "WALTER",
+   "badge": "ROOKIE YEAR",
+   "lines": [
+    [
+     "34.9",
+     "3PT%"
+    ],
+    [
+     "40.5",
+     "FG%"
+    ]
+   ],
+   "vo": "We drafted Jah-Kobe Walter to shoot. As a rookie: thirty-four point nine from three.",
+   "dlg": "ROOKIE: 34.9% FROM THREE,|40.5% FROM THE FIELD."
+  },
+  {
+   "kind": "fire",
+   "head": "YEAR 2",
+   "key": "p:4684272@TOR",
+   "name": "WALTER",
+   "badge": "2025-26",
+   "lines": [
+    [
+     "40.9",
+     "3PT%"
+    ],
+    [
+     "44.6",
+     "FG%"
+    ]
+   ],
+   "vo": "Year two: forty point nine from three, and forty-four point six from the field.",
+   "dlg": "YEAR 2: 40.9% FROM THREE,|44.6% FROM THE FIELD."
+  },
+  {
+   "kind": "fire",
+   "head": "FEWER MISTAKES",
+   "key": "p:4684272@TOR",
+   "name": "WALTER",
+   "badge": "YEAR 2",
+   "lines": [
+    [
+     "1.0",
+     "TO ROOKIE"
+    ],
+    [
+     "0.5",
+     "TO YEAR 2"
+    ]
+   ],
+   "vo": "And he cut his turnovers in half: from one a game, to half of one.",
+   "dlg": "TURNOVERS CUT IN HALF:|1.0 A GAME TO 0.5."
+  },
+  {
+   "kind": "fire",
+   "head": "YEAR 3",
+   "key": "p:4684272@TOR",
+   "name": "WALTER",
+   "badge": "STARTER",
+   "lines": [
+    [
+     "8",
+     "OF 10 STARTS"
+    ],
+    [
+     "22",
+     "AT MIN"
+    ]
+   ],
+   "vo": "Year three: he's started eight of our first ten games. And at Minnesota, twenty-two points, on five of eight from three.",
+   "dlg": "YEAR 3: 8 STARTS IN 10.|22 PTS AT MINNESOTA."
+  },
+  {
+   "kind": "next",
+   "head": "BREAKOUT?",
+   "logo": "l:TOR",
+   "rec": "#19",
+   "ntxt": "WALTER",
+   "nday": "2024 PICK",
+   "vo": "Year two was the jump. Is year three the breakout, or is this who he is? Comment below.",
+   "dlg": "IS YEAR 3 THE BREAKOUT,|OR IS THIS WHO HE IS?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4684272",
+   "season": "2024-25",
+   "stat": "3P%",
+   "value": 34.9
+  },
+  {
+   "player": "4684272",
+   "season": "2024-25",
+   "stat": "FG%",
+   "value": 40.5
+  },
+  {
+   "player": "4684272",
+   "season": "2024-25",
+   "stat": "TO",
+   "value": 1.0
+  },
+  {
+   "player": "4684272",
+   "season": "2025-26",
+   "stat": "3P%",
+   "value": 40.9
+  },
+  {
+   "player": "4684272",
+   "season": "2025-26",
+   "stat": "FG%",
+   "value": 44.6
+  },
+  {
+   "player": "4684272",
+   "season": "2025-26",
+   "stat": "TO",
+   "value": 0.5
+  },
+  {
+   "claim": "Walter: drafted 19th overall (#19) by Toronto in the 2024 NBA draft; rookie year 2024-25 (year 1), year 2 = 2025-26, year 3 = 2026-27; 3-point shooter",
+   "source": "https://en.wikipedia.org/wiki/Ja'Kobe_Walter"
+  },
+  {
+   "claim": "ESPN: Walter started 7 of Toronto's first 9 games of 2026-27 and started game 10 vs Memphis on Nov 9, 2026: 8 starts in the first 10 games",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909955"
+  },
+  {
+   "game": "401909864",
+   "player": "4684272",
+   "stat": "PTS",
+   "value": 22
+  },
+  {
+   "game": "401909864",
+   "player": "4684272",
+   "stat": "3PT",
+   "value": "5-8"
+  }
+ ]
+}

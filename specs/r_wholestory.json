@@ -1,0 +1,183 @@
+{
+ "team": "raptors",
+ "name": "wholestory",
+ "pace": "wolves",
+ "record": "5-7",
+ "beats": [
+  {
+   "kind": "next",
+   "head": "OUR WHOLE STORY",
+   "logo": "l:TOR",
+   "rec": "31",
+   "ntxt": "SEASONS",
+   "nday": "1 TITLE",
+   "vo": "Thirty-one seasons. One title. This is our whole story.",
+   "dlg": "31 SEASONS. 1 TITLE.|THIS IS OUR WHOLE STORY."
+  },
+  {
+   "kind": "next",
+   "head": "1995",
+   "logo": "l:TOR",
+   "rec": "1995",
+   "ntxt": "FIRST GAME",
+   "nday": "NOV 3",
+   "vo": "November third, nineteen ninety-five. Our first game. The name came from a nationwide contest, right after Jurassic Park.",
+   "dlg": "1995: OUR FIRST GAME.|A NAME FROM JURASSIC PARK."
+  },
+  {
+   "kind": "fire",
+   "head": "1998",
+   "key": "p:136@TOR",
+   "name": "CARTER",
+   "badge": "DRAFT DAY",
+   "lines": [
+    [
+     "1998",
+     "TRADE"
+    ]
+   ],
+   "vo": "Nineteen ninety-eight. A draft-day trade brings us Vince Carter.",
+   "dlg": "1998: A DRAFT-DAY TRADE|BRINGS US VINCE CARTER."
+  },
+  {
+   "kind": "fire",
+   "head": "2001",
+   "key": "p:136@TOR",
+   "name": "CARTER",
+   "badge": "GAME 7",
+   "lines": [
+    [
+     "2001",
+     "1ST SERIES WIN"
+    ]
+   ],
+   "vo": "Two thousand one. Our first playoff series win. Then Game seven, and his last shot rolls off the rim.",
+   "dlg": "2001: OUR FIRST SERIES WIN.|GAME 7: IT ROLLS OFF."
+  },
+  {
+   "kind": "fire",
+   "head": "THEY LEAVE",
+   "key": "p:1977@TOR",
+   "name": "BOSH",
+   "badge": "TO MIAMI",
+   "lines": [
+    [
+     "2004",
+     "VINCE"
+    ],
+    [
+     "2010",
+     "BOSH"
+    ]
+   ],
+   "vo": "Vince is traded in two thousand four. Bosh carries us, then leaves for Miami in twenty ten.",
+   "dlg": "2004: VINCE IS TRADED.|2010: BOSH TO MIAMI."
+  },
+  {
+   "kind": "fire",
+   "head": "DEMAR AND KYLE",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "WE THE NORTH",
+   "lines": [
+    [
+     "3",
+     "YEARS"
+    ],
+    [
+     "CLE",
+     "ENDS IT"
+    ]
+   ],
+   "vo": "DeMar and Kyle make us a playoff team. But Cleveland ends our season three years running.",
+   "dlg": "DEMAR AND KYLE.|CLEVELAND, 3 YEARS RUNNING."
+  },
+  {
+   "kind": "fire",
+   "head": "2019",
+   "key": "p:6450@TOR",
+   "name": "LEONARD",
+   "badge": "THE TRADE",
+   "lines": [
+    [
+     "2018",
+     "DEMAR FOR KAWHI"
+    ],
+    [
+     "2019",
+     "CHAMPS"
+    ]
+   ],
+   "vo": "July twenty eighteen: we trade DeMar for Kawhi. Twenty nineteen: four bounces, and our first title.",
+   "dlg": "2018: DEMAR FOR KAWHI.|2019: OUR FIRST TITLE!"
+  },
+  {
+   "kind": "fire",
+   "head": "NOW",
+   "key": "p:4433134@TOR",
+   "name": "BARNES",
+   "badge": "KAWHI'S BACK",
+   "lines": [
+    [
+     "2022",
+     "ROY"
+    ]
+   ],
+   "vo": "Then a season in Tampa, a rebuild, and Scottie. Now Kawhi's back.",
+   "dlg": "TAMPA. A REBUILD. SCOTTIE.|NOW KAWHI'S BACK."
+  },
+  {
+   "kind": "next",
+   "head": "CHAPTER 32",
+   "logo": "l:TOR",
+   "rec": "5-7",
+   "ntxt": "SEASON",
+   "nday": "32",
+   "vo": "Season thirty-two is five and seven so far. How does this chapter end? Comment below.",
+   "dlg": "SEASON 32: 5-7 SO FAR.|HOW DOES THIS ONE END?"
+  }
+ ],
+ "caption": "31 SEASONS. 1 TITLE. 🎮🏀 This is our whole story.\n\n• Nov 3, 1995: our first game. The name came from a nationwide contest, inspired by Jurassic Park\n• 1998: a draft-day trade brings us Vince Carter\n• 2001: our first playoff series win. In Game 7 of the next round, his last shot rolls off the rim\n• 2004: Vince traded to New Jersey. 2010: Bosh signs with Miami\n• 2016-18: DeMar and Kyle, and Cleveland ends our season 3 years running\n• July 18, 2018: DeMar for Kawhi. 2019: our first title, 4-2 over Golden State\n• 2020-21: home games in Tampa. Then a rebuild, and Scottie\n• 2026: Kawhi's back\n\nHow does chapter 32 end? 👇",
+ "facts": [
+  {
+   "claim": "The Raptors played their first game on November 3 (Nov 3), 1995; founded in 1995 (expansion); the name was chosen through a nationwide contest, influenced by the popularity of the 1993 film Jurassic Park; 31 seasons from 1995-96 through 2025-26, so 2026-27 is season 32; one (1) NBA title (2019)",
+   "source": "https://en.wikipedia.org/wiki/Toronto_Raptors"
+  },
+  {
+   "claim": "Vince Carter acquired through a draft-day trade in 1998 (Antawn Jamison to Golden State)",
+   "source": "https://en.wikipedia.org/wiki/Toronto_Raptors"
+  },
+  {
+   "claim": "2001: Carter led the team to its first playoff series win (3-2 over New York); the next series came down to the last seconds of Game 7, when Carter's potential series-winning shot rolled off the rim",
+   "source": "https://en.wikipedia.org/wiki/Toronto_Raptors"
+  },
+  {
+   "claim": "Carter was traded in 2004 to the New Jersey Nets; Bosh departed to sign with the Miami Heat in July 2010",
+   "source": "https://en.wikipedia.org/wiki/Toronto_Raptors"
+  },
+  {
+   "claim": "Cleveland eliminated Toronto in 2016 (4-2, third round), 2017 (second round, 4-0) and 2018 (second round sweep): 3 years running, 2016-18",
+   "source": "https://en.wikipedia.org/wiki/Toronto_Raptors"
+  },
+  {
+   "claim": "July 18, 2018: DeRozan traded to San Antonio for Kawhi Leonard and Danny Green; 2019: first NBA championship, 4-2 over the Golden State Warriors",
+   "source": "https://en.wikipedia.org/wiki/Toronto_Raptors"
+  },
+  {
+   "claim": "2020-21: home games at Amalie Arena in Tampa, Florida",
+   "source": "https://en.wikipedia.org/wiki/Toronto_Raptors"
+  },
+  {
+   "claim": "Barnes: NBA Rookie of the Year (2022), 2x NBA All-Star (2024, 2026)",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "claim": "Leonard: on September 14, 2026 traded back to Toronto (2026)",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "Raptors record this season: 5-7",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/tor/schedule"
+  }
+ ]
+}

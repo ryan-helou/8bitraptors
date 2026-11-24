@@ -1,0 +1,253 @@
+{
+ "team": "raptors",
+ "name": "tr_jv",
+ "record": "5-4",
+ "caption": "IF JONAS VALANČIŪNAS HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🐳 Wailmer: bounces like a ball, eats a ton of food a day. Drafted 5th in 2011, All-Rookie second team\n🐦 Pelipper: scoops up prey in one gulp. Set our playoff rebound record with 18 in 2014, then broke it with 19 in 2016\n🪨 Golem: even dynamite can't harm it. 7 blocks against Memphis, a career best\n💎 Boldore: only evolves in a trade. February 2019: traded to Memphis for Marc Gasol. That June, we were champions\n🧭 Onix: a magnet in its brain, so it never loses its way. After 14 NBA seasons, back home in Lithuania with Žalgiris\n🐋 Wailord: the biggest of all. 21 points and 21 rebounds in Game 1 vs Cleveland in 2018, the best playoff double-double in our history\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Jonas Valanciunas had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF VALANCIUNAS HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Wailmer. It bounces around like a ball and eats a ton of food a day. We took Jonas fifth in twenty eleven. As a rookie: All-Rookie second team.",
+   "dlg": "IT BOUNCES LIKE A BALL.|PICK 5, THEN ALL-ROOKIE"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Pelipper. It scoops up its prey with its huge bill, everything in one gulp. Jonas set our playoff rebound record with eighteen. Then he broke his own record with nineteen.",
+   "dlg": "IT SCOOPS UP EVERYTHING.|PLAYOFF RECORD: 19 BOARDS"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Golem. Even dynamite can't harm its boulder-like body. Against Memphis in twenty sixteen, Jonas blocked seven shots. A career best.",
+   "dlg": "DYNAMITE CAN'T HURT IT.|7 BLOCKS VS MEMPHIS"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Boldore. It only evolves when it gets traded. February twenty nineteen: Jonas went to Memphis for Marc Gasol. That June, we were champions.",
+   "dlg": "TRADE IT AND IT EVOLVES.|2019: TRADED FOR GASOL"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Onix. There's a magnet in its brain, so it never loses its way. After fourteen NBA seasons, Jonas went back home to Lithuania, to Zalgiris.",
+   "dlg": "IT NEVER LOSES ITS WAY.|14 NBA YEARS, THEN HOME"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Wailord. The biggest of all Pokemon. Game one against Cleveland: twenty-one points and twenty-one rebounds. The best playoff double-double in our history.",
+   "dlg": "THE BIGGEST OF THEM ALL.|21 PTS + 21 REB VS CLE"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "game": "400553085",
+   "player": "6477",
+   "stat": "REB",
+   "value": 18
+  },
+  {
+   "game": "400874380",
+   "player": "6477",
+   "stat": "REB",
+   "value": 19
+  },
+  {
+   "game": "400829019",
+   "player": "6477",
+   "stat": "BLK",
+   "value": 7
+  },
+  {
+   "game": "401031713",
+   "player": "6477",
+   "stat": "PTS",
+   "value": 21
+  },
+  {
+   "game": "401031713",
+   "player": "6477",
+   "stat": "REB",
+   "value": 21
+  },
+  {
+   "claim": "Valanciunas: drafted fifth overall (No. 5 pick) by Toronto in the 2011 NBA draft, signed with the Raptors 18 July 2012; NBA All-Rookie Second Team (2013); 2014 playoffs game 1 vs Brooklyn 17 points and 18 rebounds, a franchise record for rebounds in a playoff game; 2016 playoffs game 1 vs Indiana set a franchise playoff record with 19 rebounds, surpassing his own mark; career-best 7 blocks vs Memphis (2016); 7 February 2019 traded to Memphis for Marc Gasol; in game 1 of the 2018 second round vs Cleveland 21 points and 21 rebounds, the best playoff double-double in franchise history; 15 July 2026 ended his 14-year NBA career and signed with Zalgiris in Lithuania",
+   "source": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
+  },
+  {
+   "claim": "Gasol traded to Toronto for Valanciunas on February 7, 2019 and won an NBA championship with the Raptors in 2019",
+   "source": "https://en.wikipedia.org/wiki/Marc_Gasol"
+  },
+  {
+   "claim": "Wailmer: 'It eats one ton of food every day' and bounces like a ball; Pelipper scoops up prey and swallows everything in one gulp; Golem: 'Even dynamite can't harm its hard, boulder-like body'; Onix: magnet in its brain prevents it from losing direction; Wailord: 'The biggest of all Pokemon' (PokeAPI species flavor text)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/wailord"
+  },
+  {
+   "claim": "Boldore evolves into Gigalith by trade (PokeAPI evolution chain)",
+   "source": "https://pokeapi.co/api/v2/evolution-chain/268/"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:6477@TOR",
+   "mon": "pk:wailmer",
+   "nick": "WAILMER",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "BIG ROOKIE",
+   "stat": "PICK 5"
+  },
+  {
+   "key": "p:6477@TOR",
+   "mon": "pk:pelipper",
+   "nick": "PELIPPER",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "GLASS CLEANER",
+   "stat": "19 REB"
+  },
+  {
+   "key": "p:6477@TOR",
+   "mon": "pk:golem",
+   "nick": "GOLEM",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "THE WALL",
+   "stat": "7 BLK"
+  },
+  {
+   "key": "p:6477@TOR",
+   "mon": "pk:boldore",
+   "nick": "BOLDORE",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ]
+   ],
+   "label": "THE TRADE",
+   "stat": "FOR GASOL"
+  },
+  {
+   "key": "p:6477@TOR",
+   "mon": "pk:onix",
+   "nick": "ONIX",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "HOMEWARD",
+   "stat": "ZALGIRIS"
+  },
+  {
+   "key": "p:6477@TOR",
+   "mon": "pk:wailord",
+   "nick": "WAILORD",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "21 AND 21"
+  }
+ ],
+ "mode": "trainer"
+}

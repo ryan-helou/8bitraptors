@@ -1,0 +1,132 @@
+{
+ "team": "raptors",
+ "name": "tmacleaves",
+ "pace": "wolves",
+ "record": "5-4",
+ "caption": "T-MAC LEFT AT 21 🎮🏀 Tracy McGrady and his cousin Vince Carter, together with us. Then T-Mac left for Orlando.\n\n• 1997: we draft him #9, straight out of high school\n• Last season with us (1999-00): 15.4 PPG, 6.3 RPG\n• Aug 3, 2000: sign-and-trade to Orlando\n• Year 1 in Orlando: 26.8 PPG, All-Star, Most Improved Player\n• 2003: scoring champ at 32.1 PPG. Hall of Fame, 2017\n\nIf T-Mac stays, do we win a title? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "T-MAC LEFT AT 21",
+   "key": "p:532@TOR",
+   "name": "T-MAC",
+   "badge": "TO ORLANDO",
+   "lines": [
+    [
+     "2000",
+     "AUG 3"
+    ]
+   ],
+   "vo": "Tracy McGrady left us for Orlando. He was twenty-one, playing next to his cousin Vince Carter.",
+   "dlg": "T-MAC LEAVES US|FOR ORLANDO."
+  },
+  {
+   "kind": "fire",
+   "head": "OUR PICK",
+   "key": "p:532@TOR",
+   "name": "T-MAC",
+   "badge": "PICK 9",
+   "lines": [
+    [
+     "#9",
+     "1997 DRAFT"
+    ]
+   ],
+   "vo": "We drafted him ninth, straight out of high school.",
+   "dlg": "1997: WE TAKE HIM #9|OUT OF HIGH SCHOOL."
+  },
+  {
+   "kind": "fire",
+   "head": "LAST YEAR HERE",
+   "key": "p:532@TOR",
+   "name": "T-MAC",
+   "badge": "WITH VINCE",
+   "lines": [
+    [
+     "15.4",
+     "PPG"
+    ],
+    [
+     "6.3",
+     "RPG"
+    ]
+   ],
+   "vo": "His last year with us: fifteen point four points and six rebounds a night.",
+   "dlg": "LAST SEASON WITH US:|15.4 PPG, 6.3 RPG."
+  },
+  {
+   "kind": "fire",
+   "head": "IN ORLANDO",
+   "key": "p:532@TOR",
+   "name": "T-MAC",
+   "badge": "MOST IMPROVED",
+   "lines": [
+    [
+     "26.8",
+     "PPG"
+    ]
+   ],
+   "vo": "Year one in Orlando: twenty-six point eight a night, an All-Star, and Most Improved Player.",
+   "dlg": "YEAR 1 IN ORLANDO:|26.8 PPG, ALL-STAR."
+  },
+  {
+   "kind": "fire",
+   "head": "SCORING CHAMP",
+   "key": "p:532@TOR",
+   "name": "T-MAC",
+   "badge": "HALL OF FAME",
+   "lines": [
+    [
+     "32.1",
+     "PPG"
+    ],
+    [
+     "2017",
+     "HALL OF FAME"
+    ]
+   ],
+   "vo": "By twenty oh three, he was the league's scoring champion at thirty-two point one. Hall of Fame in twenty seventeen.",
+   "dlg": "2003: SCORING TITLE, 32.1.|HALL OF FAME IN 2017."
+  },
+  {
+   "kind": "next",
+   "head": "WHAT IF?",
+   "logo": "l:TOR",
+   "rec": "#9",
+   "ntxt": "T-MAC",
+   "nday": "1997 PICK",
+   "vo": "If T-Mac stays next to Vince, do we win a title? Comment below.",
+   "dlg": "IF T-MAC STAYS...|DO WE WIN A TITLE?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "532",
+   "season": "1999-00",
+   "stat": "PTS",
+   "value": 15.4
+  },
+  {
+   "player": "532",
+   "season": "1999-00",
+   "stat": "REB",
+   "value": 6.3
+  },
+  {
+   "player": "532",
+   "season": "2000-01",
+   "stat": "PTS",
+   "value": 26.8
+  },
+  {
+   "player": "532",
+   "season": "2002-03",
+   "stat": "PTS",
+   "value": 32.1
+  },
+  {
+   "claim": "McGrady (born May 24, 1979) was selected ninth overall (#9) by Toronto in the 1997 draft out of high school; teamed with his cousin Vince Carter; signed with Orlando on August 3, 2000 (Aug 3) via sign-and-trade; 2000-01, his first season (year 1) in Orlando: first All-Star and Most Improved Player; 2002-03 (2003) scoring title at 32.1 PPG; Hall of Fame class of 2017; age 21 when he left on Aug 3, 2000 (born May 24, 1979)",
+   "source": "https://en.wikipedia.org/wiki/Tracy_McGrady"
+  }
+ ]
+}

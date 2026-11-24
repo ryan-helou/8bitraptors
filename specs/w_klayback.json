@@ -1,0 +1,128 @@
+{
+ "team": "warriors",
+ "name": "klayback",
+ "pace": "wolves",
+ "record": "7-3",
+ "caption": "2.5 YEARS GONE 🎮🏀 Klay tore his ACL, then his Achilles. Could he ever come back?\n\n• 2019 Finals, Game 6: tears his ACL with 30 points\n• Then an Achilles tear in a pickup game: out for all of 2020-21\n• Jan 9, 2022: back after 2.5 years, 17 points in 20 minutes vs Cleveland\n• We win 96-82\n• That June: ring number 4\n\nBest comeback in our history? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "2.5 YEARS GONE",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "ACL + ACHILLES",
+   "lines": [
+    [
+     "ACL",
+     "TORN"
+    ],
+    [
+     "ACHILLES",
+     "TORN"
+    ]
+   ],
+   "vo": "Klay tore his ACL, then his Achilles. Could he ever come back?",
+   "dlg": "A TORN ACL. THEN A TORN|ACHILLES. COMING BACK?"
+  },
+  {
+   "kind": "fire",
+   "head": "GAME 6",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "2019 FINALS",
+   "lines": [
+    [
+     "30",
+     "PTS"
+    ]
+   ],
+   "vo": "It started in Game six of the twenty nineteen Finals. He tore his ACL with thirty points.",
+   "dlg": "2019 FINALS, GAME 6: HE|TEARS HIS ACL WITH 30 PTS"
+  },
+  {
+   "kind": "fire",
+   "head": "THEN AGAIN",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "ACHILLES",
+   "lines": [
+    [
+     "2020-21",
+     "OUT"
+    ]
+   ],
+   "vo": "Then, in a pickup game, he tore his Achilles. He missed the whole next season too.",
+   "dlg": "THEN AN ACHILLES TEAR.|OUT ALL OF 2020-21."
+  },
+  {
+   "kind": "fire",
+   "head": "HE'S BACK",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "VS CLEVELAND",
+   "lines": [
+    [
+     "17",
+     "PTS"
+    ],
+    [
+     "20",
+     "MIN"
+    ]
+   ],
+   "vo": "January ninth, twenty twenty-two. After two and a half years, Klay walks back out. Seventeen points in twenty minutes.",
+   "dlg": "2.5 YEARS LATER:|17 POINTS IN 20 MINUTES!"
+  },
+  {
+   "kind": "fire",
+   "head": "RING NO. 4",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "2022 CHAMPS",
+   "lines": [
+    [
+     "4",
+     "RINGS"
+    ]
+   ],
+   "vo": "We won that night, ninety-six to eighty-two. That June, he won his fourth ring.",
+   "dlg": "WE WIN 96-82.|THAT JUNE: RING NO. 4!"
+  },
+  {
+   "kind": "next",
+   "head": "BEST COMEBACK?",
+   "logo": "l:GSW",
+   "rec": "4",
+   "ntxt": "RINGS",
+   "nday": "2015-2022",
+   "vo": "Is Klay's comeback the best in Warriors history? Comment below.",
+   "dlg": "BEST COMEBACK IN OUR|HISTORY? COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401360423",
+   "player": "6475",
+   "stat": "PTS",
+   "value": "17"
+  },
+  {
+   "game": "401360423",
+   "player": "6475",
+   "stat": "MIN",
+   "value": "20"
+  },
+  {
+   "game": "401360423",
+   "score": "96-82"
+  },
+  {
+   "claim": "Klay Thompson's season debut on January 9 (9th), 2022 vs Cleveland",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401360423"
+  },
+  {
+   "claim": "Thompson: in Game 6 of the 2019 Finals he tore his ACL and left with 30 points; November 2020: Achilles tendon injury suffered in a pickup game, missed the entire 2020-21 season; after missing over two and a half (2.5) years he returned in 2021-22 and won his fourth (4) title in 2022; 4x champion 2015-2022",
+   "source": "https://en.wikipedia.org/wiki/Klay_Thompson"
+  }
+ ]
+}

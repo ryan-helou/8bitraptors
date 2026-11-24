@@ -1,0 +1,202 @@
+{
+ "team": "raptors",
+ "name": "monsters",
+ "record": "5-4",
+ "caption": "IF OUR CORE FIVE WERE MONSTERS 🎮🏀 Every Raptor gets a monster partner.\n\n🦖 Scottie Barnes = Clawrex: the franchise raptor, 23.5 PPG and 2.3 steals\n🔥 RJ Barrett = Emberfox: three tails, lights it up for 21.6 PPG\n⚡ Immanuel Quickley = Zapmink: quick hands, 5.8 APG\n🪨 Jakob Poeltl = Mossgolem: gentle giant, 61.1% from the field\n🦏 Collin Murray-Boyles = Stonehorn: nothing moves him, 5.0 RPG\n\nWho did we get wrong? 👇",
+ "beats": [
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:4433134@TOR",
+   "mon": "m:clawrex",
+   "name": "CLAWREX",
+   "types": [
+    [
+     "DRAGON",
+     "#7a3ad8"
+    ],
+    [
+     "FIGHT",
+     "#c84a2a"
+    ]
+   ],
+   "species": "THE FRANCHISE",
+   "lines": [
+    [
+     "23.5",
+     "PPG"
+    ],
+    [
+     "2.3",
+     "STL"
+    ]
+   ],
+   "vo": "If our core five were monsters... Go, Scottie Barnes! A raptor-type. Our franchise: twenty-three point five a night.",
+   "dlg": "IF OUR CORE FIVE WERE MONSTERS...|GO! SCOTTIE BARNES!"
+  },
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:4395625@TOR",
+   "mon": "m:emberfox",
+   "name": "EMBERFOX",
+   "types": [
+    [
+     "FIRE",
+     "#e0602a"
+    ]
+   ],
+   "species": "THREE-TAIL SCORER",
+   "lines": [
+    [
+     "21.6",
+     "PPG"
+    ]
+   ],
+   "vo": "Go, RJ Barrett! A fire fox with three tails. He lights it up for twenty-one point six.",
+   "dlg": "GO! RJ BARRETT!|21.6 POINTS A NIGHT!"
+  },
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:4395724@TOR",
+   "mon": "m:zapmink",
+   "name": "ZAPMINK",
+   "types": [
+    [
+     "ELECTRIC",
+     "#c8a020"
+    ]
+   ],
+   "species": "LIGHTNING HANDS",
+   "lines": [
+    [
+     "5.8",
+     "APG"
+    ],
+    [
+     "84.8",
+     "FT%"
+    ]
+   ],
+   "vo": "Go, Immanuel Quickley! Electric type. Quick hands, almost six assists a night.",
+   "dlg": "GO! IMMANUEL QUICKLEY!|ELECTRIC: 5.8 ASSISTS!"
+  },
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:3134908@TOR",
+   "mon": "m:mossgolem",
+   "name": "MOSSGOLEM",
+   "types": [
+    [
+     "ROCK",
+     "#8a7a5a"
+    ],
+    [
+     "GRASS",
+     "#4a9a4a"
+    ]
+   ],
+   "species": "GENTLE GIANT",
+   "lines": [
+    [
+     "61.1",
+     "FG%"
+    ]
+   ],
+   "vo": "Go, Jakob Poeltl! A moss golem. A gentle giant, shooting sixty-one percent.",
+   "dlg": "GO! JAKOB POELTL!|61.1% FROM THE FIELD!"
+  },
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:5093267@TOR",
+   "mon": "m:stonehorn",
+   "name": "STONEHORN",
+   "types": [
+    [
+     "ROCK",
+     "#8a7a5a"
+    ],
+    [
+     "STEEL",
+     "#6a7a8a"
+    ]
+   ],
+   "species": "UNMOVABLE",
+   "lines": [
+    [
+     "5.0",
+     "RPG"
+    ],
+    [
+     "50.7",
+     "FG%"
+    ]
+   ],
+   "vo": "Go, Collin Murray-Boyles! Stone horn. Nothing moves him: five rebounds a night.",
+   "dlg": "GO! COLLIN MURRAY-BOYLES!|NOTHING MOVES HIM."
+  },
+  {
+   "kind": "next",
+   "head": "OUR PARTY",
+   "logo": "l:TOR",
+   "rec": "GO!",
+   "ntxt": "MONSTERS",
+   "nday": "OUR CORE",
+   "vo": "Who did we get wrong? Comment below.",
+   "dlg": "WHO DID WE GET WRONG?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 2.3
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.6
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.8
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "FT%",
+   "value": 84.8
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 61.1
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 5.0
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 50.7
+  }
+ ]
+}

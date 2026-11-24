@@ -1,0 +1,144 @@
+{
+ "team": "raptors",
+ "name": "kawhitrade",
+ "record": "5-7",
+ "caption": "5 PICKS FOR A 35-YEAR-OLD 🎮🏀 Was it worth it?\n\n• Sept 14, 2026: Kawhi Leonard comes back to us. Brandon Ingram, Gradey Dick and five draft picks go to the Clippers (two firsts, two seconds and a pick swap)\n• Ingram gave us 21.5 a night last season. He hasn't played yet this year (Achilles)\n• Kawhi: 2 of our first 12 games, 19.5 a night in those two\n• Gradey in LA: 47.6% from deep through 11 games\n\nWorth it? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "5 PICKS",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "SEPT 14, 2026",
+   "lines": [
+    [
+     "5",
+     "PICKS"
+    ],
+    [
+     "35",
+     "YEARS OLD"
+    ]
+   ],
+   "vo": "We gave up five draft picks and Brandon Ingram for a thirty-five-year-old Kawhi. Was it worth it?",
+   "dlg": "5 PICKS AND INGRAM...|FOR A 35-YEAR-OLD KAWHI."
+  },
+  {
+   "kind": "fire",
+   "head": "WHAT WE SENT",
+   "key": "p:3913176@LAC",
+   "name": "INGRAM",
+   "badge": "TO THE CLIPPERS",
+   "lines": [
+    [
+     "21.5",
+     "PPG LAST YEAR"
+    ]
+   ],
+   "vo": "Ingram gave us twenty-one point five a night last season. Plus Gradey Dick, and two first-round picks.",
+   "dlg": "INGRAM: 21.5 PPG LAST YEAR.|PLUS GRADEY AND 2 FIRSTS."
+  },
+  {
+   "kind": "fire",
+   "head": "WHAT WE GOT",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "FIRST 12 GAMES",
+   "lines": [
+    [
+     "2",
+     "OF 12 GAMES"
+    ],
+    [
+     "19.5",
+     "PPG"
+    ]
+   ],
+   "vo": "Kawhi has played two of our first twelve games. Nineteen and a half a night in those two.",
+   "dlg": "KAWHI: 2 OF OUR FIRST|12 GAMES. 19.5 PPG IN THEM."
+  },
+  {
+   "kind": "fire",
+   "head": "THE CATCH",
+   "key": "p:5106258@LAC",
+   "name": "GRADEY",
+   "badge": "FIRST 11 GAMES",
+   "lines": [
+    [
+     "47.6%",
+     "FROM DEEP"
+    ]
+   ],
+   "vo": "And Gradey? Forty-seven percent from deep for the Clippers through eleven games.",
+   "dlg": "GRADEY IN LA: 47.6% FROM|DEEP THROUGH 11 GAMES."
+  },
+  {
+   "kind": "next",
+   "head": "WORTH IT?",
+   "logo": "l:TOR",
+   "rec": "5",
+   "ntxt": "PICKS",
+   "nday": "FOR KAWHI",
+   "vo": "Five picks for Kawhi. Worth it? Comment below.",
+   "dlg": "5 PICKS FOR KAWHI.|WORTH IT?"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "September 14, 2026 (Sept 14): Raptors acquire Kawhi Leonard from the Clippers; to Los Angeles Clippers: Brandon Ingram, Gradey Dick, 2027 first-round pick swap right, 2030 TOR second-round pick, 2031 TOR first-round pick, 2033 TOR first-round pick, 2033 TOR second-round pick (five (5) draft picks: two (2) firsts, two seconds, one swap)",
+   "source": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Toronto_Raptors_season"
+  },
+  {
+   "claim": "On September 14, Leonard was traded back to the Raptors in exchange for Brandon Ingram, Gradey Dick and five draft picks. Born June 29, 1991 (age 35, 35-year-old, 35 years old)",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "On September 14, Dick was traded to the Los Angeles Clippers alongside Brandon Ingram, and five draft picks in exchange for Kawhi Leonard.",
+   "source": "https://en.wikipedia.org/wiki/Gradey_Dick"
+  },
+  {
+   "claim": "Brandon Ingram 2026-27: out, Achilles surgery rehab, no games played yet for the Clippers (ESPN injury report Nov 12, 2026)",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3913176"
+  },
+  {
+   "player": "3913176",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 21.5
+  },
+  {
+   "player": "3913176",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 77
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 2
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 19.5
+  },
+  {
+   "player": "5106258",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 11
+  },
+  {
+   "player": "5106258",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 47.6
+  },
+  {
+   "claim": "Raptors are 5-7, twelve (12) games played this season (first 12 games)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/tor"
+  }
+ ]
+}

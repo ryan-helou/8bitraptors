@@ -1,0 +1,131 @@
+{
+ "team": "raptors",
+ "name": "poll_pg",
+ "l1": "ONE GAME TO WIN...",
+ "q": "PICK YOUR POINT GUARD!",
+ "boxA": "POINT GUARDS",
+ "boxB": "WHO RUNS OUR OFFENSE?",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: POINT GUARD 🎮🏀 One game, winner takes all. Who's running our offense?\n\n1️⃣ Kyle Lowry, playmaker: #1 in our history in assists and threes, 6x All-Star\n2️⃣ Fred VanVleet, steady hand: 54 points in one game (our record), 2019 champion, 2022 All-Star\n3️⃣ Immanuel Quickley, today: 17.4 PPG and 5.8 APG through 8 games this season\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "3012",
+   "name": "LOWRY",
+   "full": "KYLE LOWRY",
+   "jersey": "7",
+   "type": "PLAYMAKER",
+   "season": "RAPTORS 2012-2021",
+   "stats": [
+    [
+     "#1",
+     "ASSISTS"
+    ],
+    [
+     "#1",
+     "THREES"
+    ],
+    [
+     "6X",
+     "ALL-STAR"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "2991230",
+   "name": "FRED",
+   "full": "FRED VANVLEET",
+   "jersey": "23",
+   "type": "STEADY",
+   "season": "RAPTORS 2016-2023",
+   "stats": [
+    [
+     "54",
+     "PTS GAME"
+    ],
+    [
+     "1",
+     "TITLE"
+    ],
+    [
+     "1X",
+     "ALL-STAR"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "4395724",
+   "name": "QUICKLEY",
+   "full": "IMMANUEL QUICKLEY",
+   "jersey": "5",
+   "type": "SCORER",
+   "season": "2026-27",
+   "stats": [
+    [
+     "17.4",
+     "PPG"
+    ],
+    [
+     "5.8",
+     "APG"
+    ],
+    [
+     "84.8",
+     "FT%"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Kyle Lowry is the Raptors' career leader (#1) in assists (4277) and 3-pt field goals (1518)",
+   "source": "https://www.basketball-reference.com/teams/TOR/leaders_career.html"
+  },
+  {
+   "claim": "Lowry: six-time (6x) All-Star; played for Toronto 2012-2021; NBA champion 2019",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Lowry"
+  },
+  {
+   "claim": "Lowry wore #7 for Toronto 2014-2021",
+   "source": "https://www.basketball-reference.com/players/l/lowryky01.html"
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 17.4
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.8
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "FT%",
+   "value": 84.8
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Immanuel Quickley wears No. 5 for the Toronto Raptors",
+   "source": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
+  },
+  {
+   "claim": "VanVleet scored a career-high 54 points vs Orlando on Feb 2, 2021, a Raptors franchise record for points in a game; NBA champion 2019 (1 title); NBA All-Star 2022 (1X)",
+   "source": "https://en.wikipedia.org/wiki/Fred_VanVleet"
+  },
+  {
+   "claim": "VanVleet wore #23 for Toronto 2016-2023",
+   "source": "https://www.basketball-reference.com/players/v/vanvlfr01.html"
+  }
+ ]
+}

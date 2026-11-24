@@ -1,0 +1,196 @@
+{
+ "team": "raptors",
+ "name": "tr_scottie",
+ "record": "5-4",
+ "caption": "IF SCOTTIE WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n🥊 Riolu, the rookie: Rookie of the Year in year one\n🔵 Lucario, the floor general: reads the whole floor, 5.1 assists a night\n❄️ Weavile, the thief: 2.3 steals a game\n⭐ Garchomp, the All-Star: 2024 and 2026\n🔥 Incineroar, the heater: 41 points on 19-of-34 this season\n🦖 Tyrantrum, the ace: our raptor, 23.5 points a night\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "SCOTTIE'S TEAM",
+   "key": "p:4433134@TOR",
+   "logo": "l:TOR",
+   "team": [
+    "pk:riolu",
+    "pk:lucario",
+    "pk:weavile",
+    "pk:garchomp",
+    "pk:incineroar",
+    "pk:tyrantrum"
+   ],
+   "vo": "If Scottie Barnes was a trainer... this is his team.",
+   "dlg": "IF SCOTTIE BARNES WAS A TRAINER...|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "SCOTTIE'S TEAM",
+   "key": "p:4433134@TOR",
+   "mon": "pk:riolu",
+   "name": "ROOKIE",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "species": "YEAR ONE",
+   "callout": "ROOKIE OF YEAR",
+   "vo": "First up, the rookie. Year one, and Scottie wins Rookie of the Year.",
+   "dlg": "FIRST UP: THE ROOKIE!|YEAR 1: ROOKIE OF THE YEAR."
+  },
+  {
+   "kind": "mon",
+   "head": "SCOTTIE'S TEAM",
+   "key": "p:4433134@TOR",
+   "mon": "pk:lucario",
+   "name": "FLOOR GENERAL",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "species": "READS THE FLOOR",
+   "callout": "5.1 APG",
+   "vo": "Then it evolves. It reads the whole floor: five assists a night.",
+   "dlg": "IT READS THE WHOLE FLOOR.|5.1 ASSISTS A NIGHT!"
+  },
+  {
+   "kind": "mon",
+   "head": "SCOTTIE'S TEAM",
+   "key": "p:4433134@TOR",
+   "mon": "pk:weavile",
+   "name": "THIEF",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "species": "QUICK HANDS",
+   "callout": "2.3 STL",
+   "vo": "The thief. Quick hands, two steals a game.",
+   "dlg": "THE THIEF: QUICK HANDS.|2.3 STEALS A GAME!"
+  },
+  {
+   "kind": "mon",
+   "head": "SCOTTIE'S TEAM",
+   "key": "p:4433134@TOR",
+   "mon": "pk:garchomp",
+   "name": "ALL-STAR",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "species": "TWO-TIME",
+   "callout": "2024 + 2026",
+   "vo": "The All-Star. Twenty twenty-four, and again in twenty twenty-six.",
+   "dlg": "THE ALL-STAR:|2024 AND 2026!"
+  },
+  {
+   "kind": "mon",
+   "head": "SCOTTIE'S TEAM",
+   "key": "p:4433134@TOR",
+   "mon": "pk:incineroar",
+   "name": "THE HEATER",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "species": "CATCHES FIRE",
+   "callout": "41 PTS",
+   "vo": "The heater. Forty-one points in one night this season.",
+   "dlg": "THE HEATER:|41 POINTS IN ONE NIGHT!"
+  },
+  {
+   "kind": "mon",
+   "head": "SCOTTIE'S TEAM",
+   "key": "p:4433134@TOR",
+   "mon": "pk:tyrantrum",
+   "name": "THE ACE",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "species": "OUR RAPTOR",
+   "callout": "23.5 PPG",
+   "vo": "And the ace. Our raptor. Twenty-three point five a night.",
+   "dlg": "THE ACE: OUR RAPTOR.|23.5 POINTS A NIGHT!"
+  },
+  {
+   "kind": "next",
+   "head": "SCOTTIE'S TEAM",
+   "logo": "l:TOR",
+   "rec": "#4",
+   "ntxt": "SCOTTIE",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.1
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 2.3
+  },
+  {
+   "game": "401909281",
+   "player": "4433134",
+   "stat": "PTS",
+   "value": 41
+  },
+  {
+   "game": "401909281",
+   "player": "4433134",
+   "stat": "FG",
+   "value": "19-34"
+  },
+  {
+   "claim": "Barnes was Rookie of the Year in year 1 (2022), All-Star 2024 and 2026, drafted #4",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

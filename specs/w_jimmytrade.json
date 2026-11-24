@@ -1,0 +1,100 @@
+{
+ "team": "warriors",
+ "name": "jimmytrade",
+ "record": "7-3",
+ "caption": "THE JIMMY TRADE 🎮🏀 We sent Andrew Wiggins to Miami. Back came Jimmy Butler. Who won?\n\n• Feb 6, 2025: five-team deal, Wiggins headlines the package to Miami\n• Debut: 25 points in a 132-111 win over Chicago\n• Play-in: 38 vs Memphis, then we knock out Houston in Game 7\n• Last season: 20.0 PPG in 38 games, we were 25-19 when he tore his ACL on Jan 19, 2026\n\nWho won the trade? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "THE TRADE",
+   "key": "p:6430@GSW",
+   "name": "JIMMY",
+   "badge": "FEB 6, 2025",
+   "lines": [
+    [
+     "2025",
+     "FEB 6"
+    ]
+   ],
+   "vo": "We sent Andrew Wiggins to Miami in a five-team deal. Back came Jimmy Butler. Did we win that trade?",
+   "dlg": "WIGGINS GOES TO MIAMI...|WE GET JIMMY BUTLER."
+  },
+  {
+   "kind": "fire",
+   "head": "DEBUT",
+   "key": "p:6430@GSW",
+   "name": "JIMMY",
+   "badge": "FIRST GAME",
+   "lines": [
+    [
+     "25",
+     "PTS"
+    ]
+   ],
+   "vo": "His first game for us: twenty-five points in a blowout of Chicago.",
+   "dlg": "DEBUT: 25 POINTS.|132-111 OVER CHICAGO."
+  },
+  {
+   "kind": "fire",
+   "head": "PLAY-IN",
+   "key": "p:6430@GSW",
+   "name": "JIMMY",
+   "badge": "PLAYOFF JIMMY",
+   "lines": [
+    [
+     "38",
+     "PTS"
+    ]
+   ],
+   "vo": "In the play-in, thirty-eight against Memphis. Then we knock out Houston in game seven.",
+   "dlg": "PLAY-IN: 38 VS MEMPHIS.|THEN WE BEAT HOUSTON."
+  },
+  {
+   "kind": "fire",
+   "head": "LAST SEASON",
+   "key": "p:6430@GSW",
+   "name": "JIMMY",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "20.0",
+     "PPG"
+    ],
+    [
+     "25-19",
+     "RECORD"
+    ]
+   ],
+   "vo": "Last season: twenty points a night through thirty-eight games, and we were six games over five hundred, until he tore up his knee in January.",
+   "dlg": "LAST SEASON: 20.0 PPG,|25-19 UNTIL HIS KNEE."
+  },
+  {
+   "kind": "next",
+   "head": "THE JIMMY TRADE",
+   "logo": "l:GSW",
+   "rec": "2025",
+   "ntxt": "JIMMY",
+   "nday": "THE TRADE",
+   "vo": "Wiggins for Jimmy. Who won the trade? Comment below.",
+   "dlg": "WHO WON THE TRADE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "6430",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 20.0
+  },
+  {
+   "player": "6430",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 38
+  },
+  {
+   "claim": "On February 6, 2025, Butler was traded to Golden State in a five-team deal that sent a package headed by Andrew Wiggins to Miami; debut 25 points in a 132–111 win over Chicago; 38 points in the play-in win over Memphis; Warriors eliminated the Rockets in game 7; torn right ACL on January 19, 2026; through 38 games averaged 20.0 points with the Warriors 25–19 at the time of injury",
+   "source": "https://en.wikipedia.org/wiki/Jimmy_Butler"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "team": "warriors",
+ "name": "steph38ft",
+ "pace": "wolves",
+ "record": "7-3",
+ "caption": "FROM 38 FEET? 🎮🏀 Tie game, overtime, in Oklahoma City. Steph pulls up from 38 feet.\n\n• Feb 27, 2016, 0.6 seconds left\n• Splash: we win 121-118\n• His 12th three of the night, tying the then-NBA record (12 of 16)\n• 46 points\n• That season: the first unanimous MVP in NBA history\n\nIs that Steph's greatest shot ever? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "FROM 38 FEET?",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "AT OKC",
+   "lines": [
+    [
+     "38",
+     "FEET"
+    ]
+   ],
+   "vo": "Tie game in overtime. Steph Curry pulls up from thirty-eight feet.",
+   "dlg": "TIE GAME, OVERTIME.|STEPH, FROM 38 FEET..."
+  },
+  {
+   "kind": "fire",
+   "head": "0.6 SECONDS",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "OVERTIME",
+   "lines": [
+    [
+     "0.6",
+     "SEC LEFT"
+    ]
+   ],
+   "vo": "February twenty-seventh, twenty sixteen, in Oklahoma City. Point six seconds left on the clock.",
+   "dlg": "FEB. 27, 2016, OKC:|0.6 SECONDS LEFT."
+  },
+  {
+   "kind": "fire",
+   "head": "BANG.",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "GAME-WINNER",
+   "lines": [
+    [
+     "121",
+     "GS"
+    ],
+    [
+     "118",
+     "OKC"
+    ]
+   ],
+   "vo": "Splash. We win, one twenty-one to one eighteen.",
+   "dlg": "SPLASH. WE WIN,|121-118."
+  },
+  {
+   "kind": "fire",
+   "head": "12 THREES",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "THEN-NBA RECORD",
+   "lines": [
+    [
+     "12-16",
+     "THREES"
+    ],
+    [
+     "46",
+     "PTS"
+    ]
+   ],
+   "vo": "That was his twelfth three of the night, tying what was then the NBA record. Forty-six points.",
+   "dlg": "12 THREES, TYING THE|THEN-NBA RECORD. 46 PTS."
+  },
+  {
+   "kind": "fire",
+   "head": "UNANIMOUS",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "2015-16 MVP",
+   "lines": [
+    [
+     "1ST",
+     "UNANIMOUS"
+    ]
+   ],
+   "vo": "That season, he became the first unanimous MVP in NBA history.",
+   "dlg": "THAT SEASON: THE 1ST|UNANIMOUS MVP EVER."
+  },
+  {
+   "kind": "next",
+   "head": "GREATEST SHOT?",
+   "logo": "l:GSW",
+   "rec": "38",
+   "ntxt": "FEET",
+   "nday": "FEB 27, 2016",
+   "vo": "Is that the greatest shot Steph has ever hit? Comment below.",
+   "dlg": "STEPH'S GREATEST SHOT?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "400828761",
+   "player": "3975",
+   "stat": "PTS",
+   "value": "46"
+  },
+  {
+   "game": "400828761",
+   "player": "3975",
+   "stat": "3PT",
+   "value": "12-16"
+  },
+  {
+   "game": "400828761",
+   "score": "121-118"
+  },
+  {
+   "claim": "Curry scored 46 points and made a 38-foot game-winning jump shot with 0.6 seconds remaining to beat the Oklahoma City Thunder (OKC) in overtime 121-118 (February 27, 2016); he tied the then-single-game three-point record (12); 2015-16: first (1st) player to be unanimously voted MVP The 12 threes tied what was then the NBA record (since broken).",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  }
+ ]
+}

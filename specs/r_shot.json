@@ -1,0 +1,16 @@
+{"team": "raptors", "name": "shot", "record": "58-24",
+ "caption": "THE SHOT 🎮🏀 May 12, 2019. Game 7 vs Philly, tied 90-90, 4.2 seconds left.\n\n• Kawhi drifts to the corner over Embiid\n• 1 bounce... 2... 3... 4... IN\n• Raptors win 92-90, the first Game 7 buzzer-beater in NBA history\n• Kawhi: 41 PTS\n• A month later: NBA champions\n\nWhere were you when it dropped? 👇",
+ "beats": [
+  {"kind": "gym", "head": "THE SHOT", "logo": "l:PHI", "ocol": "auto:PHI", "rec": "3-3", "chip": "GAME 7", "me": true, "line": "TIED 90-90",
+   "vo": "May twelfth, twenty nineteen. Game seven against Philly. Tied at ninety, with four seconds left.", "dlg": "GAME 7 VS PHILLY.|TIED 90-90. 4.2 SECONDS..."},
+  {"kind": "bat", "head": "4.2 SECONDS", "oname": "EMBIID", "star": "p:3059318", "chip": "",
+   "vo": "Kawhi Leonard gets it, drifts to the corner... and fires over Joel Embiid.", "dlg": "KAWHI DRIFTS TO THE CORNER...|OVER EMBIID!"},
+  {"kind": "fire", "head": "THE SHOT", "key": "p:6450@TOR", "name": "KAWHI", "badge": "BUZZER", "lines": [["4", "BOUNCES"], ["0.0", "ON THE CLOCK"]],
+   "vo": "One bounce. Two. Three. Four... and in.", "dlg": "1 BOUNCE... 2... 3... 4...|AND IN!"},
+  {"kind": "final", "head": "RAPTORS WIN", "oname": "76ERS", "logo": "l:PHI", "ocol": "auto:PHI", "my": 92, "th": 90, "win": true,
+   "vo": "Raptors win, ninety-two to ninety. The first Game seven buzzer-beater in NBA history.", "dlg": "92-90 RAPTORS!|FIRST GAME 7 BUZZER-BEATER!"},
+  {"kind": "fire", "head": "KAWHI'S NIGHT", "key": "p:6450@TOR", "name": "KAWHI", "badge": "41 PTS", "lines": [["41", "POINTS"], ["1", "MONTH TO A TITLE"]],
+   "vo": "Kawhi finished with forty-one. A month later, Toronto had its first title.", "dlg": "KAWHI: 41 PTS.|A MONTH LATER: CHAMPS."},
+  {"kind": "next", "head": "WE THE NORTH", "logo": "l:TOR", "rec": "92-90", "ntxt": "THE SHOT", "nday": "MAY 12, 2019",
+   "vo": "Where were you when it dropped? Comment below.", "dlg": "WHERE WERE YOU WHEN IT DROPPED?|COMMENT BELOW!"}
+ ]}

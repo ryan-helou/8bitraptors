@@ -1,0 +1,241 @@
+{
+ "team": "raptors",
+ "name": "tr_og",
+ "record": "5-4",
+ "caption": "IF OG ANUNOBY HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🌙 Absol: said to bring disaster, but it has a calm disposition. Pick 23 in 2017, 16 points in his first start\n💍 Murkrow: loves anything shiny, will even try to steal rings. An appendectomy kept OG out of the 2019 run, and he still got the ring\n⏳ Dialga: it controls time. Game 3 vs Boston in the bubble, OG at the buzzer: 104-103\n🦡 Sneasel: smart and sneaky, steals from nests. Led the NBA in steals in 2022-23, 1.9 a night\n🔄 Karrablast: only evolves in a trade. December 2023: OG to New York for RJ Barrett and Immanuel Quickley\n🛡️ Zamazenta: the legendary shield. 2 All-Defensive teams. In New York now: 16.7 a night through 10 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If OG Anunoby had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF OG ANUNOBY HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Absol. People say it brings disaster, but it's actually got a calm disposition. We took OG twenty-third in twenty seventeen. First career start: sixteen points.",
+   "dlg": "IT HAS A CALM DISPOSITION.|PICK 23. FIRST START: 16"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Murkrow. It loves anything that sparkles. It'll even try to steal rings. Twenty nineteen: an appendectomy kept OG out of the whole run. He still got the ring.",
+   "dlg": "IT'LL EVEN STEAL RINGS.|MISSED THE RUN. GOT A RING"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Dialga. It has the power to control time. Game three against Boston, in the bubble. OG, at the buzzer. A hundred and four to a hundred and three, and we're not down three-oh.",
+   "dlg": "IT CONTROLS TIME ITSELF.|G3 AT THE BUZZER: 104-103"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Sneasel. Smart and sneaky, it steals from nests while the parents are away. In twenty twenty-three, OG led the whole league in steals: one point nine a night.",
+   "dlg": "SMART AND SNEAKY.|LED THE NBA: 1.9 STEALS"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Karrablast. It only evolves when it gets traded for a Shelmet. December twenty twenty-three: we sent OG to New York for RJ Barrett and Immanuel Quickley.",
+   "dlg": "IT EVOLVES IN A TRADE.|TO NEW YORK FOR RJ + IQ"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Zamazenta. A legendary warrior that fights with a shield. Two All-Defensive teams. Today in New York: sixteen point seven a night through ten games.",
+   "dlg": "A LEGENDARY SHIELD.|2X ALL-DEFENSIVE TEAM"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3934719",
+   "season": "2022-23",
+   "stat": "STL",
+   "value": 1.9
+  },
+  {
+   "player": "3934719",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 16.7
+  },
+  {
+   "player": "3934719",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "game": "401240078",
+   "score": "104-103"
+  },
+  {
+   "claim": "Anunoby: selected 23rd overall by Toronto in the 2017 NBA draft; first career start 14 November 2017 vs Houston, 16 points; early April 2019 emergency appendectomy, missed the entire championship playoff run, dressed for the Finals but did not play as the Raptors won the 2019 title; 3 September 2020 game-winning buzzer-beating three in a 104-103 win in Game 3 of the East semifinals vs Boston, preventing a 0-3 deficit; NBA steals leader 2022-23 (2023) with his first All-Defensive selection; 2 All-Defensive Second Teams (2023, 2026); 30 December 2023 traded to the New York Knicks for RJ Barrett and Immanuel Quickley",
+   "source": "https://en.wikipedia.org/wiki/OG_Anunoby"
+  },
+  {
+   "claim": "Absol: 'in actuality, this Pokemon possesses a calm disposition' (Moon); Murkrow: 'It will even try to steal rings' (Ruby); Dialga: 'It has the power to control time' (Diamond); Sneasel: 'A smart and sneaky Pokemon' (Platinum); Zamazenta: Warrior Pokemon, ability Dauntless Shield (PokeAPI species/pokemon)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/absol"
+  },
+  {
+   "claim": "Karrablast evolves into Escavalier by trade for Shelmet (PokeAPI evolution chain)",
+   "source": "https://pokeapi.co/api/v2/evolution-chain/299/"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3934719@TOR",
+   "mon": "pk:absol",
+   "nick": "ABSOL",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "STONE FACE",
+   "stat": "PICK 23"
+  },
+  {
+   "key": "p:3934719@TOR",
+   "mon": "pk:murkrow",
+   "nick": "MURKROW",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "RING CHASER",
+   "stat": "2019 RING"
+  },
+  {
+   "key": "p:3934719@TOR",
+   "mon": "pk:dialga",
+   "nick": "DIALGA",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "label": "BUZZER BEATER",
+   "stat": "104-103"
+  },
+  {
+   "key": "p:3934719@TOR",
+   "mon": "pk:sneasel",
+   "nick": "SNEASEL",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "label": "PICKPOCKET",
+   "stat": "1.9 STL"
+  },
+  {
+   "key": "p:3934719@TOR",
+   "mon": "pk:karrablast",
+   "nick": "KARRABLAST",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ]
+   ],
+   "label": "THE TRADE",
+   "stat": "DEC 2023"
+  },
+  {
+   "key": "p:3934719@TOR",
+   "mon": "pk:zamazenta",
+   "nick": "ZAMAZENTA",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "LOCKDOWN"
+  }
+ ],
+ "mode": "trainer"
+}

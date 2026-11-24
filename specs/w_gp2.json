@@ -1,0 +1,106 @@
+{
+ "team": "warriors",
+ "name": "gp2",
+ "record": "7-3",
+ "caption": "GP2 🎮🏀 His dad is a Hall of Famer. Nobody drafted him.\n\n• 2016 draft: undrafted, then years bouncing around the G League\n• 2022: NBA champion with us\n• Left for Portland, traded back to us in 2023\n• First 10 games: 5.0 PPG on 46.8% shooting\n\nMost underrated Warrior of this era? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "UNDRAFTED",
+   "key": "p:3134903@GSW",
+   "name": "GP2",
+   "badge": "2016 DRAFT",
+   "lines": [
+    [
+     "2016",
+     "UNDRAFTED"
+    ]
+   ],
+   "vo": "His dad is a Hall of Famer. And nobody drafted Gary Payton the second.",
+   "dlg": "DAD: HALL OF FAMER.|HIM: UNDRAFTED IN 2016."
+  },
+  {
+   "kind": "fire",
+   "head": "G LEAGUE",
+   "key": "p:3134903@GSW",
+   "name": "GP2",
+   "badge": "YOUNG GLOVE",
+   "lines": [
+    [
+     "2016",
+     "UNDRAFTED"
+    ]
+   ],
+   "vo": "Years in the G League. Ten-day deals. Then we give him a shot.",
+   "dlg": "YEARS IN THE G LEAGUE...|THEN WE GIVE HIM A SHOT."
+  },
+  {
+   "kind": "fire",
+   "head": "CHAMPION",
+   "key": "p:3134903@GSW",
+   "name": "GP2",
+   "badge": "NBA CHAMP",
+   "lines": [
+    [
+     "2022",
+     "NBA CHAMP"
+    ]
+   ],
+   "vo": "Twenty twenty-two: he's an NBA champion. Then he leaves for Portland, and we trade to get him back.",
+   "dlg": "2022: NBA CHAMPION.|WE TRADE TO GET HIM BACK."
+  },
+  {
+   "kind": "fire",
+   "head": "10 GAMES IN",
+   "key": "p:3134903@GSW",
+   "name": "GP2",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "5.0",
+     "PPG"
+    ],
+    [
+     "46.8",
+     "FG%"
+    ]
+   ],
+   "vo": "Through ten games off the bench: five points in thirteen minutes, on forty-seven percent shooting.",
+   "dlg": "10 GAMES: 5.0 PPG,|46.8% FROM THE FIELD."
+  },
+  {
+   "kind": "next",
+   "head": "GP2",
+   "logo": "l:GSW",
+   "rec": "2022",
+   "ntxt": "GP2",
+   "nday": "CHAMPION",
+   "vo": "Most underrated Warrior of this era? Yes or no? Comment below.",
+   "dlg": "MOST UNDERRATED WARRIOR?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3134903",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 5.0
+  },
+  {
+   "player": "3134903",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 46.8
+  },
+  {
+   "player": "3134903",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "claim": "Payton II (nicknamed GP2), son of Hall of Famer Gary Payton, went undrafted in 2016, played in the G League, won the 2022 NBA championship with Golden State, played for Portland, and was traded back to Golden State on February 9, 2023",
+   "source": "https://en.wikipedia.org/wiki/Gary_Payton_II"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "team": "raptors",
+ "name": "giannis13",
+ "pace": "wolves",
+ "record": "5-7",
+ "caption": "TRADE COURT, CASE #3: 3 PICKS LATER 🎮🏀 Our 2013 pick was No. 12. Giannis went No. 15. We'd traded that pick for Kyle Lowry.\n\n• July 11, 2012: Lowry from Houston for Gary Forbes and a future first\n• That first became the 12th pick in 2013, sent on to Oklahoma City: Steven Adams\n• Giannis went 15th to Milwaukee: 2 MVPs, a 2021 title\n• Lowry: our 2019 title\n\nLowry and a ring, or a shot at Giannis? Would you undo it?\n\nYour verdict: comment W or L 👇\nCase #4 drops tomorrow night. Follow so you don't miss it.",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "3 PICKS LATER",
+   "key": "p:3032977@MIL",
+   "name": "GIANNIS",
+   "badge": "TRADE COURT #3",
+   "lines": [
+    [
+     "12",
+     "OUR PICK"
+    ],
+    [
+     "15",
+     "GIANNIS"
+    ]
+   ],
+   "vo": "Giannis went three picks after ours. And we'd already traded our pick away.",
+   "dlg": "OUR PICK: NO. 12.|GIANNIS WENT NO. 15."
+  },
+  {
+   "kind": "fire",
+   "head": "WHERE IT WENT",
+   "key": "p:2991235@OKC",
+   "name": "ADAMS",
+   "badge": "NO. 12",
+   "lines": [
+    [
+     "12",
+     "OVERALL"
+    ]
+   ],
+   "vo": "But we'd already traded that pick. It went through Houston to Oklahoma City. The Thunder took Steven Adams.",
+   "dlg": "THE PICK ENDED UP IN OKC:|STEVEN ADAMS, NO. 12."
+  },
+  {
+   "kind": "fire",
+   "head": "WHAT WE GOT",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "JULY 11, 2012",
+   "lines": [
+    [
+     "2019",
+     "CHAMPION"
+    ]
+   ],
+   "vo": "Why'd we trade it? For Kyle Lowry. And Kyle Lowry won us a title.",
+   "dlg": "WE TRADED IT FOR LOWRY.|HE WON US A RING."
+  },
+  {
+   "kind": "fire",
+   "head": "THE WHAT IF",
+   "key": "p:3032977@MIL",
+   "name": "GIANNIS",
+   "badge": "MILWAUKEE",
+   "lines": [
+    [
+     "2",
+     "MVPS"
+    ],
+    [
+     "2021",
+     "CHAMPION"
+    ]
+   ],
+   "vo": "Giannis? Two MVPs and a title in Milwaukee. Fourteen teams passed on him. Would we have?",
+   "dlg": "GIANNIS: 2 MVPS, A TITLE.|14 TEAMS PASSED ON HIM."
+  },
+  {
+   "kind": "next",
+   "head": "THE VERDICT",
+   "logo": "l:TOR",
+   "rec": "W OR L?",
+   "ntxt": "CASE #4",
+   "nday": "TOMORROW",
+   "vo": "Did we win this trade? W or L. Case four, tomorrow night.",
+   "dlg": "DID WE WIN THIS TRADE?|W OR L? CASE #4: TOMORROW NIGHT."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "2013 NBA draft: Steven Adams selected 12th (No. 12) by Oklahoma City (from Toronto via Houston); Giannis Antetokounmpo selected 15th (No. 15) by Milwaukee, three (3) picks later; fourteen (14) teams picked before him; two (2) NBA MVP awards and an NBA championship in 2021.",
+   "source": "https://en.wikipedia.org/wiki/2013_NBA_draft"
+  },
+  {
+   "claim": "On July 11, 2012, Lowry was traded to the Toronto Raptors in exchange for Gary Forbes and a future first round pick. Lowry won the 2019 NBA championship with Toronto.",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Lowry"
+  },
+  {
+   "claim": "ESPN player ids: Giannis Antetokounmpo 3032977, Steven Adams 2991235, Kyle Lowry 3012",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3032977"
+  }
+ ]
+}

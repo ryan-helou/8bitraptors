@@ -1,0 +1,395 @@
+{
+ "team": "warriors",
+ "name": "sc_nop",
+ "template": "fmt_shotchart.html",
+ "music": "battle",
+ "cps": 40,
+ "voice_eq": "bright",
+ "record": "8-6",
+ "caption": "WARRIORS 94, PELICANS 115 💛 We outscored New Orleans after the 1st quarter. We lost by 21.\n\n🎯 FG: us 28 of 84, New Orleans 41 of 97\n🧊 1st quarter: us 2 of 18, New Orleans 13 of 25. Down 35-11 after it\n🔥 Yaxel Lendeborg: 28 PTS on 23 shots, 8 of 8 at the line, 7 of 9 at the rim\n🎯 Brandin Podziemski: 15 PTS, 3 of 7 from three\n🎩 Jeremiah Fears: 19 PTS, 10 REB, 10 AST (triple-double)\n😤 Saddiq Bey led them with 23, 5 of 8 from three\n\nNew Orleans led by 31 in the 3rd. That's 8-6. Fix the 1st quarter.\n\nWho needs to step up next game?",
+ "beats": [
+  {
+   "kind": "sc_hook",
+   "cfg": {
+    "us": "l:GS",
+    "them": "l:NO",
+    "usc": "#284885",
+    "themc": "#a48d5e",
+    "score": [
+     94,
+     115
+    ],
+    "won": false
+   },
+   "head": "WE OUTSCORED THEM",
+   "card": {
+    "title": "POINTS AFTER THE 1ST",
+    "rows": [
+     {
+      "l": "l:GS",
+      "v": 83,
+      "us": true
+     },
+     {
+      "l": "l:NO",
+      "v": 80
+     }
+    ]
+   },
+   "chip": "WE LOST 94-115",
+   "dlg": "WE OUTSCORED THEM BY 3|AFTER THE 1ST. LOST BY 21.",
+   "pk": "p:5175737",
+   "tag": "28 PTS",
+   "nm": "LENDEBORG",
+   "vo": "We outscored New Orleans after the first and still lost by twenty one."
+  },
+  {
+   "kind": "sc_hook",
+   "cont": true,
+   "head": "WE OUTSCORED THEM",
+   "card": {
+    "title": "POINTS AFTER THE 1ST",
+    "rows": [
+     {
+      "l": "l:GS",
+      "v": 83,
+      "us": true
+     },
+     {
+      "l": "l:NO",
+      "v": 80
+     }
+    ]
+   },
+   "chip": "WE LOST 94-115",
+   "city": "NEW ORLEANS",
+   "cl": "l:NO",
+   "final": "94-115 FINAL",
+   "dlg": "WARRIORS AT PELICANS,|SHOT BY SHOT.",
+   "pk": "p:5175737",
+   "tag": "28 PTS",
+   "nm": "LENDEBORG",
+   "vo": "This is Warriors at Pelicans by the shot chart."
+  },
+  {
+   "kind": "sc_hook",
+   "pad": true,
+   "hold": 0.269,
+   "vo": ""
+  },
+  {
+   "kind": "sc_zones",
+   "side": "us",
+   "zones": [
+    {
+     "z": "RIM",
+     "v": "15/25"
+    },
+    {
+     "z": "PAINT",
+     "v": "1/7"
+    },
+    {
+     "z": "MIDRANGE",
+     "v": "1/6"
+    },
+    {
+     "z": "CORNER 3",
+     "v": "5/14"
+    },
+    {
+     "z": "3 PT",
+     "v": "6/32"
+    }
+   ],
+   "foot": "GS: 28/84 FG",
+   "dlg": "US: 28 OF 84.",
+   "vo": "We went twenty eight of eighty four."
+  },
+  {
+   "kind": "sc_zones",
+   "side": "them",
+   "zones": [
+    {
+     "z": "RIM",
+     "v": "18/36"
+    },
+    {
+     "z": "PAINT",
+     "v": "5/12"
+    },
+    {
+     "z": "MIDRANGE",
+     "v": "3/9"
+    },
+    {
+     "z": "CORNER 3",
+     "v": "1/12"
+    },
+    {
+     "z": "3 PT",
+     "v": "14/28"
+    }
+   ],
+   "foot": "NO: 41/97 FG",
+   "dlg": "NEW ORLEANS: 41 MADE.",
+   "vo": "New Orleans made forty one."
+  },
+  {
+   "kind": "sc_bars",
+   "card": {
+    "title": "1ST QUARTER: MADE / TRIED",
+    "rows": [
+     {
+      "l": "l:GS",
+      "m": 2,
+      "a": 18,
+      "us": true
+     },
+     {
+      "l": "l:NO",
+      "m": 13,
+      "a": 25
+     }
+    ]
+   },
+   "n": 2,
+   "intro": true,
+   "dlg": "THE DIFFERENCE:|THE 1ST QUARTER.",
+   "dlg2": "1ST QUARTER:|2 OF 18 VS 13 OF 25.",
+   "vo": "The difference: the first quarter. Two of eighteen, to thirteen of twenty five."
+  },
+  {
+   "kind": "sc_dots",
+   "side": "us",
+   "shots": "oa.bF+YG+ZO.bH.Zg.eK.nL.Jc.EU.cG+fg+Yf+YH+NS.dh.eO.ZF.bH+GW.YF+dH+nc.",
+   "chips": [
+    "FT: 8/8"
+   ],
+   "pk": "p:5175737",
+   "tag": "28 PTS",
+   "nm": "LENDEBORG",
+   "dlg": "LENDEBORG: 28 PTS,|8 OF 8 AT THE LINE.",
+   "vo": "Lendeborg had twenty eight, eight of eight at the line."
+  },
+  {
+   "kind": "sc_dots",
+   "side": "us",
+   "cont": true,
+   "shots": "oa.bF+YG+ZO.bH.Zg.eK.nL.Jc.EU.cG+fg+Yf+YH+NS.dh.eO.ZF.bH+GW.YF+dH+nc.",
+   "chips": [
+    "FT: 8/8",
+    "RIM: 7/9"
+   ],
+   "pk": "p:5175737",
+   "tag": "28 PTS",
+   "nm": "LENDEBORG",
+   "dlg": "7 OF 9 AT THE RIM.|9 OF 23 OVERALL.",
+   "vo": "Add seven of nine at the rim, but nine of twenty three overall."
+  },
+  {
+   "kind": "sc_dots",
+   "side": "us",
+   "shots": "oe.Zf.bf.aG.kd.HZ+xH+CF+",
+   "chips": [
+    "15 PTS",
+    "3PT: 3/7"
+   ],
+   "pk": "p:4709138",
+   "tag": "15 PTS",
+   "nm": "PODZIEMSKI",
+   "dlg": "PODZIEMSKI: 15 PTS,|3 OF 7 FROM 3.",
+   "vo": "Podziemski hit three of seven from deep for fifteen."
+  },
+  {
+   "kind": "sc_dots",
+   "side": "them",
+   "shots": "cQ+sX.cG+hf.TO.YF+ZF+dJ+CG.PK.XH.Nd+YG.",
+   "chips": [
+    "19 PTS",
+    "10 REB",
+    "10 AST"
+   ],
+   "pk": "p:5144091",
+   "tag": "19 PTS",
+   "nm": "FEARS",
+   "dlg": "FEARS: 19 PTS,|10 REB, 10 AST.",
+   "vo": "Jeremiah Fears had a triple double, nineteen, ten and ten."
+  },
+  {
+   "kind": "sc_dots",
+   "pad": true,
+   "hold": 0.154,
+   "vo": ""
+  },
+  {
+   "kind": "sc_zones",
+   "side": "them",
+   "player": true,
+   "zones": [
+    {
+     "z": "RIM",
+     "v": "2/4"
+    },
+    {
+     "z": "PAINT",
+     "v": "0/1"
+    },
+    {
+     "z": "MIDRANGE",
+     "v": "1/2"
+    },
+    {
+     "z": "CORNER 3",
+     "v": "1/3"
+    },
+    {
+     "z": "3 PT",
+     "v": "4/5"
+    }
+   ],
+   "foot": "23 PTS",
+   "pk": "p:4397136",
+   "tag": "8/15 FG",
+   "nm": "BEY",
+   "dlg": "BEY: 23 PTS.",
+   "vo": "Sah-deek Bey added twenty three."
+  },
+  {
+   "kind": "sc_lead",
+   "title": "THEIR LEAD IN THE 3RD",
+   "ticks": [
+    [
+     58,
+     89
+    ],
+    [
+     64,
+     93
+    ],
+    [
+     72,
+     97
+    ],
+    [
+     78,
+     107
+    ],
+    [
+     85,
+     113
+    ],
+    [
+     94,
+     115
+    ]
+   ],
+   "wside": "them",
+   "dlg": "DOWN 31 IN THE 3RD...",
+   "dlg2": "FINAL: 94-115.",
+   "vo": "New Orleans led by thirty one in the third. Final, one fifteen to ninety four."
+  },
+  {
+   "kind": "sc_town",
+   "town": "WARRIORS TOWN",
+   "sub": "GS 8-6",
+   "arena": "CHASE CENTER",
+   "rec": "8-6",
+   "p1": "p:5175737",
+   "n1": "LENDEBORG",
+   "p2": "p:4709138",
+   "n2": "PODZIEMSKI",
+   "cont": true,
+   "dlg": "8-6. FIX THE 1ST|QUARTER.",
+   "vo": "That's eight and six. Fix the first quarter."
+  }
+ ],
+ "facts": [
+  {
+   "game": "401910000",
+   "score": "115-94"
+  },
+  {
+   "game": "401910000",
+   "player": "5175737",
+   "stat": "FG",
+   "value": "9-23"
+  },
+  {
+   "game": "401910000",
+   "player": "5175737",
+   "stat": "FT",
+   "value": "8-8"
+  },
+  {
+   "game": "401910000",
+   "player": "5175737",
+   "stat": "PTS",
+   "value": "28"
+  },
+  {
+   "game": "401910000",
+   "player": "4709138",
+   "stat": "3PT",
+   "value": "3-7"
+  },
+  {
+   "game": "401910000",
+   "player": "4709138",
+   "stat": "PTS",
+   "value": "15"
+  },
+  {
+   "game": "401910000",
+   "player": "5144091",
+   "stat": "AST",
+   "value": "10"
+  },
+  {
+   "game": "401910000",
+   "player": "5144091",
+   "stat": "PTS",
+   "value": "19"
+  },
+  {
+   "game": "401910000",
+   "player": "5144091",
+   "stat": "REB",
+   "value": "10"
+  },
+  {
+   "game": "401910000",
+   "player": "4397136",
+   "stat": "3PT",
+   "value": "5-8"
+  },
+  {
+   "game": "401910000",
+   "player": "4397136",
+   "stat": "FG",
+   "value": "8-15"
+  },
+  {
+   "game": "401910000",
+   "player": "4397136",
+   "stat": "PTS",
+   "value": "23"
+  },
+  {
+   "claim": "Matchup: Golden State Warriors vs New Orleans Pelicans. ESPN box score, final GS 94 NO 115: GS FG 28-84, 3PT 11-46, FT 27-30; NO FG 41-97, 3PT 15-40, FT 18-24. Linescore GS 11 25 29 29, NO 35 26 32 22. GS record after the game 8-6. Margin 21. Points over the last 3 quarters (after the 1st): GS 83, NO 80. Play-by-play, 1st quarter: GS FG 2/18, 3PT 1/13; NO FG 13/25, 3PT 6/12. Score after the 1st: GS 11, NO 35. Play-by-play shot log: Yaxel Lendeborg 7/9 within 5 ft of the rim. Play-by-play shot log, Saddiq Bey by zone: RIM 2/4, PAINT 0/1, MIDRANGE 1/2, CORNER 3 1/3, 3 PT 4/5. Play-by-play score: NO biggest lead 31 in the 3rd quarter. Score checkpoints (GS-NO): 58-89, 64-93, 72-97, 78-107, 85-113, 94-115. Zones (play-by-play shot log): GS RIM 15/25, PAINT 1/7, MIDRANGE 1/6, CORNER 3 5/14, 3 PT 6/32; NO RIM 18/36, PAINT 5/12, MIDRANGE 3/9, CORNER 3 1/12, 3 PT 14/28.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401910000"
+  },
+  {
+   "game": "401910000",
+   "player": "4709138",
+   "stat": "FG",
+   "value": "3-8"
+  },
+  {
+   "game": "401910000",
+   "player": "5144091",
+   "stat": "FG",
+   "value": "6-13"
+  }
+ ]
+}

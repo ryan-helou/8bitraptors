@@ -1,0 +1,229 @@
+{
+ "team": "raptors",
+ "name": "tr_quickley",
+ "record": "5-4",
+ "caption": "IF QUICKLEY HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n😴 Snorlax: only eats and sleeps, until it gets serious. The 25th pick\n⚡ Jolteon: stores up electricity and fires its fur like missiles. 2nd in Sixth Man of the Year voting\n🗡️ Bisharp: deals the finishing blow without changing its expression. Buzzer-beating three, 97-96 over Charlotte\n🎯 Alakazam: its brain can outperform a supercomputer. 40 points on 11-of-13, the most efficient 40 ever\n🐧 Empoleon: the Emperor Pokémon, swims as fast as a jet boat. 5.8 assists a night through 8 games\n🥷 Greninja: appears and vanishes with a ninja's grace. Quick by name, 17.4 points a night through 8 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Immanuel Quickley had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF QUICKLEY HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Snorlax. All it does is eat and sleep, until it gets serious. Twenty-four players went before him in the draft.",
+   "dlg": "SLEEPS, THEN SHOWS POWER.|THE 25TH PICK!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Jolteon. It stores up electricity and fires its fur like missiles. Off the bench, second in Sixth Man of the Year voting.",
+   "dlg": "IT STORES UP ELECTRICITY.|2ND IN SIXTH MAN VOTING!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Bisharp. It deals the finishing blow without changing its expression. A three at the buzzer to beat Charlotte by one.",
+   "dlg": "IT LANDS THE FINAL BLOW.|BUZZER THREE, 97-96 WIN!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Alakazam. Its brain can outperform a supercomputer. Forty points on eleven of thirteen shooting. The most efficient forty ever.",
+   "dlg": "A SUPERCOMPUTER BRAIN.|40 ON 11-OF-13 SHOOTING!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Empoleon. The Emperor Pokemon. It swims as fast as a jet boat. Five point eight assists a night through eight games.",
+   "dlg": "THE EMPEROR POKEMON.|5.8 ASSISTS, 8 GAMES IN!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Greninja. It appears and vanishes with a ninja's grace. Quick by name, quick by nature. Seventeen point four a night.",
+   "dlg": "APPEARS AND VANISHES.|17.4 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 17.4
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.8
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Quickley was drafted with the 25th overall pick (#25) in 2020; finished second (2nd) in the voting for the Sixth Man of the Year Award (6MOY) in 2023; January 7, 2026: buzzer-beating three-point shot for a 97-96 victory over the Charlotte Hornets; January 20, 2026: 40 points on 11-of-13 shooting in a 145-127 win over Golden State, described as the most efficient 40-point game in league history",
+   "source": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:4395724@TOR",
+   "mon": "pk:snorlax",
+   "nick": "SNORLAX",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "THE SLEEPER",
+   "stat": "25TH PICK"
+  },
+  {
+   "key": "p:4395724@TOR",
+   "mon": "pk:jolteon",
+   "nick": "JOLTEON",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "label": "SPARK PLUG",
+   "stat": "6MOY RUNNER-UP"
+  },
+  {
+   "key": "p:4395724@TOR",
+   "mon": "pk:bisharp",
+   "nick": "BISHARP",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "THE DAGGER",
+   "stat": "97-96 WIN"
+  },
+  {
+   "key": "p:4395724@TOR",
+   "mon": "pk:alakazam",
+   "nick": "ALAKAZAM",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "SHARPSHOOTER",
+   "stat": "40 ON 11-OF-13"
+  },
+  {
+   "key": "p:4395724@TOR",
+   "mon": "pk:empoleon",
+   "nick": "EMPOLEON",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "PLAYMAKER",
+   "stat": "5.8 APG"
+  },
+  {
+   "key": "p:4395724@TOR",
+   "mon": "pk:greninja",
+   "nick": "GRENINJA",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "17.4 PPG"
+  }
+ ],
+ "mode": "trainer"
+}

@@ -1,0 +1,116 @@
+{
+ "team": "warriors",
+ "name": "gui",
+ "record": "7-3",
+ "caption": "PICK 55 🎮🏀 The 55th pick, from Brazil. Now he's starting games for us.\n\n• 2022 draft: we take Gui Santos at #55\n• Rookie year: 23 games, 3.6 PPG, in and out of Santa Cruz\n• 2026: 3-year extension, then a career-high 31 vs Brooklyn\n• First 7 games this season: 5 starts\n\nStarter or bench guy? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 55",
+   "key": "p:4997536@GSW",
+   "name": "GUI",
+   "badge": "2022 DRAFT",
+   "lines": [
+    [
+     "#55",
+     "2022 DRAFT"
+    ]
+   ],
+   "vo": "Fifty-four players went before him. We took Ghee Santos, from Brazil, at fifty-five.",
+   "dlg": "PICK 55. FROM BRAZIL.|STRAIGHT TO THE G LEAGUE."
+  },
+  {
+   "kind": "fire",
+   "head": "ROOKIE",
+   "key": "p:4997536@GSW",
+   "name": "GUI",
+   "badge": "SANTA CRUZ",
+   "lines": [
+    [
+     "23",
+     "GAMES"
+    ],
+    [
+     "3.6",
+     "PPG"
+    ]
+   ],
+   "vo": "Rookie year: twenty-three games, three point six points. In and out of Santa Cruz.",
+   "dlg": "ROOKIE: 3.6 PPG.|IN AND OUT OF SANTA CRUZ."
+  },
+  {
+   "kind": "fire",
+   "head": "CAREER HIGH",
+   "key": "p:4997536@GSW",
+   "name": "GUI",
+   "badge": "NEW DEAL",
+   "lines": [
+    [
+     "31",
+     "PTS"
+    ]
+   ],
+   "vo": "Then last season: a three-year extension, and a career-high thirty-one points against Brooklyn.",
+   "dlg": "NEW 3-YEAR DEAL...|THEN 31 VS BROOKLYN!"
+  },
+  {
+   "kind": "fire",
+   "head": "STARTER",
+   "key": "p:4997536@GSW",
+   "name": "GUI",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "5",
+     "STARTS"
+    ],
+    [
+     "7",
+     "GAMES"
+    ]
+   ],
+   "vo": "Now? Five starts in his first seven games this season.",
+   "dlg": "NOW: 5 STARTS|IN HIS 7 GAMES."
+  },
+  {
+   "kind": "next",
+   "head": "PICK 55",
+   "logo": "l:GSW",
+   "rec": "#55",
+   "ntxt": "GUI",
+   "nday": "2022 PICK",
+   "vo": "Pick fifty-five. Starter or bench guy? Comment below.",
+   "dlg": "STARTER OR BENCH?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4997536",
+   "season": "2023-24",
+   "stat": "GP",
+   "value": 23
+  },
+  {
+   "player": "4997536",
+   "season": "2023-24",
+   "stat": "PTS",
+   "value": 3.6
+  },
+  {
+   "player": "4997536",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 7
+  },
+  {
+   "player": "4997536",
+   "season": "2026-27",
+   "stat": "GS",
+   "value": 5
+  },
+  {
+   "claim": "Santos, from Brazil, drafted 55th overall in 2022 by Golden State (54 players picked before him); assigned to Santa Cruz; signed a 3-year extension on 28 February 2026; career-high 31 points vs Brooklyn on 25 March 2026",
+   "source": "https://en.wikipedia.org/wiki/Gui_Santos"
+  }
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "team": "raptors",
+ "name": "alltime_party",
+ "record": "5-7",
+ "mode": "starters",
+ "full_party": true,
+ "party": [
+  {
+   "key": "p:136@TOR",
+   "mon": "pk:rayquaza",
+   "nick": "CARTER",
+   "types": [
+    [
+     "DRAGON",
+     "#7038f8"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "SKY HIGH",
+   "stat": "2000 DUNK"
+  },
+  {
+   "key": "p:1977@TOR",
+   "mon": "pk:ampharos",
+   "nick": "BOSH",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "label": "BEACON",
+   "stat": "5X ALL-STAR"
+  },
+  {
+   "key": "p:3978@TOR",
+   "mon": "pk:arcanine",
+   "nick": "DEROZAN",
+   "types": [
+    [
+     "FIRE",
+     "#f08030"
+    ]
+   ],
+   "label": "LEGENDARY",
+   "stat": "#1 SCORER"
+  },
+  {
+   "key": "p:3012@TOR",
+   "mon": "pk:lucario",
+   "nick": "LOWRY",
+   "types": [
+    [
+     "FIGHTING",
+     "#c03028"
+    ],
+    [
+     "STEEL",
+     "#b8b8d0"
+    ]
+   ],
+   "label": "AURA",
+   "stat": "4,277 AST"
+  },
+  {
+   "key": "p:3149673@TOR",
+   "mon": "pk:spinda",
+   "nick": "SIAKAM",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "SPIN",
+   "stat": "MIP 2019"
+  },
+  {
+   "key": "p:6450@TOR",
+   "mon": "pk:darkrai",
+   "nick": "LEONARD",
+   "types": [
+    [
+     "DARK",
+     "#705848"
+    ]
+   ],
+   "label": "MYTHICAL",
+   "stat": "FINALS MVP"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If our all-time greats were a Pokemon team,",
+   "dlg": "IF OUR ALL-TIME GREATS|WERE A POKEMON TEAM..."
+  },
+  {
+   "kind": "p_intro",
+   "cont": true,
+   "vo": "this is the party. And our ace is mythical.",
+   "dlg": "THIS IS THE PARTY.|AND OUR ACE IS MYTHICAL!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "First up. Vince Carter is Rayquaza.",
+   "dlg": "FIRST UP:|VINCE CARTER!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "fx": "poster",
+   "vo": "The Pokedex says it flies so high, no one had ever seen it. Then Vince took off.",
+   "dlg": "IT FLIES SO HIGH NO ONE|HAD EVER SEEN IT."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "Rookie of the Year, then the two thousand dunk contest. Air Canada.",
+   "dlg": "1999 ROOKIE OF THE YEAR.|2000 DUNK CHAMP!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "Chris Bosh is Amfa-ross.",
+   "dlg": "CHRIS BOSH!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "Its tail is a beacon for the lost. After Vince left, Bosh was ours.",
+   "dlg": "ITS TAIL IS A BEACON|FOR THE LOST."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "Five All-Star games in our jersey.",
+   "dlg": "5X ALL-STAR WITH US!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "DeMar DeRozan is Arcanine.",
+   "dlg": "DEMAR DEROZAN!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "Admired since the past, and it runs as if on wings.",
+   "dlg": "ADMIRED SINCE THE PAST.|RUNS AS IF ON WINGS."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "Nine seasons, and our all-time leading scorer.",
+   "dlg": "9 SEASONS.|OUR ALL-TIME TOP SCORER!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "vo": "Kyle Lowry is Lucario.",
+   "dlg": "KYLE LOWRY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "It reads every move before it happens. That's how Lowry drew more charges than anyone in the play-by-play era.",
+   "dlg": "IT READS EVERY MOVE.|THE CHARGES KING."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "stat": true,
+   "vo": "Our all-time assists leader, six straight All-Star games, and our first ring.",
+   "dlg": "4,277 ASSISTS. 6X ALL-STAR.|OUR FIRST RING!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "vo": "Pascal Siakam is Spinda.",
+   "dlg": "PASCAL SIAKAM!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "vo": "No two Spinda are alike, and its dizzy steps throw defenders off. Hello, spin move.",
+   "dlg": "NO TWO ARE ALIKE.|ITS STEPS FOOL FOES."
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "stat": true,
+   "vo": "Pick twenty-seven. Then Most Improved and a ring in the same season.",
+   "dlg": "PICK 27. THEN MOST|IMPROVED AND A RING!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "vo": "And the ace. Kawhi Leonard is Darkrai.",
+   "dlg": "AND THE ACE:|KAWHI LEONARD!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "fx": "poster",
+   "vo": "A mythical Pokemon that gives its foes nightmares. Just ask Philly.",
+   "dlg": "IT GIVES FOES NIGHTMARES.|JUST ASK PHILLY."
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "stat": true,
+   "vo": "Four bounces in Game seven. Then Finals MVP, and our first title.",
+   "dlg": "4 BOUNCES. GAME 7.|FINALS MVP, 2019!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any gym.",
+   "dlg": "A PARTY WE'D TAKE|INTO ANY GYM."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who did we leave out?",
+   "dlg": "WHO DID WE LEAVE OUT?"
+  }
+ ],
+ "caption": "IF OUR ALL-TIME GREATS WERE A POKÉMON TEAM 🎮🏀\n\n🐉 Vince Carter = Rayquaza: flies so high nobody had ever seen it. 1999 Rookie of the Year, 2000 dunk contest champ\n💡 Chris Bosh = Ampharos: its tail is a beacon for the lost. 5x All-Star with us\n🔥 DeMar DeRozan = Arcanine: admired since the past, runs as if on wings. 9 seasons, our all-time leading scorer\n🥋 Kyle Lowry = Lucario: reads every move. Most charges drawn in the play-by-play era, 4,277 assists, 6x All-Star, our first ring\n🌀 Pascal Siakam = Spinda: no two are alike, and that spin. Pick 27, then Most Improved and a ring in 2019\n🌑 Kawhi Leonard = Darkrai, the ace: a mythical that gives foes nightmares. Just ask Philly. 2019 Finals MVP\n\nWho did we leave out? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "facts": [
+  {
+   "claim": "Carter won the 1999 NBA Rookie of the Year Award; nickname Air Canada; won the 2000 Slam Dunk Contest",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "claim": "With the Raptors, Bosh became a five-time (5x) NBA All-Star and supplanted Vince Carter as the face and leader of the franchise",
+   "source": "https://en.wikipedia.org/wiki/Chris_Bosh"
+  },
+  {
+   "claim": "DeRozan spent nine (9) seasons with the Raptors (2009-2018), where he became the franchise's all-time leading scorer",
+   "source": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
+   "claim": "Lowry: NBA's charges drawn leader for the play-by-play era; Raptors all-time leader in assists (4277); 6x All-Star (six straight, 2015-2020) with Toronto; NBA champion 2019, the Raptors' first title",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Lowry"
+  },
+  {
+   "claim": "Raptors career leaders: assists #1 Kyle Lowry 4277",
+   "source": "https://www.basketball-reference.com/teams/TOR/leaders_career.html"
+  },
+  {
+   "claim": "Siakam was drafted 27th overall (#27) by Toronto in 2016; NBA Most Improved Player in 2019, the first to win the award and an NBA title in the same season",
+   "source": "https://en.wikipedia.org/wiki/Pascal_Siakam"
+  },
+  {
+   "claim": "Leonard's Game 7 buzzer-beater vs Philadelphia (Philly) bounced four (4) times on the rim before dropping, 92-90, May 12, 2019; 2019 NBA champion and Finals MVP with Toronto, the Raptors' first title",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "Rayquaza (HeartGold Pokedex): It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/rayquaza/"
+  },
+  {
+   "claim": "Ampharos (Gold Pokedex): The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/ampharos/"
+  },
+  {
+   "claim": "Arcanine (Red Pokedex): A Pokemon that has been admired since the past for its beauty. It runs agilely as if on wings.",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/arcanine/"
+  },
+  {
+   "claim": "Lucario (Pearl Pokedex): By catching the aura emanating from others, it can read their thoughts and movements.",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/lucario/"
+  },
+  {
+   "claim": "Spinda (Diamond Pokedex): No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/spinda/"
+  },
+  {
+   "claim": "Darkrai is a Mythical Pokemon; (Pearl Pokedex) Folklore has it that on moonless nights, this Pokemon will make people see horrific nightmares.",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/darkrai/"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

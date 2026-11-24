@@ -1,0 +1,131 @@
+{
+ "team": "raptors",
+ "name": "vincetrade",
+ "record": "5-4",
+ "caption": "TRADE COURT, CASE #2: HE NEVER PLAYED FOR US 🎮🏀 We traded Vince Carter to New Jersey. The biggest name we got back never played a game for us.\n\n• Dec 17, 2004: Vince to the Nets for Alonzo Mourning, Eric Williams, Aaron Williams and 2 first-round picks\n• Mourning never reported and was bought out\n• Vince's last 20 games with us: 15.9 PPG. Rest of that season in New Jersey: 27.5 PPG\n• Nov 2, 2024: his No. 15 became the first jersey we ever retired\n\nWorst trade we ever made, or did Vince force our hand?\n\nYour verdict: comment W or L 👇\nCase #3 drops tomorrow night. Follow so you don't miss it.",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "HE NEVER PLAYED FOR US",
+   "key": "p:136@BKN",
+   "name": "VINCE",
+   "badge": "TRADE COURT #2",
+   "lines": [
+    [
+     "2004",
+     "DEC 17"
+    ]
+   ],
+   "vo": "We traded Vince Carter. The biggest name we got back never played a single game for us.",
+   "dlg": "WE TRADE VINCE CARTER|TO NEW JERSEY."
+  },
+  {
+   "kind": "fire",
+   "head": "WHAT WE GOT",
+   "key": "p:136@BKN",
+   "name": "VINCE",
+   "badge": "THE RETURN",
+   "lines": [
+    [
+     "2",
+     "FIRSTS"
+    ],
+    [
+     "0",
+     "MOURNING GP"
+    ]
+   ],
+   "vo": "For Vince, we got Alonzo Mourning, Eric Williams, Aaron Williams and two first-round picks. Mourning never even reported.",
+   "dlg": "WE GET MOURNING, 2 FIRSTS.|MOURNING NEVER SHOWS UP."
+  },
+  {
+   "kind": "fire",
+   "head": "THE END HERE",
+   "key": "p:136@TOR",
+   "name": "VINCE",
+   "badge": "FINAL 20 GAMES",
+   "lines": [
+    [
+     "15.9",
+     "PPG"
+    ],
+    [
+     "20",
+     "GAMES"
+    ]
+   ],
+   "vo": "His last twenty games with us: fifteen point nine points a night.",
+   "dlg": "LAST 20 GAMES WITH US:|15.9 PPG."
+  },
+  {
+   "kind": "fire",
+   "head": "IN NEW JERSEY",
+   "key": "p:136@BKN",
+   "name": "VINCE",
+   "badge": "NETS",
+   "lines": [
+    [
+     "27.5",
+     "PPG"
+    ],
+    [
+     "57",
+     "GAMES"
+    ]
+   ],
+   "vo": "The rest of that same season in New Jersey? Twenty-seven point five a night.",
+   "dlg": "SAME SEASON IN JERSEY:|27.5 PPG IN 57 GAMES."
+  },
+  {
+   "kind": "fire",
+   "head": "COMING HOME",
+   "key": "p:136@TOR",
+   "name": "VINCE",
+   "badge": "NO. 15",
+   "lines": [
+    [
+     "2024",
+     "NOV 2"
+    ],
+    [
+     "NO. 15",
+     "RETIRED"
+    ]
+   ],
+   "vo": "Twenty years later, all was forgiven. In twenty twenty-four, his number fifteen became the first jersey we ever retired.",
+   "dlg": "2024: NO. 15 IS THE FIRST|JERSEY WE EVER RETIRE."
+  },
+  {
+   "kind": "next",
+   "head": "THE VERDICT",
+   "logo": "l:TOR",
+   "rec": "W OR L?",
+   "ntxt": "CASE #3",
+   "nday": "TOMORROW",
+   "vo": "Did we win this trade? W or L. Case three, tomorrow night.",
+   "dlg": "DID WE WIN THIS TRADE?|W OR L? CASE #3: TOMORROW NIGHT."
+  }
+ ],
+ "facts": [
+  {
+   "player": "136",
+   "season": "2004-05",
+   "stat": "PTS",
+   "value": 15.9
+  },
+  {
+   "player": "136",
+   "season": "2004-05",
+   "stat": "GP",
+   "value": 20
+  },
+  {
+   "claim": "On December 17, 2004 (Dec 17) Carter was traded to the New Jersey Nets for Alonzo Mourning, Aaron Williams, Eric Williams and two (2) first-round picks; 2004-05 with New Jersey: 57 games, 27.5 PPG; on November 2, 2024 (Nov 2) the Raptors retired his No. 15, the first Raptors player to have his jersey retired",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "claim": "Mourning never reported to the Raptors (0 games played) and was bought out on February 11, 2005",
+   "source": "https://en.wikipedia.org/wiki/Alonzo_Mourning"
+  }
+ ]
+}

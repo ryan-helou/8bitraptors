@@ -1,0 +1,223 @@
+{
+ "team": "warriors",
+ "name": "tr_horford",
+ "record": "7-3",
+ "caption": "IF HORFORD HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🐊 Feraligatr: its huge jaws intimidate foes. NCAA champion at Florida in 2006 and 2007\n🦅 Talonflame: it dives on its prey at blazing speed. #3 pick to Atlanta in 2007\n⭐ Jirachi: legend says it grants any wish. 5-time All-Star\n⏳ Celebi: it wanders across time. 186 playoff games before his first ring, an NBA record\n💥 Clawitzer: its claw is a water cannon. 40.7% from three in his first 9 games\n🐘 Copperajah: its trunk crushes giant rocks to powder. Big Al, 40 years old, back for season 20\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Al Horford had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF HORFORD HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Feraligatr. It opens its huge jaws to intimidate its foes. Back-to-back national titles at Florida.",
+   "dlg": "ITS HUGE JAWS INTIMIDATE.|NCAA CHAMP 2006 AND 2007!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Talonflame. A fiery bird that dives on its prey at blazing speed. Atlanta took him third overall in two thousand seven.",
+   "dlg": "DIVES IN AT BLAZING SPEED.|#3 PICK TO ATLANTA, 2007!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Jirachi. Legend says it grants any wish written on the notes on its head. Five-time All-Star.",
+   "dlg": "IT GRANTS WISHES.|5-TIME ALL-STAR!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Celebi. It wanders across time. One hundred eighty-six playoff games before his first ring. An NBA record.",
+   "dlg": "IT WANDERS ACROSS TIME.|RING IN PLAYOFF GAME 186!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Clawitzer. Its claw is a cannon that fires water hard enough to sink a tanker. Forty point seven percent from three off our bench in his first nine games.",
+   "dlg": "ITS CLAW IS A CANNON.|40.7% FROM THREE!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Copperajah. Its trunk can crush giant rocks into powder. Big Al. Forty years old, and back with us for season twenty.",
+   "dlg": "ITS TRUNK CRUSHES ROCKS.|BIG AL, 40: SEASON 20!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3213",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 40.7
+  },
+  {
+   "player": "3213",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "claim": "Horford, nicknamed Big Al, born June 3, 1986 (age 40); 2x NCAA champion at Florida (2006, 2007); drafted 3rd overall (#3) in 2007 by Atlanta; 5x All-Star; first NBA championship in 2024 in his 186th career playoff game, the record for most playoff games before a championship; re-signed with Golden State June 25, 2026 to play his 20th season",
+   "source": "https://en.wikipedia.org/wiki/Al_Horford"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3213@GSW",
+   "mon": "pk:feraligatr",
+   "nick": "FERALIGATR",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "THE GATOR",
+   "stat": "2X NCAA CHAMP"
+  },
+  {
+   "key": "p:3213@GSW",
+   "mon": "pk:talonflame",
+   "nick": "TALONFLAME",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE HAWK",
+   "stat": "PICK 3"
+  },
+  {
+   "key": "p:3213@GSW",
+   "mon": "pk:jirachi",
+   "nick": "JIRACHI",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "THE STAR",
+   "stat": "5X ALL-STAR"
+  },
+  {
+   "key": "p:3213@GSW",
+   "mon": "pk:celebi",
+   "nick": "CELEBI",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ],
+    [
+     "GRASS",
+     "#78c850"
+    ]
+   ],
+   "label": "THE LONG WAIT",
+   "stat": "186 GAMES"
+  },
+  {
+   "key": "p:3213@GSW",
+   "mon": "pk:clawitzer",
+   "nick": "CLAWITZER",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "THE CANNON",
+   "stat": "40.7 3P%"
+  },
+  {
+   "key": "p:3213@GSW",
+   "mon": "pk:copperajah",
+   "nick": "COPPERAJAH",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "SEASON 20"
+  }
+ ],
+ "mode": "trainer"
+}

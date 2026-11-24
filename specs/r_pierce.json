@@ -1,0 +1,109 @@
+{
+ "team": "raptors",
+ "name": "pierce",
+ "record": "48-34",
+ "caption": "THE BLOCK 🎮🏀 May 4, 2014. Game 7 vs Brooklyn. Down 1, 6 seconds left.\n\n• 48-34, our best record ever at the time, first playoffs since 2008\n• Game 7: Kyle Lowry has 28\n• Last shot: Paul Pierce blocks Lowry at the buzzer\n• Final: Nets 104, us 103\n• 5 years later, we win it all\n\nMost painful loss in our history? 👇",
+ "beats": [
+  {
+   "kind": "trainer",
+   "head": "TRAINER CARD",
+   "tag": "2013-14",
+   "reveal": true,
+   "chip": "SINCE 2008",
+   "games": [],
+   "vo": "Twenty fourteen. We go forty-eight and thirty-four, our best record ever at the time, and make the playoffs for the first time since two thousand eight.",
+   "dlg": "48-34: BEST RECORD EVER.|FIRST PLAYOFFS SINCE 2008!"
+  },
+  {
+   "kind": "fire",
+   "head": "GAME 7",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "GAME 7",
+   "lines": [
+    [
+     "28",
+     "PTS"
+    ],
+    [
+     "6.0",
+     "SEC LEFT"
+    ]
+   ],
+   "vo": "Game seven against Brooklyn. Kyle Lowry has twenty-eight. We're down one, six seconds left, and the ball is in his hands.",
+   "dlg": "GAME 7. DOWN 1.|6 SECONDS LEFT..."
+  },
+  {
+   "kind": "fire",
+   "head": "THE BLOCK",
+   "key": "p:662@BKN",
+   "name": "PIERCE",
+   "badge": "0.0",
+   "lines": [
+    [
+     "0.0",
+     "BLOCKED"
+    ]
+   ],
+   "vo": "Lowry drives... and Paul Pierce blocks it at the buzzer.",
+   "dlg": "LOWRY DRIVES...|PIERCE BLOCKS IT!"
+  },
+  {
+   "kind": "final",
+   "head": "SEASON OVER",
+   "oname": "NETS",
+   "logo": "l:BKN",
+   "ocol": "auto:BKN",
+   "my": 103,
+   "th": 104,
+   "win": false,
+   "vo": "One-oh-four, one-oh-three. Season over.",
+   "dlg": "NETS 104, US 103.|SEASON OVER."
+  },
+  {
+   "kind": "fire",
+   "head": "REVENGE",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "2019",
+   "lines": [
+    [
+     "2019",
+     "NBA CHAMPS"
+    ]
+   ],
+   "vo": "Five years later, Kyle and us got our revenge. A ring.",
+   "dlg": "5 YEARS LATER...|WE WIN IT ALL."
+  },
+  {
+   "kind": "next",
+   "head": "THE BLOCK",
+   "logo": "l:TOR",
+   "rec": "103",
+   "ntxt": "GAME 7",
+   "nday": "MAY 4, 2014",
+   "vo": "Most painful loss in our history? Comment below.",
+   "dlg": "MOST PAINFUL LOSS EVER?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "400553094",
+   "score": "104-103"
+  },
+  {
+   "game": "400553094",
+   "player": "3012",
+   "stat": "PTS",
+   "value": 28
+  },
+  {
+   "claim": "2013-14 Raptors: 48-34, best record in franchise history at the time, first playoffs since 2008; lost Game 7 to Brooklyn on May 4, 2014; won the title 5 years later in 2019",
+   "source": "https://en.wikipedia.org/wiki/2013–14_Toronto_Raptors_season"
+  },
+  {
+   "claim": "ESPN play-by-play: Raptors timeout with 6.0 (6) seconds left in the 4th quarter; 0.0 Paul Pierce blocks Kyle Lowry's jumper; down 1",
+   "source": "https://www.espn.com/nba/playbyplay/_/gameId/400553094"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "team": "raptors",
+ "name": "damon",
+ "record": "5-4",
+ "caption": "OUR FIRST PICK 🎮🏀 The crowd chanted for Ed O'Bannon. We took Damon Stoudamire, and they booed.\n\n• 1995: our first-ever draft pick, #7\n• Rookie year: 19.0 PPG, 9.3 APG, Rookie of the Year\n• O'Bannon went #9 and lasted 2 NBA seasons\n• 2022: Scottie Barnes wins Rookie of the Year with us: 15.3 PPG, 7.5 RPG\n\nBetter rookie year: Damon or Scottie? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "OUR FIRST PICK",
+   "key": "p:817@TOR",
+   "name": "DAMON",
+   "badge": "1995 DRAFT",
+   "lines": [
+    [
+     "#7",
+     "1995 DRAFT"
+    ]
+   ],
+   "vo": "Our first-ever draft pick. The crowd wanted Ed O'Bannon. We took a five-foot-ten point guard named Damon Stoudamire, and the fans booed.",
+   "dlg": "FANS WANT ED O'BANNON.|WE TAKE DAMON. BOOS."
+  },
+  {
+   "kind": "fire",
+   "head": "ROOKIE YEAR",
+   "key": "p:817@TOR",
+   "name": "DAMON",
+   "badge": "ROOKIE OF YEAR",
+   "lines": [
+    [
+     "19.0",
+     "PPG"
+    ],
+    [
+     "9.3",
+     "APG"
+    ]
+   ],
+   "vo": "Year one: nineteen points, nine point three assists, and Rookie of the Year.",
+   "dlg": "ROOKIE OF THE YEAR:|19.0 PPG, 9.3 APG."
+  },
+  {
+   "kind": "fire",
+   "head": "THE OTHER GUY",
+   "key": "p:817@TOR",
+   "name": "DAMON",
+   "badge": "RIGHT CALL",
+   "lines": [
+    [
+     "#9",
+     "O'BANNON"
+    ],
+    [
+     "2",
+     "NBA SEASONS"
+    ]
+   ],
+   "vo": "Ed O'Bannon went ninth to New Jersey, and lasted two seasons in the league.",
+   "dlg": "O'BANNON GOES #9...|2 NBA SEASONS."
+  },
+  {
+   "kind": "fire",
+   "head": "SCOTTIE",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "ROOKIE OF YEAR",
+   "lines": [
+    [
+     "15.3",
+     "PPG"
+    ],
+    [
+     "7.5",
+     "RPG"
+    ]
+   ],
+   "vo": "Twenty-six years later, Scottie Barnes won it too: fifteen points and seven and a half rebounds.",
+   "dlg": "2022: SCOTTIE WINS IT TOO.|15.3 PPG, 7.5 RPG."
+  },
+  {
+   "kind": "next",
+   "head": "BETTER ROOKIE?",
+   "logo": "l:TOR",
+   "rec": "#7",
+   "ntxt": "DAMON",
+   "nday": "VS SCOTTIE",
+   "vo": "Damon or Scottie: who had the better rookie year? Comment below.",
+   "dlg": "DAMON OR SCOTTIE?|BETTER ROOKIE YEAR?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "817",
+   "season": "1995-96",
+   "stat": "PTS",
+   "value": 19.0
+  },
+  {
+   "player": "817",
+   "season": "1995-96",
+   "stat": "AST",
+   "value": 9.3
+  },
+  {
+   "player": "4433134",
+   "season": "2021-22",
+   "stat": "PTS",
+   "value": 15.3
+  },
+  {
+   "player": "4433134",
+   "season": "2021-22",
+   "stat": "REB",
+   "value": 7.5
+  },
+  {
+   "claim": "Stoudamire was selected 7th (#7) overall by Toronto in the 1995 draft, the Raptors' first ever draft pick; fans chanted for Ed O'Bannon and booed the pick; 1996 Rookie of the Year",
+   "source": "https://en.wikipedia.org/wiki/Damon_Stoudamire"
+  },
+  {
+   "claim": "O'Bannon selected ninth overall (#9) by New Jersey in 1995; two (2) seasons in the NBA",
+   "source": "https://en.wikipedia.org/wiki/Ed_O'Bannon"
+  },
+  {
+   "claim": "Barnes: NBA Rookie of the Year 2022 (2021-22) with Toronto",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  }
+ ]
+}

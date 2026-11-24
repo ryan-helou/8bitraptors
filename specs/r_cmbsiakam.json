@@ -1,0 +1,148 @@
+{
+ "team": "raptors",
+ "name": "cmbsiakam",
+ "record": "5-4",
+ "caption": "YEAR 2 🎮🏀 Pascal Siakam was pick 27. Collin Murray-Boyles was pick 9. In year two, Collin is ahead.\n\n• Siakam, year 2 (2017-18): 7.3 PPG, 4.5 RPG, 50.8 FG%\n• Collin, year 2, first 9 games: 10.7 PPG, 5.0 RPG, 50.7 FG%\n• Siakam, year 3: 16.9 PPG, Most Improved Player, NBA champion\n• Collin made the All-Rookie Second Team in 2026\n\nWill Collin end up better than Siakam? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 27 VS PICK 9",
+   "key": "p:3149673@TOR",
+   "name": "SIAKAM",
+   "badge": "2016 PICK 27",
+   "lines": [
+    [
+     "#27",
+     "2016 DRAFT"
+    ]
+   ],
+   "vo": "Pascal Siakam was pick twenty-seven. Collin Murray-Boyles was pick nine. In year two, Collin is ahead.",
+   "dlg": "SIAKAM: PICK 27.|COLLIN: PICK 9."
+  },
+  {
+   "kind": "fire",
+   "head": "SIAKAM, YEAR 2",
+   "key": "p:3149673@TOR",
+   "name": "SIAKAM",
+   "badge": "2017-18",
+   "lines": [
+    [
+     "7.3",
+     "PPG"
+    ],
+    [
+     "4.5",
+     "RPG"
+    ]
+   ],
+   "vo": "Siakam in year two: seven point three points and four and a half rebounds a night.",
+   "dlg": "SIAKAM, YEAR 2:|7.3 PPG, 4.5 RPG."
+  },
+  {
+   "kind": "fire",
+   "head": "COLLIN, YEAR 2",
+   "key": "p:5093267@TOR",
+   "name": "CMB",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "10.7",
+     "PPG"
+    ],
+    [
+     "5.0",
+     "RPG"
+    ]
+   ],
+   "vo": "Collin in year two, through nine games: ten point seven points and five rebounds a night.",
+   "dlg": "COLLIN, YEAR 2:|10.7 PPG, 5.0 RPG."
+  },
+  {
+   "kind": "fire",
+   "head": "SIAKAM, YEAR 3",
+   "key": "p:3149673@TOR",
+   "name": "SIAKAM",
+   "badge": "MOST IMPROVED",
+   "lines": [
+    [
+     "16.9",
+     "PPG"
+    ],
+    [
+     "2019",
+     "CHAMPION"
+    ]
+   ],
+   "vo": "But in year three, Siakam jumped to sixteen point nine a night, won Most Improved, and won a ring.",
+   "dlg": "SIAKAM, YEAR 3: 16.9 PPG,|MOST IMPROVED + A RING."
+  },
+  {
+   "kind": "next",
+   "head": "WHO'S BETTER?",
+   "logo": "l:TOR",
+   "rec": "#9",
+   "ntxt": "COLLIN OR",
+   "nday": "SIAKAM?",
+   "vo": "Will Collin end up better than Siakam? Comment below.",
+   "dlg": "WILL COLLIN TOP SIAKAM?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3149673",
+   "season": "2017-18",
+   "stat": "PTS",
+   "value": 7.3
+  },
+  {
+   "player": "3149673",
+   "season": "2017-18",
+   "stat": "REB",
+   "value": 4.5
+  },
+  {
+   "player": "3149673",
+   "season": "2017-18",
+   "stat": "FG%",
+   "value": 50.8
+  },
+  {
+   "player": "3149673",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 16.9
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 10.7
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 5.0
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 50.7
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "claim": "Siakam was drafted 27th overall (#27) by Toronto in 2016; 2017-18 was his year 2 and 2018-19 his year 3, when he was Most Improved Player and NBA champion (2019)",
+   "source": "https://en.wikipedia.org/wiki/Pascal_Siakam"
+  },
+  {
+   "claim": "Murray-Boyles was chosen ninth overall (#9, pick 9) by Toronto in the 2025 draft; 2026-27 is his year 2; NBA All-Rookie Second Team (2026)",
+   "source": "https://en.wikipedia.org/wiki/Collin_Murray-Boyles"
+  }
+ ]
+}

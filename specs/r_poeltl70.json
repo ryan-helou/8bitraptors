@@ -1,0 +1,157 @@
+{
+ "team": "raptors",
+ "name": "poeltl70",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "WHY FEWER MINUTES? 🎮🏀 Jakob Poeltl shot 70.0% last season. Now he's playing his fewest minutes in years.\n\n• 2024-25: career highs, 14.5 PPG and 9.6 RPG\n• 2025-26: 70.0% from the field, his career best\n• His 8 games this season: 22.8 minutes, 8.5 PPG, 64.6% shooting\n• Collin Murray-Boyles, 21, first 9 games: 22.1 minutes, 10.7 PPG\n\nShould Poeltl still be our starting center? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "WHY FEWER MINUTES?",
+   "key": "p:3134908@TOR",
+   "name": "POELTL",
+   "badge": "2025-26",
+   "lines": [
+    [
+     "70.0",
+     "FG%"
+    ]
+   ],
+   "vo": "Jakob Poeltl shot seventy percent from the field last season. So why are his minutes down?",
+   "dlg": "2025-26: POELTL SHOOTS|70.0% FROM THE FIELD."
+  },
+  {
+   "kind": "fire",
+   "head": "CAREER HIGHS",
+   "key": "p:3134908@TOR",
+   "name": "POELTL",
+   "badge": "2024-25",
+   "lines": [
+    [
+     "14.5",
+     "PPG"
+    ],
+    [
+     "9.6",
+     "RPG"
+    ]
+   ],
+   "vo": "The year before: career highs, fourteen point five points and nine point six rebounds.",
+   "dlg": "2024-25 CAREER HIGHS:|14.5 PPG, 9.6 RPG."
+  },
+  {
+   "kind": "fire",
+   "head": "HIS 8 GAMES",
+   "key": "p:3134908@TOR",
+   "name": "POELTL",
+   "badge": "AGE 31",
+   "lines": [
+    [
+     "22.8",
+     "MIN"
+    ],
+    [
+     "8.5",
+     "PPG"
+    ]
+   ],
+   "vo": "Now he's thirty-one. In his eight games: about twenty-three minutes and eight and a half points a night, his fewest minutes since twenty nineteen.",
+   "dlg": "HIS 8 GAMES: 22.8 MIN,|8.5 PPG, 64.6% FG."
+  },
+  {
+   "kind": "fire",
+   "head": "THE KID",
+   "key": "p:5093267@TOR",
+   "name": "COLLIN",
+   "badge": "AGE 21",
+   "lines": [
+    [
+     "22.1",
+     "MIN"
+    ],
+    [
+     "10.7",
+     "PPG"
+    ]
+   ],
+   "vo": "Meanwhile, twenty-one-year-old Collin Murray-Boyles is scoring ten point seven in about the same minutes.",
+   "dlg": "CMB, AGE 21: 22.1 MIN,|10.7 PPG."
+  },
+  {
+   "kind": "next",
+   "head": "STARTER?",
+   "logo": "l:TOR",
+   "rec": "70.0",
+   "ntxt": "POELTL",
+   "nday": "FG% LAST YR",
+   "vo": "Should Poeltl still be our starting center? Comment below.",
+   "dlg": "STILL OUR|STARTING CENTER?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3134908",
+   "season": "2025-26",
+   "stat": "FG%",
+   "value": 70.0
+  },
+  {
+   "player": "3134908",
+   "season": "2024-25",
+   "stat": "PTS",
+   "value": 14.5
+  },
+  {
+   "player": "3134908",
+   "season": "2024-25",
+   "stat": "REB",
+   "value": 9.6
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 22.8
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 8.5
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 64.6
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 22.1
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 10.7
+  },
+  {
+   "claim": "Raptors roster ages: Jakob Poeltl 31, Collin Murray-Boyles 21",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/roster"
+  }
+ ]
+}

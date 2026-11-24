@@ -1,0 +1,231 @@
+{
+ "team": "warriors",
+ "name": "tr_klay",
+ "record": "7-3",
+ "caption": "IF KLAY HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n⚡ Minun: it loves to cheer on its partner. With Steph: 484 threes in one season, a record back then\n🔥 Rapidash: the faster it goes, the bigger the flames. 37 points in one quarter, 13 for 13\n🦐 Golisopod: it will do anything to win. Down 3-1 to OKC, then 11 threes in Game 6\n💨 Accelgor: it moves with blinding speed. 60 points in 29 minutes, the first ever to score 60 in under 30\n🐙 Octillery: its ability is Sniper. 14 threes in one game, an NBA record\n🦋 Volcarona: when ash darkened the sky, its fire replaced the sun. 2.5 years out hurt, then ring number 4 in 2022\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Klay Thompson had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF KLAY HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Minun. It loves to cheer on its partner in battle. Him and Steph: four hundred eighty-four threes in one season, a record back then.",
+   "dlg": "IT BACKS ITS PARTNER.|484 THREES WITH STEPH!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Rapidash. The faster it goes, the longer the flames of its mane grow. Thirty-seven points in one quarter. Thirteen for thirteen.",
+   "dlg": "FASTER IT GOES, HOTTER IT|GETS. 37 IN ONE QUARTER!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Golisopod. It will do anything to win, and takes every opening it gets. Down three games to one against OKC. Game six: eleven threes.",
+   "dlg": "IT WILL DO ANYTHING TO WIN|DOWN 3-1: 11 THREES!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Accelgor. It sheds its heavy shell and moves with blinding speed. Sixty points in twenty-nine minutes. The first player ever to score sixty in under thirty.",
+   "dlg": "IT MOVES WITH BLINDING|SPEED. 60 IN 29 MINUTES!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Octillery. Its ability is Sniper. Fourteen threes in one game, an NBA record.",
+   "dlg": "ITS ABILITY IS SNIPER.|14 THREES IN ONE GAME!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Volcarona. When ash darkened the sky, its fire stood in for the sun. Two and a half years out, then he came back and won ring number four.",
+   "dlg": "ITS FIRE REPLACED THE SUN.|2.5 YEARS OUT, THEN RING 4"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Thompson: drafted 11th overall by Golden State in 2011; in 2014 he and Stephen Curry set a then-NBA record with 484 combined three-pointers in a season, the Splash Brothers; January 23, 2015: an NBA-record 37 points in a single quarter, going 13-for-13 from the field; 2016 Western Conference Finals: down 3-1 to the Oklahoma City Thunder (OKC), in Game 6 Thompson made 11 three-pointers; December 5, 2016: 60 points in 29 minutes vs Indiana, first player in NBA history to score 60 points in less than 30 minutes; October 29, 2018: an NBA-record 14 threes vs Chicago; tore his ACL in Game 6 of the 2019 Finals, then an Achilles tear; after missing over two and a half (2.5) years he returned in 2021-22 and won his fourth (4) title in 2022",
+   "source": "https://en.wikipedia.org/wiki/Klay_Thompson"
+  },
+  {
+   "claim": "Minun loves to cheer on its partner in battle",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/minun"
+  },
+  {
+   "claim": "Rapidash: the faster it goes, the longer the swaying flames of its mane become",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/rapidash"
+  },
+  {
+   "claim": "Golisopod: it will do anything to win, taking advantage of every opening",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/golisopod"
+  },
+  {
+   "claim": "Accelgor: having removed its heavy shell, it moves with blinding speed and ninja-like movements",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/accelgor"
+  },
+  {
+   "claim": "Octillery's abilities include Sniper",
+   "source": "https://pokeapi.co/api/v2/pokemon/octillery"
+  },
+  {
+   "claim": "Volcarona: when volcanic ash darkened the atmosphere, its fire provided a replacement for the sun",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/volcarona"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:6475@GSW",
+   "mon": "pk:minun",
+   "nick": "MINUN",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "label": "SPLASH BRO",
+   "stat": "484 THREES"
+  },
+  {
+   "key": "p:6475@GSW",
+   "mon": "pk:rapidash",
+   "nick": "RAPIDASH",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "ON FIRE",
+   "stat": "37 IN A QTR"
+  },
+  {
+   "key": "p:6475@GSW",
+   "mon": "pk:golisopod",
+   "nick": "GOLISOPOD",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "GAME 6 KLAY",
+   "stat": "11 THREES"
+  },
+  {
+   "key": "p:6475@GSW",
+   "mon": "pk:accelgor",
+   "nick": "ACCELGOR",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ]
+   ],
+   "label": "NINJA SPEED",
+   "stat": "60 IN 29 MIN"
+  },
+  {
+   "key": "p:6475@GSW",
+   "mon": "pk:octillery",
+   "nick": "OCTILLERY",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "THE SNIPER",
+   "stat": "14 THREES"
+  },
+  {
+   "key": "p:6475@GSW",
+   "mon": "pk:volcarona",
+   "nick": "VOLCARONA",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "4 RINGS"
+  }
+ ],
+ "mode": "trainer"
+}

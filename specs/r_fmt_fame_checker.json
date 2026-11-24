@@ -1,0 +1,469 @@
+{
+ "team": "raptors",
+ "name": "fmt_fame_checker",
+ "template": "fmt_fame_checker.html",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "OUR FULL PARTY 🎮🦖 When our opening-night five all play, we're 2-0\n\n👥 Quickley, Barrett, Barnes, Kawhi, Poeltl\n✅ W 135-92 vs Chicago and W 112-102 at Washington with all five\n📊 Scottie 23.5 PPG (8 games) | RJ 21.3 PPG, started all 10 | Kawhi 19.5 PTS & 3.5 STL in his 2 games | Quickley 5.8 APG | Poeltl 64.6 FG%\n💯 The starters combined for 88.5 points a night in those 2 games\n🛡️ We won them by 26.5 a game (+43 and +10)\n❤️ The catch: Kawhi has played 2 of our 10 games (stats thru Mon 11/9)\n\nCan this five stay healthy? Comment 👇",
+ "party": [
+  {
+   "key": "p:4395724",
+   "nick": "QUICKLEY"
+  },
+  {
+   "key": "p:4395625",
+   "nick": "BARRETT"
+  },
+  {
+   "key": "p:4433134",
+   "nick": "BARNES"
+  },
+  {
+   "key": "p:6450",
+   "nick": "KAWHI"
+  },
+  {
+   "key": "p:3134908",
+   "nick": "POELTL"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "f_field",
+   "sign": [
+    "OPENING-NIGHT 5",
+    "RECORD: 2-0"
+   ],
+   "slots": [
+    [
+     "l:CHI",
+     "135-92"
+    ],
+    [
+     "l:WSH",
+     "112-102"
+    ]
+   ],
+   "vo": "When our opening-night five suits up,",
+   "dlg": "WHEN OUR OPENING-NIGHT|FIVE SUITS UP..."
+  },
+  {
+   "kind": "f_field",
+   "sign": [
+    "OPENING-NIGHT 5",
+    "RECORD: 2-0"
+   ],
+   "slots": [
+    [
+     "l:CHI",
+     "135-92"
+    ],
+    [
+     "l:WSH",
+     "112-102"
+    ]
+   ],
+   "vo": "we haven't lost.",
+   "dlg": "WE HAVEN'T LOST."
+  },
+  {
+   "kind": "f_field",
+   "sign": [
+    "OPENING-NIGHT 5",
+    "RECORD: 2-0"
+   ],
+   "slots": [
+    [
+     "l:CHI",
+     "135-92"
+    ],
+    [
+     "l:WSH",
+     "112-102"
+    ]
+   ],
+   "fill": true,
+   "iris": true,
+   "vo": "Two games together, two wins.",
+   "dlg": "2 GAMES. 2 WINS."
+  },
+  {
+   "kind": "f_fame",
+   "sel": 0,
+   "vo": "Immanuel Quickley,",
+   "dlg": "IMMANUEL QUICKLEY",
+   "iris": true
+  },
+  {
+   "kind": "f_fame",
+   "sel": 1,
+   "vo": "RJ Barrett,",
+   "dlg": "RJ BARRETT"
+  },
+  {
+   "kind": "f_fame",
+   "sel": 2,
+   "vo": "Scottie Barnes,",
+   "dlg": "SCOTTIE BARNES"
+  },
+  {
+   "kind": "f_fame",
+   "sel": 3,
+   "vo": "Kawhi Leonard,",
+   "dlg": "KAWHI LEONARD"
+  },
+  {
+   "kind": "f_fame",
+   "sel": 4,
+   "vo": "Jakob Poeltl.",
+   "dlg": "JAKOB POELTL"
+  },
+  {
+   "kind": "f_fame",
+   "sel": 2,
+   "detail": true,
+   "full": "SCOTTIE BARNES",
+   "pos": "F",
+   "tag": "ENGINE",
+   "vals": [
+    [
+     "23.5",
+     "PPG"
+    ]
+   ],
+   "note": "THRU 8 GP",
+   "vo": "Scottie is the engine at 23.5 a night.",
+   "dlg": "SCOTTIE IS THE ENGINE:|23.5 POINTS A NIGHT."
+  },
+  {
+   "kind": "f_fame",
+   "sel": 1,
+   "detail": true,
+   "full": "RJ BARRETT",
+   "pos": "F",
+   "tag": "IRON MAN",
+   "vals": [
+    [
+     "21.3",
+     "PPG"
+    ]
+   ],
+   "note": "THRU 10 GP",
+   "vo": "RJ is scoring 21.3, and he's started all ten games.",
+   "dlg": "RJ: 21.3 A GAME, AND|HE'S STARTED ALL 10."
+  },
+  {
+   "kind": "f_fame",
+   "sel": 3,
+   "detail": true,
+   "full": "KAWHI LEONARD",
+   "pos": "F",
+   "tag": "THE CLAW",
+   "vals": [
+    [
+     "19.5",
+     "PPG"
+    ],
+    [
+     "3.5",
+     "STL"
+    ]
+   ],
+   "note": "THRU 2 GP",
+   "vo": "Kawhi put up 19.5 points and 3.5 steals in his two games.",
+   "dlg": "KAWHI: 19.5 PTS AND|3.5 STL IN HIS 2 GAMES."
+  },
+  {
+   "kind": "f_fame",
+   "sel": 0,
+   "detail": true,
+   "full": "IMMANUEL QUICKLEY",
+   "pos": "G",
+   "tag": "PASSER",
+   "vals": [
+    [
+     "5.8",
+     "AST"
+    ]
+   ],
+   "note": "THRU 8 GP",
+   "vo": "Quickley is the connector, 5.8 assists a night.",
+   "dlg": "QUICKLEY CONNECTS US:|5.8 ASSISTS A NIGHT."
+  },
+  {
+   "kind": "f_fame",
+   "sel": 4,
+   "detail": true,
+   "full": "JAKOB POELTL",
+   "pos": "C",
+   "tag": "THE WALL",
+   "vals": [
+    [
+     "64.6",
+     "FG%"
+    ]
+   ],
+   "note": "THRU 8 GP",
+   "vo": "And Poeltl is shooting 64.6 percent from the field.",
+   "dlg": "AND POELTL IS SHOOTING|64.6% FROM THE FIELD."
+  },
+  {
+   "kind": "f_pts",
+   "title": "STARTERS' POINTS",
+   "rows": [
+    [
+     "l:CHI",
+     "92"
+    ],
+    [
+     "l:WSH",
+     "85"
+    ]
+   ],
+   "total": [
+    "88.5",
+    "PTS A NIGHT"
+   ],
+   "vo": "In those two games, the starters combined for 88.5 points a night.",
+   "dlg": "THE STARTERS COMBINED|FOR 88.5 A NIGHT!"
+  },
+  {
+   "kind": "f_bat",
+   "oname": "BULLS",
+   "logo": "l:CHI",
+   "rec": "2-0",
+   "chips": [
+    [
+     "W 135-92"
+    ],
+    [
+     "+43 MARGIN"
+    ]
+   ],
+   "vo": "But the wild part? The margin.",
+   "dlg": "BUT THE WILD PART?|THE MARGIN."
+  },
+  {
+   "kind": "f_bat",
+   "oname": "WIZARDS",
+   "logo": "l:WSH",
+   "rec": "2-0",
+   "chips": [
+    [
+     "W 112-102"
+    ],
+    [
+     "+26.5 PER GAME"
+    ]
+   ],
+   "vo": "With all five playing, we've won by 26.5 a game.",
+   "dlg": "WITH ALL 5 PLAYING, WE|WIN BY 26.5 A GAME."
+  },
+  {
+   "kind": "f_hp",
+   "who": "p:6450",
+   "name": "KAWHI",
+   "gp": 2,
+   "of": 10,
+   "sub": "GAMES PLAYED",
+   "vo": "The only catch is keeping them on the floor.",
+   "dlg": "THE ONLY CATCH: KEEPING|THEM ON THE FLOOR."
+  },
+  {
+   "kind": "f_hp",
+   "who": "p:6450",
+   "name": "KAWHI",
+   "gp": 2,
+   "of": 10,
+   "sub": "GAMES PLAYED",
+   "cont": true,
+   "vo": "Kawhi has played just two of our ten games.",
+   "dlg": "KAWHI: 2 OF OUR|10 GAMES."
+  },
+  {
+   "kind": "f_map",
+   "logos": [
+    "l:PHI",
+    "l:BOS",
+    "l:DET",
+    "l:NY"
+   ],
+   "vo": "If this five stays healthy,",
+   "dlg": "IF THIS FIVE STAYS|HEALTHY..."
+  },
+  {
+   "kind": "f_map",
+   "logos": [
+    "l:PHI",
+    "l:BOS",
+    "l:DET",
+    "l:NY"
+   ],
+   "cont": true,
+   "vo": "the East has a problem.",
+   "dlg": "THE EAST HAS A PROBLEM."
+  }
+ ],
+ "facts": [
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.3
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GS",
+   "value": 10
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 19.5
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 3.5
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 2
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.8
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 64.6
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "game": "401909837",
+   "score": "135-92"
+  },
+  {
+   "game": "401909846",
+   "score": "112-102"
+  },
+  {
+   "game": "401909837",
+   "player": "4395724",
+   "stat": "PTS",
+   "value": "23"
+  },
+  {
+   "game": "401909837",
+   "player": "4395625",
+   "stat": "PTS",
+   "value": "20"
+  },
+  {
+   "game": "401909837",
+   "player": "4433134",
+   "stat": "PTS",
+   "value": "23"
+  },
+  {
+   "game": "401909837",
+   "player": "3134908",
+   "stat": "PTS",
+   "value": "3"
+  },
+  {
+   "game": "401909837",
+   "player": "6450",
+   "stat": "PTS",
+   "value": "23"
+  },
+  {
+   "game": "401909846",
+   "player": "4395724",
+   "stat": "PTS",
+   "value": "12"
+  },
+  {
+   "game": "401909846",
+   "player": "4395625",
+   "stat": "PTS",
+   "value": "23"
+  },
+  {
+   "game": "401909846",
+   "player": "4433134",
+   "stat": "PTS",
+   "value": "28"
+  },
+  {
+   "game": "401909846",
+   "player": "3134908",
+   "stat": "PTS",
+   "value": "6"
+  },
+  {
+   "game": "401909846",
+   "player": "6450",
+   "stat": "PTS",
+   "value": "16"
+  },
+  {
+   "claim": "Quickley, Barrett, Barnes, Leonard and Poeltl started both of the first 2 games (W 135-92 vs CHI Wed 10/21, W 112-102 at WSH Fri 10/23); Leonard has played only those 2 (DNP or out since), so all five have played together in 2 games and we are 2-0 in them",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909846"
+  },
+  {
+   "claim": "Starters' points: 92 vs CHI (23+20+23+3+23) and 85 at WSH (12+23+28+6+16): 88.5 a game",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909837"
+  },
+  {
+   "claim": "Margins: +43 (135-92) and +10 (112-102): 26.5 a game",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/schedule"
+  },
+  {
+   "claim": "We have played 10 games (5-5)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/schedule"
+  },
+  {
+   "claim": "Stats thru Mon 11/9 (our 10th game, vs MEM)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/schedule"
+  }
+ ]
+}

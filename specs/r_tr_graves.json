@@ -1,0 +1,217 @@
+{
+ "team": "raptors",
+ "name": "tr_graves",
+ "record": "5-4",
+ "caption": "IF ALLEN GRAVES HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🪨 Larvitar: eats a whole mountain, then sleeps to grow. From 6-1 to 6-7 in one summer\n🐻 Ursaring: sniffs out all food, even buried underground. 2 straight state titles, 19 points and 20 rebounds in the second final\n👑 Nidoking: a horn that can pierce a diamond. Louisiana Mr. Basketball 2024\n🐈 Purrloin: its cute act is a ruse to steal your stuff. 67 steals, the most by a freshman in Santa Clara history\n⚡ Luxray: rests for long stretches to store up electricity. WCC Sixth Man and Freshman of the Year\n🦖 Tyranitar: Larvitar's final form, strong enough to change the landscape. Our pick 19, just 20, and 10 games into his career\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Allen Graves had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF GRAVES HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Larvitar. It eats a whole mountain, then sleeps so it can grow. Allen grew up playing football, then went from six-one to six-seven in one summer.",
+   "dlg": "EATS A MOUNTAIN TO GROW.|6-1 TO 6-7 IN ONE SUMMER"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Ursaring. Its nose finds every bit of food, even buried underground. Two straight state titles, with nineteen points and twenty rebounds in the second final.",
+   "dlg": "FINDS ALL BURIED FOOD.|FINAL: 19 PTS, 20 REB!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Nidoking. Its horn is hard enough to pierce a diamond. He was Louisiana's Mister Basketball.",
+   "dlg": "HORN PIERCES DIAMONDS.|LOUISIANA MR. BASKETBALL!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Purrloin. Its cute act is a trick: let your guard down, and your stuff is gone. Sixty-seven steals as a freshman, the most by a freshman in Santa Clara history.",
+   "dlg": "ITS CUTE ACT IS A RUSE.|67 STEALS: FROSH RECORD!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Luxray. It rests for long stretches to store up its electricity. Allen was his conference's Sixth Man of the Year, and Freshman of the Year.",
+   "dlg": "RESTS TO STORE UP ENERGY.|6TH MAN + FRESHMAN OF YEAR"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Tyranitar. It's what Larvitar grows into, strong enough to change the landscape. We took him nineteenth, he's just twenty, and he's ten games in.",
+   "dlg": "CAN RESHAPE THE LANDSCAPE.|PICK 19, JUST 20 YEARS OLD"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "5149115",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "claim": "Grew up playing football; a growth spurt over one summer took him from 6 ft 1 in (6-1) to 6 ft 7 in (6-7); two consecutive state championships, 19 points and 20 rebounds in the senior-year state final, his second (2nd) consecutive title; Louisiana Mr. Basketball (2024); freshman at Santa Clara: 67 steals, the most by a freshman in program history; WCC Freshman of the Year and Sixth Man (6th Man) of the Year (2026); selected 19th overall by Toronto in the 2026 NBA draft; born July 28, 2006 (age 20)",
+   "source": "https://en.wikipedia.org/wiki/Allen_Graves"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:5149115@TOR",
+   "mon": "pk:larvitar",
+   "nick": "LARVITAR",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "GROWTH SPURT",
+   "stat": "6-1 TO 6-7"
+  },
+  {
+   "key": "p:5149115@TOR",
+   "mon": "pk:ursaring",
+   "nick": "URSARING",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "BACK TO BACK",
+   "stat": "19 PTS 20 REB"
+  },
+  {
+   "key": "p:5149115@TOR",
+   "mon": "pk:nidoking",
+   "nick": "NIDOKING",
+   "types": [
+    [
+     "POISON",
+     "#a040a0"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "MR. BASKETBALL",
+   "stat": "LOUISIANA 2024"
+  },
+  {
+   "key": "p:5149115@TOR",
+   "mon": "pk:purrloin",
+   "nick": "PURRLOIN",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "QUICK HANDS",
+   "stat": "67 STEALS"
+  },
+  {
+   "key": "p:5149115@TOR",
+   "mon": "pk:luxray",
+   "nick": "LUXRAY",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "label": "THE SPARK",
+   "stat": "WCC 6TH MAN"
+  },
+  {
+   "key": "p:5149115@TOR",
+   "mon": "pk:tyranitar",
+   "nick": "TYRANITAR",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "PICK 19"
+  }
+ ],
+ "mode": "trainer"
+}

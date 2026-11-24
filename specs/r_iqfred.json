@@ -1,0 +1,142 @@
+{
+ "team": "raptors",
+ "name": "iqfred",
+ "record": "5-4",
+ "caption": "SEASON 4 🎮🏀 We let Fred VanVleet walk to Houston. Then we paid Immanuel Quickley $175 million.\n\n• Fred, season 4 with us (2019-20): 17.6 PPG, 6.6 APG, 1.9 SPG\n• Quickley, season 4 with us, first 8 games: 17.4 PPG, 5.8 APG, 1.1 SPG\n• Fred re-signed for 4 years, $85 million in 2020\n• Quickley re-signed for 5 years, $175 million in 2024\n• July 2023: Fred signs with Houston, 3 years, $130 million\n\nFred or Quickley? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "FRED VS QUICKLEY",
+   "key": "p:2991230@TOR",
+   "name": "FRED",
+   "badge": "TO HOUSTON",
+   "lines": [
+    [
+     "2023",
+     "LEFT US"
+    ]
+   ],
+   "vo": "We let Fred VanVleet walk to Houston. Then we paid Immanuel Quickley a hundred seventy-five million dollars.",
+   "dlg": "WE LET FRED WALK...|THEN PAID QUICKLEY $175M."
+  },
+  {
+   "kind": "fire",
+   "head": "FRED, SEASON 4",
+   "key": "p:2991230@TOR",
+   "name": "FRED",
+   "badge": "2019-20",
+   "lines": [
+    [
+     "17.6",
+     "PPG"
+    ],
+    [
+     "6.6",
+     "APG"
+    ]
+   ],
+   "vo": "Fred in his fourth season with us: seventeen point six points, six point six assists, almost two steals.",
+   "dlg": "FRED, SEASON 4: 17.6 PPG,|6.6 APG, 1.9 SPG."
+  },
+  {
+   "kind": "fire",
+   "head": "QUICKLEY, SEASON 4",
+   "key": "p:4395724@TOR",
+   "name": "IQ",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "17.4",
+     "PPG"
+    ],
+    [
+     "5.8",
+     "APG"
+    ]
+   ],
+   "vo": "Immanuel Quickley in his fourth season with us, through eight games: seventeen point four points, five point eight assists.",
+   "dlg": "IQ, SEASON 4: 17.4 PPG,|5.8 APG, 1.1 SPG."
+  },
+  {
+   "kind": "fire",
+   "head": "THE MONEY",
+   "key": "p:4395724@TOR",
+   "name": "IQ",
+   "badge": "$175M",
+   "lines": [
+    [
+     "$85M",
+     "FRED, 2020"
+    ],
+    [
+     "$175M",
+     "IQ, 2024"
+    ]
+   ],
+   "vo": "Almost the same numbers. Fred got eighty-five million from us. Quickley got a hundred seventy-five.",
+   "dlg": "FRED: $85M IN 2020.|QUICKLEY: $175M IN 2024."
+  },
+  {
+   "kind": "next",
+   "head": "WHO'S BETTER?",
+   "logo": "l:TOR",
+   "rec": "YR 4",
+   "ntxt": "FRED OR",
+   "nday": "QUICKLEY?",
+   "vo": "Fred in season four, or Immanuel Quickley in season four? Comment below.",
+   "dlg": "FRED OR QUICKLEY?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "2991230",
+   "season": "2019-20",
+   "stat": "PTS",
+   "value": 17.6
+  },
+  {
+   "player": "2991230",
+   "season": "2019-20",
+   "stat": "AST",
+   "value": 6.6
+  },
+  {
+   "player": "2991230",
+   "season": "2019-20",
+   "stat": "STL",
+   "value": 1.9
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 17.4
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.8
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 1.1
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "VanVleet joined Toronto in 2016 (2016-17 first season, so 2019-20 was his season 4); in November 2020 he re-signed for 4 years, $85 million ($85M); on July 7, 2023 he signed with Houston for 3 years, $130 million",
+   "source": "https://en.wikipedia.org/wiki/Fred_VanVleet"
+  },
+  {
+   "claim": "Quickley was traded to Toronto on December 30, 2023 (2023-24 his first season with us, 2026-27 his season 4); on July 8, 2024 he re-signed for 5 years, $175 million ($175M)",
+   "source": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
+  }
+ ]
+}

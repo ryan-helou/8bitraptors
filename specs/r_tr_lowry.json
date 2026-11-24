@@ -1,0 +1,211 @@
+{
+ "team": "raptors",
+ "name": "tr_lowry",
+ "record": "5-4",
+ "caption": "IF KYLE LOWRY HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🐶 Snubbull: bares its fangs and makes a scary face. Our bulldog, traded to us in 2012\n🛡️ Wobbuffet: does nothing but endure attacks, then counters. The charges-drawn leader since they started tracking it\n🥚 Blissey: rushes over to share an egg of happiness. Our all-time assists leader\n🦊 Thievul: stalks its target and steals when it least expects it. Our all-time steals leader\n✨ Mew: can learn any move. 16 triple-doubles, our franchise record\n🐕 Granbull: one look at its fangs and most foes run. 26 points and 10 assists in Finals Game 6, our first title. July 2026: a one-day deal to retire with us\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Kyle Lowry had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF KYLE LOWRY HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Snubbull. It bares its fangs and makes a scary face. Twenty twelve: we trade for a guard everybody compares to a bulldog.",
+   "dlg": "IT BARES ITS FANGS.|2012: OUR BULLDOG ARRIVES"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Wobbuffet. It does nothing but endure attacks, then it counters. Kyle took more charges than anyone since the league started counting.",
+   "dlg": "IT ENDURES, THEN COUNTERS.|THE CHARGES DRAWN LEADER"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Blissey. It rushes over to share an egg of happiness with anyone. Kyle shared it more than anyone: our all-time leader in assists.",
+   "dlg": "IT SHARES EGGS OF JOY.|OUR ALL-TIME ASSISTS KING"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Thievul. It stalks its target, then steals when it least expects it. Our all-time leader in steals, too.",
+   "dlg": "STEALS WHEN YOU LOOK AWAY.|OUR ALL-TIME STEALS KING"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Mew. It can learn any move. Sixteen triple-doubles, the most in our history.",
+   "dlg": "IT CAN LEARN ANY MOVE.|16 TRIPLE-DOUBLES! RECORD"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Granbull. One look at its fangs and most foes run. Game six of the Finals: twenty-six points, ten assists, our first title. And this summer, he signed a one-day deal to retire with us.",
+   "dlg": "MOST FOES RUN FROM IT.|FINALS G6: 26 PTS, 10 AST"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401134820",
+   "player": "3012",
+   "stat": "PTS",
+   "value": 26
+  },
+  {
+   "game": "401134820",
+   "player": "3012",
+   "stat": "AST",
+   "value": 10
+  },
+  {
+   "claim": "Lowry: traded to the Raptors by Houston in July 2012 (Toronto 2012-2021); compared to a pit bull or bulldog; NBA's charges drawn leader for the play-by-play era (tracked since 2000-01); Raptors all-time leader in assists, steals, three-pointers and triple-doubles (16 of the 30 in Raptors history); Game 6 of the 2019 Finals: 26 points, 10 assists, 7 rebounds in the 114-110 title clincher; on July 7, 2026 he signed a one-day contract to retire with the Raptors",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Lowry"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3012@TOR",
+   "mon": "pk:snubbull",
+   "nick": "SNUBBULL",
+   "types": [
+    [
+     "FAIRY",
+     "#ee99ac"
+    ]
+   ],
+   "label": "THE BULLDOG",
+   "stat": "SINCE 2012"
+  },
+  {
+   "key": "p:3012@TOR",
+   "mon": "pk:wobbuffet",
+   "nick": "WOBBUFFET",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "TAKES CHARGES",
+   "stat": "CHARGE LEADER"
+  },
+  {
+   "key": "p:3012@TOR",
+   "mon": "pk:blissey",
+   "nick": "BLISSEY",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "THE PASSER",
+   "stat": "ASSIST LEADER"
+  },
+  {
+   "key": "p:3012@TOR",
+   "mon": "pk:thievul",
+   "nick": "THIEVUL",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "THE THIEF",
+   "stat": "STEALS LEADER"
+  },
+  {
+   "key": "p:3012@TOR",
+   "mon": "pk:mew",
+   "nick": "MEW",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "DOES IT ALL",
+   "stat": "16 TRIP-DUBS"
+  },
+  {
+   "key": "p:3012@TOR",
+   "mon": "pk:granbull",
+   "nick": "GRANBULL",
+   "types": [
+    [
+     "FAIRY",
+     "#ee99ac"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "26 PTS, 10 AST"
+  }
+ ],
+ "mode": "trainer"
+}

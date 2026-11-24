@@ -1,0 +1,149 @@
+{
+ "team": "raptors",
+ "name": "siakamtrade",
+ "record": "5-5",
+ "caption": "TRADE COURT, CASE #1: WHO WON THE PASCAL TRADE? 🎮🏀 We sent Pascal Siakam to Indiana for three first-round picks. Who won?\n\n• Jan 17, 2024: Pascal to the Pacers for Bruce Brown, Jordan Nwora, Kira Lewis Jr. and 3 firsts\n• Last full season with us (2022-23): 24.2 PPG\n• 2025: East Finals MVP and a trip to the NBA Finals\n• Pascal, first 13 games this season: 23.1 PPG\n• Indiana's pick became Ja'Kobe Walter (#19): 10.8 PPG through 13 games\n\nWho won the trade?\n\nYour verdict: comment W or L 👇\nCase #2 drops tomorrow night. Follow so you don't miss it.",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "WHO WON THE PASCAL TRADE?",
+   "key": "p:3149673@TOR",
+   "name": "SIAKAM",
+   "badge": "TRADE COURT #1",
+   "lines": [
+    [
+     "2024",
+     "JAN 17"
+    ],
+    [
+     "3",
+     "FIRSTS"
+    ]
+   ],
+   "vo": "We traded Pascal Siakam to Indiana for three first-round picks. Who won?",
+   "dlg": "WE TRADE PASCAL TO INDIANA|FOR 3 FIRST-ROUND PICKS."
+  },
+  {
+   "kind": "fire",
+   "head": "WITH US",
+   "key": "p:3149673@TOR",
+   "name": "SIAKAM",
+   "badge": "2X ALL-NBA",
+   "lines": [
+    [
+     "24.2",
+     "PPG"
+    ],
+    [
+     "2019",
+     "CHAMPION"
+    ]
+   ],
+   "vo": "His last full season with us: twenty-four point two points a night. A champion, and two-time All-NBA.",
+   "dlg": "LAST FULL YEAR WITH US:|24.2 PPG."
+  },
+  {
+   "kind": "fire",
+   "head": "IN INDIANA",
+   "key": "p:3149673@TOR",
+   "name": "SIAKAM",
+   "badge": "ECF MVP",
+   "lines": [
+    [
+     "2025",
+     "ECF MVP"
+    ]
+   ],
+   "vo": "In Indiana: twenty twenty-five East Finals MVP, and a trip to the Finals.",
+   "dlg": "2025: EAST FINALS MVP|AND A TRIP TO THE FINALS."
+  },
+  {
+   "kind": "fire",
+   "head": "PASCAL NOW",
+   "key": "p:3149673@TOR",
+   "name": "SIAKAM",
+   "badge": "PACERS",
+   "lines": [
+    [
+     "23.1",
+     "PPG"
+    ],
+    [
+     "13",
+     "GAMES"
+    ]
+   ],
+   "vo": "Through thirteen games this season, he's at twenty-three point one a night.",
+   "dlg": "PASCAL, FIRST 13 GAMES:|23.1 PPG."
+  },
+  {
+   "kind": "fire",
+   "head": "OUR RETURN",
+   "key": "p:4684272@TOR",
+   "name": "WALTER",
+   "badge": "PICK 19",
+   "lines": [
+    [
+     "#19",
+     "FROM INDIANA"
+    ],
+    [
+     "10.8",
+     "PPG"
+    ]
+   ],
+   "vo": "Our side: Indiana's pick became Ja'Kobe Walter at nineteen. Through thirteen games, he's at ten point eight a night, in a bigger role.",
+   "dlg": "PICK 19 FROM INDIANA:|JA'KOBE WALTER, 10.8 PPG."
+  },
+  {
+   "kind": "next",
+   "head": "THE VERDICT",
+   "logo": "l:TOR",
+   "rec": "W OR L?",
+   "ntxt": "CASE #2",
+   "nday": "TOMORROW",
+   "vo": "Three firsts for Pascal. Did we win this trade? W or L. Case two, tomorrow night.",
+   "dlg": "DID WE WIN THIS TRADE?|W OR L? CASE #2: TOMORROW NIGHT."
+  }
+ ],
+ "facts": [
+  {
+   "player": "3149673",
+   "season": "2022-23",
+   "stat": "PTS",
+   "value": 24.2
+  },
+  {
+   "player": "3149673",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.1
+  },
+  {
+   "player": "3149673",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 13
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 10.8
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 13
+  },
+  {
+   "claim": "On 17 January 2024 (Jan 17) Siakam was traded to the Indiana Pacers for Bruce Brown, Jordan Nwora, Kira Lewis Jr. and three (3) first-round picks; NBA champion 2019; All-NBA Second Team 2020 and Third Team 2022 (2x All-NBA); final season with Toronto 2023-24, so 2022-23 was his last full season with us; 2025 Eastern Conference Finals MVP (ECF MVP) and second finals appearance",
+   "source": "https://en.wikipedia.org/wiki/Pascal_Siakam"
+  },
+  {
+   "claim": "2024 draft pick 19 (#19): Ja'Kobe Walter to the Toronto Raptors (from Indiana), via the Siakam trade",
+   "source": "https://en.wikipedia.org/wiki/2024_NBA_draft"
+  }
+ ]
+}

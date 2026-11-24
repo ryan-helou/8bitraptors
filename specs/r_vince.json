@@ -1,0 +1,13 @@
+{"team": "raptors", "name": "vince", "record": "45-37",
+ "caption": "VINSANITY 🎮🏀 February 12, 2000, Oakland. A Raptor walks into the dunk contest and changes it forever.\n\n• Reverse 360 windmill: 50\n• Between the legs off a Tracy McGrady bounce: 50\n• Elbow in the rim: 50\n• Three perfect 50s, the first since 1992\n\nBest dunk contest ever? 👇",
+ "beats": [
+  {"kind": "fire", "head": "VINSANITY", "key": "p:136@TOR", "name": "VINCE", "badge": "DUNK CONTEST", "lines": [["2000", "OAKLAND"]],
+   "vo": "February of two thousand. A Raptor walks into the dunk contest in Oakland... and changes it forever.", "dlg": "FEB 2000: A RAPTOR ENTERS|THE DUNK CONTEST..."},
+  {"kind": "hot", "head": "THE DUNKS", "rows": [{"logo": "l:TOR", "name": "360 WINDMILL", "sub": "FIRST DUNK", "val": "50", "w": 1},
+     {"logo": "l:TOR", "name": "THRU THE LEGS", "sub": "MCGRADY BOUNCE", "val": "50", "w": 1}, {"logo": "l:TOR", "name": "ELBOW HANG", "sub": "FINAL ROUND", "val": "50", "w": 1}],
+   "vo": "A reverse three-sixty windmill. Between the legs, off a bounce from his cousin Tracy McGrady. Then his whole arm in the rim.", "dlg": "360 WINDMILL. THROUGH THE LEGS.|ELBOW IN THE RIM!"},
+  {"kind": "fire", "head": "DUNK KING", "key": "p:136@TOR", "name": "VINCE", "badge": "CHAMPION", "lines": [["3", "PERFECT 50S"], ["1ST", "50 SINCE 1992"]],
+   "vo": "Three perfect fifties, the first since 1992. Toronto had a superstar.", "dlg": "THREE PERFECT 50S.|TORONTO HAD A SUPERSTAR."},
+  {"kind": "next", "head": "VINSANITY", "logo": "l:TOR", "rec": "2000", "ntxt": "DUNK CHAMP", "nday": "VINCE CARTER",
+   "vo": "Best dunk contest ever? Comment below.", "dlg": "BEST DUNK CONTEST EVER?|COMMENT BELOW!"}
+ ]}

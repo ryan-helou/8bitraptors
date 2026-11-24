@@ -1,0 +1,102 @@
+{
+ "team": "warriors",
+ "name": "steph17ot",
+ "pace": "wolves",
+ "caption": "17 POINTS IN ONE OVERTIME 🎮🏀 Steph's first game back from a sprained knee, and Portland is up 10 at the half.\n\n• Game 4, 2016 West semis, May 9, 2016, in Portland\n• Blazers lead 67-57 at halftime\n• Overtime: Steph scores 17, an NBA record\n• 40 points, and we win 132-125 to go up 3-1\n\n\"I'm back!\" Best return game ever? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "17 IN ONE OT?",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "FIRST GAME BACK",
+   "lines": [
+    [
+     "17",
+     "OT POINTS"
+    ]
+   ],
+   "vo": "Seventeen points in one overtime. In his first game back from a knee injury.",
+   "dlg": "17 POINTS IN ONE OT.|IN HIS FIRST GAME BACK."
+  },
+  {
+   "kind": "fire",
+   "head": "DOWN 10",
+   "key": "l:POR",
+   "name": "BLAZERS",
+   "badge": "HALFTIME",
+   "lines": [
+    [
+     "67",
+     "POR"
+    ],
+    [
+     "57",
+     "GS"
+    ]
+   ],
+   "vo": "Game four in Portland. Steph's been out with a sprained knee, and we're down ten at the half.",
+   "dlg": "GAME 4 IN PORTLAND.|DOWN 10 AT THE HALF."
+  },
+  {
+   "kind": "fire",
+   "head": "OVERTIME",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "NBA RECORD",
+   "lines": [
+    [
+     "17",
+     "PTS IN OT"
+    ]
+   ],
+   "vo": "We force overtime. Then Steph scores seventeen in five minutes. An NBA record.",
+   "dlg": "OVERTIME: 17 POINTS.|AN NBA RECORD."
+  },
+  {
+   "kind": "fire",
+   "head": "I'M BACK!",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "UP 3-1",
+   "lines": [
+    [
+     "40",
+     "PTS"
+    ],
+    [
+     "132-125",
+     "FINAL"
+    ]
+   ],
+   "vo": "He's yelling I'm back. Forty points. We win, one thirty-two to one twenty-five.",
+   "dlg": "\"I'M BACK!\" 40 POINTS.|WE WIN 132-125."
+  },
+  {
+   "kind": "next",
+   "head": "BEST RETURN?",
+   "logo": "l:GSW",
+   "rec": "3-1",
+   "ntxt": "SERIES",
+   "nday": "LEAD",
+   "vo": "Best return game ever? Comment below.",
+   "dlg": "BEST RETURN GAME EVER?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "400875809",
+   "player": "3975",
+   "stat": "PTS",
+   "value": "40"
+  },
+  {
+   "game": "400875809",
+   "score": "132-125"
+  },
+  {
+   "claim": "Game 4, 2016 Western Conference semifinals, May 9, 2016 at Portland: Curry returned from a sprained right knee (first game back) to score an NBA-record 17 points in overtime (one overtime period is five minutes), finishing with 40 as the Warriors won 132-125 to take a 3-1 lead. Portland led 67-57 at the half (down 10). Curry nailed a 3 in OT and exclaimed \"I'm back!\"",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=400875809"
+  }
+ ]
+}

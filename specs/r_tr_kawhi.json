@@ -1,0 +1,223 @@
+{
+ "team": "raptors",
+ "name": "tr_kawhi",
+ "record": "5-4",
+ "caption": "IF KAWHI HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🦀 Kingler: one claw grew massive and steel-hard. 11-inch hands, nicknamed the Claw\n🛡️ Aggron: claims a whole mountain, thrashes any trespasser. Defensive Player of the Year in 2014 and 2015\n⚔️ Gallade: senses what its foe is thinking and strikes first. 2014 title and Finals MVP\n🏀 Spoink: never stops bouncing, even asleep. Game 7 at the buzzer, four bounces, the first Game 7 buzzer-beater ever\n🕊️ Unfezant: close to no one but its own Trainer. Traded back to us, 23 points and 4 steals in his first game back\n🧊 Mewtwo: stays motionless, then unleashes full power. Our 2019 title, his second Finals MVP\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Kawhi Leonard had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF KAWHI HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Kingler. One of its claws grew massive and hard as steel. Kawhi's got eleven-inch hands. If it's loose, it's his.",
+   "dlg": "ONE GIANT STEEL-HARD CLAW.|11-INCH HANDS!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Aggron. It claims a whole mountain and thrashes anything that trespasses. Defensive Player of the Year. Twice.",
+   "dlg": "THRASHES ANY TRESPASSER.|DPOY IN 2014 AND 2015!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Gallade. It senses what its foe is thinking, so it strikes first. Twenty fourteen, with the Spurs: a title, and Finals MVP.",
+   "dlg": "READS FOES, STRIKES FIRST.|2014 TITLE AND FINALS MVP!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Spoink. It never stops bouncing, not even in its sleep. Game seven, at the buzzer. Four bounces... and in.",
+   "dlg": "IT NEVER STOPS BOUNCING.|GAME 7 BUZZER: 4 BOUNCES!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Unfezant. It won't get close to anyone but its own Trainer. He came back to us. Hurt right now, but his first game back? Twenty-three points, four steals.",
+   "dlg": "LOYAL ONLY TO ITS TRAINER.|FIRST GAME: 23 PTS, 4 STL"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Mewtwo. It stays still to save energy, then unleashes full power in battle. Twenty nineteen: our first title, and his second Finals MVP.",
+   "dlg": "STILL, THEN FULL POWER.|2019 FINALS MVP!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401909837",
+   "player": "6450",
+   "stat": "PTS",
+   "value": 23
+  },
+  {
+   "game": "401909837",
+   "player": "6450",
+   "stat": "STL",
+   "value": 4
+  },
+  {
+   "claim": "Leonard: nicknamed the Claw for ball-hawking and exceptionally large hands, 11-inch hands; 2 (two) times NBA Defensive Player of the Year (2014, 2015); 2 NBA titles and 2 Finals MVPs (2014 with the Spurs, 2019 with the Raptors, their first NBA championship, his second Finals MVP); in the deciding game 7 vs the 76ers he hit a corner shot at the buzzer that bounced off the rim four (4) times, the first game 7 buzzer beater in NBA history, normally stoic; selected 15th overall (#15) in 2011; September 14, 2026 traded back to the Raptors; October 27, 2026 out with swelling in his left knee",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:6450@TOR",
+   "mon": "pk:kingler",
+   "nick": "KINGLER",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "THE CLAW",
+   "stat": "11-INCH HANDS"
+  },
+  {
+   "key": "p:6450@TOR",
+   "mon": "pk:aggron",
+   "nick": "AGGRON",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "ROCK",
+     "#a89038"
+    ]
+   ],
+   "label": "THE WALL",
+   "stat": "2X DPOY"
+  },
+  {
+   "key": "p:6450@TOR",
+   "mon": "pk:gallade",
+   "nick": "GALLADE",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "FIRST RING",
+   "stat": "2014 TITLE"
+  },
+  {
+   "key": "p:6450@TOR",
+   "mon": "pk:spoink",
+   "nick": "SPOINK",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "THE SHOT",
+   "stat": "4 BOUNCES"
+  },
+  {
+   "key": "p:6450@TOR",
+   "mon": "pk:unfezant",
+   "nick": "UNFEZANT",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE RETURN",
+   "stat": "23 PTS 4 STL"
+  },
+  {
+   "key": "p:6450@TOR",
+   "mon": "pk:mewtwo",
+   "nick": "MEWTWO",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "FINALS MVP"
+  }
+ ],
+ "mode": "trainer"
+}

@@ -1,0 +1,136 @@
+{
+ "team": "raptors",
+ "name": "bargnani",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "PICK 1 🎮🏀 We took Andrea Bargnani first overall. The trade that sent him away is still paying off.\n\n• 2006 draft: Bargnani #1, LaMarcus Aldridge #2\n• Best season with us (2010-11): 21.4 PPG\n• July 10, 2013: traded to the Knicks for 3 players and a 2016 first\n• That pick: #9 in 2016, Jakob Poeltl\n• Poeltl, his 8 games this season: 6.5 RPG, 64.6 FG%\n\nBust, or a pick that's still paying off? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 1",
+   "key": "p:2987@TOR",
+   "name": "BARGNANI",
+   "badge": "2006 DRAFT",
+   "lines": [
+    [
+     "#1",
+     "2006 DRAFT"
+    ]
+   ],
+   "vo": "We took Andrea Bargnani first overall. LaMarcus Aldridge went second.",
+   "dlg": "2006: WE TAKE BARGNANI #1.|ALDRIDGE GOES #2."
+  },
+  {
+   "kind": "fire",
+   "head": "BEST SEASON",
+   "key": "p:2987@TOR",
+   "name": "BARGNANI",
+   "badge": "2010-11",
+   "lines": [
+    [
+     "21.4",
+     "PPG"
+    ]
+   ],
+   "vo": "His best year with us: twenty-one point four points a night. But we never won a playoff series with him.",
+   "dlg": "HIS BEST SEASON WITH US:|21.4 PPG."
+  },
+  {
+   "kind": "fire",
+   "head": "TO NEW YORK",
+   "key": "p:2987@NYK",
+   "name": "BARGNANI",
+   "badge": "KNICKS",
+   "lines": [
+    [
+     "2013",
+     "JULY 10"
+    ]
+   ],
+   "vo": "In twenty thirteen, we traded him to the Knicks. The key piece coming back: a twenty sixteen first-round pick.",
+   "dlg": "2013: BARGNANI TO NEW YORK|FOR A 2016 FIRST."
+  },
+  {
+   "kind": "fire",
+   "head": "THE PICK",
+   "key": "p:3134908@TOR",
+   "name": "POELTL",
+   "badge": "PICK 9",
+   "lines": [
+    [
+     "#9",
+     "2016 DRAFT"
+    ]
+   ],
+   "vo": "That pick became number nine in twenty sixteen: Jakob Poeltl.",
+   "dlg": "THAT PICK BECOMES #9:|JAKOB POELTL."
+  },
+  {
+   "kind": "fire",
+   "head": "STILL HERE",
+   "key": "p:3134908@TOR",
+   "name": "POELTL",
+   "badge": "OUR CENTER",
+   "lines": [
+    [
+     "6.5",
+     "RPG"
+    ],
+    [
+     "64.6",
+     "FG%"
+    ]
+   ],
+   "vo": "And he's still our center: in his eight games this season, six point five rebounds on sixty-four point six percent shooting.",
+   "dlg": "HIS 8 GAMES: 6.5 RPG,|64.6 FG%."
+  },
+  {
+   "kind": "next",
+   "head": "BUST?",
+   "logo": "l:TOR",
+   "rec": "#1",
+   "ntxt": "BARGNANI",
+   "nday": "2006 PICK",
+   "vo": "Bust, or a pick that's still paying off? Comment below.",
+   "dlg": "BUST, OR STILL PAYING OFF?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "2987",
+   "season": "2010-11",
+   "stat": "PTS",
+   "value": 21.4
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 6.5
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 64.6
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Bargnani selected first overall (#1) by Toronto in the 2006 draft; on 10 July 2013 (July 10) traded to the New York Knicks for Steve Novak, Marcus Camby and Quentin Richardson (3 players), a 2016 first-round pick and two second-round picks",
+   "source": "https://en.wikipedia.org/wiki/Andrea_Bargnani"
+  },
+  {
+   "claim": "2006 draft: Bargnani #1 to Toronto, LaMarcus Aldridge picked 2nd (#2)",
+   "source": "https://en.wikipedia.org/wiki/2006_NBA_draft"
+  },
+  {
+   "claim": "2016 draft pick 9 (#9): Jakob Pöltl to the Toronto Raptors (from Denver via New York), citing the 2013 Raptors-Knicks trade",
+   "source": "https://en.wikipedia.org/wiki/2016_NBA_draft"
+  }
+ ]
+}

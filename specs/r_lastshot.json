@@ -1,0 +1,80 @@
+{
+ "team": "raptors",
+ "name": "lastshot",
+ "pace": "wolves",
+ "record": "5-7",
+ "caption": "PAUSE AND PICK 🎮🏀 We're down 2. Ten seconds left. Who takes our last shot?\n\n1️⃣ Scottie\n2️⃣ RJ\n3️⃣ IQ\n4️⃣ Someone else (tell us who)\n\nComment your number 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "LAST SHOT?",
+   "key": "l:TOR",
+   "name": "US",
+   "badge": "PAUSE AND PICK",
+   "lines": [
+    [
+     "DOWN 2",
+     "THE SCORE"
+    ],
+    [
+     "0:10",
+     "ON THE CLOCK"
+    ]
+   ],
+   "vo": "We're down by two. Ten seconds left on the clock. One shot to win it. Who takes it?",
+   "dlg": "DOWN 2. TEN SECONDS LEFT.|WHO TAKES OUR LAST SHOT?"
+  },
+  {
+   "kind": "hot",
+   "head": "PAUSE. PICK ONE.",
+   "rows": [
+    {
+     "logo": "p:4433134@TOR",
+     "name": "SCOTTIE",
+     "sub": "OPTION ONE",
+     "val": "1",
+     "w": 1
+    },
+    {
+     "logo": "p:4395625@TOR",
+     "name": "RJ",
+     "sub": "OPTION TWO",
+     "val": "2",
+     "w": 1
+    },
+    {
+     "logo": "p:4395724@TOR",
+     "name": "IQ",
+     "sub": "OPTION THREE",
+     "val": "3",
+     "w": 1
+    },
+    {
+     "logo": "l:TOR",
+     "name": "SOMEONE ELSE",
+     "sub": "TELL US WHO",
+     "val": "4",
+     "w": 1
+    }
+   ],
+   "vo": "Pause the video right here. Option one, Scottie. Two, RJ. Three, IQ. Or four, someone else. Pick one.",
+   "dlg": "PAUSE THE VIDEO.|PICK ONE: 1, 2, 3 OR 4."
+  },
+  {
+   "kind": "next",
+   "head": "YOUR PICK?",
+   "logo": "l:TOR",
+   "rec": "DOWN 2",
+   "ntxt": "LAST SHOT",
+   "nday": "WHO TAKES IT?",
+   "vo": "Comment your number. Who takes our last shot?",
+   "dlg": "COMMENT YOUR NUMBER.|WHO TAKES OUR LAST SHOT?"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Hypothetical scenario, not a real game: down 2 with 0:10 (ten seconds) left. Options are numbered 1, 2, 3, 4 for comments. Kawhi Leonard is sidelined (ESPN injury note), so he is not an option. ESPN player ids: Scottie Barnes 4433134, RJ Barrett 4395625, Immanuel Quickley 4395724.",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/6450"
+  }
+ ]
+}

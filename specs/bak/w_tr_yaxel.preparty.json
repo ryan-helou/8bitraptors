@@ -1,0 +1,172 @@
+{
+ "team": "warriors",
+ "name": "tr_yaxel",
+ "record": "7-3",
+ "caption": "IF YAXEL WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n🦀 Crabrawler, the board man: 870 rebounds in junior college, an all-time record\n🛡️ Scizor, the lockdown: 2-time AAC Defensive Player of the Year at UAB\n🐺 Lycanroc, the wolverine: national champ and Big Ten Player of the Year at Michigan\n🐉 Dratini, the rookie: we took him at #11\n🔥 Arcanine, the heater: 37 vs the Clippers, most by a Warriors rookie since Steph\n🐲 Dragonite, the ace: 21.2 points a night through 10 games\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "YAXEL'S TEAM",
+   "key": "p:5175737@GSW",
+   "logo": "l:GSW",
+   "team": [
+    "pk:crabrawler",
+    "pk:scizor",
+    "pk:lycanroc",
+    "pk:dratini",
+    "pk:arcanine",
+    "pk:dragonite"
+   ],
+   "vo": "If Yaxel Lendeborg was a trainer... this is his team.",
+   "dlg": "IF YAXEL WAS A TRAINER...|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "YAXEL'S TEAM",
+   "key": "p:5175737@GSW",
+   "mon": "pk:crabrawler",
+   "name": "BOARD MAN",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "species": "JUNIOR COLLEGE",
+   "callout": "870 REB",
+   "vo": "First up, the board man. Eight hundred seventy rebounds in junior college. An all-time record.",
+   "dlg": "JUNIOR COLLEGE:|870 REBOUNDS, A RECORD!"
+  },
+  {
+   "kind": "mon",
+   "head": "YAXEL'S TEAM",
+   "key": "p:5175737@GSW",
+   "mon": "pk:scizor",
+   "name": "LOCKDOWN",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "species": "UAB",
+   "callout": "2X AAC DPOY",
+   "vo": "The lockdown. Two-time conference Defensive Player of the Year at U A B.",
+   "dlg": "THE LOCKDOWN: 2-TIME|DEFENSIVE PLAYER OF YEAR!"
+  },
+  {
+   "kind": "mon",
+   "head": "YAXEL'S TEAM",
+   "key": "p:5175737@GSW",
+   "mon": "pk:lycanroc",
+   "name": "THE WOLVERINE",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ]
+   ],
+   "species": "MICHIGAN",
+   "callout": "NCAA CHAMP",
+   "vo": "The wolverine. National champion and Big Ten Player of the Year at Michigan.",
+   "dlg": "MICHIGAN: NATIONAL CHAMP|+ BIG TEN PLAYER OF YEAR!"
+  },
+  {
+   "kind": "mon",
+   "head": "YAXEL'S TEAM",
+   "key": "p:5175737@GSW",
+   "mon": "pk:dratini",
+   "name": "THE ROOKIE",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "species": "STILL EVOLVING",
+   "callout": "PICK 11",
+   "vo": "The rookie. We took him eleventh, and he's still evolving.",
+   "dlg": "THE ROOKIE:|WE TOOK HIM AT #11!"
+  },
+  {
+   "kind": "mon",
+   "head": "YAXEL'S TEAM",
+   "key": "p:5175737@GSW",
+   "mon": "pk:arcanine",
+   "name": "THE HEATER",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "species": "CAREER HIGH",
+   "callout": "37 PTS",
+   "vo": "The heater. Thirty-seven against the Clippers, the most by one of our rookies since Steph.",
+   "dlg": "37 VS CLIPPERS: OUR MOST|BY A ROOKIE SINCE STEPH!"
+  },
+  {
+   "kind": "mon",
+   "head": "YAXEL'S TEAM",
+   "key": "p:5175737@GSW",
+   "mon": "pk:dragonite",
+   "name": "THE ACE",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "species": "FULLY EVOLVED",
+   "callout": "21.2 PPG",
+   "vo": "And the ace. Twenty-one point two a night through ten games, as a rookie.",
+   "dlg": "THE ACE: 21.2 A NIGHT|AS A ROOKIE!"
+  },
+  {
+   "kind": "next",
+   "head": "YAXEL'S TEAM",
+   "logo": "l:GSW",
+   "rec": "#11",
+   "ntxt": "YAXEL",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.2
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "game": "401909905",
+   "player": "5175737",
+   "stat": "PTS",
+   "value": 37
+  },
+  {
+   "claim": "Lendeborg: 3 seasons at Arizona Western (junior college), NJCAA all-time record 870 rebounds; 2x AAC Defensive Player of the Year at UAB (2024, 2025); 2026 NCAA national champion and Big Ten Player of the Year at Michigan (Wolverines); drafted 11th overall (#11) in 2026 by Golden State; November 1: career-high 37 points vs the Clippers, most by a Warrior rookie since Curry",
+   "source": "https://en.wikipedia.org/wiki/Yaxel_Lendeborg"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "team": "warriors",
+ "name": "steph0to33",
+ "pace": "wolves",
+ "caption": "0 POINTS AT HALFTIME 🎮🏀 Game 6 in Houston, no Kevin Durant, and Steph hasn't scored.\n\n• May 10, 2019, 2019 West semis\n• First scoreless half of his playoff career, in his 102nd playoff game\n• Second half: 33 points\n• We win 118-113 and knock out Houston, 4-2\n\nSteph's best half ever? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "0 AT HALFTIME",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "AT HOUSTON",
+   "lines": [
+    [
+     "0",
+     "PTS"
+    ]
+   ],
+   "vo": "Game six in Houston. No Kevin Durant. And Steph has zero points at halftime.",
+   "dlg": "NO KD. GAME 6.|STEPH: 0 AT THE HALF."
+  },
+  {
+   "kind": "fire",
+   "head": "NEVER BEFORE",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "1ST HALF",
+   "lines": [
+    [
+     "102",
+     "PLAYOFF GAMES"
+    ]
+   ],
+   "vo": "In a hundred and two playoff games, he'd never gone a whole half without scoring.",
+   "dlg": "1ST SCORELESS HALF IN|102 PLAYOFF GAMES."
+  },
+  {
+   "kind": "fire",
+   "head": "SECOND HALF",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "2ND HALF",
+   "lines": [
+    [
+     "33",
+     "PTS"
+    ]
+   ],
+   "vo": "Second half: thirty-three points.",
+   "dlg": "SECOND HALF:|33 POINTS."
+  },
+  {
+   "kind": "fire",
+   "head": "SEE YA",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "SERIES WON 4-2",
+   "lines": [
+    [
+     "118",
+     "GS"
+    ],
+    [
+     "113",
+     "HOU"
+    ]
+   ],
+   "vo": "We win, one eighteen to one thirteen. Houston is done.",
+   "dlg": "WE WIN 118-113.|HOUSTON IS DONE."
+  },
+  {
+   "kind": "next",
+   "head": "BEST HALF?",
+   "logo": "l:GSW",
+   "rec": "4-2",
+   "ntxt": "SERIES",
+   "nday": "WON",
+   "vo": "Steph's best half ever? Comment below.",
+   "dlg": "STEPH'S BEST HALF EVER?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401129358",
+   "player": "3975",
+   "stat": "PTS",
+   "value": "33"
+  },
+  {
+   "game": "401129358",
+   "score": "118-113"
+  },
+  {
+   "claim": "Game 6, 2019 Western Conference semifinals at Houston, May 10, 2019: Kevin Durant out (calf), Curry failed to score in the first half for the first time in 102 career playoff games (0 points at halftime), then scored 33 points in the last two quarters (second half); Warriors won 118-113 to eliminate Houston (series 4-2). It was his 1st scoreless half.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401129358"
+  }
+ ]
+}

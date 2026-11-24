@@ -1,0 +1,96 @@
+{
+ "team": "raptors",
+ "name": "goat",
+ "pace": "wolves",
+ "record": "5-7",
+ "caption": "OUR GOAT? 🎮🏀 Pause and pick. One name. Greatest Raptor ever.\n\n1️⃣ Vince Carter: 1999 Rookie of the Year, 2000 dunk contest\n2️⃣ Kawhi Leonard: 2019 Finals MVP, our first title\n3️⃣ Kyle Lowry: our leader in triple-doubles and threes, 2019 champion\n4️⃣ DeMar DeRozan: our all-time leading scorer\n\nComment your number 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "OUR GOAT?",
+   "key": "l:TOR",
+   "name": "US",
+   "badge": "PAUSE AND PICK",
+   "lines": [
+    [
+     "1",
+     "NAME"
+    ],
+    [
+     "4",
+     "OPTIONS"
+    ]
+   ],
+   "vo": "Vince, Kawhi, Kyle, DeMar. Only one of them is our greatest ever. Who is it?",
+   "dlg": "ONE NAME. GREATEST RAPTOR|EVER. WHO IS IT?"
+  },
+  {
+   "kind": "hot",
+   "head": "PAUSE. PICK ONE.",
+   "rows": [
+    {
+     "logo": "p:136@TOR",
+     "name": "VINCE",
+     "sub": "ROOKIE OF THE YEAR",
+     "val": "1",
+     "w": 1
+    },
+    {
+     "logo": "p:6450@TOR",
+     "name": "KAWHI",
+     "sub": "FINALS MVP",
+     "val": "2",
+     "w": 1
+    },
+    {
+     "logo": "p:3012@TOR",
+     "name": "LOWRY",
+     "sub": "2019 CHAMPION",
+     "val": "3",
+     "w": 1
+    },
+    {
+     "logo": "p:3978@TOR",
+     "name": "DEMAR",
+     "sub": "TOP SCORER",
+     "val": "4",
+     "w": 1
+    }
+   ],
+   "vo": "Pause the video right here. One, Vince. Two, Kawhi. Three, Kyle. Four, DeMar. Pick one.",
+   "dlg": "PAUSE THE VIDEO.|PICK ONE: 1, 2, 3 OR 4."
+  },
+  {
+   "kind": "next",
+   "head": "YOUR PICK?",
+   "logo": "l:TOR",
+   "rec": "OUR GOAT",
+   "ntxt": "ONE NAME",
+   "nday": "COMMENT IT",
+   "vo": "Comment your number. Who's our GOAT?",
+   "dlg": "COMMENT YOUR NUMBER.|WHO'S OUR GOAT?"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Vince Carter won the 1999 NBA Rookie of the Year Award and the Slam Dunk Contest at the 2000 NBA All-Star Weekend with Toronto.",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "claim": "Kawhi Leonard led the Raptors to their first NBA championship in 2019 and won Finals MVP.",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "Kyle Lowry became the Raptors' all-time leader in triple-doubles and the franchise leader in three-pointers; 2019 NBA champion with Toronto.",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Lowry"
+  },
+  {
+   "claim": "DeMar DeRozan became the Raptors franchise's all-time leading scorer.",
+   "source": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
+   "claim": "Poll: one (1) name, four (4) options numbered 1, 2, 3, 4. ESPN player ids: Vince Carter 136, Kawhi Leonard 6450, Kyle Lowry 3012, DeMar DeRozan 3978.",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3978"
+  }
+ ]
+}

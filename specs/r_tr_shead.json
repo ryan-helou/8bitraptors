@@ -1,0 +1,243 @@
+{
+ "team": "raptors",
+ "name": "tr_shead",
+ "record": "5-4",
+ "caption": "IF JAMAL SHEAD HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n⚔️ Aegislash: its Stance Change flips it between sword and shield. Big 12 Player and Defensive Player of the Year in one season, the first ever to win both\n👻 Haunter: it evolves when it's traded. Pick 45 to Sacramento, traded to us that same night\n🥚 Happiny: carries a round rock and gives it to its friends. 307 assists as a rookie, 2nd most by a rookie in our history\n🐍 Steelix: a body harder than diamond. All 82 games last season\n🦅 Xatu: it can see the future. 16 assists in our win at Milwaukee\n🔥 Infernape: beaten by none in quickness. Our engine, 7.0 assists a night through 10 games, and a new 3-year extension\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Jamal Shead had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF SHEAD HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Aegislash. Its ability, Stance Change, flips it between sword and shield. At Houston: Big Twelve Player of the Year and Defensive Player of the Year. The first ever to win both.",
+   "dlg": "SWITCHES SWORD AND SHIELD.|BIG 12 POY AND DPOY."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Haunter. It evolves when it gets traded. Sacramento took him forty-fifth, and traded him to us that same night.",
+   "dlg": "IT EVOLVES WHEN TRADED.|PICK 45, TRADED TO US!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Happiny. It carries a round rock, and gives it to its friends. Three hundred seven assists as a rookie, second most by a rookie in our history.",
+   "dlg": "GIVES ITS ROCK TO FRIENDS.|307 ASSISTS AS A ROOKIE!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Steelix. Its body is harder than a diamond. Last season, he played all eighty-two games.",
+   "dlg": "HARDER THAN A DIAMOND.|ALL 82 GAMES LAST SEASON!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Xatu. It can see the future. Shead sees the pass coming: sixteen assists in our win at Milwaukee.",
+   "dlg": "IT CAN SEE THE FUTURE.|16 ASSISTS AT MILWAUKEE!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Infernape. Nobody beats it for quickness. Our engine: seven assists a night through ten games, and a new three-year extension.",
+   "dlg": "BEATEN BY NONE IN SPEED.|7.0 ASSISTS, FIRST 10 GAMES"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4432241",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 82
+  },
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 7.0
+  },
+  {
+   "game": "401909292",
+   "player": "4432241",
+   "stat": "AST",
+   "value": 16
+  },
+  {
+   "claim": "2023-24 (Houston, Big 12): Big 12 Player of the Year and Defensive Player of the Year, the first player to win both awards in the same season; 2024 NBA draft: selected 45th overall by the Sacramento Kings, traded on draft night to Toronto; rookie year 307 total assists, second (2nd) among rookies in franchise history; appeared in all 82 games in 2025-26; October 1, 2026: three-year (3-year) contract extension",
+   "source": "https://en.wikipedia.org/wiki/Jamal_Shead"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:4432241@TOR",
+   "mon": "pk:aegislash",
+   "nick": "AEGISLASH",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "label": "SWORD + SHIELD",
+   "stat": "POY + DPOY"
+  },
+  {
+   "key": "p:4432241@TOR",
+   "mon": "pk:haunter",
+   "nick": "HAUNTER",
+   "types": [
+    [
+     "GHOST",
+     "#705898"
+    ],
+    [
+     "POISON",
+     "#a040a0"
+    ]
+   ],
+   "label": "DRAFT TRADE",
+   "stat": "PICK 45"
+  },
+  {
+   "key": "p:4432241@TOR",
+   "mon": "pk:happiny",
+   "nick": "HAPPINY",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "THE GIVER",
+   "stat": "307 AST"
+  },
+  {
+   "key": "p:4432241@TOR",
+   "mon": "pk:steelix",
+   "nick": "STEELIX",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "IRON MAN",
+   "stat": "82 GAMES"
+  },
+  {
+   "key": "p:4432241@TOR",
+   "mon": "pk:xatu",
+   "nick": "XATU",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE VISION",
+   "stat": "16 AST"
+  },
+  {
+   "key": "p:4432241@TOR",
+   "mon": "pk:infernape",
+   "nick": "INFERNAPE",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "7.0 APG"
+  }
+ ],
+ "mode": "trainer"
+}

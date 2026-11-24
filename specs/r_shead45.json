@@ -1,0 +1,113 @@
+{
+ "team": "raptors",
+ "name": "shead45",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "TRADED ON DRAFT NIGHT 🎮🏀 Sacramento drafted him. Traded him to us the same night.\n\n• 2024 draft: #45 to Sacramento, traded to us that night\n• College: first player ever named Big 12 Player and Defensive Player of the Year in the same season\n• Rookie year: 307 assists, #2 among rookies in our history\n• 2025-26: all 82 games. Oct 2026: 3-year extension\n• First 12 games this season: 6.8 APG, mostly off the bench, 16 assists at Milwaukee\n\nShould he start? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "TRADED ON DRAFT NIGHT",
+   "key": "p:4432241@TOR",
+   "name": "SHEAD",
+   "badge": "2024 DRAFT",
+   "lines": [
+    [
+     "#45",
+     "2024 DRAFT"
+    ]
+   ],
+   "vo": "Sacramento drafted Jamal Shead forty-fifth. That same night, he was traded to us.",
+   "dlg": "PICK 45 BY SACRAMENTO...|TRADED TO US THAT NIGHT."
+  },
+  {
+   "kind": "fire",
+   "head": "ROOKIE YEAR",
+   "key": "p:4432241@TOR",
+   "name": "SHEAD",
+   "badge": "ROOKIE",
+   "lines": [
+    [
+     "307",
+     "ASSISTS"
+    ]
+   ],
+   "vo": "As a rookie: three hundred seven assists. Second most by a rookie in our history.",
+   "dlg": "ROOKIE: 307 ASSISTS.|#2 ROOKIE IN OUR HISTORY."
+  },
+  {
+   "kind": "fire",
+   "head": "IRON MAN",
+   "key": "p:4432241@TOR",
+   "name": "SHEAD",
+   "badge": "EXTENDED",
+   "lines": [
+    [
+     "82",
+     "GAMES"
+    ]
+   ],
+   "vo": "Last season he played all eighty-two games. This fall, we gave him a three-year extension.",
+   "dlg": "2025-26: ALL 82 GAMES.|2026: 3-YEAR EXTENSION."
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:4432241@TOR",
+   "name": "SHEAD",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "6.8",
+     "APG"
+    ],
+    [
+     "16",
+     "AST AT MIL"
+    ]
+   ],
+   "vo": "Through twelve games this season: six point eight assists a night, mostly off the bench, and sixteen in our win at Milwaukee.",
+   "dlg": "FIRST 12 GAMES: 6.8 APG.|16 ASSISTS AT MILWAUKEE."
+  },
+  {
+   "kind": "next",
+   "head": "SHOULD HE START?",
+   "logo": "l:TOR",
+   "rec": "#45",
+   "ntxt": "SHEAD",
+   "nday": "2024 PICK",
+   "vo": "Pick forty-five. Should he be our starter? Comment below.",
+   "dlg": "SHOULD HE START?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4432241",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 82
+  },
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 12
+  },
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 6.8
+  },
+  {
+   "game": "401909292",
+   "player": "4432241",
+   "stat": "AST",
+   "value": 16
+  },
+  {
+   "claim": "2024 NBA draft: Shead selected #45 (45th overall) by Sacramento and traded on draft night to Toronto; 2023-24: Big 12 Player of the Year and Defensive Player of the Year, the first player to win both in the same season; rookie year 307 assists, #2 (second) among rookies in franchise history; played all 82 games in 2025-26 (started 12); October 1, 2026: 3-year contract extension",
+   "source": "https://en.wikipedia.org/wiki/Jamal_Shead"
+  }
+ ]
+}

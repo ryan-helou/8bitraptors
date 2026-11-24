@@ -1,0 +1,836 @@
+{
+ "team": "warriors",
+ "name": "pkteam",
+ "template": "fmt_pkteam.html",
+ "pace": "wolves",
+ "record": "8-7",
+ "music": "pkt108",
+ "voice_eq": "bright",
+ "tts_speed": 1.25,
+ "cps": 40,
+ "caption": "IF YAXEL LENDEBORG HAD A POKÉMON TEAM, THIS IS WHAT IT WOULD BE 🎮🌉\n\n💪 Machamp: four arms. A 6'9\" rookie with 15 starts in 15 games\n🌿 Tangrowth: wraps up anything in reach. 7.3 boards in 31.6 minutes\n🐂 Tauros: once it starts running, it won't stop. That's Lendeborg on the break\n🏹 Decidueye: its arrows never miss. 37.8% from three\n⚡ Luxray: sees right through walls. 8 for 8 at the line in New Orleans\n🦈 Garchomp, the ace: sonic speed, straight downhill. 37 points on 19 shots vs the Clippers\n\n20.3 a night as a rookie, 13 more last night in Dallas, and we're 8-7. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "id": "pl",
+   "role": "pl",
+   "key": "p:5175737",
+   "tag": "LENDEBORG"
+  },
+  {
+   "id": "m0",
+   "role": "m",
+   "mon": "m:pmdanim_machamp_10_7",
+   "name": "MACHAMP"
+  },
+  {
+   "id": "m1",
+   "role": "m",
+   "mon": "m:pmdanim_tangrowth_5_14",
+   "name": "TANGROWTH"
+  },
+  {
+   "id": "m2",
+   "role": "m",
+   "mon": "m:pmdanim_tauros_5_11",
+   "name": "TAUROS"
+  },
+  {
+   "id": "m3",
+   "role": "m",
+   "mon": "m:pmdanim_decidueye_10_7",
+   "name": "DECIDUEYE"
+  },
+  {
+   "id": "m4",
+   "role": "m",
+   "mon": "m:pmdanim_luxray_8_8",
+   "name": "LUXRAY"
+  },
+  {
+   "id": "m5",
+   "role": "m",
+   "mon": "m:pmdanim_garchomp_6_13",
+   "name": "GARCHOMP"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "pkt",
+   "vo": "If Yaxel Lendeborg had a Pokemon team, this is what it would be.",
+   "pages": [
+    {
+     "scene": "intro",
+     "dlg": "IF YAXEL LENDEBORG|HAD A POKEMON TEAM",
+     "full": true
+    },
+    {
+     "scene": "intro",
+     "dlg": "THIS IS WHAT|IT WOULD BE.",
+     "w": "this"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 0
+     },
+     {
+      "cut": 2.6
+     }
+    ],
+    "flash": [
+     0.9,
+     1.7,
+     2.7,
+     3.4,
+     4.2,
+     4.7,
+     5.8,
+     6.3,
+     10.9,
+     11.3,
+     13.6,
+     15.1,
+     17.9,
+     18.3,
+     20.5,
+     22.5,
+     23.0,
+     25.1,
+     27.8,
+     28.4,
+     29.3,
+     30.4,
+     30.9,
+     33.3,
+     33.9,
+     34.4,
+     36.5,
+     41.4,
+     42.0,
+     42.7,
+     44.4,
+     45.1,
+     47.8,
+     48.4,
+     49.1
+    ],
+    "pt": [
+     0,
+     2.6
+    ]
+   },
+   "cfg": {
+    "title": "IF LENDEBORG HAD A|POKEMON TEAM...",
+    "opp": "l:DAL",
+    "ppg": "20.3 PPG"
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.36
+  },
+  {
+   "kind": "pkt",
+   "vo": "Leading off, Machamp, four arms.",
+   "pages": [
+    {
+     "scene": "court",
+     "dlg": "LEADING OFF:|MACHAMP.",
+     "first": true,
+     "lbl": "ROUTE 1 COURT"
+    },
+    {
+     "scene": "court",
+     "dlg": "FOUR ARMS.",
+     "w": "for",
+     "sign": "FOUR|ARMS",
+     "fx": "jump"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 3.9,
+      "st": {
+       "lo": 0.9
+      }
+     },
+     {
+      "cut": 5.9
+     }
+    ],
+    "pt": [
+     0,
+     2.0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 1.13
+  },
+  {
+   "kind": "pkt",
+   "vo": "A six foot nine rookie with fifteen starts in fifteen games.",
+   "pages": [
+    {
+     "scene": "court",
+     "dlg": "A 6'9\" ROOKIE WITH|15 STARTS",
+     "sign": "6'9\"|ROOKIE",
+     "signB": "15 FOR 15|STARTS",
+     "fx": "jump"
+    },
+    {
+     "scene": "court",
+     "dlg": "...IN 15 GAMES.",
+     "w": "in",
+     "sign": "15 FOR 15|STARTS",
+     "fx": "hop"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 7.15,
+      "st": {
+       "tB": 1.3,
+       "jt": 1.85
+      }
+     },
+     {
+      "cut": 9.9,
+      "st": {
+       "jt": 0.2
+      }
+     }
+    ],
+    "pt": [
+     0,
+     2.75
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.54
+  },
+  {
+   "kind": "pkt",
+   "vo": "Tangrowth wraps up anything in reach.",
+   "pages": [
+    {
+     "scene": "gym",
+     "dlg": "TANGROWTH WRAPS UP|ANYTHING IN REACH.",
+     "first": true,
+     "lbl": "WARRIORS GYM HALL",
+     "plaque": "WRAPS IT|ALL UP"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 10.85
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "Wing's height, big man's hands.",
+   "pages": [
+    {
+     "scene": "gym",
+     "dlg": "WING'S HEIGHT,|BIG MAN'S HANDS."
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 13.2
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "Over seven boards in under thirty two minutes.",
+   "pages": [
+    {
+     "scene": "gym",
+     "dlg": "OVER 7 BOARDS IN|UNDER 32 MINUTES.",
+     "plaque": "7.3 REB|31.6 MIN"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 14.93
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "Tauros, once it starts running, it won't stop.",
+   "pages": [
+    {
+     "scene": "route",
+     "dlg": "TAUROS.",
+     "first": true,
+     "lbl": "ROUTE 1",
+     "sign": "NO BRAKES"
+    },
+    {
+     "scene": "route",
+     "dlg": "ONCE IT STARTS RUNNING,|IT WON'T STOP.",
+     "w": "once",
+     "lbl": "ROUTE 1"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 17.65
+     },
+     {
+      "cut": 18.9
+     }
+    ],
+    "pt": [
+     0,
+     1.21
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.36
+  },
+  {
+   "kind": "pkt",
+   "vo": "That's Yaxel on the break.",
+   "pages": [
+    {
+     "scene": "route",
+     "dlg": "THAT'S YAXEL|ON THE BREAK.",
+     "lbl": "ROUTE 1"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 20.81,
+      "st": {
+       "lo": 1.2
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "Decidueye, its arrows never miss.",
+   "pages": [
+    {
+     "scene": "record",
+     "dlg": "DECIDUEYE. ITS|ARROWS NEVER MISS.",
+     "first": true,
+     "lbl": "RECORD HALL",
+     "board": [
+      "LONG REACH",
+      ""
+     ]
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 22.15,
+      "st": {
+       "lo": 1.9
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.38
+  },
+  {
+   "kind": "pkt",
+   "vo": "He's shooting almost thirty eight percent from three.",
+   "pages": [
+    {
+     "scene": "record",
+     "dlg": "HE'S SHOOTING ALMOST|38% FROM THREE.",
+     "board": [
+      "37.8% 3PT",
+      "5.5 3PA A GAME"
+     ]
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 24.97,
+      "st": {
+       "bt": 1.4
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "Luxray.",
+   "pages": [
+    {
+     "scene": "plant",
+     "dlg": "LUXRAY.",
+     "first": true,
+     "lbl": "POWER PLANT",
+     "sign": "SEES|IT ALL"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 27.5
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "Its eyes can see right through walls.",
+   "pages": [
+    {
+     "scene": "plant",
+     "dlg": "ITS EYES CAN SEE|RIGHT THROUGH|WALLS.",
+     "lbl": "POWER PLANT",
+     "fx": "spark"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 28.85,
+      "st": {
+       "lo": 1.6
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.47
+  },
+  {
+   "kind": "pkt",
+   "vo": "Eight for eight at the line in New Orleans.",
+   "pages": [
+    {
+     "scene": "plant",
+     "dlg": "8 FOR 8 AT THE LINE|IN NEW ORLEANS.",
+     "sign": "8 FOR 8|FT"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 31.53
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "And the ace, Garchomp.",
+   "pages": [
+    {
+     "scene": "arena",
+     "dlg": "AND THE ACE...",
+     "first": true,
+     "lbl": "CHASE CENTER",
+     "sub": "SUN 11/1 VS LAC",
+     "sb": [
+      "124",
+      "112",
+      "l:LAC"
+     ],
+     "tick": "SUN 11/1:  WARRIORS 124   CLIPPERS 112",
+     "sil": true
+    },
+    {
+     "scene": "arena",
+     "dlg": "GARCHOMP!",
+     "w": "garchomp",
+     "fx": "reveal",
+     "lbl": "CHASE CENTER",
+     "sub": "SUN 11/1 VS LAC"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 33.5
+     },
+     {
+      "cut": 35.3
+     }
+    ],
+    "pt": [
+     0,
+     1.48
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.55
+  },
+  {
+   "kind": "pkt",
+   "vo": "Sonic speed, straight downhill.",
+   "pages": [
+    {
+     "scene": "arena",
+     "dlg": "SONIC SPEED,|STRAIGHT DOWNHILL.",
+     "fx": "zip",
+     "lbl": "CHASE CENTER",
+     "sub": "SUN 11/1 VS LAC"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 36.0,
+      "st": {
+       "lo": 0.5
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "Against the Clippers, thirty seven points on nineteen shots.",
+   "pages": [
+    {
+     "scene": "arena",
+     "dlg": "VS THE CLIPPERS:|37 POINTS ON 19 SHOTS.",
+     "tickB": "LENDEBORG 37 PTS - 13-19 FG - 6-11 3PT",
+     "tagB": "37 PTS",
+     "fx": "zip"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 37.97,
+      "st": {
+       "tB": 1.4,
+       "zt": 2.6
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.36
+  },
+  {
+   "kind": "pkt",
+   "vo": "Over twenty a night as our rookie.",
+   "pages": [
+    {
+     "scene": "arena",
+     "dlg": "OVER 20 A NIGHT|AS OUR ROOKIE.",
+     "team": true,
+     "sb": [
+      "94",
+      "116",
+      "l:DAL"
+     ],
+     "tick": "WED 11/18:  WARRIORS 94   MAVERICKS 116"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 41.4,
+      "st": {
+       "d0": 0.3
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.33
+  },
+  {
+   "kind": "pkt",
+   "vo": "Thirteen more last night, we lost in Dallas, and we're eight and seven.",
+   "pages": [
+    {
+     "scene": "arena",
+     "dlg": "13 MORE LAST NIGHT,|WE LOST AT DAL..."
+    },
+    {
+     "scene": "arena",
+     "dlg": "...AND WE'RE 8-7.",
+     "w": "and",
+     "tickB": "WARRIORS 8-7 - NEXT: GRIZZLIES THU 11/19"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 43.65
+     },
+     {
+      "cut": 45.9,
+      "st": {
+       "tB": 0.5
+      }
+     }
+    ],
+    "pt": [
+     0,
+     2.25
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 2.15,
+   "end": true
+  }
+ ],
+ "facts": [
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 20.3
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 7.3
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 31.6
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 37.8
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 15
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "GS",
+   "value": 15
+  },
+  {
+   "claim": "Lendeborg 2026-27 per game (ESPN): 2.1-5.5 3PT, so 5.5 three-point attempts (3PA) a game; 37.8% is almost 38%; 7.3 rebounds is over 7 in 31.6 minutes, under 32; 20.3 points is over 20. Rookie: 2026 draft, round 1, pick 11. Jersey 1 (Route 1). Height 6'9\" (6 foot 9).",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5175737"
+  },
+  {
+   "claim": "Yaxel Lendeborg height 6' 9\", jersey 1, Golden State Warriors",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/9/roster"
+  },
+  {
+   "game": "401909905",
+   "score": "124-112"
+  },
+  {
+   "game": "401909905",
+   "player": "5175737",
+   "stat": "PTS",
+   "value": "37"
+  },
+  {
+   "game": "401909905",
+   "player": "5175737",
+   "stat": "FG",
+   "value": "13-19"
+  },
+  {
+   "game": "401909905",
+   "player": "5175737",
+   "stat": "3PT",
+   "value": "6-11"
+  },
+  {
+   "game": "401910000",
+   "player": "5175737",
+   "stat": "FT",
+   "value": "8-8"
+  },
+  {
+   "game": "401910016",
+   "score": "94-116"
+  },
+  {
+   "game": "401910016",
+   "player": "5175737",
+   "stat": "PTS",
+   "value": "13"
+  },
+  {
+   "claim": "Warriors schedule (ESPN, times ET): Sun 11/1 vs LA Clippers (Chase Center) W 124-112; Mon 11/16 at New Orleans; Wed 11/18 at Dallas L 94-116; next: Thu 11/19 at Memphis Grizzlies. Record 8-7.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/9/schedule"
+  },
+  {
+   "claim": "Machamp: 'Using all four arms, this POKéMON fires off awesome punches' (Pokédex)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/machamp"
+  },
+  {
+   "claim": "Tangrowth ensnares prey by extending arms made of vines (Pokédex)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/tangrowth"
+  },
+  {
+   "claim": "Tauros: 'Once running, it won't stop until it hits something' (Pokédex)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/tauros"
+  },
+  {
+   "claim": "Decidueye: 'Decidueye's shots never miss'; ability Long Reach",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/decidueye"
+  },
+  {
+   "claim": "Luxray can see clearly through walls (Pokédex)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/luxray"
+  },
+  {
+   "claim": "Garchomp flies at sonic speed (Pokédex)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/garchomp"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

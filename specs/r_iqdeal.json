@@ -1,0 +1,116 @@
+{
+ "team": "raptors",
+ "name": "iqdeal",
+ "record": "5-4",
+ "caption": "WORTH IT? 🎮🏀 We gave Immanuel Quickley $175 million. Then he played 33 games.\n\n• July 2024: we re-sign him for 5 years, $175M\n• 2024-25: injuries and a minutes limit, only 33 games\n• Jan 2026: 40 points on 11-of-13 shooting against the Warriors\n• First 10 games this season: 17.6 PPG, 5.6 APG\n\nIs he worth $175M? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "THE DEAL",
+   "key": "p:4395724@TOR",
+   "name": "QUICKLEY",
+   "badge": "5 YRS, $175M",
+   "lines": [
+    [
+     "$175M",
+     "5 YEARS"
+    ]
+   ],
+   "vo": "We gave Immanuel Quickley a five-year, one hundred seventy-five million dollar contract.",
+   "dlg": "WE PAY QUICKLEY $175M...|FOR 5 YEARS."
+  },
+  {
+   "kind": "fire",
+   "head": "YEAR ONE",
+   "key": "p:4395724@TOR",
+   "name": "QUICKLEY",
+   "badge": "INJURED",
+   "lines": [
+    [
+     "33",
+     "GAMES"
+    ]
+   ],
+   "vo": "Year one of the deal? Injuries, a minutes limit, and just thirty-three games.",
+   "dlg": "2024-25: INJURIES.|ONLY 33 GAMES."
+  },
+  {
+   "kind": "fire",
+   "head": "40 ON 11-OF-13",
+   "key": "p:4395724@TOR",
+   "name": "QUICKLEY",
+   "badge": "CAREER HIGH",
+   "lines": [
+    [
+     "40",
+     "PTS"
+    ],
+    [
+     "11-13",
+     "FG"
+    ]
+   ],
+   "vo": "Then January twenty twenty-six: forty points on eleven of thirteen shooting against the Warriors. Called the most efficient forty-point game ever.",
+   "dlg": "JAN 2026: 40 PTS ON 11-13.|MOST EFFICIENT 40 EVER?"
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:4395724@TOR",
+   "name": "QUICKLEY",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "17.6",
+     "PPG"
+    ],
+    [
+     "5.6",
+     "APG"
+    ]
+   ],
+   "vo": "And through ten games this season: seventeen point six points and five point six assists a night.",
+   "dlg": "FIRST 10 GAMES: 17.6 PPG,|5.6 APG."
+  },
+  {
+   "kind": "next",
+   "head": "WORTH IT?",
+   "logo": "l:TOR",
+   "rec": "$175M",
+   "ntxt": "QUICKLEY",
+   "nday": "5 YEARS",
+   "vo": "A hundred seventy-five million dollars. Is he worth it? Comment below.",
+   "dlg": "$175M. IS HE WORTH IT?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4395724",
+   "season": "2024-25",
+   "stat": "GP",
+   "value": 33
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 17.6
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.6
+  },
+  {
+   "claim": "July 8, 2024: Quickley re-signed with the Raptors on a 5-year, $175 million contract; in 2024-25 he struggled with injuries, played only 33 games, often on a minutes restriction; January 20, 2026: 40 points (tying his career high) on 11-of-13 shooting in a 145-127 win over the Golden State Warriors, described as the most efficient 40-point game in league history",
+   "source": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
+  }
+ ]
+}

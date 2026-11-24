@@ -1,0 +1,530 @@
+{
+ "team": "raptors",
+ "name": "fmt_region_map",
+ "template": "fmt_region_map.html",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "3 WEEKS IN: THE EAST REGION MAP 🗺️🎮 (standings after MON 11/9)\n\n🔝 Up top, a 2-team race: Philly 9-2, Boston 8-2 (3 straight)\n👀 Detroit lurking at 7-3\n🦖 Us: 5-5, 6th in the East. Our point differential (+3.3) is better than first-place Philly's (+3.1)\n🧊 The bottom: Chicago 1-8, Milwaukee 1-9\n⚖️ The gap is real: 10 West teams over .500, 5 in the East\n🏆 Best point differential in the East: Boston, +10.7\n\nAnd Wednesday 11/11, 7 PM ET, Boston comes to Scotiabank Arena. Who wins? 👇",
+ "beats": [
+  {
+   "kind": "rm_intro",
+   "title": "3 WEEKS IN",
+   "sub": "THE EAST MAP",
+   "sign": "EAST LEAGUE",
+   "walker": "l:TOR",
+   "full": true,
+   "vo": "Three weeks into the NBA season. Here's the East.",
+   "dlg": "3 WEEKS INTO THE NBA|SEASON. HERE'S THE EAST.",
+   "cutMap": "EAST REGION MAP",
+   "logos": [
+    "l:DAL",
+    "l:HOU",
+    "l:SA",
+    "l:OKC",
+    "l:MEM",
+    "l:NO",
+    "l:MIN",
+    "l:DEN"
+   ]
+  },
+  {
+   "kind": "rm_map",
+   "head": "EAST REGION MAP",
+   "hi": [
+    "PHI",
+    "BOS"
+   ],
+   "tag": "UP TOP: A 2-TEAM RACE",
+   "irisOut": true,
+   "vo": "Up top, it's a two-team race.",
+   "dlg": "UP TOP:|A 2-TEAM RACE.",
+   "prev": "3 WEEKS INTO THE NBA|SEASON. HERE'S THE EAST."
+  },
+  {
+   "kind": "rm_shelf",
+   "head": "EAST STANDINGS * AFTER MON 11/9",
+   "first": true,
+   "irisIn": true,
+   "hi": [
+    "PHI"
+   ],
+   "tag": "PHI: 9-2 * 1ST",
+   "rows": [
+    {
+     "l": "l:PHI",
+     "r": "9-2"
+    },
+    {
+     "l": "l:BOS",
+     "r": "8-2"
+    },
+    {
+     "l": "l:DET",
+     "r": "7-3"
+    },
+    {
+     "l": "l:ATL",
+     "r": "7-5"
+    },
+    {
+     "l": "l:NY",
+     "r": "5-4"
+    },
+    {
+     "l": "l:TOR",
+     "r": "5-5"
+    },
+    {
+     "l": "l:CLE",
+     "r": "5-6"
+    },
+    {
+     "l": "l:MIA",
+     "r": "4-6"
+    },
+    {
+     "l": "l:CHA",
+     "r": "4-7"
+    },
+    {
+     "l": "l:WSH",
+     "r": "4-7"
+    },
+    {
+     "l": "l:IND",
+     "r": "3-8"
+    },
+    {
+     "l": "l:ORL",
+     "r": "2-7"
+    },
+    {
+     "l": "l:BKN",
+     "r": "2-8"
+    },
+    {
+     "l": "l:CHI",
+     "r": "1-8"
+    },
+    {
+     "l": "l:MIL",
+     "r": "1-9"
+    }
+   ],
+   "vo": "Philly's on top at nine and two.",
+   "dlg": "PHILLY ON TOP: 9-2."
+  },
+  {
+   "kind": "rm_shelf",
+   "head": "EAST STANDINGS * AFTER MON 11/9",
+   "hi": [
+    "BOS"
+   ],
+   "tag": "BOS: 8-2 * 3 STRAIGHT",
+   "rows": [
+    {
+     "l": "l:PHI",
+     "r": "9-2"
+    },
+    {
+     "l": "l:BOS",
+     "r": "8-2"
+    },
+    {
+     "l": "l:DET",
+     "r": "7-3"
+    },
+    {
+     "l": "l:ATL",
+     "r": "7-5"
+    },
+    {
+     "l": "l:NY",
+     "r": "5-4"
+    },
+    {
+     "l": "l:TOR",
+     "r": "5-5"
+    },
+    {
+     "l": "l:CLE",
+     "r": "5-6"
+    },
+    {
+     "l": "l:MIA",
+     "r": "4-6"
+    },
+    {
+     "l": "l:CHA",
+     "r": "4-7"
+    },
+    {
+     "l": "l:WSH",
+     "r": "4-7"
+    },
+    {
+     "l": "l:IND",
+     "r": "3-8"
+    },
+    {
+     "l": "l:ORL",
+     "r": "2-7"
+    },
+    {
+     "l": "l:BKN",
+     "r": "2-8"
+    },
+    {
+     "l": "l:CHI",
+     "r": "1-8"
+    },
+    {
+     "l": "l:MIL",
+     "r": "1-9"
+    }
+   ],
+   "vo": "Boston's right behind at eight and two, winners of three straight.",
+   "dlg": "BOSTON RIGHT BEHIND: 8-2,|3 IN A ROW."
+  },
+  {
+   "kind": "rm_shelf",
+   "head": "EAST STANDINGS * AFTER MON 11/9",
+   "hi": [
+    "DET"
+   ],
+   "tag": "DET: 7-3",
+   "rows": [
+    {
+     "l": "l:PHI",
+     "r": "9-2"
+    },
+    {
+     "l": "l:BOS",
+     "r": "8-2"
+    },
+    {
+     "l": "l:DET",
+     "r": "7-3"
+    },
+    {
+     "l": "l:ATL",
+     "r": "7-5"
+    },
+    {
+     "l": "l:NY",
+     "r": "5-4"
+    },
+    {
+     "l": "l:TOR",
+     "r": "5-5"
+    },
+    {
+     "l": "l:CLE",
+     "r": "5-6"
+    },
+    {
+     "l": "l:MIA",
+     "r": "4-6"
+    },
+    {
+     "l": "l:CHA",
+     "r": "4-7"
+    },
+    {
+     "l": "l:WSH",
+     "r": "4-7"
+    },
+    {
+     "l": "l:IND",
+     "r": "3-8"
+    },
+    {
+     "l": "l:ORL",
+     "r": "2-7"
+    },
+    {
+     "l": "l:BKN",
+     "r": "2-8"
+    },
+    {
+     "l": "l:CHI",
+     "r": "1-8"
+    },
+    {
+     "l": "l:MIL",
+     "r": "1-9"
+    }
+   ],
+   "vo": "Detroit's lurking at seven and three.",
+   "dlg": "DETROIT'S LURKING|AT 7-3."
+  },
+  {
+   "kind": "rm_shelf",
+   "head": "EAST STANDINGS * AFTER MON 11/9",
+   "hi": [
+    "TOR"
+   ],
+   "tag": "US: 5-5 * 6TH",
+   "rows": [
+    {
+     "l": "l:PHI",
+     "r": "9-2"
+    },
+    {
+     "l": "l:BOS",
+     "r": "8-2"
+    },
+    {
+     "l": "l:DET",
+     "r": "7-3"
+    },
+    {
+     "l": "l:ATL",
+     "r": "7-5"
+    },
+    {
+     "l": "l:NY",
+     "r": "5-4"
+    },
+    {
+     "l": "l:TOR",
+     "r": "5-5"
+    },
+    {
+     "l": "l:CLE",
+     "r": "5-6"
+    },
+    {
+     "l": "l:MIA",
+     "r": "4-6"
+    },
+    {
+     "l": "l:CHA",
+     "r": "4-7"
+    },
+    {
+     "l": "l:WSH",
+     "r": "4-7"
+    },
+    {
+     "l": "l:IND",
+     "r": "3-8"
+    },
+    {
+     "l": "l:ORL",
+     "r": "2-7"
+    },
+    {
+     "l": "l:BKN",
+     "r": "2-8"
+    },
+    {
+     "l": "l:CHI",
+     "r": "1-8"
+    },
+    {
+     "l": "l:MIL",
+     "r": "1-9"
+    }
+   ],
+   "vo": "And then there's us. Five and five, sixth in the East.",
+   "dlg": "AND US? 5-5,|SIXTH IN THE EAST."
+  },
+  {
+   "kind": "rm_shelf",
+   "head": "EAST STANDINGS * AFTER MON 11/9",
+   "hi": [
+    "TOR"
+   ],
+   "tag": "OUR POINT DIFF: +3.3",
+   "rows": [
+    {
+     "l": "l:PHI",
+     "r": "9-2"
+    },
+    {
+     "l": "l:BOS",
+     "r": "8-2"
+    },
+    {
+     "l": "l:DET",
+     "r": "7-3"
+    },
+    {
+     "l": "l:ATL",
+     "r": "7-5"
+    },
+    {
+     "l": "l:NY",
+     "r": "5-4"
+    },
+    {
+     "l": "l:TOR",
+     "r": "5-5"
+    },
+    {
+     "l": "l:CLE",
+     "r": "5-6"
+    },
+    {
+     "l": "l:MIA",
+     "r": "4-6"
+    },
+    {
+     "l": "l:CHA",
+     "r": "4-7"
+    },
+    {
+     "l": "l:WSH",
+     "r": "4-7"
+    },
+    {
+     "l": "l:IND",
+     "r": "3-8"
+    },
+    {
+     "l": "l:ORL",
+     "r": "2-7"
+    },
+    {
+     "l": "l:BKN",
+     "r": "2-8"
+    },
+    {
+     "l": "l:CHI",
+     "r": "1-8"
+    },
+    {
+     "l": "l:MIL",
+     "r": "1-9"
+    }
+   ],
+   "irisOut": true,
+   "vo": "But our point differential is plus three point three. Better than first-place Philly.",
+   "dlg": "OUR POINT DIFF: +3.3.|PHILLY'S: +3.1."
+  },
+  {
+   "kind": "rm_map",
+   "head": "THE BOTTOM",
+   "hi": [
+    "CHI",
+    "MIL"
+   ],
+   "tag": "ONE WIN EACH",
+   "irisIn": true,
+   "wipeOut": true,
+   "vo": "Down at the bottom, Chicago and Milwaukee have one win each.",
+   "dlg": "DOWN AT THE BOTTOM: CHICAGO|AND MILWAUKEE, 1 WIN EACH."
+  },
+  {
+   "kind": "rm_bars",
+   "head": "TEAMS OVER .500",
+   "wipeIn": true,
+   "bars": [
+    {
+     "label": "WEST",
+     "val": 10,
+     "col": "#e8742a",
+     "teams": [
+      "l:LAL",
+      "l:SA",
+      "l:OKC",
+      "l:GS",
+      "l:MIN",
+      "l:HOU",
+      "l:MEM",
+      "l:POR",
+      "l:DAL",
+      "l:DEN"
+     ]
+    },
+    {
+     "label": "EAST",
+     "val": 5,
+     "col": "#3a8ae0",
+     "teams": [
+      "l:PHI",
+      "l:BOS",
+      "l:DET",
+      "l:ATL",
+      "l:NY"
+     ]
+    }
+   ],
+   "vo": "And the gap between the conferences is real.",
+   "dlg": "THE CONFERENCE GAP|IS REAL."
+  },
+  {
+   "kind": "rm_bars",
+   "head": "TEAMS OVER .500",
+   "show": true,
+   "bars": [
+    {
+     "label": "WEST",
+     "val": 10,
+     "col": "#e8742a",
+     "teams": [
+      "l:LAL",
+      "l:SA",
+      "l:OKC",
+      "l:GS",
+      "l:MIN",
+      "l:HOU",
+      "l:MEM",
+      "l:POR",
+      "l:DAL",
+      "l:DEN"
+     ]
+    },
+    {
+     "label": "EAST",
+     "val": 5,
+     "col": "#3a8ae0",
+     "teams": [
+      "l:PHI",
+      "l:BOS",
+      "l:DET",
+      "l:ATL",
+      "l:NY"
+     ]
+    }
+   ],
+   "fadeOut": true,
+   "vo": "The West has ten teams over five hundred. The East has five.",
+   "dlg": "WEST: 10 TEAMS OVER .500.|EAST: 5."
+  },
+  {
+   "kind": "rm_gym",
+   "team": "l:BOS",
+   "banner": "TEAM TO BEAT",
+   "big": "+10.7",
+   "l1": "BEST POINT DIFF IN THE EAST",
+   "l2": "BOSTON * 8-2 * 3 STRAIGHT",
+   "fadeIn": true,
+   "vo": "The best point differential in the East? Boston, plus ten point seven.",
+   "dlg": "BEST POINT DIFF IN THE EAST?|BOSTON, +10.7."
+  },
+  {
+   "kind": "rm_gym",
+   "team": "l:BOS",
+   "banner": "TEAM TO BEAT",
+   "big": "+10.7",
+   "l1": "BEST POINT DIFF IN THE EAST",
+   "l2": "BOSTON * 8-2 * 3 STRAIGHT",
+   "cont": true,
+   "chip": "WED 11/11 * 7 PM ET * AT OUR PLACE",
+   "vo": "Right now, that's the team to beat. And Wednesday, Boston comes to our building.",
+   "dlg": "THE TEAM TO BEAT. WEDNESDAY,|BOSTON COMES TO OUR BUILDING."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "ESPN standings after Mon 11/9 (Eastern Conference, by seed): 1 PHI 9-2, 2 BOS 8-2 (W3, +10.7), 3 DET 7-3, 4 ATL 7-5, 5 NY 5-4, 6 TOR 5-5 (+3.3), 7 CLE 5-6, 8 MIA 4-6, 9 CHA 4-7, 10 WSH 4-7, 11 IND 3-8, 12 ORL 2-7, 13 BKN 2-8, 14 CHI 1-8, 15 MIL 1-9. PHI point differential +3.1. Best point differential in the East: BOS +10.7. Teams over .500: West 10, East 5. Raptors 6th (sixth) after 3 weeks.",
+   "source": "https://site.api.espn.com/apis/v2/sports/basketball/nba/standings"
+  },
+  {
+   "claim": "Raptors host the Celtics Wed 11/11 at 7 PM ET at Scotiabank Arena",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/schedule"
+  }
+ ]
+}

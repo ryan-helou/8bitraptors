@@ -1,0 +1,529 @@
+{
+ "team": "warriors",
+ "name": "sc2_nopdal",
+ "template": "fmt_sc2.html",
+ "music": "sc130",
+ "duck_bridge": true,
+ "duck_depth": 0.9,
+ "cps": 40,
+ "voice_eq": "bright",
+ "pace": "wolves",
+ "tts_speed": 1.3,
+ "minp": 0.46,
+ "record": "8-7",
+ "caption": "WE LOST BOTH. BY 43 POINTS TOTAL. 💛 The shot chart says we've got work to do before the Grizzlies.\n\n🗓️ MON 11/16: Pelicans 115, Warriors 94 · WED 11/18: Mavericks 116, Warriors 94\n🎯 2 games: our opponents made 83 shots, we made 66\n🧾 Monday we won the line, 27 free throws to 18, and still lost by 21\n🔥 Will Richard Wednesday: 20 PTS, 9 of 13 from the floor\n⏱️ Tied 6-6 in the 1st, then 12 straight for Dallas: Irving, Washington, Flagg, Martin\n\nThe 3 fixes:\n1️⃣ The three: they made 32 in 2 games, we made 20\n2️⃣ Free throws: 9 of 17 on Wednesday\n3️⃣ Turnovers: 16 on Monday, and New Orleans scored 27 off them\n\nThe Grizzlies are 11-4, 5th in the West at +135, and we lost to them 108-111 on 10/23. We're 8-7, 10th in the West. Next: Grizzlies, THU 11/19 · 8 PM ET.\n\nWhich fix matters most against Memphis?",
+ "beats": [
+  {
+   "kind": "sc2_hall",
+   "cfg": {
+    "us": "l:GS",
+    "them": [
+     "l:NO",
+     "l:DAL"
+    ],
+    "usc": "#284885",
+    "themc": "#9d3431"
+   },
+   "full": true,
+   "pal": "pink",
+   "ban": "l:NO",
+   "plate": "LOST BOTH. BY 43 TOTAL.",
+   "faces": [
+    {
+     "pk": "p:5175737",
+     "nm": "LENDEBORG"
+    },
+    {
+     "pk": "p:4897262",
+     "nm": "RICHARD"
+    }
+   ],
+   "wm": "l:DAL",
+   "scores": [
+    "MON 94-115",
+    "WED 94-116"
+   ],
+   "dlg": "WE LOST BOTH GAMES.|BY 43 POINTS. TOTAL.",
+   "vo": "We lost both games this week, by forty three total."
+  },
+  {
+   "kind": "sc2_hall",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_title",
+   "sb": [
+    0,
+    2
+   ],
+   "sbl": [
+    "l:NO",
+    "l:DAL"
+   ],
+   "head2": "2-GAME SHOT CHART",
+   "chip": "3 THINGS TO FIX",
+   "dlg": "THE 2-GAME SHOT CHART|+ 3 THINGS TO FIX.",
+   "vo": "Here's the two game shot chart, and three things to fix before the Grizzlies."
+  },
+  {
+   "kind": "sc2_title",
+   "pad": true,
+   "hold": 0.66,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_zones",
+   "sb": [
+    0,
+    2
+   ],
+   "sbl": [
+    "l:NO",
+    "l:DAL"
+   ],
+   "tz": [
+    {
+     "z": "RIM",
+     "v": "35/61"
+    },
+    {
+     "z": "PAINT",
+     "v": "12/25"
+    },
+    {
+     "z": "MIDRANGE",
+     "v": "4/13"
+    },
+    {
+     "z": "CORNER 3",
+     "v": "7/23"
+    },
+    {
+     "z": "3 PT",
+     "v": "25/58"
+    }
+   ],
+   "uz": [
+    {
+     "z": "RIM",
+     "v": "35/56"
+    },
+    {
+     "z": "PAINT",
+     "v": "7/21"
+    },
+    {
+     "z": "MIDRANGE",
+     "v": "4/12"
+    },
+    {
+     "z": "CORNER 3",
+     "v": "10/29"
+    },
+    {
+     "z": "3 PT",
+     "v": "10/55"
+    }
+   ],
+   "tfoot": "OPP: 83/180 FG",
+   "ufoot": "GS: 66/173 FG",
+   "dlg": "OPPONENTS: 83 MADE.",
+   "dlg2": "OPPONENTS: 83 MADE.|US: 66 MADE.",
+   "vo": "Our opponents made eighty three shots."
+  },
+  {
+   "kind": "sc2_zones",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_zones",
+   "more": true,
+   "vo": "We made sixty six."
+  },
+  {
+   "kind": "sc2_zones",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_bars",
+   "sb": [
+    94,
+    115
+   ],
+   "sbl": "l:NO",
+   "head2": "MON 11/16: 94-115",
+   "card": {
+    "title": "FREE THROWS: MADE / TRIED",
+    "mode": "ma",
+    "rows": [
+     {
+      "l": "l:GS",
+      "m": 27,
+      "a": 30,
+      "us": true
+     },
+     {
+      "l": "l:NO",
+      "m": 18,
+      "a": 24
+     }
+    ]
+   },
+   "dlg": "MON: WE WON THE LINE.|27 FREE THROWS TO 18.",
+   "vo": "Monday, we won the line, twenty seven free throws to eighteen."
+  },
+  {
+   "kind": "sc2_bars",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_dots",
+   "sb": [
+    94,
+    116
+   ],
+   "sbl": "l:DAL",
+   "shots": "ET.ZG+YG+cG+wH+aG+CM.BI.aR+EU.XG+gY+aH+",
+   "chips": [
+    "FG: 9/13"
+   ],
+   "pk": "p:4897262",
+   "dlg": "WED: WILL RICHARD.|9 OF 13. 20 POINTS.",
+   "vo": "Wednesday, Will Richard made nine of thirteen and scored twenty."
+  },
+  {
+   "kind": "sc2_dots",
+   "pad": true,
+   "hold": 0.96,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_moment",
+   "sb": [
+    6,
+    6
+   ],
+   "sbl": "l:DAL",
+   "chip": "1ST Q: 12-0 RUN",
+   "faces": [
+    {
+     "pk": "p:6442",
+     "nm": "IRVING",
+     "tg": ""
+    },
+    {
+     "pk": "p:4278078",
+     "nm": "WASHINGTON",
+     "tg": ""
+    },
+    {
+     "pk": "p:5041939",
+     "nm": "FLAGG",
+     "tg": "DUNK"
+    }
+   ],
+   "dlg": "TIED 6-6 IN THE 1ST.|THEN 12-0 DALLAS.",
+   "vo": "Tied at six in the first, Dallas ran off twelve straight."
+  },
+  {
+   "kind": "sc2_moment",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_moment",
+   "more": true,
+   "vo": "Irving, Washington, Flagg and Martin all scored."
+  },
+  {
+   "kind": "sc2_moment",
+   "pad": true,
+   "hold": 0.94,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "head": "NOW THE FIXES",
+   "headB": "FIX 1 OF 3: THE THREE",
+   "lg": "them",
+   "dlg": "NOW THE FIXES.",
+   "dlg2": "1: THE THREE.|THEM 32 MADE, US 20.",
+   "vo": "Now the fixes."
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "more": true,
+   "vo": "One, the three."
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "head": "FIX 1 OF 3: THE THREE",
+   "lg": "them",
+   "clu": {
+    "shots": "sX.CR+CM.hf.CE+sb.cf+FV.be+wI.GW+JY+FV+xI.wH.sX+DR+mc+CG.sX.CN.DO.Nd+Pd.sV+xF.DY.xK.wE.hd.CF.Ic.ff+Mc+Rf.FZ.kg.DV+xQ.Xm.na+kc.xG+HW.oa+CI+lc.xI.Ve+FU.lc.ES+Oc+CI+Ja+GW.df.Rd+le.CH.wK.lc.Vf+BH+GW.Kb+Ka.CI.Yh.oZ.sW.HY.Ze.wK+IY.Zd+wK.qZ+CH+GW.fd.",
+    "side": "them"
+   },
+   "card": {
+    "title": "THREES MADE, 2 GAMES",
+    "rows": [
+     {
+      "l": [
+       "l:NO",
+       "l:DAL"
+      ],
+      "v": 32
+     },
+     {
+      "l": "l:GS",
+      "v": 20,
+      "us": true
+     }
+    ]
+   },
+   "dlg": "1: THE THREE.|THEM 32 MADE, US 20.",
+   "dcont": true,
+   "vo": "Our opponents hit thirty two, we hit twenty."
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.54,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "head": "FIX 2 OF 3: FREE THROWS",
+   "lg": "us",
+   "late": true,
+   "dlg": "2: FREE THROWS.|WED: 9 OF 17.",
+   "vo": "Two.",
+   "card": {
+    "title": "WED 11/18: MADE / TRIED",
+    "mode": "ma",
+    "rows": [
+     {
+      "l": "l:GS",
+      "m": 9,
+      "a": 17,
+      "us": true
+     },
+     {
+      "l": "l:DAL",
+      "m": 15,
+      "a": 19
+     }
+    ]
+   }
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "more": true,
+   "vo": "Free throws."
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "more": true,
+   "vo": "Wednesday, we went nine for seventeen."
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "head": "FIX 3 OF 3: TURNOVERS",
+   "lg": "us",
+   "late": true,
+   "dlg": "3: 16 TURNOVERS MON.|NO CURRY, BOTH GAMES.",
+   "vo": "Three.",
+   "big": {
+    "title": "OUR TURNOVERS, MON 11/16",
+    "v": 16
+   },
+   "face": "p:3975"
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_fix",
+   "more": true,
+   "vo": "Sixteen turnovers Monday, twenty seven points off them."
+  },
+  {
+   "kind": "sc2_fix",
+   "pad": true,
+   "hold": 0.478,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_hall",
+   "pal": "blue",
+   "ban": "l:MEM",
+   "pills": [
+    "MEM 11-4",
+    "+135 DIFF"
+   ],
+   "ped": "l:MEM",
+   "ul": true,
+   "dlg": "GRIZZLIES: 11-4.|LOST 108-111 IN OCT.",
+   "vo": "The Grizzlies are eleven and four, plus one thirty five."
+  },
+  {
+   "kind": "sc2_hall",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_hall",
+   "more": true,
+   "vo": "We lost to them by three in October."
+  },
+  {
+   "kind": "sc2_hall",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_hall",
+   "pal": "blue",
+   "ban": "l:MEM",
+   "ped": "l:MEM",
+   "ul": true,
+   "stand": {
+    "title": "WEST STANDINGS",
+    "rows": [
+     [
+      "9. DAL 8-7",
+      false
+     ],
+     [
+      "10. GS 8-7",
+      true
+     ],
+     [
+      "11. PHX 7-7",
+      false
+     ]
+    ]
+   },
+   "dlg": "WE'RE 8-7, 10TH WEST.|GRIZZLIES TONIGHT.",
+   "vo": "We're eight and seven, tenth in the West."
+  },
+  {
+   "kind": "sc2_hall",
+   "pad": true,
+   "hold": 0.46,
+   "vo": ""
+  },
+  {
+   "kind": "sc2_hall",
+   "pal": "blue",
+   "ban": "l:MEM",
+   "ped": "l:MEM",
+   "ul": true,
+   "stand": {
+    "title": "WEST STANDINGS",
+    "rows": [
+     [
+      "9. DAL 8-7",
+      false
+     ],
+     [
+      "10. GS 8-7",
+      true
+     ],
+     [
+      "11. PHX 7-7",
+      false
+     ]
+    ]
+   },
+   "cont": true,
+   "dcont": true,
+   "date": {
+    "txt": "THU 11/19, 8 PM ET"
+   },
+   "dlg": "WE'RE 8-7, 10TH WEST.|GRIZZLIES TONIGHT.",
+   "vo": "Two losses, plenty of tape, Grizzlies tonight."
+  },
+  {
+   "kind": "sc2_hall",
+   "pad": true,
+   "hold": 0.6,
+   "vo": ""
+  }
+ ],
+ "facts": [
+  {
+   "game": "401910000",
+   "score": "115-94"
+  },
+  {
+   "game": "401910016",
+   "score": "116-94"
+  },
+  {
+   "game": "401910016",
+   "player": "4897262",
+   "stat": "PTS",
+   "value": "20"
+  },
+  {
+   "game": "401910016",
+   "player": "4897262",
+   "stat": "FG",
+   "value": "9-13"
+  },
+  {
+   "game": "401910016",
+   "player": "4897262",
+   "stat": "3PT",
+   "value": "1-5"
+  },
+  {
+   "claim": "MON 11/16: GS 94, NO 115 (https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401910000). Box: GS FG 28-84, 3PT 11-46, FT 27-30, REB 50, TO 16, points conceded off turnovers 27; NO FG 41-97, 3PT 15-40, FT 18-24, REB 57. Linescore GS 11 25 29 29, NO 35 26 32 22. WED 11/18: GS 94, DAL 116 (https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401910016). Box: GS FG 38-89, 3PT 9-38, FT 9-17, REB 37, TO 19, points conceded off turnovers 18; DAL FG 42-83, 3PT 17-41, FT 15-19, REB 42. Linescore GS 25 24 23 22, DAL 35 27 30 24. Two games combined (box score): GS FG 66-173, opponents FG 83-180. Zones from the play-by-play shot logs, both games: GS RIM 35/56, PAINT 7/21, MIDRANGE 4/12, CORNER 3 10/29, 3 PT 10/55; opponents RIM 35/61, PAINT 12/25, MIDRANGE 4/13, CORNER 3 7/23, 3 PT 25/58. ESPN standings (https://site.api.espn.com/apis/v2/sports/basketball/nba/standings): GS 8-7, 10 in the West; MEM 11-4, 5 in the West, point differential +135. West seeds 9-11: 9. DAL 8-7, 10. GS 8-7, 11. PHX 7-7. ESPN schedule: next game GS at MEM, Thu 11/19 8 PM ET (event 401910019). Earlier meeting 401909850: GS 108, MEM 111 on Fri 10/23. Play-by-play, 1st quarter: tied 6-6 at 9:57, then 9:49 Kyrie Irving makes free throw 1 of 2; 9:49 Kyrie Irving makes free throw 2 of 2; 8:57 P.J. Washington makes 24-foot three point jumper (Kyrie Irving assists); 8:31 Kyrie Irving makes 7-foot running pullup jump shot; 7:57 Cooper Flagg makes driving dunk; 7:29 Caleb Martin makes 25-foot three point jumper (Cooper Flagg assists). A 12-0 DAL run to 18-6. Threes made, both games (box score): GS 20, opponents 32. Did not play (no line in the ESPN box score): athlete 3975 in MON 11/16 and WED 11/18. Two-game record 0-2, total margin 21 + 22 = 43. The fixes are numbered 1 of 3 to 3 of 3 on screen. Portraits are ESPN athlete ids from the box scores: Yaxel Lendeborg 5175737, Will Richard 4897262, Kyrie Irving 6442, P.J. Washington 4278078, Cooper Flagg 5041939.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401910000"
+  }
+ ]
+}

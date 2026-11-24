@@ -1,0 +1,180 @@
+{
+ "team": "raptors",
+ "name": "tr_walter",
+ "record": "5-4",
+ "caption": "IF WALTER WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n🧸 Teddiursa, the bear cub: Big 12 Freshman of the Year at Baylor\n🐟 Magikarp, the late bloomer: pick 19, hurt before camp, sent down to the 905\n❄️ Froslass, ice in his veins: game-winning three with 0.5 seconds left in Orlando\n🏹 Decidueye, the archer: 40.9% from three last season\n🔥 Infernape, the big stage: playoff career-high 24 in an overtime win over Cleveland\n🐉 Gyarados, the ace: fully evolved, 10.9 points a night through 9 games\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "WALTER'S TEAM",
+   "key": "p:4684272@TOR",
+   "logo": "l:TOR",
+   "team": [
+    "pk:teddiursa",
+    "pk:magikarp",
+    "pk:froslass",
+    "pk:decidueye",
+    "pk:infernape",
+    "pk:gyarados"
+   ],
+   "vo": "If Ja'Kobe Walter was a trainer... this is his team.",
+   "dlg": "IF WALTER WAS A TRAINER...|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "WALTER'S TEAM",
+   "key": "p:4684272@TOR",
+   "mon": "pk:teddiursa",
+   "name": "BEAR CUB",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "species": "BAYLOR BEAR",
+   "callout": "FROSH OF YEAR",
+   "vo": "First up, the bear cub. At Baylor, Big Twelve Freshman of the Year.",
+   "dlg": "THE BEAR CUB: BAYLOR.|BIG 12 FRESHMAN OF YEAR!"
+  },
+  {
+   "kind": "mon",
+   "head": "WALTER'S TEAM",
+   "key": "p:4684272@TOR",
+   "mon": "pk:magikarp",
+   "name": "LATE BLOOMER",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "species": "JUST SPLASHING",
+   "callout": "SENT TO 905",
+   "vo": "The late bloomer. We took him nineteenth. He got hurt before camp and got sent down to our G League team.",
+   "dlg": "THE LATE BLOOMER:|HURT, SENT DOWN TO THE 905"
+  },
+  {
+   "kind": "mon",
+   "head": "WALTER'S TEAM",
+   "key": "p:4684272@TOR",
+   "mon": "pk:froslass",
+   "name": "ICE IN VEINS",
+   "types": [
+    [
+     "ICE",
+     "#58b8d0"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "species": "COLD BLOODED",
+   "callout": "0.5 SEC LEFT",
+   "vo": "Ice in his veins. A game-winning three in Orlando with half a second left.",
+   "dlg": "ICE IN HIS VEINS:|A 3 WITH 0.5 SECONDS LEFT!"
+  },
+  {
+   "kind": "mon",
+   "head": "WALTER'S TEAM",
+   "key": "p:4684272@TOR",
+   "mon": "pk:decidueye",
+   "name": "THE ARCHER",
+   "types": [
+    [
+     "GRASS",
+     "#78c850"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "species": "LONG RANGE",
+   "callout": "40.9 3P%",
+   "vo": "The archer. Forty point nine percent from three last season.",
+   "dlg": "THE ARCHER:|SHOT 40.9% FROM THREE!"
+  },
+  {
+   "kind": "mon",
+   "head": "WALTER'S TEAM",
+   "key": "p:4684272@TOR",
+   "mon": "pk:infernape",
+   "name": "BIG STAGE",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "species": "PLAYOFF FIRE",
+   "callout": "24 PTS, OT WIN",
+   "vo": "The big stage. Twenty-four points in a playoff overtime win over Cleveland.",
+   "dlg": "THE BIG STAGE:|24 IN A PLAYOFF OT WIN!"
+  },
+  {
+   "kind": "mon",
+   "head": "WALTER'S TEAM",
+   "key": "p:4684272@TOR",
+   "mon": "pk:gyarados",
+   "name": "THE ACE",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "species": "FULLY EVOLVED",
+   "callout": "10.9 PPG",
+   "vo": "And the ace. Remember the late bloomer? Fully evolved. Ten point nine a night through nine games.",
+   "dlg": "THE ACE: FULLY EVOLVED.|10.9 A NIGHT, 9 GAMES IN!"
+  },
+  {
+   "kind": "next",
+   "head": "WALTER'S TEAM",
+   "logo": "l:TOR",
+   "rec": "#19",
+   "ntxt": "WALTER",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4684272",
+   "season": "2025-26",
+   "stat": "3P%",
+   "value": 40.9
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 10.9
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "claim": "Walter played college basketball for the Baylor Bears and was named Big 12 Freshman of the Year (2024); June 26, 2024 selected with the 19th overall pick (#19, pick 19) by Toronto; missed training camp with an AC joint sprain and was assigned several times to Raptors 905; March 4, 2025: game-winning three (3) with 0.5 seconds remaining in a 114-113 win at Orlando; May 1, 2026: playoff career-high 24 points in a 112-110 overtime (OT) win against Cleveland",
+   "source": "https://en.wikipedia.org/wiki/Ja'Kobe_Walter"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

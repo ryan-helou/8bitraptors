@@ -1,0 +1,170 @@
+{
+ "team": "raptors",
+ "name": "tr_kawhi",
+ "record": "5-4",
+ "caption": "IF KAWHI WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n🦀 Kingler, the claw: 11-inch hands, nicknamed the Claw\n🛡️ Aggron, the wall: Defensive Player of the Year in 2014 and 2015\n⚔️ Gallade, the first ring: 2014 title and Finals MVP\n🏀 Spoink, the shot: Game 7 at the buzzer, four bounces, the first Game 7 buzzer-beater ever\n🕊️ Unfezant, the return: traded back to us, 23 points and 4 steals in his first game back\n🧊 Mewtwo, the ace: our 2019 title, his second Finals MVP\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "KAWHI'S TEAM",
+   "key": "p:6450@TOR",
+   "logo": "l:TOR",
+   "team": [
+    "pk:kingler",
+    "pk:aggron",
+    "pk:gallade",
+    "pk:spoink",
+    "pk:unfezant",
+    "pk:mewtwo"
+   ],
+   "vo": "If Kawhi Leonard was a trainer... this is his team.",
+   "dlg": "IF KAWHI WAS A TRAINER...|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "KAWHI'S TEAM",
+   "key": "p:6450@TOR",
+   "mon": "pk:kingler",
+   "name": "THE CLAW",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "species": "GIANT PINCER",
+   "callout": "11-INCH HANDS",
+   "vo": "First up, the claw. Eleven-inch hands. If it's loose, it's his.",
+   "dlg": "THE CLAW: A BALL HAWK.|11-INCH HANDS!"
+  },
+  {
+   "kind": "mon",
+   "head": "KAWHI'S TEAM",
+   "key": "p:6450@TOR",
+   "mon": "pk:aggron",
+   "name": "THE WALL",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "ROCK",
+     "#a89038"
+    ]
+   ],
+   "species": "LOCKDOWN",
+   "callout": "2X DPOY",
+   "vo": "The wall. Defensive Player of the Year. Twice.",
+   "dlg": "THE WALL: LOCKDOWN D.|DPOY IN 2014 AND 2015!"
+  },
+  {
+   "kind": "mon",
+   "head": "KAWHI'S TEAM",
+   "key": "p:6450@TOR",
+   "mon": "pk:gallade",
+   "name": "FIRST RING",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "species": "FINALS MVP",
+   "callout": "2014 TITLE",
+   "vo": "The first ring. Twenty fourteen, with the Spurs: a title, and Finals MVP.",
+   "dlg": "THE FIRST RING:|2014 TITLE AND FINALS MVP!"
+  },
+  {
+   "kind": "mon",
+   "head": "KAWHI'S TEAM",
+   "key": "p:6450@TOR",
+   "mon": "pk:spoink",
+   "name": "THE SHOT",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "species": "BOUNCE BOUNCE",
+   "callout": "4 BOUNCES",
+   "vo": "The shot. Game seven, at the buzzer. Four bounces... and in.",
+   "dlg": "THE SHOT: GAME 7 BUZZER.|4 BOUNCES... AND IN!"
+  },
+  {
+   "kind": "mon",
+   "head": "KAWHI'S TEAM",
+   "key": "p:6450@TOR",
+   "mon": "pk:unfezant",
+   "name": "THE RETURN",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "species": "FLIES HOME",
+   "callout": "23 PTS 4 STL",
+   "vo": "The return. He flew back to us. Hurt right now, but his first game back? Twenty-three points, four steals.",
+   "dlg": "THE RETURN: BACK WITH US.|FIRST GAME: 23 PTS, 4 STL"
+  },
+  {
+   "kind": "mon",
+   "head": "KAWHI'S TEAM",
+   "key": "p:6450@TOR",
+   "mon": "pk:mewtwo",
+   "name": "THE ACE",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "species": "STONE COLD",
+   "callout": "FINALS MVP",
+   "vo": "And the ace. Stone cold. Twenty nineteen: our first title, and his second Finals MVP.",
+   "dlg": "THE ACE: OUR FIRST TITLE.|2019 FINALS MVP!"
+  },
+  {
+   "kind": "next",
+   "head": "KAWHI'S TEAM",
+   "logo": "l:TOR",
+   "rec": "#15",
+   "ntxt": "KAWHI",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401909837",
+   "player": "6450",
+   "stat": "PTS",
+   "value": 23
+  },
+  {
+   "game": "401909837",
+   "player": "6450",
+   "stat": "STL",
+   "value": 4
+  },
+  {
+   "claim": "Leonard: nicknamed the Claw for ball-hawking and exceptionally large hands, 11-inch hands; 2 (two) times NBA Defensive Player of the Year (2014, 2015); 2 NBA titles and 2 Finals MVPs (2014 with the Spurs, 2019 with the Raptors, their first NBA championship, his second Finals MVP); in the deciding game 7 vs the 76ers he hit a corner shot at the buzzer that bounced off the rim four (4) times, the first game 7 buzzer beater in NBA history, normally stoic; selected 15th overall (#15) in 2011; September 14, 2026 traded back to the Raptors; October 27, 2026 out with swelling in his left knee",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

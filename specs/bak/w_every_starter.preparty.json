@@ -1,0 +1,179 @@
+{
+ "team": "warriors",
+ "name": "every_starter",
+ "record": "7-3",
+ "caption": "IF OUR WARRIORS CORE FIVE WERE POKÉMON 🎮🏀\n\n🐉 Steph = Dragapult: fires from anywhere, 44.7% from three through 8 games\n🔥 Yaxel = Charmeleon: still evolving, 21.2 points a night through 10 games\n🐴 Podz = Mudsdale: the workhorse, all 82 games last season\n📢 Draymond = Exploud: the loudest voice on the floor, 7.8 assists a night through 8 games\n🦖 Al Horford = Aerodactyl: 40 years old and still flying, 41.7% from three through 8 games\n\nWho did we get wrong? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:3975@GSW",
+   "mon": "pk:dragapult",
+   "name": "DRAGAPULT",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "species": "POINT GUARD",
+   "callout": "44.7 3P%",
+   "vo": "Go, Stephen Curry! Dragapult: it fires from anywhere. Forty-four point seven percent from three through eight games.",
+   "dlg": "STEPH = DRAGAPULT:|44.7% FROM THREE!"
+  },
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:5175737@GSW",
+   "mon": "pk:charmeleon",
+   "name": "CHARMELEON",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "species": "ROOKIE FORWARD",
+   "callout": "21.2 PPG",
+   "vo": "Go, Yaxel Lendeborg! Charmeleon: still evolving, already on fire. Twenty-one point two a night as a rookie.",
+   "dlg": "YAXEL = CHARMELEON:|21.2 A NIGHT AS A ROOKIE!"
+  },
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:4709138@GSW",
+   "mon": "pk:mudsdale",
+   "name": "MUDSDALE",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "species": "GUARD",
+   "callout": "82 GAMES",
+   "vo": "Go, Brandin Podziemski! Mudsdale: the workhorse. He played all eighty-two games last season.",
+   "dlg": "PODZ = MUDSDALE:|ALL 82 GAMES LAST SEASON!"
+  },
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:6589@GSW",
+   "mon": "pk:exploud",
+   "name": "EXPLOUD",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "species": "POWER FORWARD",
+   "callout": "7.8 APG",
+   "vo": "Go, Draymond Green! Exploud: the loudest voice on the floor. Seven point eight assists a night.",
+   "dlg": "DRAYMOND = EXPLOUD:|7.8 ASSISTS A NIGHT!"
+  },
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:3213@GSW",
+   "mon": "pk:aerodactyl",
+   "name": "AERODACTYL",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "species": "STRETCH BIG",
+   "callout": "41.7 3P%",
+   "vo": "Go, Al Horford! Aerodactyl: an ancient fossil that still flies. Forty years old, and forty-one point seven percent from three.",
+   "dlg": "BIG AL = AERODACTYL:|AGE 40, 41.7% FROM THREE!"
+  },
+  {
+   "kind": "next",
+   "head": "IF WE WERE MONSTERS",
+   "logo": "l:GSW",
+   "rec": "GO!",
+   "ntxt": "WHO DID WE",
+   "nday": "GET WRONG?",
+   "vo": "Who did we get wrong? Comment below.",
+   "dlg": "WHO DID WE GET WRONG?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 44.7
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.2
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "player": "4709138",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 82
+  },
+  {
+   "player": "6589",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 7.8
+  },
+  {
+   "player": "6589",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "3213",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 41.7
+  },
+  {
+   "player": "3213",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Green is noted for his vocal leadership on the court",
+   "source": "https://en.wikipedia.org/wiki/Draymond_Green"
+  },
+  {
+   "claim": "Horford born June 3, 1986 (age 40)",
+   "source": "https://en.wikipedia.org/wiki/Al_Horford"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

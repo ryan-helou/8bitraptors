@@ -1,0 +1,170 @@
+{
+ "team": "raptors",
+ "name": "tr_battle",
+ "record": "5-4",
+ "caption": "IF JAMISON BATTLE WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n🏹 Decidueye, the archer: 89 threes as a George Washington freshman, a school record\n🐟 Magikarp, the overlooked: undrafted in 2024, we signed him anyway\n💦 Blastoise, the cannons: 24 points at New Orleans, 6-of-8 from three\n🐲 Bagon, the dreamer: from a two-way deal to a standard 3-year contract\n❄️ Froslass, ice cold: 14 points, all in the 4th quarter, no misses, in our playoff win over Cleveland\n🐉 Gyarados, the ace: 42.1% from three through 9 games\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "BATTLE'S TEAM",
+   "key": "p:4431893@TOR",
+   "logo": "l:TOR",
+   "team": [
+    "pk:decidueye",
+    "pk:magikarp",
+    "pk:blastoise",
+    "pk:bagon",
+    "pk:froslass",
+    "pk:gyarados"
+   ],
+   "vo": "If Jamison Battle was a trainer... this is his team.",
+   "dlg": "IF BATTLE WAS A TRAINER...|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "BATTLE'S TEAM",
+   "key": "p:4431893@TOR",
+   "mon": "pk:decidueye",
+   "name": "THE ARCHER",
+   "types": [
+    [
+     "GRASS",
+     "#78c850"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "species": "LONG RANGE",
+   "callout": "89 THREES",
+   "vo": "First up, the archer. As a freshman at George Washington: eighty-nine threes, a school record.",
+   "dlg": "FIRST UP: THE ARCHER!|89 THREES, A SCHOOL RECORD"
+  },
+  {
+   "kind": "mon",
+   "head": "BATTLE'S TEAM",
+   "key": "p:4431893@TOR",
+   "mon": "pk:magikarp",
+   "name": "OVERLOOKED",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "species": "NOBODY WANTED IT",
+   "callout": "UNDRAFTED",
+   "vo": "The one nobody picked. Undrafted in twenty twenty-four. We signed him anyway.",
+   "dlg": "UNDRAFTED IN 2024.|WE SIGNED HIM ANYWAY!"
+  },
+  {
+   "kind": "mon",
+   "head": "BATTLE'S TEAM",
+   "key": "p:4431893@TOR",
+   "mon": "pk:blastoise",
+   "name": "THE CANNONS",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "species": "TWIN CANNONS",
+   "callout": "24 PTS",
+   "vo": "The cannons. Twenty-four points at New Orleans, six of eight from three.",
+   "dlg": "THE CANNONS: 24 POINTS,|6 OF 8 FROM THREE!"
+  },
+  {
+   "kind": "mon",
+   "head": "BATTLE'S TEAM",
+   "key": "p:4431893@TOR",
+   "mon": "pk:bagon",
+   "name": "THE DREAMER",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "species": "DREAMS OF WINGS",
+   "callout": "3-YEAR DEAL",
+   "vo": "The dreamer. From a two-way contract to a full three-year deal.",
+   "dlg": "THE DREAMER: TWO-WAY...|TO A FULL 3-YEAR DEAL!"
+  },
+  {
+   "kind": "mon",
+   "head": "BATTLE'S TEAM",
+   "key": "p:4431893@TOR",
+   "mon": "pk:froslass",
+   "name": "ICE COLD",
+   "types": [
+    [
+     "ICE",
+     "#58b8d0"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "species": "FROZEN VEINS",
+   "callout": "14 IN THE 4TH",
+   "vo": "Ice cold. Playoffs, Game three against Cleveland: fourteen points, all in the fourth, no misses.",
+   "dlg": "PLAYOFFS VS CLEVELAND:|14 IN THE 4TH, NO MISSES"
+  },
+  {
+   "kind": "mon",
+   "head": "BATTLE'S TEAM",
+   "key": "p:4431893@TOR",
+   "mon": "pk:gyarados",
+   "name": "THE ACE",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "species": "IT EVOLVED",
+   "callout": "42.1% 3PT",
+   "vo": "And the ace. The fish nobody wanted, evolved. Forty-two point one percent from three through nine games.",
+   "dlg": "THE ACE: IT EVOLVED.|42.1% 3PT, FIRST 9 GAMES"
+  },
+  {
+   "kind": "next",
+   "head": "BATTLE'S TEAM",
+   "logo": "l:TOR",
+   "rec": "UNDRAFTED",
+   "ntxt": "BATTLE",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4431893",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4431893",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 42.1
+  },
+  {
+   "claim": "Freshman at George Washington: program single-season record 89 three-pointers; undrafted in the 2024 NBA draft, signed by Toronto July 16, 2024, converted to a two-way contract; November 27: career-high 24 points, 6-of-8 three-pointers, road win at New Orleans; February 7, 2025: converted into a standard three-year (3-year) contract; April 23, 2026, Game 3 of the first round vs Cleveland: 14 points, all in the fourth (4th) quarter, perfect shooting, 126-104 win",
+   "source": "https://en.wikipedia.org/wiki/Jamison_Battle"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

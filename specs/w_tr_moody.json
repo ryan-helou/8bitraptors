@@ -1,0 +1,255 @@
+{
+ "team": "warriors",
+ "name": "tr_moody",
+ "record": "7-3",
+ "caption": "IF MOSES MOODY HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🧊 Frigibax: the more heat it soaks up, the more power it stores. We took him #14 out of Arkansas in 2021\n🦗 Lokix: when it fights all out, it enters Showdown Mode. 37 points for Santa Cruz in the G League\n🐉 Baxcalibur: Frigibax all grown up, its breath freezes lava. A career-high 30 against Denver as a rookie\n🐭 Maushold: against strong foes, the whole family joins the fight. A ring with us in his rookie year, 2022\n🐟 Veluza: excellent regeneration. Surgery on a torn ligament in his right thumb, then right back\n🔥 Armarouge: it wears a distinguished warrior's armor and is incredibly loyal. Last season: a career-high 12.1 a night, 49 starts\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Moses Moody had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF MOSES MOODY HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Frigibax. The more heat it soaks up, the more power it stores. We took him fourteenth out of Arkansas.",
+   "dlg": "IT SOAKS UP HEAT.|PICK 14 OUT OF ARKANSAS!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Lokix. When it fights all out, it enters Showdown Mode. Down in Santa Cruz, he dropped thirty-seven in an overtime win.",
+   "dlg": "IT ENTERS SHOWDOWN MODE.|37 IN THE G LEAGUE!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Baxcalibur. Frigibax grew up, and its breath can freeze lava. As a rookie, a career-high thirty against Denver.",
+   "dlg": "ITS BREATH FREEZES LAVA.|ROOKIE: 30 VS DENVER!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Maushold. When the foe is strong, the whole family joins the fight. A ring with us in his rookie year.",
+   "dlg": "THE WHOLE FAMILY FIGHTS.|A RING AS A ROOKIE!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Veluza. It has excellent powers of regeneration. A torn ligament in his right thumb, then surgery.",
+   "dlg": "IT REGENERATES.|THUMB SURGERY, THEN BACK."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Armarouge. It wears the armor of a distinguished warrior, and it's incredibly loyal. Last season, career highs: twelve point one a night, forty-nine starts.",
+   "dlg": "A WARRIOR'S ARMOR, LOYAL.|CAREER-HIGH 12.1 A NIGHT!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Moody: played college basketball for Arkansas; drafted 14th overall by Golden State in 2021; January 11, 2022 with the Santa Cruz Warriors (G League): 37 points in a 132-130 overtime win; March 7 (2022, rookie): career-high 30 points vs Denver; won the 2022 NBA Finals in his rookie season; May 22 (2025): surgery on a torn ulnar collateral ligament in his right thumb; 2025-26: 60 games, 49 starts, career-high 12.1 points",
+   "source": "https://en.wikipedia.org/wiki/Moses_Moody"
+  },
+  {
+   "player": "4432171",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 12.1
+  },
+  {
+   "player": "4432171",
+   "season": "2025-26",
+   "stat": "GS",
+   "value": 49
+  },
+  {
+   "claim": "Frigibax: the higher the temperature, the more energy it stores",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/frigibax"
+  },
+  {
+   "claim": "Lokix: when it decides to fight all out, it enters Showdown Mode",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/lokix"
+  },
+  {
+   "claim": "Baxcalibur (evolves from Frigibax): its cryogenic air can instantly freeze even liquid-hot lava",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/baxcalibur"
+  },
+  {
+   "claim": "Maushold: when facing strong opponents, the whole group (family) will join the fight",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/maushold"
+  },
+  {
+   "claim": "Veluza has excellent regenerative capabilities",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/veluza"
+  },
+  {
+   "claim": "Armarouge evolved through armor that belonged to a distinguished warrior; it is incredibly loyal",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/armarouge"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:4432171@GSW",
+   "mon": "pk:frigibax",
+   "nick": "FRIGIBAX",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "label": "THE PICK",
+   "stat": "PICK 14"
+  },
+  {
+   "key": "p:4432171@GSW",
+   "mon": "pk:lokix",
+   "nick": "LOKIX",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "SHOWDOWN",
+   "stat": "37 PTS"
+  },
+  {
+   "key": "p:4432171@GSW",
+   "mon": "pk:baxcalibur",
+   "nick": "BAXCALIBUR",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "label": "EVOLVED",
+   "stat": "30 PTS"
+  },
+  {
+   "key": "p:4432171@GSW",
+   "mon": "pk:maushold",
+   "nick": "MAUSHOLD",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "FAMILY",
+   "stat": "2022 RING"
+  },
+  {
+   "key": "p:4432171@GSW",
+   "mon": "pk:veluza",
+   "nick": "VELUZA",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "REGEN",
+   "stat": "THUMB"
+  },
+  {
+   "key": "p:4432171@GSW",
+   "mon": "pk:armarouge",
+   "nick": "ARMAROUGE",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "12.1 PPG"
+  }
+ ],
+ "mode": "trainer"
+}

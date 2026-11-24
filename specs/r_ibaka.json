@@ -1,0 +1,81 @@
+{
+ "team": "raptors",
+ "name": "ibaka",
+ "pace": "wolves",
+ "caption": "TRADE COURT, CASE #5: T-ROSS AND A FIRST FOR IBAKA 🎮🏀 Was it worth it?\n\n• Feb 14, 2017: we sent Terrence Ross and a first-round pick to Orlando for Serge Ibaka\n• Ross was the 2013 dunk champ, and once scored 51 for us\n• 2019: Ibaka won a ring with us\n\nIbaka or T-Ross? Who won the trade?\n\nYour verdict: comment W or L 👇\nCase #6 drops Sunday night. Follow so you don't miss it.",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "THE TRADE",
+   "key": "p:3439@TOR",
+   "name": "IBAKA",
+   "badge": "TRADE COURT #5",
+   "lines": [
+    [
+     "T-ROSS",
+     "GOING OUT"
+    ],
+    [
+     "1",
+     "FIRST-ROUND PICK"
+    ]
+   ],
+   "vo": "We sent Terrence Ross and a first-round pick to Orlando for Serge Ibaka.",
+   "dlg": "T-ROSS AND A FIRST|FOR SERGE IBAKA."
+  },
+  {
+   "kind": "fire",
+   "head": "WHAT WE GAVE",
+   "key": "p:6619@TOR",
+   "name": "T-ROSS",
+   "badge": "DUNK CHAMP",
+   "lines": [
+    [
+     "2013",
+     "DUNK CHAMP"
+    ],
+    [
+     "51",
+     "IN ONE NIGHT"
+    ]
+   ],
+   "vo": "Ross was a dunk champ who once dropped fifty-one on the Clippers.",
+   "dlg": "A DUNK CHAMP WHO ONCE|DROPPED 51."
+  },
+  {
+   "kind": "fire",
+   "head": "TWO YEARS LATER",
+   "key": "p:3439@TOR",
+   "name": "IBAKA",
+   "badge": "2019",
+   "lines": [
+    [
+     "2019",
+     "NBA CHAMP"
+    ]
+   ],
+   "vo": "Two years later, Ibaka had a ring with us.",
+   "dlg": "TWO YEARS LATER:|IBAKA HAD A RING."
+  },
+  {
+   "kind": "next",
+   "head": "THE VERDICT",
+   "logo": "l:TOR",
+   "rec": "W OR L?",
+   "ntxt": "CASE #6",
+   "nday": "SUNDAY",
+   "vo": "Did we win this trade? W or L. Case six, Sunday night.",
+   "dlg": "DID WE WIN THIS TRADE?|W OR L? CASE #6: SUNDAY NIGHT."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "On 14 February 2017 (Feb 14, 2017, Valentine's Day), Ibaka was traded from the Orlando Magic to the Toronto Raptors for Terrence Ross and a future first-round draft pick (1 first). Ibaka won an NBA championship with Toronto in 2019, two years later. ESPN id Ibaka 3439.",
+   "source": "https://en.wikipedia.org/wiki/Serge_Ibaka"
+  },
+  {
+   "claim": "Terrence Ross was the 2013 NBA Slam Dunk Contest champion and scored 51 points vs the Los Angeles Clippers on January 25, 2014. ESPN id Ross 6619.",
+   "source": "https://en.wikipedia.org/wiki/Terrence_Ross"
+  }
+ ]
+}

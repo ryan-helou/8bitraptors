@@ -1,0 +1,155 @@
+{
+ "team": "raptors",
+ "name": "poll_roty",
+ "l1": "DAY ONE...",
+ "q": "BEST ROOKIE WE EVER HAD?",
+ "boxA": "ROOKIE OF THE YEAR",
+ "boxB": "WHOSE YEAR ONE WAS BEST?",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: ROOKIE OF THE YEAR 🎮🏀 Three of our guys won Rookie of the Year. One of them is still here. Whose rookie year was best?\n\n1️⃣ Damon Stoudamire, 1996 ROY: 19.0 PPG and 9.3 APG in our first season ever\n2️⃣ Vince Carter, 1999 ROY: 18.3 PPG and 5.7 RPG\n3️⃣ Scottie Barnes, 2022 ROY: 15.3 PPG and 7.5 RPG, now 23.5 PPG through 8 games\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "817",
+   "name": "STOUDAMIRE",
+   "full": "DAMON STOUDAMIRE",
+   "jersey": "20",
+   "type": "MIGHTY MOUSE",
+   "season": "RAPTORS 1995-96",
+   "stats": [
+    [
+     "19.0",
+     "PPG"
+    ],
+    [
+     "9.3",
+     "APG"
+    ],
+    [
+     "ROY",
+     "1996"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "136",
+   "name": "VINCE",
+   "full": "VINCE CARTER",
+   "jersey": "15",
+   "type": "AIR CANADA",
+   "season": "RAPTORS 1998-99",
+   "stats": [
+    [
+     "18.3",
+     "PPG"
+    ],
+    [
+     "5.7",
+     "RPG"
+    ],
+    [
+     "ROY",
+     "1999"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "4433134",
+   "name": "SCOTTIE",
+   "full": "SCOTTIE BARNES",
+   "jersey": "4",
+   "type": "ALL-AROUND",
+   "season": "RAPTORS 2021-22",
+   "stats": [
+    [
+     "15.3",
+     "PPG"
+    ],
+    [
+     "7.5",
+     "RPG"
+    ],
+    [
+     "ROY",
+     "2022"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "player": "817",
+   "season": "1995-96",
+   "stat": "PTS",
+   "value": 19.0
+  },
+  {
+   "player": "817",
+   "season": "1995-96",
+   "stat": "AST",
+   "value": 9.3
+  },
+  {
+   "claim": "Stoudamire: drafted by Toronto in 1995, NBA Rookie of the Year 1995-96 (1996)",
+   "source": "https://en.wikipedia.org/wiki/Damon_Stoudamire"
+  },
+  {
+   "claim": "Stoudamire wore #20 for Toronto",
+   "source": "https://www.basketball-reference.com/players/s/stoudda01.html"
+  },
+  {
+   "claim": "The Raptors' first season was 1995-96 (inaugural season)",
+   "source": "https://en.wikipedia.org/wiki/1995–96_Toronto_Raptors_season"
+  },
+  {
+   "player": "136",
+   "season": "1998-99",
+   "stat": "PTS",
+   "value": 18.3
+  },
+  {
+   "player": "136",
+   "season": "1998-99",
+   "stat": "REB",
+   "value": 5.7
+  },
+  {
+   "claim": "Vince Carter: NBA Rookie of the Year 1999 with Toronto; No. 15",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "player": "4433134",
+   "season": "2021-22",
+   "stat": "PTS",
+   "value": 15.3
+  },
+  {
+   "player": "4433134",
+   "season": "2021-22",
+   "stat": "REB",
+   "value": 7.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Scottie Barnes: NBA Rookie of the Year 2022; No. 4 for Toronto",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "claim": "Raptors with Rookie of the Year: Stoudamire (1996), Carter (1999), Barnes (2022): three",
+   "source": "https://en.wikipedia.org/wiki/NBA_Rookie_of_the_Year_Award"
+  }
+ ]
+}

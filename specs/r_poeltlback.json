@@ -1,0 +1,124 @@
+{
+ "team": "raptors",
+ "name": "poeltlback",
+ "record": "5-4",
+ "caption": "BOOMERANG 🎮🏀 We drafted Jakob Poeltl. Traded him for Kawhi. Then traded to get him back.\n\n• 2016 draft: we take him #9, the first Austrian ever drafted\n• July 2018: he goes to San Antonio with DeMar DeRozan, Kawhi comes to us\n• Feb 2023: we send a first-round pick to bring him back\n• 2025: 4-year, $104M extension\n• First 10 games this season: 8.3 PPG, 6.6 RPG, 19 and 11 at Milwaukee\n\nWorth a first to bring him back? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 9",
+   "key": "p:3134908@TOR",
+   "name": "POELTL",
+   "badge": "2016 DRAFT",
+   "lines": [
+    [
+     "#9",
+     "2016 DRAFT"
+    ]
+   ],
+   "vo": "We drafted Jakob Poeltl. Then we traded him for Kawhi Leonard.",
+   "dlg": "2016: WE DRAFT POELTL #9.|2018: TRADED FOR KAWHI."
+  },
+  {
+   "kind": "fire",
+   "head": "THE KAWHI TRADE",
+   "key": "p:3134908@TOR",
+   "name": "POELTL",
+   "badge": "TO THE SPURS",
+   "lines": [
+    [
+     "2018",
+     "JULY 18"
+    ]
+   ],
+   "vo": "He went to San Antonio with DeMar DeRozan. Kawhi came to us, and we won a title.",
+   "dlg": "POELTL + DEMAR TO SPURS.|KAWHI COMES TO US."
+  },
+  {
+   "kind": "fire",
+   "head": "BACK HOME",
+   "key": "p:3134908@TOR",
+   "name": "POELTL",
+   "badge": "FEB 2023",
+   "lines": [
+    [
+     "1ST",
+     "ROUND PICK"
+    ]
+   ],
+   "vo": "Five years later, we sent a first-round pick to San Antonio to bring him back.",
+   "dlg": "FEB 2023: WE SEND A 1ST...|TO BRING HIM BACK."
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:3134908@TOR",
+   "name": "POELTL",
+   "badge": "OUR BIG",
+   "lines": [
+    [
+     "6.6",
+     "RPG"
+    ],
+    [
+     "61.7",
+     "FG%"
+    ]
+   ],
+   "vo": "Through ten games this season: six point six rebounds on sixty-two percent shooting. And nineteen and eleven in our win at Milwaukee.",
+   "dlg": "FIRST 10 GAMES: 6.6 RPG.|19 AND 11 AT MILWAUKEE."
+  },
+  {
+   "kind": "next",
+   "head": "WORTH IT?",
+   "logo": "l:TOR",
+   "rec": "#9",
+   "ntxt": "POELTL",
+   "nday": "2016 PICK",
+   "vo": "Was he worth a first-round pick to bring back? Comment below.",
+   "dlg": "WORTH A FIRST TO|BRING HIM BACK?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 8.3
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 6.6
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 61.7
+  },
+  {
+   "game": "401909292",
+   "player": "3134908",
+   "stat": "PTS",
+   "value": 19
+  },
+  {
+   "game": "401909292",
+   "player": "3134908",
+   "stat": "REB",
+   "value": 11
+  },
+  {
+   "claim": "June 23, 2016: Poeltl selected #9 (ninth overall) by Toronto, first Austrian drafted; July 18, 2018: traded with DeMar DeRozan to the San Antonio Spurs for Kawhi Leonard and Danny Green; after 5 seasons, February 9, 2023: traded back to Toronto for Khem Birch, a 2024 first-round (1st) pick and two second-round picks; July 2025: 4-year, $104 million extension",
+   "source": "https://en.wikipedia.org/wiki/Jakob_Pöltl"
+  }
+ ]
+}

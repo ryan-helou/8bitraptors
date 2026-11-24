@@ -1,0 +1,994 @@
+{
+ "team": "warriors",
+ "name": "sim_era",
+ "template": "fmt_sim.html",
+ "pace": "wolves",
+ "music": "calm",
+ "cps": 40,
+ "voice_eq": "bright",
+ "record": "8-6",
+ "caption": "WE SIMMED THE STEPH + JIMMY ERA 10,000 TIMES 💛💍\n\n10 seasons from our 8-6 start. Here's what came out:\n\n💍 At least one ring: 17% of runs (about 1 in 6)\n📅 This season: about 1%. 84% of our sim rings come after Steph and Jimmy retire\n⭐ Steph: about 1 more All-Star game (13 for his career). Jimmy makes one more in 40% of runs\n🏆 MVP: Steph wins one in 2 of 10,000 runs. Luka takes 34.5% of all the MVPs\n🚧 Who ends our season most: San Antonio (7% of sim seasons) and Minnesota (6%)\n✨ The run we were hoping for: 59-23 and a ring THIS season with Steph as Finals MVP, both of them All-Stars\n\nIt's a fan simulation, not a prediction. Do we get one while Steph is still here?",
+ "party": [
+  {
+   "id": "sc",
+   "key": "p:3975"
+  },
+  {
+   "id": "jb",
+   "key": "p:6430"
+  },
+  {
+   "id": "ld",
+   "key": "p:3945274"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "sim_arena",
+   "cfg": {
+    "players": [
+     "sc",
+     "jb"
+    ],
+    "tags": [
+     "CURRY",
+     "BUTLER"
+    ],
+    "title": "STEPH + JIMMY: 10,000 SIMS",
+    "sign": "2026-36",
+    "count": 10000
+   },
+   "count": true,
+   "full": true,
+   "dlg": "WE SIMULATED THE|STEPH + JIMMY ERA",
+   "vo": "We simulated the Steph and Jimmy era"
+  },
+  {
+   "kind": "sim_arena",
+   "count": true,
+   "stat": {
+    "box": 0,
+    "rows": [
+     0.25
+    ]
+   },
+   "box": {
+    "head": "THE SIM",
+    "rows": [
+     [
+      "SIMS",
+      "10,000"
+     ]
+    ]
+   },
+   "dlg": "10,000 TIMES.",
+   "vo": "ten thousand times."
+  },
+  {
+   "kind": "sim_arena",
+   "box": {
+    "head": "THE SIM",
+    "rows": [
+     [
+      "SIMS",
+      "10,000"
+     ]
+    ]
+   },
+   "dlg": "10,000 TIMES.",
+   "full": true,
+   "vo": "",
+   "hold": 0.78
+  },
+  {
+   "kind": "sim_arena",
+   "box": {
+    "head": "THE SIM",
+    "rows": [
+     [
+      "SIMS",
+      "10,000"
+     ],
+     [
+      "SEASONS",
+      "10"
+     ]
+    ]
+   },
+   "dlg": "10 SEASONS FROM|OUR 8-6 START.",
+   "vo": "Ten seasons from our eight and six start."
+  },
+  {
+   "kind": "sim_map",
+   "flash": true,
+   "stat": {
+    "box": 0.25,
+    "rows": [
+     0.9
+    ]
+   },
+   "box": {
+    "head": "ALL-STAR GAMES, 10 YEARS",
+    "rows": [
+     [
+      "STEPH ALL-STARS",
+      "+1"
+     ]
+    ]
+   },
+   "dlg": "STEPH: ABOUT 1 MORE|ALL-STAR GAME.",
+   "vo": "Steph makes about one more All-Star game,"
+  },
+  {
+   "kind": "sim_map",
+   "box": {
+    "head": "ALL-STAR GAMES, 10 YEARS",
+    "rows": [
+     [
+      "STEPH ALL-STARS",
+      "+1"
+     ]
+    ]
+   },
+   "dlg": "THAT'S 13|FOR HIS CAREER.",
+   "vo": "that's thirteen for his career."
+  },
+  {
+   "kind": "sim_map",
+   "box": {
+    "head": "ALL-STAR GAMES, 10 YEARS",
+    "rows": [
+     [
+      "STEPH ALL-STARS",
+      "+1"
+     ],
+     [
+      "JIMMY ALL-STARS",
+      "+0.4"
+     ]
+    ]
+   },
+   "dlg": "JIMMY ADDS ONE|IN 2 OF 5 RUNS.",
+   "vo": "Jimmy adds one in two of five runs,"
+  },
+  {
+   "kind": "sim_map",
+   "stat": {
+    "rows": [
+     1.2
+    ]
+   },
+   "box": {
+    "head": "ALL-STAR GAMES, 10 YEARS",
+    "rows": [
+     [
+      "STEPH ALL-STARS",
+      "+1"
+     ],
+     [
+      "JIMMY ALL-STARS",
+      "+0.4"
+     ],
+     [
+      "STEPH 2 MORE",
+      "1 IN 5"
+     ]
+    ]
+   },
+   "dlg": "1 RUN IN 5: STEPH|MAKES 2 MORE.",
+   "vo": "and in one run in five, Steph makes two more."
+  },
+  {
+   "kind": "sim_map",
+   "box": {
+    "head": "ALL-STAR GAMES, 10 YEARS",
+    "rows": [
+     [
+      "STEPH ALL-STARS",
+      "+1"
+     ],
+     [
+      "JIMMY ALL-STARS",
+      "+0.4"
+     ],
+     [
+      "STEPH 2 MORE",
+      "1 IN 5"
+     ]
+    ]
+   },
+   "dlg": "1 RUN IN 5: STEPH|MAKES 2 MORE.",
+   "full": true,
+   "vo": "",
+   "hold": 0.44
+  },
+  {
+   "kind": "sim_gym",
+   "flash": true,
+   "gym": {
+    "logo": "l:LAL",
+    "roof": "auto:LAL",
+    "name": "LAKERS GYM",
+    "sub": "MVP RACE"
+   },
+   "players": [
+    "sc",
+    "ld"
+   ],
+   "tags": [
+    "CURRY",
+    "DONCIC"
+   ],
+   "stat": {
+    "sign": 1.3
+   },
+   "dlg": "MVP IS HARDER.",
+   "vo": "MVP is harder."
+  },
+  {
+   "kind": "sim_gym",
+   "gym": {
+    "logo": "l:LAL",
+    "roof": "auto:LAL",
+    "name": "LAKERS GYM",
+    "sub": "MVP RACE"
+   },
+   "players": [
+    "sc",
+    "ld"
+   ],
+   "tags": [
+    "CURRY",
+    "DONCIC"
+   ],
+   "stat": {
+    "box": 0.9,
+    "rows": [
+     1.4
+    ]
+   },
+   "box": {
+    "head": "MVP RACE (10,000 RUNS)",
+    "rows": [
+     [
+      "STEPH WINS ONE",
+      "2 RUNS"
+     ]
+    ]
+   },
+   "dlg": "STEPH WINS ONE IN|2 OF 10,000 RUNS.",
+   "vo": "Steph wins one in two of ten thousand runs,"
+  },
+  {
+   "kind": "sim_gym",
+   "gym": {
+    "logo": "l:LAL",
+    "roof": "auto:LAL",
+    "name": "LAKERS GYM",
+    "sub": "MVP RACE"
+   },
+   "players": [
+    "sc",
+    "ld"
+   ],
+   "tags": [
+    "CURRY",
+    "DONCIC"
+   ],
+   "stat": {
+    "rows": [
+     0.9
+    ]
+   },
+   "box": {
+    "head": "MVP RACE (10,000 RUNS)",
+    "rows": [
+     [
+      "STEPH WINS ONE",
+      "2 RUNS"
+     ],
+     [
+      "LUKA'S SHARE",
+      "34.5%"
+     ]
+    ]
+   },
+   "dlg": "LUKA TAKES|ABOUT 1 IN 3.",
+   "vo": "Luka takes about one in three,"
+  },
+  {
+   "kind": "sim_gym",
+   "flash": true,
+   "gym": {
+    "logo": "l:SA",
+    "roof": "auto:SA",
+    "name": "SPURS GYM",
+    "sub": "SERIES WE LOST"
+   },
+   "stat": {
+    "sign": 1.1
+   },
+   "dlg": "WHO ENDS OUR|SEASONS?",
+   "vo": "and the teams that end our seasons?"
+  },
+  {
+   "kind": "sim_gym",
+   "gym": {
+    "logo": "l:SA",
+    "roof": "auto:SA",
+    "name": "SPURS GYM",
+    "sub": "SERIES WE LOST"
+   },
+   "dlg": "WHO ENDS OUR|SEASONS?",
+   "full": true,
+   "vo": "",
+   "hold": 0.42
+  },
+  {
+   "kind": "sim_gym",
+   "gym": {
+    "logo": "l:SA",
+    "roof": "auto:SA",
+    "name": "SPURS GYM",
+    "sub": "SERIES WE LOST"
+   },
+   "stat": {
+    "box": 0.1,
+    "rows": [
+     0.4,
+     1.1
+    ]
+   },
+   "box": {
+    "head": "WHO ENDS OUR SEASON (% OF SIM YEARS)",
+    "rows": [
+     [
+      "SAN ANTONIO",
+      "7%"
+     ],
+     [
+      "MINNESOTA",
+      "6%"
+     ]
+    ]
+   },
+   "dlg": "MOST OFTEN SAN ANTONIO|AND MINNESOTA.",
+   "vo": "Most often San Antonio and Minnesota."
+  },
+  {
+   "kind": "sim_ring",
+   "card": {
+    "q": true
+   },
+   "dlg": "SO, DO WE GET|A RING?",
+   "vo": "So, do we get a ring?"
+  },
+  {
+   "kind": "sim_ring",
+   "card": {
+    "q": true
+   },
+   "dlg": "SO, DO WE GET|A RING?",
+   "full": true,
+   "vo": "",
+   "hold": 0.78
+  },
+  {
+   "kind": "sim_ring",
+   "stat": {
+    "big": 0.5,
+    "ex": 1.0
+   },
+   "card": {
+    "q": true,
+    "big": {
+     "v": "17%",
+     "lab": "AT LEAST|ONE RING"
+    },
+    "ex": {
+     "v": "EXACTLY 1: 14%"
+    }
+   },
+   "dlg": "IN 17% OF RUNS,|YES.",
+   "vo": "In seventeen percent of runs, yes,"
+  },
+  {
+   "kind": "sim_ring",
+   "card": {
+    "big": {
+     "v": "17%",
+     "lab": "AT LEAST|ONE RING"
+    },
+    "ex": {
+     "v": "EXACTLY 1: 14%"
+    },
+    "odds": {
+     "v": "1 IN 6"
+    }
+   },
+   "dlg": "ABOUT 1 IN 6.",
+   "vo": "that's about one in six."
+  },
+  {
+   "kind": "sim_ring",
+   "stat": {
+    "bars": 0.2,
+    "season": 1.4
+   },
+   "card": {
+    "big": {
+     "v": "17%",
+     "lab": "AT LEAST|ONE RING"
+    },
+    "ex": {
+     "v": "EXACTLY 1: 14%"
+    },
+    "odds": {
+     "v": "1 IN 6"
+    },
+    "bars": {
+     "v": [
+      0.9,
+      1.8,
+      1.4,
+      1.4,
+      2.0,
+      2.3,
+      2.6,
+      3.1,
+      3.1,
+      3.4
+     ],
+     "hi": 1
+    },
+    "season": {
+     "v": "THIS SEASON: 1%"
+    }
+   },
+   "dlg": "THIS SEASON? ONLY|ABOUT 1%.",
+   "vo": "But this season? Only about one percent."
+  },
+  {
+   "kind": "sim_ring",
+   "card": {
+    "big": {
+     "v": "17%",
+     "lab": "AT LEAST|ONE RING"
+    },
+    "ex": {
+     "v": "EXACTLY 1: 14%"
+    },
+    "odds": {
+     "v": "1 IN 6"
+    },
+    "bars": {
+     "v": [
+      0.9,
+      1.8,
+      1.4,
+      1.4,
+      2.0,
+      2.3,
+      2.6,
+      3.1,
+      3.1,
+      3.4
+     ],
+     "hi": 1
+    },
+    "season": {
+     "v": "THIS SEASON: 1%"
+    }
+   },
+   "dlg": "THIS SEASON? ONLY|ABOUT 1%.",
+   "full": true,
+   "vo": "",
+   "hold": 1.14
+  },
+  {
+   "kind": "sim_ring",
+   "card": {
+    "big": {
+     "v": "17%",
+     "lab": "AT LEAST|ONE RING"
+    },
+    "ex": {
+     "v": "EXACTLY 1: 14%"
+    },
+    "odds": {
+     "v": "1 IN 6"
+    },
+    "bars": {
+     "v": [
+      0.9,
+      1.8,
+      1.4,
+      1.4,
+      2.0,
+      2.3,
+      2.6,
+      3.1,
+      3.1,
+      3.4
+     ],
+     "hi": 1
+    },
+    "season": {
+     "v": "THIS SEASON: 1%"
+    }
+   },
+   "dlg": "84% OF THEM COME|AFTER THEY RETIRE.",
+   "vo": "Eighty four percent come after they retire."
+  },
+  {
+   "kind": "sim_ring",
+   "card": {
+    "big": {
+     "v": "17%",
+     "lab": "AT LEAST|ONE RING"
+    },
+    "ex": {
+     "v": "EXACTLY 1: 14%"
+    },
+    "odds": {
+     "v": "1 IN 6"
+    },
+    "bars": {
+     "v": [
+      0.9,
+      1.8,
+      1.4,
+      1.4,
+      2.0,
+      2.3,
+      2.6,
+      3.1,
+      3.1,
+      3.4
+     ],
+     "hi": 1
+    },
+    "season": {
+     "v": "THIS SEASON: 1%"
+    }
+   },
+   "dlg": "84% OF THEM COME|AFTER THEY RETIRE.",
+   "full": true,
+   "vo": "",
+   "hold": 0.28
+  },
+  {
+   "kind": "sim_hall",
+   "flash": true,
+   "dlg": "THE RUN WE WERE|HOPING FOR?",
+   "vo": "The run we were hoping for?"
+  },
+  {
+   "kind": "sim_hall",
+   "stat": {
+    "box": 0,
+    "rows": [
+     0.3,
+     1.4
+    ]
+   },
+   "box": {
+    "head": "THE RUN WE HOPED FOR",
+    "rows": [
+     [
+      "2026-27",
+      "59-23"
+     ],
+     [
+      "RING",
+      "1"
+     ]
+    ]
+   },
+   "dlg": "59 WINS AND A|RING THIS SEASON.",
+   "vo": "Fifty nine wins and a ring this season,"
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "box": {
+    "head": "THE RUN WE HOPED FOR",
+    "rows": [
+     [
+      "2026-27",
+      "59-23"
+     ],
+     [
+      "RING",
+      "1"
+     ],
+     [
+      "FINALS MVP",
+      "STEPH"
+     ]
+    ]
+   },
+   "dlg": "STEPH IS FINALS MVP.",
+   "vo": "with Steph as Finals MVP."
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "box": {
+    "head": "THE RUN WE HOPED FOR",
+    "rows": [
+     [
+      "2026-27",
+      "59-23"
+     ],
+     [
+      "RING",
+      "1"
+     ],
+     [
+      "FINALS MVP",
+      "STEPH"
+     ]
+    ]
+   },
+   "dlg": "STEPH IS FINALS MVP.",
+   "full": true,
+   "vo": "",
+   "hold": 0.48
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "stat": {
+    "rows": [
+     0.6
+    ]
+   },
+   "box": {
+    "head": "THE RUN WE HOPED FOR",
+    "rows": [
+     [
+      "2026-27",
+      "59-23"
+     ],
+     [
+      "RING",
+      "1"
+     ],
+     [
+      "FINALS MVP",
+      "STEPH"
+     ],
+     [
+      "BOTH ALL-STARS",
+      "2026-27"
+     ]
+    ]
+   },
+   "dlg": "AND BOTH OF THEM|ARE ALL-STARS.",
+   "vo": "And both are All-Stars."
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "box": {
+    "head": "THE RUN WE HOPED FOR",
+    "rows": [
+     [
+      "2026-27",
+      "59-23"
+     ],
+     [
+      "RING",
+      "1"
+     ],
+     [
+      "FINALS MVP",
+      "STEPH"
+     ],
+     [
+      "BOTH ALL-STARS",
+      "2026-27"
+     ]
+    ]
+   },
+   "dlg": "AND BOTH OF THEM|ARE ALL-STARS.",
+   "full": true,
+   "vo": "",
+   "hold": 0.96
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "box": {
+    "head": "THE BIG PICTURE",
+    "rows": [
+     [
+      "RUNS, NO RING",
+      "83%"
+     ]
+    ]
+   },
+   "dlg": "MOST RUNS NEVER|GET THERE.",
+   "vo": "Most runs never get there,"
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "box": {
+    "head": "THE BIG PICTURE",
+    "rows": [
+     [
+      "RUNS, NO RING",
+      "83%"
+     ],
+     [
+      "WITH STEPH OR JIMMY",
+      "3.4%"
+     ]
+    ]
+   },
+   "dlg": "WITH STEPH OR JIMMY:|ABOUT 1 IN 30.",
+   "vo": "with Steph or Jimmy, about one in thirty."
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "box": {
+    "head": "THE BIG PICTURE",
+    "rows": [
+     [
+      "RUNS, NO RING",
+      "83%"
+     ],
+     [
+      "WITH STEPH OR JIMMY",
+      "3.4%"
+     ]
+    ]
+   },
+   "dlg": "WITH STEPH OR JIMMY:|ABOUT 1 IN 30.",
+   "full": true,
+   "vo": "",
+   "hold": 0.15
+  }
+ ],
+ "facts": [
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "runs",
+   "value": 10000,
+   "said": "10,000 sims, ten thousand, 2 of 10,000 runs"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "seasons",
+   "value": 10,
+   "said": "10 seasons, 10 years"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "season_labels.0",
+   "value": "2026-27",
+   "said": "2026-27"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "season_labels.9",
+   "value": "2035-36",
+   "said": "2035-36 -> the sign 2026-36"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.record_now",
+   "value": "8-6",
+   "said": "our 8-6 start"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.allstars.Stephen Curry.mean_added",
+   "value": 1.0,
+   "said": "about 1 more All-Star game (+1)"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.allstars.Jimmy Butler III.mean_added",
+   "value": 0.44,
+   "said": "+0.4"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.allstars.Jimmy Butler III.at_least.1",
+   "value": 40.0,
+   "said": "one more in 2 of 5 runs (40%)"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.allstars.Stephen Curry.at_least.2",
+   "value": 20.5,
+   "said": "2 more in 1 run out of 5 (20.5% = about 1 in 5)"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.mvp.ours_runs_with_one.Stephen Curry",
+   "value": 2,
+   "said": "2 runs, 2 of 10,000"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.mvp.share_of_all_mvps_pct.0.player",
+   "value": "Luka Doncic",
+   "said": ""
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.mvp.share_of_all_mvps_pct.0.pct",
+   "value": 34.5,
+   "said": "34.5%, about 1 in 3"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.season_enders_pct_of_sim_seasons.0.0",
+   "value": "SA",
+   "said": ""
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.season_enders_pct_of_sim_seasons.0.1",
+   "value": 6.6,
+   "said": "7%"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.season_enders_pct_of_sim_seasons.1.0",
+   "value": "MIN",
+   "said": ""
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.season_enders_pct_of_sim_seasons.1.1",
+   "value": 5.9,
+   "said": "6%"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.at_least_one_pct",
+   "value": 17.3,
+   "said": "17%, about 1 in 6"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.exactly_one_pct",
+   "value": 13.6,
+   "said": "EXACTLY 1: 14%"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2026-27",
+   "value": 0.9,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2027-28",
+   "value": 1.8,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2028-29",
+   "value": 1.4,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2029-30",
+   "value": 1.4,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2030-31",
+   "value": 2.0,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2031-32",
+   "value": 2.3,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2032-33",
+   "value": 2.6,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2033-34",
+   "value": 3.1,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2034-35",
+   "value": 3.1,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2035-36",
+   "value": 3.4,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2026-27",
+   "value": 0.9,
+   "said": "THIS SEASON: 1%, about 1 percent"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.after_both_stars_retired.share_of_all_rings_pct",
+   "value": 83.7,
+   "said": "84% of them come after they retire"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.none_pct",
+   "value": 82.7,
+   "said": "RUNS, NO RING 83%"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.rings.with_a_star_still_playing.at_least_one_pct",
+   "value": 3.4,
+   "said": "WITH STEPH OR JIMMY 3.4%, about 1 in 30"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.run_we_hoped_for.season",
+   "value": "2026-27",
+   "said": "2026-27 this season"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.run_we_hoped_for.record",
+   "value": "59-23",
+   "said": "59-23, a 59-win season"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.run_we_hoped_for.finals_mvp",
+   "value": "Stephen Curry",
+   "said": "FINALS MVP STEPH"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.run_we_hoped_for.ring_seasons.0",
+   "value": "2026-27",
+   "said": "RING 1"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.run_we_hoped_for.allstar_seasons.Stephen Curry.0",
+   "value": "2026-27",
+   "said": "BOTH ALL-STARS 2026-27"
+  },
+  {
+   "sim": "data/sim/warriors_2026-11-18.json",
+   "path": "outputs.run_we_hoped_for.allstar_seasons.Jimmy Butler III.0",
+   "value": "2026-27",
+   "said": "2026-27"
+  },
+  {
+   "claim": "Golden State Warriors 8-6 in the ESPN standings on Nov 18, 2026",
+   "source": "https://www.espn.com/nba/standings"
+  },
+  {
+   "claim": "Stephen Curry: 12x NBA All-Star (2014-2019, 2021-2026); about 1 more in the sim -> 13 for his career",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  }
+ ]
+}

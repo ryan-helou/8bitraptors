@@ -1,0 +1,112 @@
+{
+ "team": "warriors",
+ "name": "melton",
+ "record": "7-3",
+ "caption": "MELTON 🎮🏀 He got hurt, we traded him away. Then we brought him back.\n\n• 2024: 6 games with us, then a torn ACL\n• Dec 15, 2024: traded to Brooklyn, plays 0 games there\n• Back with us in 2025: career-high 12.3 PPG\n• Re-signed this summer. First 10 games: 41.7% from three, 1.5 SPG\n\nShould he be starting? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "TRADED HURT",
+   "key": "p:4066436@GSW",
+   "name": "MELTON",
+   "badge": "2024",
+   "lines": [
+    [
+     "6",
+     "GAMES"
+    ]
+   ],
+   "vo": "Six games into his time with us, De'Anthony Melton tore up his knee. Then we traded him to Brooklyn.",
+   "dlg": "6 GAMES IN: TORN ACL.|WE TRADE HIM TO BROOKLYN."
+  },
+  {
+   "kind": "fire",
+   "head": "BROOKLYN",
+   "key": "p:4066436@BKN",
+   "name": "MELTON",
+   "badge": "NETS",
+   "lines": [
+    [
+     "0",
+     "NETS GAMES"
+    ]
+   ],
+   "vo": "He never played a single game for the Nets.",
+   "dlg": "BROOKLYN GAMES PLAYED:|ZERO."
+  },
+  {
+   "kind": "fire",
+   "head": "HE'S BACK",
+   "key": "p:4066436@GSW",
+   "name": "MELTON",
+   "badge": "CAREER HIGH",
+   "lines": [
+    [
+     "12.3",
+     "PPG"
+    ]
+   ],
+   "vo": "Then we signed him back. Last season, he scored a career-high twelve point three a night.",
+   "dlg": "WE BRING HIM BACK...|CAREER-HIGH 12.3 PPG."
+  },
+  {
+   "kind": "fire",
+   "head": "10 GAMES IN",
+   "key": "p:4066436@GSW",
+   "name": "MELTON",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "41.7",
+     "3P%"
+    ],
+    [
+     "1.5",
+     "STL"
+    ]
+   ],
+   "vo": "He re-signed this summer. Through ten games: forty-one point seven percent from three, and one point five steals.",
+   "dlg": "10 GAMES: 41.7% FROM 3,|1.5 STEALS A GAME."
+  },
+  {
+   "kind": "next",
+   "head": "MELTON",
+   "logo": "l:GSW",
+   "rec": "#8",
+   "ntxt": "MELTON",
+   "nday": "HE'S BACK",
+   "vo": "Should he be starting? Yes or no? Comment below.",
+   "dlg": "SHOULD HE START?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4066436",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 12.3
+  },
+  {
+   "player": "4066436",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 41.7
+  },
+  {
+   "player": "4066436",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 1.5
+  },
+  {
+   "player": "4066436",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "claim": "Melton (No. 8) played 6 games for Golden State in 2024 before a partially-torn ACL; traded to Brooklyn on December 15, 2024 and never appeared for them (0 games); signed with Golden State October 1, 2025; career-high 12.3 points in 2025–26; re-signed August 1, 2026; a 3-point shooter",
+   "source": "https://en.wikipedia.org/wiki/De'Anthony_Melton"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "team": "raptors",
+ "name": "tjd57",
+ "record": "5-4",
+ "caption": "PICK 57 🎮🏀 56 players went before him. Washington sold his rights for cash.\n\n• 2023 draft: #57, rights sold to Golden State for cash\n• Feb 5, 2026: Golden State trades him to us for a 2nd-round pick\n• His debut with us: 10 points, 10 rebounds in 15 minutes, 5th ever to do it in our history\n• First 9 games this season: 70.6 FG%, 11 rebounds in 20 minutes vs Orlando\n\nSteal or just a backup? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 57",
+   "key": "p:4431684@TOR",
+   "name": "TRAYCE",
+   "badge": "2023 DRAFT",
+   "lines": [
+    [
+     "#57",
+     "2023 DRAFT"
+    ]
+   ],
+   "vo": "Fifty-six players went before Trayce Jackson-Davis in the draft. Washington sold his rights to Golden State for cash.",
+   "dlg": "56 PLAYERS WENT FIRST.|HIS RIGHTS SOLD FOR CASH."
+  },
+  {
+   "kind": "fire",
+   "head": "THE TRADE",
+   "key": "p:4431684@TOR",
+   "name": "TRAYCE",
+   "badge": "TO US",
+   "lines": [
+    [
+     "2ND",
+     "ROUND PICK"
+    ]
+   ],
+   "vo": "Then last February, Golden State traded him to us for a second-round pick.",
+   "dlg": "FEB 2026: TRADED TO US|FOR A 2ND-ROUND PICK."
+  },
+  {
+   "kind": "fire",
+   "head": "DEBUT",
+   "key": "p:4431684@TOR",
+   "name": "TRAYCE",
+   "badge": "DOUBLE-DOUBLE",
+   "lines": [
+    [
+     "10",
+     "PTS"
+    ],
+    [
+     "10",
+     "REB"
+    ]
+   ],
+   "vo": "His debut for us: ten points and ten rebounds in fif-teen minutes. Only the fifth player in our history to do that.",
+   "dlg": "DEBUT: 10 PTS, 10 REB.|5TH EVER IN OUR HISTORY."
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:4431684@TOR",
+   "name": "TRAYCE",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "70.6",
+     "FG%"
+    ],
+    [
+     "11",
+     "REB VS ORL"
+    ]
+   ],
+   "vo": "Through nine games this season: seventy-one percent shooting, and eleven rebounds in twenty minutes against Orlando.",
+   "dlg": "FIRST 9 GAMES: 70.6 FG%.|11 REB IN 20 MIN VS ORL."
+  },
+  {
+   "kind": "next",
+   "head": "STEAL?",
+   "logo": "l:TOR",
+   "rec": "#57",
+   "ntxt": "TRAYCE",
+   "nday": "2023 PICK",
+   "vo": "Steal of a trade, or just a backup? Comment below.",
+   "dlg": "STEAL OR JUST A BACKUP?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4431684",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4431684",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 70.6
+  },
+  {
+   "game": "401909885",
+   "player": "4431684",
+   "stat": "REB",
+   "value": 11
+  },
+  {
+   "game": "401909885",
+   "player": "4431684",
+   "stat": "MIN",
+   "value": 20
+  },
+  {
+   "claim": "Jackson-Davis drafted #57 (57th overall) in the 2023 NBA draft (56 players before him); the pick was held by Washington, who traded his rights to Golden State for cash; February 5, 2026: traded to Toronto for a 2026 second-round (2nd) pick; Raptors debut February 8: 10 points and 10 rebounds in 15 minutes, 5th (fifth) player in franchise history with a double-double in their debut",
+   "source": "https://en.wikipedia.org/wiki/Trayce_Jackson-Davis"
+  }
+ ]
+}

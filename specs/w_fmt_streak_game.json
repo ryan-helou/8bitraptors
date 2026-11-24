@@ -1,0 +1,26 @@
+{
+ "team": "warriors",
+ "name": "fmt_streak_game",
+ "template": "fmt_streak_game.html",
+ "pace": "wolves",
+ "record": "8-3",
+ "caption": "PAC-WARRIORS 👾💛💙 Warriors 138, Pelicans 87. Denver, Minnesota, the Lakers, the Clippers, Phoenix, Miami, Orlando, New Orleans... all eaten. 8 STRAIGHT.\n\n👻 W 134-114 @ Nuggets\n👻 W 119-114 @ Wolves\n👻 W 112-95 vs Lakers\n👻 W 124-112 vs Clippers\n👻 W 116-113 vs Suns\n👻 W 120-100 vs Heat\n👻 W 126-119 vs Magic\n👻 W 138-87 vs Pelicans\n\nWon by 51 last night and hit 21-of-44 from three. Steph: 25 in 21 minutes, +32. Yaxel: 23 on 8-of-10, 4-of-4 from three.\n\n🆚 Next level: @ Rockets, Wed 9:30 PM ET. How long does the streak go? 👇",
+ "beats": [
+  {"kind": "sg_pac", "head": "WARRIORS WIN!", "sub": "8 STRAIGHT * 8-3", "hold": 6.6, "flashOut": true,
+   "games": [{"l": "l:DEN", "a": "DEN", "s": "134-114"}, {"l": "l:MIN", "a": "MIN", "s": "119-114"}, {"l": "l:LAL", "a": "LAL", "s": "112-95"}, {"l": "l:LAC", "a": "LAC", "s": "124-112"},
+             {"l": "l:PHX", "a": "PHX", "s": "116-113"}, {"l": "l:MIA", "a": "MIA", "s": "120-100"}, {"l": "l:ORL", "a": "ORL", "s": "126-119"}, {"l": "l:NO", "a": "NO", "s": "138-87"}]},
+  {"kind": "sg_final", "left": "l:NO", "right": "l:GS", "score": "87-138", "win": "WARRIORS WIN!", "big": "8-3", "bsub": "8 STRAIGHT", "chips": ["WON BY 51", "21-OF-44 FROM THREE"], "hold": 4.5},
+  {"kind": "sg_pog", "key": "p:3975", "name": "STEPHEN CURRY", "stats": [["25", "PTS"], ["6-10", "FG"], ["4-7", "3PT"]], "chip": "+32 IN 21 MINUTES", "sub": "9-9 FT * 5 REB", "hold": 4.0, "fadeOut": true},
+  {"kind": "sg_pog", "key": "p:5175737", "name": "YAXEL LENDEBORG", "stats": [["23", "PTS"], ["8-10", "FG"], ["4-4", "3PT"]], "chip": "PERFECT FROM THREE", "sub": "7 REB * 4 AST", "hold": 3.2, "fadeIn": true},
+  {"kind": "sg_save", "big": "8 STRAIGHT", "na": "NEXT LEVEL: @ ROCKETS", "nb": "WED 9:30 PM ET", "nc": "5-GAME ROAD TRIP", "hold": 4.0, "fadeOut": true}
+ ],
+ "facts": [
+  {"game": "401909876", "score": "134-114"}, {"game": "401909888", "score": "119-114"}, {"game": "401909285", "score": "112-95"}, {"game": "401909905", "score": "124-112"},
+  {"game": "401909919", "score": "116-113"}, {"game": "401909937", "score": "120-100"}, {"game": "401909942", "score": "126-119"}, {"game": "401909959", "score": "138-87"},
+  {"game": "401909959", "player": "3975", "stat": "PTS", "value": 25}, {"game": "401909959", "player": "3975", "stat": "FG", "value": "6-10"}, {"game": "401909959", "player": "3975", "stat": "3PT", "value": "4-7"},
+  {"game": "401909959", "player": "3975", "stat": "+/-", "value": "+32"}, {"game": "401909959", "player": "3975", "stat": "MIN", "value": "21"}, {"game": "401909959", "player": "3975", "stat": "FT", "value": "9-9"}, {"game": "401909959", "player": "3975", "stat": "REB", "value": "5"},
+  {"game": "401909959", "player": "5175737", "stat": "PTS", "value": 23}, {"game": "401909959", "player": "5175737", "stat": "FG", "value": "8-10"}, {"game": "401909959", "player": "5175737", "stat": "3PT", "value": "4-4"},
+  {"game": "401909959", "player": "5175737", "stat": "REB", "value": "7"}, {"game": "401909959", "player": "5175737", "stat": "AST", "value": "4"},
+  {"claim": "GS beat NO 138-87 on Mon 11/9 (won by 51); GS shot 21-44 from three. Warriors now 8-3 with 8 straight wins (W8). Next: Wed 11/11 at Houston, 9:30 PM ET, first of 5 straight road games (5-game road trip)", "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909959"}
+ ]
+}

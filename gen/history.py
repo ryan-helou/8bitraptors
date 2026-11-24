@@ -1,0 +1,78 @@
+"""Narrated history / feature reels (Wolves' narrated story format) from a hand-written spec.
+
+usage: python3 gen/history.py specs/<name>.json   -> out/<team>_<name>.mp4 + .caption.txt
+
+Spec: {"team": "raptors", "name": "run2019", "record": "58-24", "caption": "...",
+       "beats": [{"kind": "fire", "head": "...", "vo": "...", "dlg": "LINE 1|LINE 2", ...}, ...]}
+Beat kinds are the story kinds in reel_t.html (trainer, fire, gym, bat, final, next, hot, step, log, center).
+References inside a beat: any value "p:<espn athlete id>" becomes a player sprite, "l:<ABBR>" a team logo,
+and "ocol": "auto:<ABBR>" the team's colour. Every fact in a spec must be checked before it is built.
+"""
+import json, sys, pathlib, subprocess
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import build as B
+import espn
+
+import os as _os
+if not _os.environ.get("HEAVY_LOCKED"):   # one heavy job at a time on the 8 GB Mac (gen/heavy_lock.py)
+    import heavy_lock; heavy_lock.hold(); _os.environ["HEAVY_LOCKED"] = "1"
+spec = json.loads(pathlib.Path(sys.argv[1]).read_text())
+slug, name = spec["team"], spec["name"]
+tid, team, assets = B.common(slug)
+if spec.get("record"): team["record"] = spec["record"]
+
+
+def resolve(v):
+    if isinstance(v, str) and v.startswith("p:"):
+        pid, _, tm = v[2:].partition("@")
+        if tm: k = f"{pid}{tm}"; assets["p_" + k], assets["h_" + k] = B.sprite_team(pid, tm); return "p_" + k
+        assets["p_" + pid] = B.sprite_player(pid); assets["h_" + pid] = B.sprite_hi(pid); return "p_" + pid
+    if isinstance(v, str) and v.startswith("pks:"):  # shiny variant of a PMD monster
+        import pmd
+        n = v[4:].lower(); im = pmd.get(n, shiny=True); assets["m_" + n + "_shiny"] = B.enc(im); return "m_" + n + "_shiny"
+    if isinstance(v, str) and v.startswith("pk:"):   # PMD Sprite Collab monster (gen/pmd.py), credited in the caption
+        import pmd
+        n = v[3:].lower(); im = pmd.get(n); assets["m_" + n] = B.enc(im); return "m_" + n
+    if isinstance(v, str) and v.startswith("m:"):   # original pixel monster from assets/monsters (gen/monsters.py)
+        from PIL import Image as _I
+        n = v[2:]; assets["m_" + n] = B.enc(_I.open(B.ROOT / "assets/monsters" / f"{n}.png").convert("RGBA")); return "m_" + n
+    if isinstance(v, str) and v.startswith("l:"):
+        ab = v[2:]; assets["l_" + ab] = B.sprite_logo(ab); return "l_" + ab
+    if isinstance(v, str) and v.startswith("auto:"): return B.opp_color(v[5:])
+    if isinstance(v, list): return [resolve(x) for x in v]
+    if isinstance(v, dict): return {k: resolve(x) for k, x in v.items()}
+    return v
+
+
+beats = [resolve(b) for b in spec["beats"]]
+PARTY = bool(spec.get("party")) or spec.get("pace") == "wolves"   # @8bitwolves hook pace (2026-11-10, Ryan: "the hook is most important")
+GAP = .12 if PARTY else .35
+if PARTY:
+    import os; os.environ["KOKORO_SPEED"] = str(spec.get("tts_speed", 1.25))   # copy skill: spec "tts_speed" matches the reference's words/s (default unchanged)
+    os.environ["KOKORO_TRIM"] = "1"   # 2026-11-12 polish2: trim Kokoro's trailing silence so beats sit 0.25-0.35 s apart like @8bitwolves
+    for b in beats:
+        if b.get("kind") == "p_menu": b["hold"] = min(float(b.get("hold", 1.0)), .45)
+VOFF = float(spec.get("voff", .15))   # copy skill 2026-11-20: spec "voff" (0 = voice from frame 1; whisper merges lines when the reel opens on >=0.1 s of silence). Default unchanged: VO starts this long after its scene cuts in (tried .10 for wolves pace: same gaps, but the music check got worse)
+party = resolve(spec.get("party", []))   # party reels (p_* kinds)
+vod = B.OUT / f"{slug}_{name}_vo"; lines = [{"id": f"b{i}", "text": b["vo"]} for i, b in enumerate(beats) if b.get("vo")]
+lj = B.OUT / f"{slug}_{name}_vo_lines.json"; lj.write_text(json.dumps(lines))
+durs = json.loads(subprocess.run([str(B.ROOT / ".venv/bin/python"), str(B.ROOT / "gen/tts.py"), str(lj), str(vod)], capture_output=True, text=True, check=True).stdout.strip().splitlines()[-1])
+sp, vo, t = [], [], 0.0
+for i, bt in enumerate(beats):
+    if not bt.get("vo"): d = float(bt.get("hold", 1.1)); bt["dur"] = d
+    else: d = durs[f"b{i}"]; bt["dur"] = d; vo.append({"t": round(t + VOFF, 3), "wav": str(vod / f"b{i}.wav")})
+    gp = 0.0 if PARTY and bt.get("vo") and i + 1 < len(beats) and not beats[i + 1].get("vo") else GAP   # a silent beat (menu) after a line is the pause itself
+    sp.append({"scene": f"st{i}", "start": round(t, 3), "end": round(t + d + gp, 3)}); t += d + gp
+total = round(t + .6, 3); sp[-1]["end"] = total
+data = {"template": spec.get("template", "reel_t.html"), "team": team, "opp": {"abbr": team["abbr"], "short": team["short"], "logo": team["logo"], "color": "#444"}, "game": {}, "assets": assets, "story": {"beats": beats, "party": party, "mode": spec.get("mode", ""), "full_party": spec.get("full_party", False)}}
+if spec.get("music"): __import__("os").environ["MUSIC_THEME"] = spec["music"]   # copy skill: match the reference's music bed
+if spec.get("cps"): data["story"]["cps"] = spec["cps"]                              # copy skill: typewriter chars/s to match theirs
+if spec.get("duck_bridge"):                                                         # copy skill: keep the music ducked through short pauses (audio.py)
+    for v in vo: v["bridge"] = True
+if spec.get("duck_depth"):                                                          # copy skill: deeper music duck under the narration (audio.py; default .85)
+    for v in vo: v["duck"] = spec["duck_depth"]
+if spec.get("voice_eq"):                                                            # copy skill: "bright" = presence lift on the narration (audio.py)
+    for v in vo: v["eq"] = spec["voice_eq"]
+mp4 = B.render(slug, name, data, sp, total, vo)
+(B.OUT / f"{slug}_{name}.caption.txt").write_text(spec["caption"].strip() + f"\n\n#NBA {B.HASH.get(slug, '')} #Basketball #NBAHistory")
+print(mp4)

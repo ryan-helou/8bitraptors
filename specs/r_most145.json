@@ -1,0 +1,66 @@
+{
+ "team": "raptors",
+ "name": "most145",
+ "pace": "wolves",
+ "caption": "OUR MOST POINTS EVER 🎮🏀 145. Against the Warriors.\n\n• Jan 20, 2026: we beat Golden State 145-127, our franchise record for points in a game\n• IQ: 40 points on 11-of-13 shooting\n\nCan we ever top 145? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "OUR MOST EVER",
+   "key": "l:TOR",
+   "name": "US",
+   "badge": "JAN 20, 2026",
+   "lines": [
+    [
+     "145",
+     "POINTS"
+    ],
+    [
+     "127",
+     "WARRIORS"
+    ]
+   ],
+   "vo": "Our most points ever in one game? A hundred and forty-five. And we dropped it on the Warriors.",
+   "dlg": "OUR MOST EVER: 145.|AGAINST THE WARRIORS."
+  },
+  {
+   "kind": "fire",
+   "head": "THAT NIGHT",
+   "key": "p:4395724@TOR",
+   "name": "IQ",
+   "badge": "JAN 20, 2026",
+   "lines": [
+    [
+     "40",
+     "POINTS"
+    ],
+    [
+     "11-13",
+     "SHOOTING"
+    ]
+   ],
+   "vo": "IQ led the way. Forty points on eleven of thirteen shooting.",
+   "dlg": "IQ: 40 POINTS ON|11-OF-13 SHOOTING."
+  },
+  {
+   "kind": "next",
+   "head": "TOP IT?",
+   "logo": "l:GSW",
+   "rec": "145",
+   "ntxt": "CAN WE",
+   "nday": "TOP IT?",
+   "vo": "Can we ever top a hundred and forty-five? Comment below.",
+   "dlg": "CAN WE EVER TOP 145?|COMMENT BELOW."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Raptors team record, most points in a game: 145 vs Golden State Warriors (GSW), 20 January 2026 (Jan 20, 2026), W 145-127.",
+   "source": "https://en.wikipedia.org/wiki/Toronto_Raptors_accomplishments_and_records"
+  },
+  {
+   "claim": "On January 20, 2026, Quickley (IQ) scored 40 points on 11-of-13 shooting in a 145-127 win over the Golden State Warriors. ESPN id 4395724.",
+   "source": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
+  }
+ ]
+}

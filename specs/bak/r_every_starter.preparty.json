@@ -1,0 +1,181 @@
+{
+ "team": "raptors",
+ "name": "every_starter",
+ "record": "5-4",
+ "caption": "IF OUR RAPTORS CORE FIVE WERE POKÉMON 🎮🏀\n\n🧬 Scottie = Mew: learns every move, 23.5 points a night through 8 games\n🐂 RJ = Tauros: a Toronto-born bull, 21.6 points a night through 9 games\n🥷 Quickley = Ninjask: quick by name, 5.8 assists a night through 8 games\n🐼 Collin = Pangoro: our bruiser, 5.0 rebounds in 22.1 minutes a night\n😴 Poeltl = Snorlax: nobody moves him, 61.1% from the field through 7 games\n\nWho did we get wrong? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:4433134@TOR",
+   "mon": "pk:mew",
+   "name": "MEW",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "species": "POINT FORWARD",
+   "callout": "23.5 PPG",
+   "vo": "Go, Scottie Barnes! Mew: it can learn every move, and so can he. Twenty-three point five a night through eight games.",
+   "dlg": "SCOTTIE = MEW:|23.5 POINTS A NIGHT!"
+  },
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:4395625@TOR",
+   "mon": "pk:tauros",
+   "name": "TAUROS",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "species": "SCORING WING",
+   "callout": "21.6 PPG",
+   "vo": "Go, RJ Barrett! Tauros: a Toronto-born bull who charges the rim. Twenty-one point six a night through nine games.",
+   "dlg": "RJ = TAUROS: TORONTO BULL,|21.6 POINTS A NIGHT!"
+  },
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:4395724@TOR",
+   "mon": "pk:ninjask",
+   "name": "NINJASK",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "species": "POINT GUARD",
+   "callout": "5.8 APG",
+   "vo": "Go, Immanuel Quickley! Ninjask: quick by name, and five point eight assists a night through eight games.",
+   "dlg": "QUICKLEY = NINJASK:|5.8 ASSISTS A NIGHT!"
+  },
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:5093267@TOR",
+   "mon": "pk:pangoro",
+   "name": "PANGORO",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "species": "POWER FORWARD",
+   "callout": "5.0 RPG",
+   "vo": "Go, Collin Murray-Boyles! Pangoro: our bruiser. Five boards a night in just twenty-two minutes.",
+   "dlg": "COLLIN = PANGORO:|5.0 REBOUNDS A NIGHT!"
+  },
+  {
+   "kind": "mon",
+   "head": "IF WE WERE MONSTERS",
+   "key": "p:3134908@TOR",
+   "mon": "pk:snorlax",
+   "name": "SNORLAX",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "species": "CENTER",
+   "callout": "61.1 FG%",
+   "vo": "Go, Jakob Poeltl! Snorlax: the big guy nobody moves. Sixty-one percent from the field through seven games.",
+   "dlg": "POELTL = SNORLAX:|61.1% FROM THE FIELD!"
+  },
+  {
+   "kind": "next",
+   "head": "IF WE WERE MONSTERS",
+   "logo": "l:TOR",
+   "rec": "GO!",
+   "ntxt": "WHO DID WE",
+   "nday": "GET WRONG?",
+   "vo": "Who did we get wrong? Comment below.",
+   "dlg": "WHO DID WE GET WRONG?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.6
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.8
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 5.0
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 22.1
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 61.1
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 7
+  },
+  {
+   "claim": "Barrett was born in Toronto",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

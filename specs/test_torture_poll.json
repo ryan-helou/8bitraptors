@@ -1,0 +1,8 @@
+{"team": "warriors", "name": "torture_poll",
+ "l1": "A REALLY LONG FIRST LINE FOR THE LAB TEST...", "q": "AND A LONG QUESTION THAT MUST FIT?", "boxA": "ALL-TIME WESTERN CONFERENCE", "boxB": "WEDNESDAY 10:30 PM ET", "rest": "",
+ "caption": "TEST - never post",
+ "cands": [
+  {"id": "3032977", "name": "GIANNIS", "full": "GIANNIS ANTETOKOUNMPO", "jersey": "34", "type": "TWO-WAY MONSTER", "season": "2020-21 CHAMPIONSHIP SEASON", "stats": [["100.0", "FG PCT"], ["1,000", "DOUBLE-DOUBLES"], ["2X", "MVP"]]},
+  {"id": "4278073", "name": "SHAI", "full": "SHAI GILGEOUS-ALEXANDER", "jersey": "2", "type": "MIDRANGE ASSASSIN", "season": "2025-26", "stats": [["32.7", "PPG"], ["#1", "SCORER"], ["55.0", "FG%"]]},
+  {"id": "5104157", "name": "WEMBY", "full": "VICTOR WEMBANYAMA", "jersey": "1", "type": "UNICORN", "season": "2025-26", "stats": [["4.5", "BPG"], ["11.2", "RPG"], ["DPOY", "2026"]]}
+ ]}

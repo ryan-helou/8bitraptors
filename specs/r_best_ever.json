@@ -1,0 +1,1114 @@
+{
+ "team": "raptors",
+ "name": "best_ever",
+ "template": "fmt_sim.html",
+ "pace": "wolves",
+ "tts_speed": 1.3,
+ "music": "best136",
+ "cps": 42,
+ "voice_eq": "bright",
+ "caption": "Today's Raptors vs Kawhi's 2019 Raptors, best-of-7, simulated 10,000 times 🦖 The 2019 team wins 83.6% of the series, most often in 5. Kawhi averages 28.1 points and 7.7 rebounds and is series MVP in 96.7% of the 2019 wins. Scottie answers with 25.2 a game, Quickley runs it with 6.2 assists, and 23.1% of the series go to Game 7, where we win 26.8%. Both teams graded against their own era. To pass them for real: win a title. Who are you taking in a Game 7? 👇",
+ "party": [
+  {
+   "id": "oa",
+   "key": "p:3012"
+  },
+  {
+   "id": "ob",
+   "key": "p:3149673"
+  },
+  {
+   "id": "oc",
+   "key": "p:6450"
+  },
+  {
+   "id": "na",
+   "key": "p:4433134"
+  },
+  {
+   "id": "nb",
+   "key": "p:4395724"
+  },
+  {
+   "id": "nc",
+   "key": "p:4395625"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "h2h_town",
+   "cfg": {
+    "old": [
+     "oa",
+     "ob",
+     "oc"
+    ],
+    "new": [
+     "na",
+     "nb",
+     "nc"
+    ],
+    "otags": [
+     "KYLE",
+     "PASCAL",
+     "KAWHI"
+    ],
+    "ntags": [
+     "SCOTTIE",
+     "IQ",
+     "RJ"
+    ],
+    "count": 10000,
+    "title": "BEST RAPTORS TEAM EVER?",
+    "title2": "2019 VS NOW",
+    "rec": "2019: 58-24",
+    "bo7": "BEST OF 7",
+    "today": "TODAY"
+   },
+   "full": true,
+   "dlg": "TODAY'S RAPTORS VS THE|2019 CHAMPS: 10,000 SIMS",
+   "vo": "Is this the best Raptors team ever?"
+  },
+  {
+   "kind": "h2h_town",
+   "full": true,
+   "dlg": "TODAY'S RAPTORS VS THE|2019 CHAMPS: 10,000 SIMS",
+   "vo": "",
+   "hold": 0.55
+  },
+  {
+   "kind": "h2h_town",
+   "full": true,
+   "dlg": "TODAY'S RAPTORS VS THE|2019 CHAMPS: 10,000 SIMS",
+   "vo": "We put Scottie and Quickley against the twenty nineteen champions"
+  },
+  {
+   "kind": "h2h_town",
+   "full": true,
+   "dlg": "TODAY'S RAPTORS VS THE|2019 CHAMPS: 10,000 SIMS",
+   "vo": "",
+   "hold": 0.33
+  },
+  {
+   "kind": "h2h_town",
+   "dlg": "A 7-GAME SERIES,|PLAYED 10,000 TIMES.",
+   "vo": "In a seven game series, and ran it ten thousand times."
+  },
+  {
+   "kind": "h2h_town",
+   "dlg": "A 7-GAME SERIES,|PLAYED 10,000 TIMES.",
+   "full": true,
+   "vo": "",
+   "hold": 0.44
+  },
+  {
+   "kind": "h2h_room",
+   "irisIn": true,
+   "room": {
+    "name": "THE 2019 ROOM",
+    "sub": "NBA CHAMPIONS",
+    "top": "green"
+   },
+   "players": [
+    "oc"
+   ],
+   "tags": [
+    "KAWHI"
+   ],
+   "box": {
+    "head": "2018-19 RAPTORS",
+    "rows": [
+     [
+      "RECORD",
+      "58-24"
+     ],
+     [
+      "FMVP",
+      "KAWHI"
+     ],
+     [
+      "WON",
+      "TITLE"
+     ]
+    ]
+   },
+   "pill": "ONLY TITLE",
+   "mvp": "FMVP",
+   "stat": {
+    "ph": [
+     1.4,
+     2.2,
+     4.5,
+     4.6,
+     5.0
+    ]
+   },
+   "dlg": "58-24 AND THE FRANCHISE'S|ONLY TITLE.",
+   "vo": "That team won fifty eight games and the franchise's only title,"
+  },
+  {
+   "kind": "h2h_room",
+   "room": {
+    "name": "THE 2019 ROOM",
+    "sub": "NBA CHAMPIONS",
+    "top": "green"
+   },
+   "players": [
+    "oc"
+   ],
+   "tags": [
+    "KAWHI"
+   ],
+   "box": {
+    "head": "2018-19 RAPTORS",
+    "rows": [
+     [
+      "RECORD",
+      "58-24"
+     ],
+     [
+      "FMVP",
+      "KAWHI"
+     ],
+     [
+      "WON",
+      "TITLE"
+     ]
+    ]
+   },
+   "pill": "ONLY TITLE",
+   "mvp": "FMVP",
+   "dlg": "58-24 AND THE FRANCHISE'S|ONLY TITLE.",
+   "full": true,
+   "vo": "",
+   "hold": 0.75
+  },
+  {
+   "kind": "h2h_room",
+   "irisIn": false,
+   "room": {
+    "name": "THE 2019 ROOM",
+    "sub": "NBA CHAMPIONS",
+    "top": "green"
+   },
+   "players": [
+    "oc"
+   ],
+   "tags": [
+    "KAWHI"
+   ],
+   "box": {
+    "head": "2018-19 RAPTORS",
+    "rows": [
+     [
+      "RECORD",
+      "58-24"
+     ],
+     [
+      "FMVP",
+      "KAWHI"
+     ],
+     [
+      "WON",
+      "TITLE"
+     ]
+    ]
+   },
+   "pill": "ONLY TITLE",
+   "mvp": "FMVP",
+   "stat": {
+    "ph": [
+     1.4,
+     2.2,
+     4.5,
+     4.6,
+     5.0
+    ]
+   },
+   "dlg": "AND KAWHI WAS|FINALS MVP.",
+   "vo": "And Kawhi was Finals MVP."
+  },
+  {
+   "kind": "h2h_lab",
+   "irisIn": true,
+   "lab": {
+    "name": "SIM LAB",
+    "sub": "GRADED BY ERA"
+   },
+   "boxes": [
+    {
+     "head": "VS 2019 LEAGUE",
+     "k": "2019",
+     "v": "+6.0"
+    },
+    {
+     "head": "VS TODAY'S NBA",
+     "k": "NOW",
+     "v": "+0.0"
+    }
+   ],
+   "players": [
+    "oc",
+    "na"
+   ],
+   "tags": [
+    "KAWHI",
+    "SCOTTIE"
+   ],
+   "dlg": "EACH TEAM GRADED VS|ITS OWN ERA.",
+   "vo": "Each team is graded against its own era."
+  },
+  {
+   "kind": "h2h_lab",
+   "lab": {
+    "name": "SIM LAB",
+    "sub": "GRADED BY ERA"
+   },
+   "boxes": [
+    {
+     "head": "VS 2019 LEAGUE",
+     "k": "2019",
+     "v": "+6.0"
+    },
+    {
+     "head": "VS TODAY'S NBA",
+     "k": "NOW",
+     "v": "+0.0"
+    }
+   ],
+   "players": [
+    "oc",
+    "na"
+   ],
+   "tags": [
+    "KAWHI",
+    "SCOTTIE"
+   ],
+   "dlg": "EACH TEAM GRADED VS|ITS OWN ERA.",
+   "full": true,
+   "vo": "",
+   "hold": 0.53
+  },
+  {
+   "kind": "h2h_res",
+   "res": {
+    "name": "10,000 SERIES",
+    "sub": "SIM RESULTS"
+   },
+   "chart": {
+    "big": "84%",
+    "lab": "2019 WINS|THE SERIES",
+    "now": [
+     1.1,
+     2.8,
+     6.3,
+     6.2
+    ],
+    "old": [
+     16.9,
+     19.0,
+     29.0,
+     18.6
+    ],
+    "nowlab": "NOW WINS IN",
+    "oldlab": "2019 WINS IN",
+    "hi": [
+     "old",
+     2
+    ],
+    "hipill": "29.0%"
+   },
+   "q": "BEST TEAM EVER?",
+   "a": "NOT YET",
+   "irisIn": true,
+   "dlg": "SO IS IT THE BEST?|NOT YET.",
+   "vo": "The answer is, not yet."
+  },
+  {
+   "kind": "h2h_res",
+   "res": {
+    "name": "10,000 SERIES",
+    "sub": "SIM RESULTS"
+   },
+   "chart": {
+    "big": "84%",
+    "lab": "2019 WINS|THE SERIES",
+    "now": [
+     1.1,
+     2.8,
+     6.3,
+     6.2
+    ],
+    "old": [
+     16.9,
+     19.0,
+     29.0,
+     18.6
+    ],
+    "nowlab": "NOW WINS IN",
+    "oldlab": "2019 WINS IN",
+    "hi": [
+     "old",
+     2
+    ],
+    "hipill": "29.0%"
+   },
+   "q": "BEST TEAM EVER?",
+   "a": "NOT YET",
+   "dlg": "SO IS IT THE BEST?|NOT YET.",
+   "full": true,
+   "vo": "",
+   "hold": 0.74
+  },
+  {
+   "kind": "h2h_res",
+   "res": {
+    "name": "10,000 SERIES",
+    "sub": "SIM RESULTS"
+   },
+   "chart": {
+    "big": "84%",
+    "lab": "2019 WINS|THE SERIES",
+    "now": [
+     1.1,
+     2.8,
+     6.3,
+     6.2
+    ],
+    "old": [
+     16.9,
+     19.0,
+     29.0,
+     18.6
+    ],
+    "nowlab": "NOW WINS IN",
+    "oldlab": "2019 WINS IN",
+    "hi": [
+     "old",
+     2
+    ],
+    "hipill": "29.0%"
+   },
+   "q": "BEST TEAM EVER?",
+   "a": "NOT YET",
+   "dlg": "2019 WINS 84%.|MOST LIKELY: 2019 IN 5",
+   "vo": "The twenty nineteen team wins eighty four percent of the series, most often in five."
+  },
+  {
+   "kind": "h2h_res",
+   "res": {
+    "name": "10,000 SERIES",
+    "sub": "SIM RESULTS"
+   },
+   "chart": {
+    "big": "84%",
+    "lab": "2019 WINS|THE SERIES",
+    "now": [
+     1.1,
+     2.8,
+     6.3,
+     6.2
+    ],
+    "old": [
+     16.9,
+     19.0,
+     29.0,
+     18.6
+    ],
+    "nowlab": "NOW WINS IN",
+    "oldlab": "2019 WINS IN",
+    "hi": [
+     "old",
+     2
+    ],
+    "hipill": "29.0%"
+   },
+   "q": "BEST TEAM EVER?",
+   "a": "NOT YET",
+   "dlg": "2019 WINS 84%.|MOST LIKELY: 2019 IN 5",
+   "full": true,
+   "vo": "",
+   "hold": 1.24
+  },
+  {
+   "kind": "h2h_room",
+   "irisIn": true,
+   "room": {
+    "name": "KAWHI'S GYM",
+    "sub": "SIM AVERAGES",
+    "top": "green"
+   },
+   "players": [
+    "oc"
+   ],
+   "tags": [
+    "KAWHI"
+   ],
+   "box": {
+    "head": "KAWHI: SIM AVERAGES",
+    "rows": [
+     [
+      "PTS",
+      "28.1"
+     ],
+     [
+      "REB",
+      "7.7"
+     ],
+     [
+      "STL",
+      "1.9"
+     ],
+     [
+      "30-PT GMS",
+      "40%"
+     ]
+    ],
+    "count": true
+   },
+   "ppg": "28 PPG",
+   "mvppill": "SERIES MVP:|97% OF 2019 WINS",
+   "gym": true,
+   "stat": {
+    "ph": [
+     0,
+     99,
+     2.2,
+     4.8,
+     4.9
+    ]
+   },
+   "dlg": "KAWHI: 28 PTS, 8 REB|A GAME.",
+   "vo": "Kawhi is the reason, twenty eight points and eight rebounds a game,"
+  },
+  {
+   "kind": "h2h_room",
+   "room": {
+    "name": "KAWHI'S GYM",
+    "sub": "SIM AVERAGES",
+    "top": "green"
+   },
+   "players": [
+    "oc"
+   ],
+   "tags": [
+    "KAWHI"
+   ],
+   "box": {
+    "head": "KAWHI: SIM AVERAGES",
+    "rows": [
+     [
+      "PTS",
+      "28.1"
+     ],
+     [
+      "REB",
+      "7.7"
+     ],
+     [
+      "STL",
+      "1.9"
+     ],
+     [
+      "30-PT GMS",
+      "40%"
+     ]
+    ],
+    "count": true
+   },
+   "ppg": "28 PPG",
+   "mvppill": "SERIES MVP:|97% OF 2019 WINS",
+   "gym": true,
+   "dlg": "KAWHI: 28 PTS, 8 REB|A GAME.",
+   "full": true,
+   "vo": "",
+   "hold": 0.66
+  },
+  {
+   "kind": "h2h_room",
+   "irisIn": false,
+   "room": {
+    "name": "KAWHI'S GYM",
+    "sub": "SIM AVERAGES",
+    "top": "green"
+   },
+   "players": [
+    "oc"
+   ],
+   "tags": [
+    "KAWHI"
+   ],
+   "box": {
+    "head": "KAWHI: SIM AVERAGES",
+    "rows": [
+     [
+      "PTS",
+      "28.1"
+     ],
+     [
+      "REB",
+      "7.7"
+     ],
+     [
+      "STL",
+      "1.9"
+     ],
+     [
+      "30-PT GMS",
+      "40%"
+     ]
+    ],
+    "count": true
+   },
+   "ppg": "28 PPG",
+   "mvppill": "SERIES MVP:|97% OF 2019 WINS",
+   "gym": true,
+   "stat": {
+    "ph": [
+     0,
+     99,
+     2.2,
+     4.8,
+     4.9
+    ]
+   },
+   "dlg": "SERIES MVP IN 97%|OF 2019 WINS.",
+   "vo": "And he's series MVP in ninety seven percent of their wins."
+  },
+  {
+   "kind": "h2h_room",
+   "room": {
+    "name": "KAWHI'S GYM",
+    "sub": "SIM AVERAGES",
+    "top": "green"
+   },
+   "players": [
+    "oc"
+   ],
+   "tags": [
+    "KAWHI"
+   ],
+   "box": {
+    "head": "KAWHI: SIM AVERAGES",
+    "rows": [
+     [
+      "PTS",
+      "28.1"
+     ],
+     [
+      "REB",
+      "7.7"
+     ],
+     [
+      "STL",
+      "1.9"
+     ],
+     [
+      "30-PT GMS",
+      "40%"
+     ]
+    ],
+    "count": true
+   },
+   "ppg": "28 PPG",
+   "mvppill": "SERIES MVP:|97% OF 2019 WINS",
+   "gym": true,
+   "dlg": "SERIES MVP IN 97%|OF 2019 WINS.",
+   "full": true,
+   "vo": "",
+   "hold": 0.68
+  },
+  {
+   "kind": "h2h_room",
+   "irisIn": true,
+   "today": true,
+   "room": {
+    "name": "TODAY'S ROOM",
+    "sub": "SIM AVERAGES",
+    "top": "navy"
+   },
+   "players": [
+    "na",
+    "nb"
+   ],
+   "tags": [
+    "SCOTTIE",
+    "IQ"
+   ],
+   "box": {
+    "head": "NOW: SIM AVERAGES",
+    "rows": [
+     [
+      "SCOTTIE PTS",
+      "25.2"
+     ],
+     [
+      "IQ AST",
+      "6.2"
+     ],
+     [
+      "RJ PTS",
+      "22.1"
+     ]
+    ],
+    "count": true
+   },
+   "pp": [
+    "25 PPG",
+    "6 AST"
+   ],
+   "stat": {
+    "ph": [
+     0,
+     99,
+     1.0,
+     2.9,
+     3.3
+    ]
+   },
+   "dlg": "SCOTTIE: 25 A GAME.|IQ: 6 ASSISTS.",
+   "vo": "Scottie answers with twenty five a game, and Quickley runs it with six assists."
+  },
+  {
+   "kind": "h2h_room",
+   "today": true,
+   "room": {
+    "name": "TODAY'S ROOM",
+    "sub": "SIM AVERAGES",
+    "top": "navy"
+   },
+   "players": [
+    "na",
+    "nb"
+   ],
+   "tags": [
+    "SCOTTIE",
+    "IQ"
+   ],
+   "box": {
+    "head": "NOW: SIM AVERAGES",
+    "rows": [
+     [
+      "SCOTTIE PTS",
+      "25.2"
+     ],
+     [
+      "IQ AST",
+      "6.2"
+     ],
+     [
+      "RJ PTS",
+      "22.1"
+     ]
+    ],
+    "count": true
+   },
+   "pp": [
+    "25 PPG",
+    "6 AST"
+   ],
+   "dlg": "SCOTTIE: 25 A GAME.|IQ: 6 ASSISTS.",
+   "full": true,
+   "vo": "",
+   "hold": 0.96
+  },
+  {
+   "kind": "h2h_town",
+   "irisIn": true,
+   "stat": {
+    "irisT": 0.12
+   },
+   "g7": {
+    "place": "TORONTO",
+    "sub": "GAME 7",
+    "pill": "23% GO TO 7",
+    "pill2": "WE WIN 27%"
+   },
+   "cfg2": {
+    "old": [
+     "oa",
+     "ob",
+     "oc"
+    ],
+    "new": [
+     "na",
+     "nb",
+     "nc"
+    ],
+    "otags": [
+     "KYLE",
+     "PASCAL",
+     "KAWHI"
+    ],
+    "ntags": [
+     "SCOTTIE",
+     "IQ",
+     "RJ"
+    ],
+    "count": 10000,
+    "title": "BEST RAPTORS TEAM EVER?",
+    "title2": "2019 VS NOW",
+    "rec": "2019: 58-24",
+    "bo7": "BEST OF 7",
+    "today": "TODAY"
+   },
+   "dlg": "23% GO TO GAME 7.|WE WIN 27% OF THOSE.",
+   "vo": "Twenty three percent go to Game seven, and we win about one in four."
+  },
+  {
+   "kind": "h2h_town",
+   "g7": {
+    "place": "TORONTO",
+    "sub": "GAME 7",
+    "pill": "23% GO TO 7",
+    "pill2": "WE WIN 27%"
+   },
+   "cfg2": {
+    "old": [
+     "oa",
+     "ob",
+     "oc"
+    ],
+    "new": [
+     "na",
+     "nb",
+     "nc"
+    ],
+    "otags": [
+     "KYLE",
+     "PASCAL",
+     "KAWHI"
+    ],
+    "ntags": [
+     "SCOTTIE",
+     "IQ",
+     "RJ"
+    ],
+    "count": 10000,
+    "title": "BEST RAPTORS TEAM EVER?",
+    "title2": "2019 VS NOW",
+    "rec": "2019: 58-24",
+    "bo7": "BEST OF 7",
+    "today": "TODAY"
+   },
+   "dlg": "23% GO TO GAME 7.|WE WIN 27% OF THOSE.",
+   "full": true,
+   "vo": "",
+   "hold": 0.81
+  },
+  {
+   "kind": "h2h_route",
+   "route": {
+    "name": "ROUTE TO THE TITLE",
+    "sub": "NOT YET",
+    "bar": "NBA TITLE: NOT YET",
+    "sign": "TITLE"
+   },
+   "walk": [
+    "na",
+    "nb"
+   ],
+   "wtags": [
+    "SCOTTIE",
+    "IQ"
+   ],
+   "irisIn": true,
+   "dlg": "TO PASS THEM:|WIN THE NBA TITLE.",
+   "vo": "To pass them for real, we have to do"
+  },
+  {
+   "kind": "h2h_route",
+   "route": {
+    "name": "ROUTE TO THE TITLE",
+    "sub": "NOT YET",
+    "bar": "NBA TITLE: NOT YET",
+    "sign": "TITLE"
+   },
+   "walk": [
+    "na",
+    "nb"
+   ],
+   "wtags": [
+    "SCOTTIE",
+    "IQ"
+   ],
+   "dlg": "TO PASS THEM:|WIN THE NBA TITLE.",
+   "full": true,
+   "vo": "",
+   "hold": 0.25
+  },
+  {
+   "kind": "h2h_route",
+   "route": {
+    "name": "ROUTE TO THE TITLE",
+    "sub": "NOT YET",
+    "bar": "NBA TITLE: NOT YET",
+    "sign": "TITLE"
+   },
+   "walk": [
+    "na",
+    "nb"
+   ],
+   "wtags": [
+    "SCOTTIE",
+    "IQ"
+   ],
+   "dlg": "ONLY ONE RAPTORS TEAM|HAS DONE IT.",
+   "vo": "What only one Raptors team has done."
+  },
+  {
+   "kind": "h2h_route",
+   "route": {
+    "name": "ROUTE TO THE TITLE",
+    "sub": "NOT YET",
+    "bar": "NBA TITLE: NOT YET",
+    "sign": "TITLE"
+   },
+   "walk": [
+    "na",
+    "nb"
+   ],
+   "wtags": [
+    "SCOTTIE",
+    "IQ"
+   ],
+   "dlg": "ONLY ONE RAPTORS TEAM|HAS DONE IT.",
+   "full": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "h2h_route",
+   "route": {
+    "name": "ROUTE TO THE TITLE",
+    "sub": "NOT YET",
+    "bar": "NBA TITLE: NOT YET",
+    "sign": "TITLE"
+   },
+   "walk": [
+    "na",
+    "nb"
+   ],
+   "wtags": [
+    "SCOTTIE",
+    "IQ"
+   ],
+   "full": true,
+   "dlg": "ONLY ONE RAPTORS TEAM|HAS DONE IT.",
+   "vo": "Win the title.",
+   "dissolve": true
+  },
+  {
+   "kind": "h2h_route",
+   "route": {
+    "name": "ROUTE TO THE TITLE",
+    "sub": "NOT YET",
+    "bar": "NBA TITLE: NOT YET",
+    "sign": "TITLE"
+   },
+   "walk": [
+    "na",
+    "nb"
+   ],
+   "wtags": [
+    "SCOTTIE",
+    "IQ"
+   ],
+   "full": true,
+   "dlg": "ONLY ONE RAPTORS TEAM|HAS DONE IT.",
+   "dissolve": true,
+   "vo": "",
+   "hold": 0.15
+  }
+ ],
+ "facts": [
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "runs",
+   "value": 10000,
+   "said": "10,000 sims / series, ten thousand | shown as 10000 / 10000.0"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "inputs.great.season",
+   "value": "2018-19",
+   "said": "2018-19 (2019)"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "inputs.great.w",
+   "value": 58,
+   "said": "58-24 / 73-9 | shown as 58 / 58.0"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "inputs.great.l",
+   "value": 24,
+   "said": "58-24 / 73-9 | shown as 24 / 24.0"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "inputs.great.margin",
+   "value": 6.0,
+   "said": "+X.X a game vs its own league | shown as 6 / 6.0"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "inputs.today.margin",
+   "value": 0.0,
+   "said": "NOW +X.X | shown as 0 / 0.0"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.great_wins_pct",
+   "value": 83.6,
+   "said": "great team wins X% of the series | shown as 84 / 83.6"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.great_most_common_len",
+   "value": 5,
+   "said": "most often in N | shown as 5 / 5.0"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.game7_pct",
+   "value": 23.1,
+   "said": "X% go to Game 7 | shown as 23 / 23.1"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.today_wins_game7_pct",
+   "value": 26.8,
+   "said": "we win X% of those (about 1 in N) | shown as 27 / 26.8"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.dist.old_in_5",
+   "value": 29.0,
+   "said": "the highlighted bar | shown as 29 / 29.0"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.dist.old_in_4",
+   "value": 18.6,
+   "said": "bar height | shown as 19 / 18.6"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.dist.old_in_5",
+   "value": 29.0,
+   "said": "bar height | shown as 29 / 29.0"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.dist.old_in_6",
+   "value": 19.0,
+   "said": "bar height | shown as 19 / 19.0"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.dist.old_in_7",
+   "value": 16.9,
+   "said": "bar height | shown as 17 / 16.9"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.dist.now_in_4",
+   "value": 1.1,
+   "said": "bar height | shown as 1 / 1.1"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.dist.now_in_5",
+   "value": 2.8,
+   "said": "bar height | shown as 3 / 2.8"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.dist.now_in_6",
+   "value": 6.3,
+   "said": "bar height | shown as 6 / 6.3"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.dist.now_in_7",
+   "value": 6.2,
+   "said": "bar height | shown as 6 / 6.2"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.great_players.0.sim.pts",
+   "value": 28.15,
+   "said": "28 / 28.2 points | shown as 28 / 28.1"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.great_players.0.sim.reb",
+   "value": 7.74,
+   "said": "8 / 7.7 rebounds | shown as 8 / 7.7"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.great_players.0.sim.stl",
+   "value": 1.9,
+   "said": "STL 1.9 | shown as 2 / 1.9"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.great_players.0.sim.fg3",
+   "value": 2.01,
+   "said": "3PM 5.4 / 5 threes | shown as 2 / 2.0"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.great_players.0.sim.pts30_pct",
+   "value": 40.1,
+   "said": "30-PT GMS X% | shown as 40 / 40.1"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.great_players.0.mvp_pct_of_old_wins",
+   "value": 96.7,
+   "said": "series MVP in X% of their wins | shown as 97 / 96.7"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.today_players.1.sim.pts",
+   "value": 25.19,
+   "said": "PTS 25.2 / 25 a game | shown as 25 / 25.2"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.today_players.2.sim.ast",
+   "value": 6.17,
+   "said": "AST 6.2 / 6 assists | shown as 6 / 6.2"
+  },
+  {
+   "sim": "data/sim/raptors_h2h_2026-11-19.json",
+   "path": "outputs.today_players.0.sim.pts",
+   "value": 22.14,
+   "said": "third row | shown as 22 / 22.1"
+  },
+  {
+   "claim": "2018-19 Raptors went 58-24, scored 114.4 and allowed 108.4 per game (+6.0), won the 2019 NBA title over Golden State",
+   "source": "https://www.basketball-reference.com/teams/TOR/2019.html"
+  },
+  {
+   "claim": "Kawhi Leonard was the 2019 NBA Finals MVP",
+   "source": "https://www.basketball-reference.com/playoffs/NBA_2019.html"
+  },
+  {
+   "claim": "The 2019 title is the Raptors' only NBA championship (franchise: 1 championship)",
+   "source": "https://www.basketball-reference.com/teams/TOR/"
+  },
+  {
+   "claim": "Raptors 2026-27: 5-10, 112.0 scored and allowed per game (ESPN schedule, 15 completed games)",
+   "source": "https://www.espn.com/nba/team/schedule/_/name/tor"
+  },
+  {
+   "claim": "Method: gen/sim_h2h.py (point margin per game vs its own league, shrunk by sample size; best-of-7 2-2-1-1-1, home court to the better record; 8-man playoff rotations; Gamma/Poisson box scores; series MVP = best series Game Score on the winner). Fan simulation, not a prediction.",
+   "source": "https://www.basketball-reference.com/about/glossary.html"
+  }
+ ]
+}

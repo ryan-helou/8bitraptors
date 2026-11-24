@@ -1,0 +1,249 @@
+{
+ "team": "raptors",
+ "name": "tr_scottie",
+ "record": "5-4",
+ "caption": "IF SCOTTIE HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🥊 Riolu: a hard worker, but still just a youngster. Rookie of the Year in year one\n🔵 Lucario: reads the thoughts and movements of everyone around it. Reads the whole floor, 5.1 assists a night\n❄️ Weavile: its ability is literally called Pickpocket. 2.3 steals a game\n⭐ Garchomp: flies as fast as a jet, never lets its prey escape. All-Star in 2024 and 2026\n🔥 Incineroar: when its fighting spirit is lit, its flames burn hotter. 41 points on 19-of-34 this season\n🦖 Tyrantrum: the king of the ancient world. Our raptor, 23.5 points a night\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Scottie Barnes had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF SCOTTIE BARNES HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Riolu. A hard worker, but still just a youngster. Year one, and Scottie wins Rookie of the Year.",
+   "dlg": "A HARD-WORKING YOUNGSTER.|YEAR 1: ROOKIE OF THE YEAR"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Lucario. It reads the aura of everyone around it, their thoughts and their movements. Scottie reads the whole floor: five assists a night.",
+   "dlg": "IT READS EVERYONE'S AURA.|5.1 ASSISTS A NIGHT!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Weavile. Its ability is literally called Pickpocket. Quick hands, two steals a game.",
+   "dlg": "ITS ABILITY: PICKPOCKET.|2.3 STEALS A GAME!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Garchomp. It flies as fast as a jet, and it never lets its prey escape. An All-Star in twenty twenty-four, and again in twenty twenty-six.",
+   "dlg": "FLIES AS FAST AS A JET.|ALL-STAR: 2024 AND 2026!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Incineroar. When its fighting spirit is lit, its flames burn hotter. Forty-one points in one night this season.",
+   "dlg": "FIRED UP, ITS FLAMES RAGE.|41 POINTS IN ONE NIGHT!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Tyrantrum. The king of the ancient world. Our raptor, twenty-three point five a night.",
+   "dlg": "KING OF THE ANCIENT WORLD.|23.5 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.1
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 2.3
+  },
+  {
+   "game": "401909281",
+   "player": "4433134",
+   "stat": "PTS",
+   "value": 41
+  },
+  {
+   "game": "401909281",
+   "player": "4433134",
+   "stat": "FG",
+   "value": "19-34"
+  },
+  {
+   "claim": "Barnes was Rookie of the Year in year 1 (2022), All-Star 2024 and 2026, drafted #4",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:4433134@TOR",
+   "mon": "pk:riolu",
+   "nick": "RIOLU",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "ROOKIE",
+   "stat": "ROOKIE OF YEAR"
+  },
+  {
+   "key": "p:4433134@TOR",
+   "mon": "pk:lucario",
+   "nick": "LUCARIO",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "FLOOR GENERAL",
+   "stat": "5.1 APG"
+  },
+  {
+   "key": "p:4433134@TOR",
+   "mon": "pk:weavile",
+   "nick": "WEAVILE",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "label": "THIEF",
+   "stat": "2.3 STL"
+  },
+  {
+   "key": "p:4433134@TOR",
+   "mon": "pk:garchomp",
+   "nick": "GARCHOMP",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "ALL-STAR",
+   "stat": "2024 + 2026"
+  },
+  {
+   "key": "p:4433134@TOR",
+   "mon": "pk:incineroar",
+   "nick": "INCINEROAR",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "THE HEATER",
+   "stat": "41 PTS"
+  },
+  {
+   "key": "p:4433134@TOR",
+   "mon": "pk:tyrantrum",
+   "nick": "TYRANTRUM",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "23.5 PPG"
+  }
+ ],
+ "mode": "trainer"
+}

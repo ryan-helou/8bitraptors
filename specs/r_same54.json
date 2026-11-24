@@ -1,0 +1,102 @@
+{
+ "team": "raptors",
+ "name": "same54",
+ "record": "5-4",
+ "caption": "5-4 AGAIN 🎮🏀 Same start as last season. Except now we have Kawhi.\n\n• 2025-26: 5-4 after 9 games, finished 46-36, 5th seed in the East\n• Then Cleveland beat us in 7 games in the first round\n• Sept 14, 2026: we trade Brandon Ingram, Gradey Dick and 5 draft picks for Kawhi Leonard\n• 2026-27: 5-4 after 9 games. Kawhi has played 2 of them\n\nAre we better than last year's team? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "5-4 AGAIN",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "2026-27",
+   "lines": [
+    [
+     "5-4",
+     "9 GAMES"
+    ]
+   ],
+   "vo": "Through nine games, we went five and four. The exact same start as last season. But this time, we have Kawhi Leonard.",
+   "dlg": "9 GAMES IN: 5-4.|SAME START AS LAST YEAR."
+  },
+  {
+   "kind": "fire",
+   "head": "LAST SEASON",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "5TH SEED",
+   "lines": [
+    [
+     "46-36",
+     "RECORD"
+    ]
+   ],
+   "vo": "Last season, that five and four start turned into forty-six wins, the fifth seed, and our first playoff trip since twenty twenty-two.",
+   "dlg": "LAST YEAR: 46-36,|5TH SEED IN THE EAST."
+  },
+  {
+   "kind": "fire",
+   "head": "ROUND 1",
+   "key": "p:4395625@TOR",
+   "name": "RJ",
+   "badge": "VS CLEVELAND",
+   "lines": [
+    [
+     "3-4",
+     "SERIES"
+    ]
+   ],
+   "vo": "Then Cleveland beat us in seven games in the first round.",
+   "dlg": "THEN CLEVELAND BEAT US|IN 7 GAMES IN ROUND 1."
+  },
+  {
+   "kind": "fire",
+   "head": "THE TRADE",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "2 OF 9 GAMES",
+   "lines": [
+    [
+     "5",
+     "PICKS"
+    ],
+    [
+     "2",
+     "GAMES"
+    ]
+   ],
+   "vo": "So we traded Brandon Ingram, Gradey Dick and five draft picks to bring Kawhi back. He played two of our first nine games.",
+   "dlg": "INGRAM, DICK + 5 PICKS...|KAWHI: 2 OF OUR FIRST 9."
+  },
+  {
+   "kind": "next",
+   "head": "BETTER?",
+   "logo": "l:TOR",
+   "rec": "5-4",
+   "ntxt": "AGAIN",
+   "nday": "9 GAMES",
+   "vo": "Same start. Are we better than last year's team? Comment below.",
+   "dlg": "SAME 5-4 START.|BETTER THAN LAST YEAR?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 2
+  },
+  {
+   "claim": "2026-27 game log: game 9, November 6 at Milwaukee, W 121–107, record 5–4",
+   "source": "https://en.wikipedia.org/wiki/2026–27_Toronto_Raptors_season"
+  },
+  {
+   "claim": "2025-26 game log: game 9, November 7 at Atlanta, W 109–97, record 5–4; finished the regular season 46–36, 5th seed in the Eastern Conference; first playoffs since 2022; lost to the Cleveland Cavaliers in seven games of the first round (round 1, 3–4)",
+   "source": "https://en.wikipedia.org/wiki/2025–26_Toronto_Raptors_season"
+  },
+  {
+   "claim": "On September 14, 2026, Leonard was traded back to the Raptors in exchange for Brandon Ingram, Gradey Dick and five draft picks",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  }
+ ]
+}

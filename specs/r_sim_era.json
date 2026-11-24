@@ -1,0 +1,1025 @@
+{
+ "team": "raptors",
+ "name": "sim_era",
+ "template": "fmt_sim.html",
+ "pace": "wolves",
+ "music": "calm",
+ "cps": 40,
+ "voice_eq": "bright",
+ "record": "5-8",
+ "caption": "WE SIMMED THE SCOTTIE + KAWHI ERA 10,000 TIMES 🦖💍\n\n10 seasons from our 5-8 start. Here's what came out:\n\n💍 At least one ring: 24% of runs (about 1 in 4)\n📅 Best shot: THIS season at 6%. After year 3 it's around 2 to 3% a year\n⭐ Scottie: about 4 more All-Star games (around 6 for his career). Kawhi: about 2 more\n🏆 MVP: Scottie wins one in 1% of runs. Luka takes 34% of all the MVPs\n🚧 Who ends our season most: Boston (8% of sim seasons) and New York (6%)\n✨ The run we were hoping for: 59-23 and a ring THIS season with Kawhi as Finals MVP, and Kawhi MVP the same year\n\nIt's a fan simulation, not a prediction. Do we get one in the next three years?",
+ "party": [
+  {
+   "id": "sb",
+   "key": "p:4433134"
+  },
+  {
+   "id": "kl",
+   "key": "p:6450"
+  },
+  {
+   "id": "ld",
+   "key": "p:3945274"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "sim_arena",
+   "cfg": {
+    "players": [
+     "sb",
+     "kl"
+    ],
+    "tags": [
+     "BARNES",
+     "LEONARD"
+    ],
+    "title": "SCOTTIE + KAWHI: 10,000 SIMS",
+    "sign": "2026-36",
+    "count": 10000
+   },
+   "count": true,
+   "full": true,
+   "dlg": "WE SIMULATED THE|SCOTTIE + KAWHI ERA",
+   "vo": "We simulated the Scottie and Kawhi era"
+  },
+  {
+   "kind": "sim_arena",
+   "count": true,
+   "stat": {
+    "box": 0,
+    "rows": [
+     0.25
+    ]
+   },
+   "box": {
+    "head": "THE SIM",
+    "rows": [
+     [
+      "SIMS",
+      "10,000"
+     ]
+    ]
+   },
+   "dlg": "10,000 TIMES.",
+   "vo": "ten thousand times."
+  },
+  {
+   "kind": "sim_arena",
+   "box": {
+    "head": "THE SIM",
+    "rows": [
+     [
+      "SIMS",
+      "10,000"
+     ]
+    ]
+   },
+   "dlg": "10,000 TIMES.",
+   "full": true,
+   "vo": "",
+   "hold": 0.74
+  },
+  {
+   "kind": "sim_arena",
+   "box": {
+    "head": "THE SIM",
+    "rows": [
+     [
+      "SIMS",
+      "10,000"
+     ],
+     [
+      "SEASONS",
+      "10"
+     ]
+    ]
+   },
+   "dlg": "10 SEASONS FROM|OUR 5-8 START.",
+   "vo": "Ten seasons from our five and eight start."
+  },
+  {
+   "kind": "sim_map",
+   "flash": true,
+   "stat": {
+    "box": 0.25,
+    "rows": [
+     0.9
+    ]
+   },
+   "box": {
+    "head": "ALL-STAR GAMES, 10 YEARS",
+    "rows": [
+     [
+      "SCOTTIE ALL-STARS",
+      "+4"
+     ]
+    ]
+   },
+   "dlg": "SCOTTIE: ABOUT 4 MORE|ALL-STAR GAMES.",
+   "vo": "Scottie makes about four more All-Star games,"
+  },
+  {
+   "kind": "sim_map",
+   "box": {
+    "head": "ALL-STAR GAMES, 10 YEARS",
+    "rows": [
+     [
+      "SCOTTIE ALL-STARS",
+      "+4"
+     ]
+    ]
+   },
+   "dlg": "THAT'S AROUND 6|FOR HIS CAREER.",
+   "vo": "that's around six for his career."
+  },
+  {
+   "kind": "sim_map",
+   "box": {
+    "head": "ALL-STAR GAMES, 10 YEARS",
+    "rows": [
+     [
+      "SCOTTIE ALL-STARS",
+      "+4"
+     ],
+     [
+      "KAWHI ALL-STARS",
+      "+2"
+     ]
+    ]
+   },
+   "dlg": "KAWHI ADDS|ABOUT 2.",
+   "vo": "Kawhi adds about two,"
+  },
+  {
+   "kind": "sim_map",
+   "stat": {
+    "rows": [
+     1.2
+    ]
+   },
+   "box": {
+    "head": "ALL-STAR GAMES, 10 YEARS",
+    "rows": [
+     [
+      "SCOTTIE ALL-STARS",
+      "+4"
+     ],
+     [
+      "KAWHI ALL-STARS",
+      "+2"
+     ],
+     [
+      "SCOTTIE 10 FOR 10",
+      "1 IN 250"
+     ]
+    ]
+   },
+   "dlg": "1 RUN IN 250: SCOTTIE|GOES 10 FOR 10.",
+   "vo": "and in one run in two fifty, Scottie goes ten for ten."
+  },
+  {
+   "kind": "sim_map",
+   "box": {
+    "head": "ALL-STAR GAMES, 10 YEARS",
+    "rows": [
+     [
+      "SCOTTIE ALL-STARS",
+      "+4"
+     ],
+     [
+      "KAWHI ALL-STARS",
+      "+2"
+     ],
+     [
+      "SCOTTIE 10 FOR 10",
+      "1 IN 250"
+     ]
+    ]
+   },
+   "dlg": "1 RUN IN 250: SCOTTIE|GOES 10 FOR 10.",
+   "full": true,
+   "vo": "",
+   "hold": 0.26
+  },
+  {
+   "kind": "sim_gym",
+   "flash": true,
+   "gym": {
+    "logo": "l:LAL",
+    "roof": "auto:LAL",
+    "name": "LAKERS GYM",
+    "sub": "MVP RACE"
+   },
+   "players": [
+    "sb",
+    "ld"
+   ],
+   "tags": [
+    "BARNES",
+    "DONCIC"
+   ],
+   "stat": {
+    "sign": 1.3
+   },
+   "dlg": "MVP IS HARDER.",
+   "vo": "MVP is harder."
+  },
+  {
+   "kind": "sim_gym",
+   "gym": {
+    "logo": "l:LAL",
+    "roof": "auto:LAL",
+    "name": "LAKERS GYM",
+    "sub": "MVP RACE"
+   },
+   "players": [
+    "sb",
+    "ld"
+   ],
+   "tags": [
+    "BARNES",
+    "DONCIC"
+   ],
+   "stat": {
+    "box": 0.9,
+    "rows": [
+     1.4
+    ]
+   },
+   "box": {
+    "head": "MVP RACE (10,000 RUNS)",
+    "rows": [
+     [
+      "SCOTTIE WINS ONE",
+      "1.0%"
+     ]
+    ]
+   },
+   "dlg": "SCOTTIE WINS ONE IN|1% OF RUNS.",
+   "vo": "Scottie wins one in one percent of runs,"
+  },
+  {
+   "kind": "sim_gym",
+   "gym": {
+    "logo": "l:LAL",
+    "roof": "auto:LAL",
+    "name": "LAKERS GYM",
+    "sub": "MVP RACE"
+   },
+   "players": [
+    "sb",
+    "ld"
+   ],
+   "tags": [
+    "BARNES",
+    "DONCIC"
+   ],
+   "stat": {
+    "rows": [
+     0.9
+    ]
+   },
+   "box": {
+    "head": "MVP RACE (10,000 RUNS)",
+    "rows": [
+     [
+      "SCOTTIE WINS ONE",
+      "1.0%"
+     ],
+     [
+      "LUKA'S SHARE",
+      "34%"
+     ]
+    ]
+   },
+   "dlg": "LUKA TAKES|ABOUT 1 IN 3.",
+   "vo": "Luka takes about one in three,"
+  },
+  {
+   "kind": "sim_gym",
+   "gym": {
+    "logo": "l:LAL",
+    "roof": "auto:LAL",
+    "name": "LAKERS GYM",
+    "sub": "MVP RACE"
+   },
+   "players": [
+    "sb",
+    "ld"
+   ],
+   "tags": [
+    "BARNES",
+    "DONCIC"
+   ],
+   "box": {
+    "head": "MVP RACE (10,000 RUNS)",
+    "rows": [
+     [
+      "SCOTTIE WINS ONE",
+      "1.0%"
+     ],
+     [
+      "LUKA'S SHARE",
+      "34%"
+     ]
+    ]
+   },
+   "dlg": "LUKA TAKES|ABOUT 1 IN 3.",
+   "full": true,
+   "vo": "",
+   "hold": 0.26
+  },
+  {
+   "kind": "sim_gym",
+   "flash": true,
+   "gym": {
+    "logo": "l:BOS",
+    "roof": "auto:BOS",
+    "name": "CELTICS GYM",
+    "sub": "SERIES WE LOST"
+   },
+   "stat": {
+    "sign": 1.1
+   },
+   "dlg": "WHO ENDS OUR|SEASONS?",
+   "vo": "and the teams that end our seasons?"
+  },
+  {
+   "kind": "sim_gym",
+   "gym": {
+    "logo": "l:BOS",
+    "roof": "auto:BOS",
+    "name": "CELTICS GYM",
+    "sub": "SERIES WE LOST"
+   },
+   "dlg": "WHO ENDS OUR|SEASONS?",
+   "full": true,
+   "vo": "",
+   "hold": 0.3
+  },
+  {
+   "kind": "sim_gym",
+   "gym": {
+    "logo": "l:BOS",
+    "roof": "auto:BOS",
+    "name": "CELTICS GYM",
+    "sub": "SERIES WE LOST"
+   },
+   "stat": {
+    "box": 0.1,
+    "rows": [
+     0.4,
+     1.1
+    ]
+   },
+   "box": {
+    "head": "WHO ENDS OUR SEASON (% OF SIM YEARS)",
+    "rows": [
+     [
+      "BOSTON",
+      "8%"
+     ],
+     [
+      "NEW YORK",
+      "6%"
+     ]
+    ]
+   },
+   "dlg": "MOST OFTEN BOSTON|AND NEW YORK.",
+   "vo": "Most often Boston and New York."
+  },
+  {
+   "kind": "sim_gym",
+   "gym": {
+    "logo": "l:BOS",
+    "roof": "auto:BOS",
+    "name": "CELTICS GYM",
+    "sub": "SERIES WE LOST"
+   },
+   "box": {
+    "head": "WHO ENDS OUR SEASON (% OF SIM YEARS)",
+    "rows": [
+     [
+      "BOSTON",
+      "8%"
+     ],
+     [
+      "NEW YORK",
+      "6%"
+     ]
+    ]
+   },
+   "dlg": "MOST OFTEN BOSTON|AND NEW YORK.",
+   "full": true,
+   "vo": "",
+   "hold": 0.7
+  },
+  {
+   "kind": "sim_ring",
+   "card": {
+    "q": true
+   },
+   "dlg": "SO, DO WE GET|A RING?",
+   "vo": "So, do we get a ring?"
+  },
+  {
+   "kind": "sim_ring",
+   "card": {
+    "q": true
+   },
+   "dlg": "SO, DO WE GET|A RING?",
+   "full": true,
+   "vo": "",
+   "hold": 0.66
+  },
+  {
+   "kind": "sim_ring",
+   "stat": {
+    "big": 0.5,
+    "ex": 1.0
+   },
+   "card": {
+    "q": true,
+    "big": {
+     "v": "24%",
+     "lab": "AT LEAST|ONE RING"
+    },
+    "ex": {
+     "v": "EXACTLY 1: 19%"
+    }
+   },
+   "dlg": "IN 24% OF RUNS,|YES.",
+   "vo": "In twenty four percent of runs, yes,"
+  },
+  {
+   "kind": "sim_ring",
+   "card": {
+    "big": {
+     "v": "24%",
+     "lab": "AT LEAST|ONE RING"
+    },
+    "ex": {
+     "v": "EXACTLY 1: 19%"
+    },
+    "odds": {
+     "v": "1 IN 4"
+    }
+   },
+   "dlg": "ABOUT 1 IN 4.",
+   "vo": "that's about one in four."
+  },
+  {
+   "kind": "sim_ring",
+   "stat": {
+    "bars": 0.2,
+    "season": 1.4
+   },
+   "card": {
+    "big": {
+     "v": "24%",
+     "lab": "AT LEAST|ONE RING"
+    },
+    "ex": {
+     "v": "EXACTLY 1: 19%"
+    },
+    "odds": {
+     "v": "1 IN 4"
+    },
+    "bars": {
+     "v": [
+      6.2,
+      5.3,
+      3.5,
+      2.8,
+      2.7,
+      2.6,
+      2.4,
+      2.1,
+      2.2,
+      1.9
+     ],
+     "hi": 3
+    },
+    "season": {
+     "v": "THIS SEASON: 6%"
+    }
+   },
+   "dlg": "BEST SHOT: THIS|SEASON, ABOUT 6%.",
+   "vo": "Our best shot is this season, about six percent."
+  },
+  {
+   "kind": "sim_ring",
+   "card": {
+    "big": {
+     "v": "24%",
+     "lab": "AT LEAST|ONE RING"
+    },
+    "ex": {
+     "v": "EXACTLY 1: 19%"
+    },
+    "odds": {
+     "v": "1 IN 4"
+    },
+    "bars": {
+     "v": [
+      6.2,
+      5.3,
+      3.5,
+      2.8,
+      2.7,
+      2.6,
+      2.4,
+      2.1,
+      2.2,
+      1.9
+     ],
+     "hi": 3
+    },
+    "season": {
+     "v": "THIS SEASON: 6%"
+    }
+   },
+   "dlg": "BEST SHOT: THIS|SEASON, ABOUT 6%.",
+   "full": true,
+   "vo": "",
+   "hold": 0.9
+  },
+  {
+   "kind": "sim_ring",
+   "card": {
+    "big": {
+     "v": "24%",
+     "lab": "AT LEAST|ONE RING"
+    },
+    "ex": {
+     "v": "EXACTLY 1: 19%"
+    },
+    "odds": {
+     "v": "1 IN 4"
+    },
+    "bars": {
+     "v": [
+      6.2,
+      5.3,
+      3.5,
+      2.8,
+      2.7,
+      2.6,
+      2.4,
+      2.1,
+      2.2,
+      1.9
+     ],
+     "hi": 3
+    },
+    "season": {
+     "v": "THIS SEASON: 6%"
+    }
+   },
+   "dlg": "AFTER YEAR 3, IT'S|AROUND 2 OR 3%.",
+   "vo": "After year three, it's around two or three."
+  },
+  {
+   "kind": "sim_ring",
+   "card": {
+    "big": {
+     "v": "24%",
+     "lab": "AT LEAST|ONE RING"
+    },
+    "ex": {
+     "v": "EXACTLY 1: 19%"
+    },
+    "odds": {
+     "v": "1 IN 4"
+    },
+    "bars": {
+     "v": [
+      6.2,
+      5.3,
+      3.5,
+      2.8,
+      2.7,
+      2.6,
+      2.4,
+      2.1,
+      2.2,
+      1.9
+     ],
+     "hi": 3
+    },
+    "season": {
+     "v": "THIS SEASON: 6%"
+    }
+   },
+   "dlg": "AFTER YEAR 3, IT'S|AROUND 2 OR 3%.",
+   "full": true,
+   "vo": "",
+   "hold": 0.42
+  },
+  {
+   "kind": "sim_hall",
+   "flash": true,
+   "dlg": "THE RUN WE WERE|HOPING FOR?",
+   "vo": "The run we were hoping for?"
+  },
+  {
+   "kind": "sim_hall",
+   "stat": {
+    "box": 0,
+    "rows": [
+     0.3,
+     1.4
+    ]
+   },
+   "box": {
+    "head": "THE RUN WE HOPED FOR",
+    "rows": [
+     [
+      "2026-27",
+      "59-23"
+     ],
+     [
+      "RING",
+      "1"
+     ]
+    ]
+   },
+   "dlg": "59 WINS AND A|RING THIS SEASON.",
+   "vo": "Fifty nine wins and a ring this season,"
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "box": {
+    "head": "THE RUN WE HOPED FOR",
+    "rows": [
+     [
+      "2026-27",
+      "59-23"
+     ],
+     [
+      "RING",
+      "1"
+     ],
+     [
+      "FINALS MVP",
+      "KAWHI"
+     ]
+    ]
+   },
+   "dlg": "KAWHI IS FINALS MVP.",
+   "vo": "with Kawhi as Finals MVP."
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "box": {
+    "head": "THE RUN WE HOPED FOR",
+    "rows": [
+     [
+      "2026-27",
+      "59-23"
+     ],
+     [
+      "RING",
+      "1"
+     ],
+     [
+      "FINALS MVP",
+      "KAWHI"
+     ]
+    ]
+   },
+   "dlg": "KAWHI IS FINALS MVP.",
+   "full": true,
+   "vo": "",
+   "hold": 0.48
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "stat": {
+    "rows": [
+     0.6
+    ]
+   },
+   "box": {
+    "head": "THE RUN WE HOPED FOR",
+    "rows": [
+     [
+      "2026-27",
+      "59-23"
+     ],
+     [
+      "RING",
+      "1"
+     ],
+     [
+      "FINALS MVP",
+      "KAWHI"
+     ],
+     [
+      "KAWHI MVP",
+      "2026-27"
+     ]
+    ]
+   },
+   "dlg": "AND REGULAR SEASON|MVP, THE SAME YEAR.",
+   "vo": "And regular season MVP, the same year."
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "box": {
+    "head": "THE BIG PICTURE",
+    "rows": [
+     [
+      "RUNS, NO RING",
+      "76%"
+     ]
+    ]
+   },
+   "dlg": "MOST RUNS NEVER|GET THERE.",
+   "vo": "Most runs never get there,"
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "box": {
+    "head": "THE BIG PICTURE",
+    "rows": [
+     [
+      "RUNS, NO RING",
+      "76%"
+     ],
+     [
+      "THE WINDOW",
+      "2026-29"
+     ]
+    ]
+   },
+   "dlg": "THE WINDOW IS THE|NEXT 3 YEARS.",
+   "vo": "the window is the next three years."
+  },
+  {
+   "kind": "sim_hall",
+   "trophy": true,
+   "box": {
+    "head": "THE BIG PICTURE",
+    "rows": [
+     [
+      "RUNS, NO RING",
+      "76%"
+     ],
+     [
+      "THE WINDOW",
+      "2026-29"
+     ]
+    ]
+   },
+   "dlg": "THE WINDOW IS THE|NEXT 3 YEARS.",
+   "full": true,
+   "vo": "",
+   "hold": 0.38
+  }
+ ],
+ "facts": [
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "runs",
+   "value": 10000,
+   "said": "10,000 sims, ten thousand"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "seasons",
+   "value": 10,
+   "said": "10 seasons, 10 years, 10 for 10"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "season_labels.0",
+   "value": "2026-27",
+   "said": "2026-27"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "season_labels.9",
+   "value": "2035-36",
+   "said": "2035-36 -> the sign 2026-36"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.record_now",
+   "value": "5-8",
+   "said": "our 5-8 start"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.allstars.Scottie Barnes.mean_added",
+   "value": 3.67,
+   "said": "about 4 more All-Star games (+4)"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.allstars.Kawhi Leonard.mean_added",
+   "value": 1.78,
+   "said": "about 2 (+2)"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.allstars.Scottie Barnes.at_least.10",
+   "value": 0.4,
+   "said": "1 run in 250 (0.4% = 1/250)"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.mvp.ours_at_least_one_pct.Scottie Barnes",
+   "value": 1.0,
+   "said": "about 1% of runs (1.0%)"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.mvp.share_of_all_mvps_pct.0.player",
+   "value": "Luka Doncic",
+   "said": ""
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.mvp.share_of_all_mvps_pct.0.pct",
+   "value": 34.3,
+   "said": "34%, about 1 in 3"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.season_enders_pct_of_sim_seasons.0.0",
+   "value": "BOS",
+   "said": ""
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.season_enders_pct_of_sim_seasons.0.1",
+   "value": 8.2,
+   "said": "8%"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.season_enders_pct_of_sim_seasons.1.0",
+   "value": "NY",
+   "said": ""
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.season_enders_pct_of_sim_seasons.1.1",
+   "value": 5.9,
+   "said": "6%"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.at_least_one_pct",
+   "value": 24.2,
+   "said": "24%, about 1 in 4"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.exactly_one_pct",
+   "value": 18.5,
+   "said": "EXACTLY 1: 19% (18.5)"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2026-27",
+   "value": 6.2,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2027-28",
+   "value": 5.3,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2028-29",
+   "value": 3.5,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2029-30",
+   "value": 2.8,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2030-31",
+   "value": 2.7,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2031-32",
+   "value": 2.6,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2032-33",
+   "value": 2.4,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2033-34",
+   "value": 2.1,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2034-35",
+   "value": 2.2,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2035-36",
+   "value": 1.9,
+   "said": "bar"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.per_season_pct.2026-27",
+   "value": 6.2,
+   "said": "THIS SEASON: 6%, about 6%"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.after_year3_avg_pct",
+   "value": 2.4,
+   "said": "after year 3 (seasons 4-10, 2.8 down to 1.9 percent) around 2 or 3"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.none_pct",
+   "value": 75.8,
+   "said": "RUNS, NO RING 76%"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.window",
+   "value": "2026-29",
+   "said": "THE WINDOW 2026-29, the next 3 years"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.rings.window_seasons",
+   "value": 3,
+   "said": "3 years"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.run_we_hoped_for.season",
+   "value": "2026-27",
+   "said": "2026-27 this season"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.run_we_hoped_for.record",
+   "value": "59-23",
+   "said": "59-23, a 59-win season"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.run_we_hoped_for.finals_mvp",
+   "value": "Kawhi Leonard",
+   "said": "FINALS MVP KAWHI"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.run_we_hoped_for.mvp_seasons.0.season",
+   "value": "2026-27",
+   "said": "KAWHI MVP 2026-27"
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.run_we_hoped_for.mvp_seasons.0.player",
+   "value": "Kawhi Leonard",
+   "said": ""
+  },
+  {
+   "sim": "data/sim/raptors_2026-11-18.json",
+   "path": "outputs.run_we_hoped_for.ring_seasons.0",
+   "value": "2026-27",
+   "said": "RING 1 (the run's first ring)"
+  },
+  {
+   "claim": "Toronto Raptors 5-8 in the ESPN standings on Nov 18, 2026",
+   "source": "https://www.espn.com/nba/standings"
+  },
+  {
+   "claim": "Scottie Barnes: 2x NBA All-Star (2024, 2026); about 4 more in the sim -> around 6 for his career",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  }
+ ]
+}

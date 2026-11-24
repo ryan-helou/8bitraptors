@@ -1,0 +1,174 @@
+{
+ "team": "raptors",
+ "name": "extra1",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "THE NEXT DEMAR? 🎮🏀 DeMar DeRozan was our No. 9 pick and became our all-time leading scorer. Collin Murray-Boyles was our No. 9 pick too.\n\n• DeMar as a rookie (2009-10): 8.6 PPG, 2.9 RPG\n• Collin as a rookie (2025-26): 8.5 PPG, 5.0 RPG\n• DeMar in year 2 (2010-11): 17.2 PPG, all 82 games\n• Collin in year 2, first 12 games: 10.1 PPG, 1.1 SPG\n\nDoes Collin make the DeMar jump? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "THE NEXT DEMAR?",
+   "key": "p:3978@TOR",
+   "name": "DEMAR",
+   "badge": "2009 PICK 9",
+   "lines": [
+    [
+     "#9",
+     "2009 DRAFT"
+    ]
+   ],
+   "vo": "DeMar DeRozan was our number nine pick. So is Collin Murray-Boyles. Can he follow the same path?",
+   "dlg": "DEMAR: PICK 9 IN 2009.|COLLIN: PICK 9 IN 2025."
+  },
+  {
+   "kind": "fire",
+   "head": "ROOKIE DEMAR",
+   "key": "p:3978@TOR",
+   "name": "DEMAR",
+   "badge": "2009-10",
+   "lines": [
+    [
+     "8.6",
+     "PPG"
+    ],
+    [
+     "2.9",
+     "RPG"
+    ]
+   ],
+   "vo": "DeMar as a rookie: eight point six points a night. Nobody was calling him a star yet.",
+   "dlg": "DEMAR AS A ROOKIE:|8.6 PPG, 2.9 RPG."
+  },
+  {
+   "kind": "fire",
+   "head": "ROOKIE COLLIN",
+   "key": "p:5093267@TOR",
+   "name": "COLLIN",
+   "badge": "2025-26",
+   "lines": [
+    [
+     "8.5",
+     "PPG"
+    ],
+    [
+     "5.0",
+     "RPG"
+    ]
+   ],
+   "vo": "Collin as a rookie: eight point five. Almost the same, with five rebounds a night.",
+   "dlg": "COLLIN AS A ROOKIE:|8.5 PPG, 5.0 RPG."
+  },
+  {
+   "kind": "fire",
+   "head": "THE JUMP",
+   "key": "p:3978@TOR",
+   "name": "DEMAR",
+   "badge": "YEAR 2",
+   "lines": [
+    [
+     "17.2",
+     "PPG"
+    ],
+    [
+     "82",
+     "GAMES"
+    ]
+   ],
+   "vo": "Then, in year two, DeMar doubled it. Seventeen point two a night, in all eighty-two games.",
+   "dlg": "DEMAR, YEAR 2: 17.2 PPG.|ALL 82 GAMES."
+  },
+  {
+   "kind": "fire",
+   "head": "COLLIN NOW",
+   "key": "p:5093267@TOR",
+   "name": "COLLIN",
+   "badge": "YEAR 2",
+   "lines": [
+    [
+     "10.1",
+     "PPG"
+    ],
+    [
+     "12",
+     "GAMES"
+    ]
+   ],
+   "vo": "Collin's year two, in his first twelve games: ten point one a night, plus one point one steals.",
+   "dlg": "COLLIN, YEAR 2, 12 GAMES:|10.1 PPG, 1.1 STEALS."
+  },
+  {
+   "kind": "next",
+   "head": "SAME PATH?",
+   "logo": "l:TOR",
+   "rec": "#9",
+   "ntxt": "DEMAR'S",
+   "nday": "JUMP?",
+   "vo": "Does Collin make the DeMar jump? Yes or no? Comment below.",
+   "dlg": "DOES COLLIN MAKE THE JUMP?|YES OR NO? COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3978",
+   "season": "2009-10",
+   "stat": "PTS",
+   "value": 8.6
+  },
+  {
+   "player": "3978",
+   "season": "2009-10",
+   "stat": "REB",
+   "value": 2.9
+  },
+  {
+   "player": "3978",
+   "season": "2010-11",
+   "stat": "PTS",
+   "value": 17.2
+  },
+  {
+   "player": "3978",
+   "season": "2010-11",
+   "stat": "GP",
+   "value": 82
+  },
+  {
+   "player": "5093267",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 8.5
+  },
+  {
+   "player": "5093267",
+   "season": "2025-26",
+   "stat": "REB",
+   "value": 5.0
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 10.1
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 1.1
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 12
+  },
+  {
+   "claim": "DeRozan was selected ninth overall (#9) by Toronto in the 2009 NBA draft and became the franchise's all-time leading scorer; his rookie season was 2009-10 and year 2 was 2010-11",
+   "source": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
+   "claim": "Murray-Boyles was chosen ninth overall (#9) in the 2025 NBA draft by Toronto; rookie season 2025-26, year 2 is 2026-27",
+   "source": "https://en.wikipedia.org/wiki/Collin_Murray-Boyles"
+  }
+ ]
+}

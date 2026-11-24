@@ -1,0 +1,388 @@
+{
+ "team": "raptors",
+ "name": "sc_nyk",
+ "template": "fmt_shotchart.html",
+ "music": "battle",
+ "cps": 40,
+ "voice_eq": "bright",
+ "record": "5-9",
+ "caption": "RAPTORS 102, KNICKS 111 🦖 We made more threes. New York won by 9.\n\n🎯 FG: us 39 of 78, New York 41 of 78\n🧊 4th quarter: us 8 of 20, New York 9 of 15. Down 111-102 after it\n🔥 Ja'Kobe Walter: 25 PTS on 15 shots, 7 of 12 from three\n🧠 RJ Barrett: 22 PTS, 9 of 17\n💥 Mikal Bridges: 17 PTS, 7 of 11\n😤 Jalen Brunson led them with 31, 4 of 11 from three\n\nWe led by 13 in the 2nd and lost it. That's 5-9. Fix the 4th quarter.\n\nWho needs to step up next game?",
+ "beats": [
+  {
+   "kind": "sc_hook",
+   "cfg": {
+    "us": "l:TOR",
+    "them": "l:NY",
+    "usc": "#c2204c",
+    "themc": "#284885",
+    "score": [
+     102,
+     111
+    ],
+    "won": false
+   },
+   "head": "WE MADE MORE THREES",
+   "card": {
+    "title": "THREES MADE",
+    "rows": [
+     {
+      "l": "l:TOR",
+      "v": 14,
+      "us": true
+     },
+     {
+      "l": "l:NY",
+      "v": 12
+     }
+    ]
+   },
+   "chip": "WE LOST 102-111",
+   "dlg": "WE MADE 2 MORE|THREES. LOST BY 9.",
+   "pk": "p:4684272",
+   "tag": "25 PTS",
+   "nm": "WALTER",
+   "vo": "We made two more threes than New York and still lost by nine."
+  },
+  {
+   "kind": "sc_hook",
+   "cont": true,
+   "head": "WE MADE MORE THREES",
+   "card": {
+    "title": "THREES MADE",
+    "rows": [
+     {
+      "l": "l:TOR",
+      "v": 14,
+      "us": true
+     },
+     {
+      "l": "l:NY",
+      "v": 12
+     }
+    ]
+   },
+   "chip": "WE LOST 102-111",
+   "city": "TORONTO",
+   "cl": "l:TOR",
+   "final": "102-111 FINAL",
+   "dlg": "RAPTORS VS KNICKS,|SHOT BY SHOT.",
+   "pk": "p:4684272",
+   "tag": "25 PTS",
+   "nm": "WALTER",
+   "vo": "This is Raptors versus Knicks by the shot chart."
+  },
+  {
+   "kind": "sc_hook",
+   "pad": true,
+   "hold": 0.674,
+   "vo": ""
+  },
+  {
+   "kind": "sc_zones",
+   "side": "us",
+   "zones": [
+    {
+     "z": "RIM",
+     "v": "15/20"
+    },
+    {
+     "z": "PAINT",
+     "v": "7/13"
+    },
+    {
+     "z": "MIDRANGE",
+     "v": "3/10"
+    },
+    {
+     "z": "CORNER 3",
+     "v": "6/15"
+    },
+    {
+     "z": "3 PT",
+     "v": "8/20"
+    }
+   ],
+   "foot": "TOR: 39/78 FG",
+   "dlg": "US: 39 OF 78.",
+   "vo": "We went thirty nine of seventy eight."
+  },
+  {
+   "kind": "sc_zones",
+   "side": "them",
+   "zones": [
+    {
+     "z": "RIM",
+     "v": "18/23"
+    },
+    {
+     "z": "PAINT",
+     "v": "9/11"
+    },
+    {
+     "z": "MIDRANGE",
+     "v": "2/9"
+    },
+    {
+     "z": "CORNER 3",
+     "v": "1/8"
+    },
+    {
+     "z": "3 PT",
+     "v": "11/27"
+    }
+   ],
+   "foot": "NY: 41/78 FG",
+   "dlg": "NEW YORK: 41 MADE.",
+   "vo": "New York made forty one."
+  },
+  {
+   "kind": "sc_bars",
+   "card": {
+    "title": "4TH QUARTER: MADE / TRIED",
+    "rows": [
+     {
+      "l": "l:TOR",
+      "m": 8,
+      "a": 20,
+      "us": true
+     },
+     {
+      "l": "l:NY",
+      "m": 9,
+      "a": 15
+     }
+    ]
+   },
+   "n": 2,
+   "intro": true,
+   "dlg": "THE DIFFERENCE:|THE 4TH QUARTER.",
+   "dlg2": "4TH QUARTER:|8 OF 20 VS 9 OF 15.",
+   "vo": "The difference: the fourth quarter. Eight of twenty, to nine of fifteen."
+  },
+  {
+   "kind": "sc_dots",
+   "side": "us",
+   "shots": "EX+wN+bH+CH+DU.CF.Nc+Oc+CE+BH.wI+CF.aF+bG.vQ.",
+   "chips": [
+    "3PT: 7/12"
+   ],
+   "pk": "p:4684272",
+   "tag": "25 PTS",
+   "nm": "WALTER",
+   "dlg": "WALTER: 25 PTS,|7 OF 12 FROM 3.",
+   "vo": "Walter had twenty five, seven of twelve from three."
+  },
+  {
+   "kind": "sc_dots",
+   "side": "us",
+   "cont": true,
+   "shots": "EX+wN+bH+CH+DU.CF.Nc+Oc+CE+BH.wI+CF.aF+bG.vQ.",
+   "chips": [
+    "3PT: 7/12",
+    "FG: 9/15"
+   ],
+   "pk": "p:4684272",
+   "tag": "25 PTS",
+   "nm": "WALTER",
+   "dlg": "25 PTS ON|9 OF 15 SHOOTING.",
+   "vo": "That's twenty five points on nine of fifteen shooting."
+  },
+  {
+   "kind": "sc_dots",
+   "pad": true,
+   "hold": 0.609,
+   "vo": ""
+  },
+  {
+   "kind": "sc_dots",
+   "side": "us",
+   "shots": "HX.mE+dO+gJ+uV+uV.VH.CN.XH+Lb.VE+SL+le.wF.rZ+WE+kH.",
+   "chips": [
+    "22 PTS",
+    "FG: 9/17"
+   ],
+   "pk": "p:4395625",
+   "tag": "22 PTS",
+   "nm": "BARRETT",
+   "dlg": "BARRETT: 22 PTS,|9 OF 17.",
+   "vo": "Barrett added twenty two on nine of seventeen."
+  },
+  {
+   "kind": "sc_dots",
+   "side": "them",
+   "shots": "ZR+CG.YF+XF+XF+wR.CE.dM.YH+vT+IZ+",
+   "chips": [
+    "17 PTS",
+    "7/11 FG"
+   ],
+   "pk": "p:3147657",
+   "tag": "17 PTS",
+   "nm": "BRIDGES",
+   "dlg": "BRIDGES: 17 PTS,|7 OF 11.",
+   "vo": "Mikal Bridges chipped in seventeen on seven of eleven."
+  },
+  {
+   "kind": "sc_dots",
+   "pad": true,
+   "hold": 0.687,
+   "vo": ""
+  },
+  {
+   "kind": "sc_zones",
+   "side": "them",
+   "player": true,
+   "zones": [
+    {
+     "z": "RIM",
+     "v": "2/2"
+    },
+    {
+     "z": "PAINT",
+     "v": "3/3"
+    },
+    {
+     "z": "MIDRANGE",
+     "v": "1/6"
+    },
+    {
+     "z": "CORNER 3",
+     "v": "0/1"
+    },
+    {
+     "z": "3 PT",
+     "v": "4/10"
+    }
+   ],
+   "foot": "31 PTS",
+   "pk": "p:3934672",
+   "tag": "10/22 FG",
+   "nm": "BRUNSON",
+   "dlg": "BRUNSON: 31 PTS.",
+   "vo": "Brunson added thirty one."
+  },
+  {
+   "kind": "sc_lead",
+   "title": "OUR LEAD IN THE 2ND",
+   "ticks": [
+    [
+     48,
+     35
+    ],
+    [
+     55,
+     56
+    ],
+    [
+     70,
+     71
+    ],
+    [
+     80,
+     80
+    ],
+    [
+     95,
+     93
+    ],
+    [
+     102,
+     111
+    ]
+   ],
+   "wside": "us",
+   "dlg": "UP 13 IN THE 2ND...",
+   "dlg2": "FINAL: 102-111.",
+   "vo": "We led by thirteen in the second. It ended one eleven to one oh two."
+  },
+  {
+   "kind": "sc_town",
+   "town": "RAPTORS TOWN",
+   "sub": "TOR 5-9",
+   "arena": "SCOTIABANK ARENA",
+   "rec": "5-9",
+   "p1": "p:4684272",
+   "n1": "WALTER",
+   "p2": "p:4395625",
+   "n2": "BARRETT",
+   "cont": true,
+   "dlg": "5-9. FIX THE 4TH|QUARTER.",
+   "vo": "That's five and nine. Fix the fourth quarter."
+  },
+  {
+   "kind": "sc_town",
+   "pad": true,
+   "hold": 0.12,
+   "vo": ""
+  }
+ ],
+ "facts": [
+  {
+   "game": "401910002",
+   "score": "111-102"
+  },
+  {
+   "game": "401910002",
+   "player": "4684272",
+   "stat": "3PT",
+   "value": "7-12"
+  },
+  {
+   "game": "401910002",
+   "player": "4684272",
+   "stat": "FG",
+   "value": "9-15"
+  },
+  {
+   "game": "401910002",
+   "player": "4684272",
+   "stat": "PTS",
+   "value": "25"
+  },
+  {
+   "game": "401910002",
+   "player": "4395625",
+   "stat": "FG",
+   "value": "9-17"
+  },
+  {
+   "game": "401910002",
+   "player": "4395625",
+   "stat": "PTS",
+   "value": "22"
+  },
+  {
+   "game": "401910002",
+   "player": "3147657",
+   "stat": "FG",
+   "value": "7-11"
+  },
+  {
+   "game": "401910002",
+   "player": "3147657",
+   "stat": "PTS",
+   "value": "17"
+  },
+  {
+   "game": "401910002",
+   "player": "3934672",
+   "stat": "3PT",
+   "value": "4-11"
+  },
+  {
+   "game": "401910002",
+   "player": "3934672",
+   "stat": "FG",
+   "value": "10-22"
+  },
+  {
+   "game": "401910002",
+   "player": "3934672",
+   "stat": "PTS",
+   "value": "31"
+  },
+  {
+   "claim": "Matchup: Toronto Raptors vs New York Knicks. ESPN box score, final TOR 102 NY 111: TOR FG 39-78, 3PT 14-35, FT 10-18; NY FG 41-78, 3PT 12-35, FT 17-19. Linescore TOR 29 21 33 19, NY 23 31 26 31. TOR record after the game 5-9. Margin 9. Play-by-play, 4th quarter: TOR FG 8/20, 3PT 3/9; NY FG 9/15, 3PT 4/7. Score after the 4th: TOR 102, NY 111. Play-by-play shot log, Jalen Brunson by zone: RIM 2/2, PAINT 3/3, MIDRANGE 1/6, CORNER 3 0/1, 3 PT 4/10. Play-by-play score: TOR biggest lead 13 in the 2nd quarter. Score checkpoints (TOR-NY): 48-35, 55-56, 70-71, 80-80, 95-93, 102-111. Zones (play-by-play shot log): TOR RIM 15/20, PAINT 7/13, MIDRANGE 3/10, CORNER 3 6/15, 3 PT 8/20; NY RIM 18/23, PAINT 9/11, MIDRANGE 2/9, CORNER 3 1/8, 3 PT 11/27.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401910002"
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "team": "raptors",
+ "name": "kawhi2x",
+ "record": "58-24",
+ "caption": "KAWHI, TWICE 🎮🏀 We traded for him in 2018. We traded for him again in 2026.\n\n• July 2018: we send DeMar DeRozan to San Antonio for Kawhi Leonard\n• DeMar was our #1 scorer ever, 9 seasons in Toronto\n• Kawhi gives us 26.6 a night, then 30.5 in the playoffs\n• 2019: we win the title, Kawhi is Finals MVP\n• July 2019: he signs with the Clippers\n• Sept 14, 2026: we trade for him again\n\nCan he do it twice? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "THE TRADE",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "JULY 2018",
+   "lines": [
+    [
+     "2018",
+     "FOR DEROZAN"
+    ]
+   ],
+   "vo": "July twenty eighteen. We trade DeMar DeRozan for Kawhi Leonard.",
+   "dlg": "JULY 2018: WE TRADE|DEROZAN FOR KAWHI."
+  },
+  {
+   "kind": "fire",
+   "head": "THE PRICE",
+   "key": "p:3978@TOR",
+   "name": "DEMAR",
+   "badge": "OUR #1 SCORER",
+   "lines": [
+    [
+     "#1",
+     "RAPTORS SCORER"
+    ],
+    [
+     "9",
+     "SEASONS"
+    ]
+   ],
+   "vo": "It hurt. DeMar was our number one scorer ever, nine seasons in Toronto.",
+   "dlg": "DEMAR: OUR #1 SCORER EVER.|9 SEASONS IN TORONTO."
+  },
+  {
+   "kind": "fire",
+   "head": "THE PAYOFF",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "2018-19",
+   "lines": [
+    [
+     "26.6",
+     "PPG"
+    ],
+    [
+     "30.5",
+     "PLAYOFF PPG"
+    ]
+   ],
+   "vo": "Kawhi gives us twenty-six point six a night... then thirty point five in the playoffs.",
+   "dlg": "26.6 A NIGHT...|30.5 IN THE PLAYOFFS!"
+  },
+  {
+   "kind": "final",
+   "head": "2019 CHAMPS",
+   "oname": "WARRIORS",
+   "logo": "l:GSW",
+   "ocol": "auto:GSW",
+   "my": 114,
+   "th": 110,
+   "win": true,
+   "vo": "Finals Game six. We win the title, and Kawhi is Finals MVP.",
+   "dlg": "WE WIN THE TITLE.|KAWHI: FINALS MVP!"
+  },
+  {
+   "kind": "fire",
+   "head": "GONE",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "JULY 2019",
+   "lines": [
+    [
+     "2019",
+     "SIGNS WITH LA"
+    ]
+   ],
+   "vo": "A month later, he's gone. He signs with the Clippers.",
+   "dlg": "JULY 2019:|HE SIGNS WITH THE CLIPPERS."
+  },
+  {
+   "kind": "fire",
+   "head": "HE'S BACK",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "SEPT 14, 2026",
+   "lines": [
+    [
+     "2026",
+     "TRADED BACK"
+    ]
+   ],
+   "vo": "Seven years later. September fourteenth, twenty twenty-six. We trade for him again.",
+   "dlg": "SEPT 14, 2026:|WE TRADE FOR HIM AGAIN!"
+  },
+  {
+   "kind": "next",
+   "head": "KAWHI, TWICE",
+   "logo": "l:TOR",
+   "rec": "#2",
+   "ntxt": "BACK HOME",
+   "nday": "2018 + 2026",
+   "vo": "Can he do it twice? Comment below.",
+   "dlg": "CAN HE DO IT TWICE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "6450",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 26.6
+  },
+  {
+   "player": "6450",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 30.5,
+   "type": "playoffs"
+  },
+  {
+   "game": "401134820",
+   "score": "114-110"
+  },
+  {
+   "claim": "July 18, 2018: DeRozan traded to San Antonio for Kawhi Leonard; DeRozan the Raptors' #1 all-time leading scorer after 9 seasons",
+   "source": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
+   "claim": "2019: Raptors win the title, Leonard Finals MVP; July 2019 signs with the Clippers; Sept 14, 2026 traded back to Toronto; #2 jersey",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  }
+ ]
+}

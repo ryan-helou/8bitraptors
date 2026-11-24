@@ -1,0 +1,292 @@
+{
+ "team": "warriors",
+ "name": "team_2007",
+ "record": "7-3",
+ "mode": "team",
+ "caption": "IF OUR 2007 WE BELIEVE CORE WERE POKÉMON 🎮🏀\n\n🐻‍❄️ Baron Davis = Beartic: fights with fangs and claws of ice. 25.3 a night in the playoffs, and the dunk over Kirilenko\n🌿 Jason Richardson = Sceptile: leaps from branch to branch to strike. 2-time dunk contest champ, 19.1 a night in the playoffs\n⚓ Stephen Jackson = Dhelmise: its anchor can KO a Wailord in one blow. 33 points and 7 threes to finish off the top seed\n🥋 Matt Barnes = Sawk: tying its belt gets it pumped. 42.2% from three in the playoffs\n🦡 Monta Ellis = Zangoose: dodges attacks with incredible agility. 16.5 a night and Most Improved Player\n\nThe 8 seed that took down the 1 seed. Who would you change? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "key": "p:194@GSW",
+   "mon": "pk:beartic",
+   "nick": "DAVIS",
+   "types": [
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "label": "THE BEARD",
+   "stat": "25.3 PPG"
+  },
+  {
+   "key": "p:1018@GSW",
+   "mon": "pk:sceptile",
+   "nick": "RICHARDSON",
+   "types": [
+    [
+     "GRASS",
+     "#78c850"
+    ]
+   ],
+   "label": "HIGH FLYER",
+   "stat": "19.1 PPG"
+  },
+  {
+   "key": "p:378@GSW",
+   "mon": "pk:dhelmise",
+   "nick": "JACKSON",
+   "types": [
+    [
+     "GHOST",
+     "#705898"
+    ],
+    [
+     "GRASS",
+     "#78c850"
+    ]
+   ],
+   "label": "THE ANCHOR",
+   "stat": "33 PTS"
+  },
+  {
+   "key": "p:1765@GSW",
+   "mon": "pk:sawk",
+   "nick": "BARNES",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "ENFORCER",
+   "stat": "42.2 3P%"
+  },
+  {
+   "key": "p:2751@GSW",
+   "mon": "pk:zangoose",
+   "nick": "ELLIS",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "AGILITY",
+   "stat": "MIP"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If our We Believe core were Pokemon, here's the team.",
+   "dlg": "IF OUR WE BELIEVE CORE|WERE MONSTERS..."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "Baron Davis is Beartic.",
+   "dlg": "GO! BARON DAVIS!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "vo": "It freezes its breath into fangs and claws of ice to fight with.",
+   "dlg": "IT FIGHTS WITH FANGS|AND CLAWS OF ICE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "Baron, and the dunk over Andrei Kirilenko. Twenty-five point three a night in the playoffs.",
+   "dlg": "BARON IN THE PLAYOFFS:|25.3 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "Jason Richardson is Sceptile.",
+   "dlg": "GO! JASON RICHARDSON!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "It agilely leaps about the branches of trees to strike.",
+   "dlg": "IT LEAPS FROM BRANCH|TO BRANCH TO STRIKE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "A two-time dunk contest champ. Nineteen point one a night in the playoffs.",
+   "dlg": "2X DUNK CHAMP:|19.1 PPG IN THE PLAYOFFS!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "Stephen Jackson is Dhelmise.",
+   "dlg": "GO! STEPHEN JACKSON!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "Swinging its massive anchor, it can knock out a Wailord in a single blow.",
+   "dlg": "ITS ANCHOR KOS A|WAILORD IN ONE BLOW."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "He knocked out the top seed. Thirty-three points and seven threes in the clincher.",
+   "dlg": "THE CLINCHER:|33 POINTS, 7 THREES!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "vo": "Matt Barnes is Sawk.",
+   "dlg": "GO! MATT BARNES!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "Tying its belt gets it pumped, and makes its punches more destructive.",
+   "dlg": "TYING ITS BELT GETS IT|PUMPED UP."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "stat": true,
+   "vo": "Matt Barnes let it fly. Forty-two point two percent from three in the playoffs.",
+   "dlg": "BARNES LETS IT FLY:|42.2% FROM THREE!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "fx": "aura",
+   "vo": "And Monta Ellis is Zangoose.",
+   "dlg": "GO! MONTA ELLIS!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "fx": "aura",
+   "vo": "It dodges attacks with incredible agility.",
+   "dlg": "IT DODGES ATTACKS WITH|INCREDIBLE AGILITY."
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "fx": "aura",
+   "stat": true,
+   "vo": "Pick forty, straight out of high school. Sixteen point five a night, and Most Improved Player.",
+   "dlg": "16.5 A NIGHT AND|MOST IMPROVED PLAYER!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a team we're taking into any gym in the league.",
+   "dlg": "A TEAM WE'RE TAKING INTO|ANY GYM IN THE LEAGUE."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who would you change? Comment below.",
+   "dlg": "WHO WOULD YOU CHANGE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "194",
+   "season": "2006-07",
+   "stat": "PTS",
+   "value": 25.3,
+   "type": "playoffs"
+  },
+  {
+   "player": "1018",
+   "season": "2006-07",
+   "stat": "PTS",
+   "value": 19.1,
+   "type": "playoffs"
+  },
+  {
+   "game": "270503009",
+   "player": "378",
+   "stat": "PTS",
+   "value": "33"
+  },
+  {
+   "game": "270503009",
+   "player": "378",
+   "stat": "3PT",
+   "value": "7-8"
+  },
+  {
+   "player": "1765",
+   "season": "2006-07",
+   "stat": "3P%",
+   "value": 42.2,
+   "type": "playoffs"
+  },
+  {
+   "player": "2751",
+   "season": "2006-07",
+   "stat": "PTS",
+   "value": 16.5
+  },
+  {
+   "claim": "3P% = three-point (3) field goal percentage, as listed by ESPN",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/1765/stats?seasontype=3"
+  },
+  {
+   "claim": "Our starters in series-clinching Game 6 vs Dallas, May 3, 2007 (111-86): Stephen Jackson, Matt Barnes, Andris Biedrins, Baron Davis, Jason Richardson",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=270503009"
+  },
+  {
+   "claim": "2006-07 Warriors: eighth (8) seed in the West, beat the top-seeded (1 seed) Dallas Mavericks 4-2 in the first round",
+   "source": "https://en.wikipedia.org/wiki/2006%E2%80%9307_Golden_State_Warriors_season"
+  },
+  {
+   "claim": "Davis: memorable dunk over Andrei Kirilenko in the 2007 playoffs; averaged 25.3 points in the 2007 playoffs",
+   "source": "https://en.wikipedia.org/wiki/Baron_Davis"
+  },
+  {
+   "claim": "Richardson: 2x (2-time) NBA Slam Dunk Contest champion (2002, 2003)",
+   "source": "https://en.wikipedia.org/wiki/Jason_Richardson"
+  },
+  {
+   "claim": "Jackson: 33 points and a then franchise playoff-record 7 three-pointers in the series-clinching Game 6 vs Dallas",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Jackson"
+  },
+  {
+   "claim": "Ellis: drafted 40th overall out of high school by Golden State in 2005; NBA Most Improved Player 2007; helped the Warriors defeat Dallas in six games",
+   "source": "https://en.wikipedia.org/wiki/Monta_Ellis"
+  },
+  {
+   "claim": "Beartic: it freezes its breath to create fangs and claws of ice to fight with",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/beartic"
+  },
+  {
+   "claim": "Sceptile: it agilely leaps about the branches of trees to strike",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/sceptile"
+  },
+  {
+   "claim": "Dhelmise: swinging its massive anchor, it can KO Wailord in a single blow",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/dhelmise"
+  },
+  {
+   "claim": "Sawk: tying their belts gets them pumped and makes their punches more destructive",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/sawk"
+  },
+  {
+   "claim": "Zangoose adroitly dodges attacks with incredible agility",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/zangoose"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

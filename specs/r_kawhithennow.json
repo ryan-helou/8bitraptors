@@ -1,0 +1,149 @@
+{
+ "team": "raptors",
+ "name": "kawhithennow",
+ "record": "5-4",
+ "caption": "KAWHI VS KAWHI 🎮🏀 Kawhi won us a title at 27. Now he's back with us at 35.\n\n• 2018-19, age 27: 26.6 PPG, 7.3 RPG, then 30.5 PPG in the playoffs and Finals MVP\n• 2025-26 with the Clippers, age 34: 27.9 PPG, a career high\n• Sept 14, 2026: we trade for him again\n• First 2 games back: 19.5 PPG, 7.5 RPG, 3.5 SPG, then a swollen left knee\n\n2019 Kawhi or this Kawhi? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "KAWHI VS KAWHI",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "AGE 27 VS 35",
+   "lines": [
+    [
+     "27",
+     "THEN"
+    ],
+    [
+     "35",
+     "NOW"
+    ]
+   ],
+   "vo": "Kawhi Leonard won us a title at twenty-seven. Now he's back with us at thirty-five. Which Kawhi is better?",
+   "dlg": "KAWHI AT 27...|VS KAWHI AT 35."
+  },
+  {
+   "kind": "fire",
+   "head": "2019 KAWHI",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "FINALS MVP",
+   "lines": [
+    [
+     "26.6",
+     "PPG"
+    ],
+    [
+     "30.5",
+     "PLAYOFF PPG"
+    ]
+   ],
+   "vo": "Twenty nineteen Kawhi: twenty-six point six a night, then thirty point five in the playoffs, and Finals MVP.",
+   "dlg": "2019: 26.6 PPG, THEN|30.5 IN THE PLAYOFFS."
+  },
+  {
+   "kind": "fire",
+   "head": "STILL GOT IT",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "CAREER HIGH",
+   "lines": [
+    [
+     "27.9",
+     "PPG"
+    ],
+    [
+     "34",
+     "YEARS OLD"
+    ]
+   ],
+   "vo": "But last season, at thirty-four, he scored twenty-seven point nine a night for the Clippers. A career high.",
+   "dlg": "LAST SEASON, AGE 34:|27.9 PPG. CAREER HIGH."
+  },
+  {
+   "kind": "fire",
+   "head": "BACK WITH US",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "19.5",
+     "PPG"
+    ],
+    [
+     "3.5",
+     "SPG"
+    ]
+   ],
+   "vo": "Back with us, through two games: nineteen point five points, seven point five rebounds, three and a half steals. Then a swollen knee.",
+   "dlg": "2 GAMES BACK: 19.5 PPG,|7.5 RPG, 3.5 SPG."
+  },
+  {
+   "kind": "next",
+   "head": "WHO'S BETTER?",
+   "logo": "l:TOR",
+   "rec": "#2",
+   "ntxt": "2019 KAWHI",
+   "nday": "OR NOW?",
+   "vo": "Twenty nineteen Kawhi, or this Kawhi? Comment below.",
+   "dlg": "2019 KAWHI OR THIS ONE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "6450",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 26.6
+  },
+  {
+   "player": "6450",
+   "season": "2018-19",
+   "stat": "REB",
+   "value": 7.3
+  },
+  {
+   "player": "6450",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 30.5,
+   "type": "playoffs"
+  },
+  {
+   "player": "6450",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 27.9
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 19.5
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 7.5
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 3.5
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 2
+  },
+  {
+   "claim": "Leonard (born June 29, 1991) was 27 in 2018-19 when he won the 2019 title and Finals MVP with Toronto, 34 in 2025-26 (his career high in scoring with the Clippers), and is 35 now; on September 14, 2026 (Sept 14) he was traded back to Toronto; on October 27, 2026 he was ruled out at least a week with swelling in his left knee; he wears No. 2 (#2) for Toronto",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  }
+ ]
+}

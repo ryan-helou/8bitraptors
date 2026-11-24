@@ -1,0 +1,146 @@
+{
+ "team": "warriors",
+ "name": "steph62",
+ "pace": "wolves",
+ "record": "7-3",
+ "caption": "62 AT AGE 32? 🎮🏀 Steph Curry was 32. He scored 62.\n\n• Jan 3, 2021 vs Portland: a career high\n• 18 of 31 from the field, 8 of 16 from three\n• We win 137-122\n• Now he's 38, and still at 30.6 a night in his first 9 games\n\nCan Steph drop 60 again at 38? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "62 AT AGE 32?",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "VS PORTLAND",
+   "lines": [
+    [
+     "62",
+     "PTS"
+    ]
+   ],
+   "vo": "Steph Curry was thirty-two years old. He scored sixty-two.",
+   "dlg": "AGE 32.|62 POINTS."
+  },
+  {
+   "kind": "fire",
+   "head": "CAREER HIGH",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "JAN 3, 2021",
+   "lines": [
+    [
+     "62",
+     "CAREER HIGH"
+    ]
+   ],
+   "vo": "January third, twenty twenty-one, against Portland. A new career high.",
+   "dlg": "JAN. 3, 2021 VS PORTLAND:|A CAREER HIGH."
+  },
+  {
+   "kind": "fire",
+   "head": "18 OF 31",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "SHOOTING",
+   "lines": [
+    [
+     "18-31",
+     "FG"
+    ],
+    [
+     "8-16",
+     "THREES"
+    ]
+   ],
+   "vo": "Eighteen of thirty-one from the field. Eight of sixteen from three.",
+   "dlg": "18 OF 31 FROM THE FIELD,|8 OF 16 FROM THREE."
+  },
+  {
+   "kind": "fire",
+   "head": "THE WIN",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "WE WIN",
+   "lines": [
+    [
+     "137",
+     "GS"
+    ],
+    [
+     "122",
+     "POR"
+    ]
+   ],
+   "vo": "We win, one thirty-seven to one twenty-two.",
+   "dlg": "WE WIN,|137-122."
+  },
+  {
+   "kind": "fire",
+   "head": "NOW? 38.",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "2026-27",
+   "lines": [
+    [
+     "30.6",
+     "PPG"
+    ],
+    [
+     "9",
+     "GAMES"
+    ]
+   ],
+   "vo": "Now he's thirty-eight, and still scoring thirty point six a night in his first nine games.",
+   "dlg": "NOW HE'S 38: 30.6 A NIGHT|IN HIS FIRST 9 GAMES."
+  },
+  {
+   "kind": "next",
+   "head": "60 AT 38?",
+   "logo": "l:GSW",
+   "rec": "62",
+   "ntxt": "CAREER HIGH",
+   "nday": "JAN 3, 2021",
+   "vo": "Sixty-two at thirty-two. Can he drop sixty again at thirty-eight? Comment below.",
+   "dlg": "60 AGAIN AT AGE 38?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401267252",
+   "player": "3975",
+   "stat": "PTS",
+   "value": "62"
+  },
+  {
+   "game": "401267252",
+   "player": "3975",
+   "stat": "FG",
+   "value": "18-31"
+  },
+  {
+   "game": "401267252",
+   "player": "3975",
+   "stat": "3PT",
+   "value": "8-16"
+  },
+  {
+   "game": "401267252",
+   "score": "137-122"
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 30.6
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "claim": "On January 3, 2021, Curry scored a career-high 62 points on 18-of-31 shooting in a 137-122 win against Portland; born March 14, 1988 (age 32 then, 38 now); 2026-27 season; 60 points",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  }
+ ]
+}

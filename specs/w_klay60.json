@@ -1,0 +1,136 @@
+{
+ "team": "warriors",
+ "name": "klay60",
+ "pace": "wolves",
+ "record": "7-3",
+ "caption": "60 IN 29 MINUTES? 🎮🏀 Klay Thompson scored 60 points and only played three quarters.\n\n• Dec 5, 2016 vs Indiana: 40 points by halftime\n• 21 of 33 from the field, 8 of 14 from three\n• First player in NBA history to score 60 in under 30 minutes\n• Our first 60-point game since Rick Barry's 64 in 1974\n• We won 142-106\n\n60 in 29 minutes or 37 in one quarter: which Klay game was better? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "60 IN 29 MINUTES?",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "VS INDIANA",
+   "lines": [
+    [
+     "60",
+     "PTS"
+    ],
+    [
+     "29",
+     "MIN"
+    ]
+   ],
+   "vo": "Klay Thompson scored sixty points, and only played three quarters.",
+   "dlg": "60 POINTS...|IN JUST 3 QUARTERS."
+  },
+  {
+   "kind": "fire",
+   "head": "40 AT THE HALF",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "1ST HALF",
+   "lines": [
+    [
+     "40",
+     "PTS"
+    ]
+   ],
+   "vo": "December fifth, twenty sixteen, against Indiana. He had forty by halftime.",
+   "dlg": "DEC. 5, 2016 VS INDIANA:|40 POINTS BY HALFTIME."
+  },
+  {
+   "kind": "fire",
+   "head": "21 OF 33",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "SHOOTING",
+   "lines": [
+    [
+     "21-33",
+     "FG"
+    ],
+    [
+     "8-14",
+     "3PT"
+    ]
+   ],
+   "vo": "Twenty-one of thirty-three from the field. Eight of fourteen from three.",
+   "dlg": "21 OF 33 FROM THE FIELD,|8 OF 14 FROM THREE."
+  },
+  {
+   "kind": "fire",
+   "head": "NEVER DONE BEFORE",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "NBA FIRST",
+   "lines": [
+    [
+     "60",
+     "IN UNDER 30"
+    ]
+   ],
+   "vo": "The first player in NBA history to score sixty in under thirty minutes.",
+   "dlg": "FIRST PLAYER EVER: 60|IN UNDER 30 MINUTES."
+  },
+  {
+   "kind": "fire",
+   "head": "SINCE RICK BARRY",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "142-106 WIN",
+   "lines": [
+    [
+     "64",
+     "BARRY, 1974"
+    ]
+   ],
+   "vo": "We won by thirty-six. Our first sixty-point game since Rick Barry's sixty-four, back in nineteen seventy-four.",
+   "dlg": "OUR FIRST 60 SINCE|RICK BARRY'S 64 IN 1974."
+  },
+  {
+   "kind": "next",
+   "head": "BEST KLAY GAME?",
+   "logo": "l:GSW",
+   "rec": "60",
+   "ntxt": "IN 29 MIN",
+   "nday": "DEC 5, 2016",
+   "vo": "Sixty in twenty-nine minutes, or thirty-seven in one quarter? Which Klay game was better? Comment below.",
+   "dlg": "60 IN 29 MIN OR 37 IN|A QUARTER? COMMENT!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "400899756",
+   "player": "6475",
+   "stat": "PTS",
+   "value": "60"
+  },
+  {
+   "game": "400899756",
+   "player": "6475",
+   "stat": "MIN",
+   "value": "29"
+  },
+  {
+   "game": "400899756",
+   "player": "6475",
+   "stat": "FG",
+   "value": "21-33"
+  },
+  {
+   "game": "400899756",
+   "player": "6475",
+   "stat": "3PT",
+   "value": "8-14"
+  },
+  {
+   "game": "400899756",
+   "score": "142-106"
+  },
+  {
+   "claim": "December 5, 2016 vs Indiana: Thompson scored 60 points in 29 minutes over just three (3) quarters, 142-106 win (by 36); his 40 first-half (1st half) points; the first (1st) player in NBA history to score 60 points in less than 30 minutes; first Warrior to score 60 since Rick Barry's 64 on March 26, 1974; January 2015: 37 points in a single quarter",
+   "source": "https://en.wikipedia.org/wiki/Klay_Thompson"
+  }
+ ]
+}

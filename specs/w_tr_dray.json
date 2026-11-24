@@ -1,0 +1,225 @@
+{
+ "team": "warriors",
+ "name": "tr_dray",
+ "record": "7-3",
+ "caption": "IF DRAYMOND HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n💪 Machop: it trains all day and is never satisfied. 34 players went before him, we took him at #35\n🧱 Shuckle: its ability is Sturdy, and it hides in a hard shell. 2017 Defensive Player of the Year, and the steals leader\n🧠 Metagross: four brains, smarter than a supercomputer. 7.6 assists a night in his first 9 games\n🐒 Primeape: always furious, and it never forgives. 16 technicals in one season\n❤️ Conkeldurr: said to have taught humans to make concrete. Our heart and soul, 4 rings, 2015, 2017, 2018, 2022\n🏋️ Machamp: four arms, so it attacks and defends at once. 36 years old, started all 9 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Draymond Green had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF DRAYMOND HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Machop. It trains hard all day and is never satisfied. Thirty-four players went before him. We took him thirty-fifth.",
+   "dlg": "IT TRAINS ALL DAY LONG.|34 PASSED. WE TOOK HIM #35"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Shuckle. Its ability is Sturdy, and it hides inside a hard shell. Defensive Player of the Year in twenty seventeen, and he led the league in steals.",
+   "dlg": "STURDY, IN A HARD SHELL.|2017 DEFENSIVE POY!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Metagross. Four brains, smarter than a supercomputer. He still runs our offense: seven point six assists a night in his first nine games.",
+   "dlg": "A SUPERCOMPUTER BRAIN.|7.6 ASSISTS A NIGHT!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Primeape. It's always furious, and it never forgives. Sixteen technicals in one season. We love him anyway.",
+   "dlg": "ALWAYS FURIOUS.|16 TECHS IN ONE SEASON!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Conkeldurr. It's said to have taught humans how to make concrete. Our foundation, our heart and soul. Four rings with us.",
+   "dlg": "TAUGHT HUMANS CONCRETE.|HEART + SOUL: 4 RINGS!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Machamp. With four arms, it attacks and defends at the same time. Thirty-six years old, and he's started all nine games.",
+   "dlg": "ATTACKS + DEFENDS AT ONCE.|AGE 36: 9 OF 9 STARTS!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "6589",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 7.6
+  },
+  {
+   "player": "6589",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "6589",
+   "season": "2026-27",
+   "stat": "GS",
+   "value": 9
+  },
+  {
+   "claim": "Green: drafted 35th overall (2nd round) in 2012 by Golden State, 34 players before him; 2017 Defensive Player of the Year and NBA steals leader (2017); March 16, 2023: suspended for his 16th technical foul of the season; emotional heart and soul of the Warriors, noted for vocal leadership; 4x NBA champion (2015, 2017, 2018, 2022); born March 4, 1990 (age 36)",
+   "source": "https://en.wikipedia.org/wiki/Draymond_Green"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:6589@GSW",
+   "mon": "pk:machop",
+   "nick": "MACHOP",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "PICK 35",
+   "stat": "PICK 35"
+  },
+  {
+   "key": "p:6589@GSW",
+   "mon": "pk:shuckle",
+   "nick": "SHUCKLE",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "ROCK",
+     "#a89038"
+    ]
+   ],
+   "label": "THE WALL",
+   "stat": "DPOY 2017"
+  },
+  {
+   "key": "p:6589@GSW",
+   "mon": "pk:metagross",
+   "nick": "METAGROSS",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "THE BRAIN",
+   "stat": "7.6 APG"
+  },
+  {
+   "key": "p:6589@GSW",
+   "mon": "pk:primeape",
+   "nick": "PRIMEAPE",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "THE HOTHEAD",
+   "stat": "16 TECHS"
+  },
+  {
+   "key": "p:6589@GSW",
+   "mon": "pk:conkeldurr",
+   "nick": "CONKELDURR",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "HEART + SOUL",
+   "stat": "4 TITLES"
+  },
+  {
+   "key": "p:6589@GSW",
+   "mon": "pk:machamp",
+   "nick": "MACHAMP",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "AGE 36"
+  }
+ ],
+ "mode": "trainer"
+}

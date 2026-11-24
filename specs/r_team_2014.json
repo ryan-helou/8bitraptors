@@ -1,0 +1,289 @@
+{
+ "team": "raptors",
+ "name": "team_2014",
+ "record": "5-4",
+ "mode": "starters",
+ "caption": "IF THE 2014 WE-THE-NORTH STARTERS WERE POKÉMON 🎮🏀\n\n🐷 Kyle Lowry = Pignite: when its fire flares up, it gets sharper and faster. 17.9 points and 7.4 assists a night\n🦁 DeMar DeRozan = Litleo: the stronger the opponent, the more power it finds. 22.7 a night and his first All-Star game\n🐦 Terrence Ross = Swellow: dives from far above, never misses. The dunk champ dropped 51 in one night\n💪 Amir Johnson = Gurdurr: a group of wrestlers couldn't budge it. 56.2% from the field\n🐘 Jonas Valanciunas = Donphan: its tackle can knock down a house. 8.8 rebounds a night\n\nThat's a team we're taking into any gym in the league. Who would you change? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "key": "p:3012@TOR",
+   "mon": "pk:pignite",
+   "nick": "LOWRY",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "FIRE PIG",
+   "stat": "17.9 PPG"
+  },
+  {
+   "key": "p:3978@TOR",
+   "mon": "pk:litleo",
+   "nick": "DEROZAN",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "LION CUB",
+   "stat": "22.7 PPG"
+  },
+  {
+   "key": "p:6619@TOR",
+   "mon": "pk:swellow",
+   "nick": "ROSS",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "SWALLOW",
+   "stat": "51 PTS"
+  },
+  {
+   "key": "p:2769@TOR",
+   "mon": "pk:gurdurr",
+   "nick": "JOHNSON",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "MUSCULAR",
+   "stat": "56.2 FG%"
+  },
+  {
+   "key": "p:6477@TOR",
+   "mon": "pk:donphan",
+   "nick": "JV",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "ARMOR",
+   "stat": "8.8 RPG"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If our twenty fourteen starters were Pokemon,",
+   "dlg": "IF OUR 2014 STARTERS|WERE MONSTERS..."
+  },
+  {
+   "kind": "p_intro",
+   "cont": true,
+   "vo": "here's the team.",
+   "dlg": "HERE'S THE TEAM!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "Kyle Lowry is Pignite.",
+   "dlg": "GO! KYLE LOWRY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "vo": "When its internal fire flares up, its movements grow sharper and faster.",
+   "dlg": "WHEN ITS FIRE FLARES UP,|IT MOVES SHARPER, FASTER."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "Lowry's breakout year. Seventeen point nine points and seven point four assists a night.",
+   "dlg": "LOWRY'S BREAKOUT:|17.9 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "DeMar DeRozan is Litleo.",
+   "dlg": "GO! DEMAR DEROZAN!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "The stronger the opponent it faces, the more power flows through its body.",
+   "dlg": "STRONGER OPPONENT,|MORE POWER."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "Twenty-two point seven a night, and his first All-Star game.",
+   "dlg": "22.7 A NIGHT AND HIS|FIRST ALL-STAR GAME!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "Terrence Ross is Swellow.",
+   "dlg": "GO! TERRENCE ROSS!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "fx": "poster",
+   "vo": "It dives on its prey from far above, and it never misses its targets.",
+   "dlg": "IT DIVES FROM FAR ABOVE.|IT NEVER MISSES."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "Our dunk champ. That season, he dropped fifty-one in one night, tying the franchise record.",
+   "dlg": "THE DUNK CHAMP DROPPED|51 IN ONE NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "vo": "Amir Johnson is Gurdurr.",
+   "dlg": "GO! AMIR JOHNSON!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "It's so strongly built that even a group of wrestlers couldn't make it budge an inch.",
+   "dlg": "A GROUP OF WRESTLERS|COULDN'T BUDGE IT."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "stat": true,
+   "vo": "Amir inside: fifty-six point two percent from the field.",
+   "dlg": "AMIR INSIDE:|56.2% FROM THE FIELD!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "vo": "And Jonas Valanciunas is Donphan.",
+   "dlg": "GO! JONAS VALANCIUNAS!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "vo": "Its tackle is strong enough to knock down a house.",
+   "dlg": "ITS TACKLE CAN KNOCK|DOWN A HOUSE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "stat": true,
+   "vo": "Jonas on the glass: eight point eight rebounds a night.",
+   "dlg": "JONAS ON THE GLASS:|8.8 REBOUNDS A NIGHT!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a team we're taking into any gym in the league.",
+   "dlg": "A TEAM WE'RE TAKING INTO|ANY GYM IN THE LEAGUE."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who would you change? Comment below.",
+   "dlg": "WHO WOULD YOU CHANGE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3012",
+   "season": "2013-14",
+   "stat": "PTS",
+   "value": 17.9
+  },
+  {
+   "player": "3012",
+   "season": "2013-14",
+   "stat": "AST",
+   "value": 7.4
+  },
+  {
+   "player": "3978",
+   "season": "2013-14",
+   "stat": "PTS",
+   "value": 22.7
+  },
+  {
+   "player": "2769",
+   "season": "2013-14",
+   "stat": "FG%",
+   "value": 56.2
+  },
+  {
+   "player": "6477",
+   "season": "2013-14",
+   "stat": "REB",
+   "value": 8.8
+  },
+  {
+   "player": "3012",
+   "season": "2013-14",
+   "stat": "GS",
+   "value": 79
+  },
+  {
+   "player": "3978",
+   "season": "2013-14",
+   "stat": "GS",
+   "value": 79
+  },
+  {
+   "player": "6619",
+   "season": "2013-14",
+   "stat": "GS",
+   "value": 62
+  },
+  {
+   "player": "2769",
+   "season": "2013-14",
+   "stat": "GS",
+   "value": 72
+  },
+  {
+   "player": "6477",
+   "season": "2013-14",
+   "stat": "GS",
+   "value": 81
+  },
+  {
+   "claim": "In April 2014 the Raptors unveiled the We The North campaign, launched in time for the 2014 playoffs",
+   "source": "https://en.wikipedia.org/wiki/Toronto_Raptors"
+  },
+  {
+   "claim": "DeRozan's 2013-14 season was a breakout year with career-high 22.7 points; first All-Star selection in 2014 (6x NBA All-Star: 2014, 2016-2018, 2022, 2023)",
+   "source": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
+   "claim": "Ross won the 2013 Slam Dunk Contest; on January 25, 2014, he scored a career-high and franchise-tying 51 points vs the Clippers",
+   "source": "https://en.wikipedia.org/wiki/Terrence_Ross"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

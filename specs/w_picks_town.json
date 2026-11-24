@@ -1,0 +1,1103 @@
+{
+ "team": "warriors",
+ "name": "picks_town",
+ "template": "fmt_town_picks.html",
+ "pace": "wolves",
+ "music": "calm",
+ "voice_eq": "bright",
+ "voff": 0.0,
+ "duck_bridge": true,
+ "duck_depth": 0.9,
+ "cps": 42,
+ "tts_speed": 1.15,
+ "caption": "OUR TOP-10 PICKS 🌉 Parish, Richmond, Steph\n\nWe built around three top-ten picks. Two of them won rings somewhere else.\n• Robert Parish (No. 8, 1976): 13.8 PPG here, zero All-Star games. We traded him to Boston in 1980: All-Star, then the 1981 title (four rings in all)\n• Mitch Richmond (No. 5, 1988): Rookie of the Year in 1989, the M in Run TMC, two playoff series wins here, then a ring with the Lakers in 2002\n• Stephen Curry (No. 7, 2009): some scouts said he was too small\n\nFirst three seasons each:\nPPG: Parish 12.9 · Richmond 22.7 · Steph 17.5\nAll-Star games: 0 · 0 · 0\nPlayoff series won: 1 · 2 · 0\n\nTwo of our top picks won it somewhere else. Steph won four here.\n\nWhich of our top picks would you take first? 👇",
+ "beats": [
+  {
+   "kind": "town",
+   "vo": "We built our team around three of our top-ten picks,",
+   "txt": {
+    "s_lab": "WARRIORS LAB",
+    "s_lab_sub": "OUR TOP-10 PICKS",
+    "n_a": "PARISH",
+    "n_b": "RICHMOND",
+    "n_c": "CURRY",
+    "r_a": "RINGS: BOS",
+    "r_b": "RING: LAL",
+    "da": "WE BUILT AROUND THREE|TOP-10 PICKS.",
+    "db": "TWO WON RINGS|SOMEWHERE ELSE.",
+    "s_rb": "ROUTE 1976",
+    "s_rb_sub": "DRAFT NIGHT",
+    "dc": "ROBERT PARISH FIRST.",
+    "dd": "WE TOOK HIM NO. 8|OUT OF CENTENARY.",
+    "xbh": "POKEDEX  NO. 8 PICK 1976",
+    "xbn": "PARISH",
+    "xbl": "FROM:",
+    "xbv": "CENTENARY",
+    "s_c": "OAKLAND",
+    "s_c_sub": "1976-1980",
+    "ppg_a": "13.8 PPG",
+    "de": "ALMOST 14 A NIGHT.|ZERO ALL-STAR GAMES.",
+    "bl": "ALL-STAR BADGES:",
+    "s_d": "HARBOR CITY",
+    "s_d_sub": "BOSTON, 1980",
+    "df": "THEN WE TRADED|HIM TO BOSTON.",
+    "dg": "ALL-STAR, THEN A|TITLE.",
+    "evo": "EVOLVED!",
+    "s_e": "BAY DOCK",
+    "s_e_sub": "RICHMOND: 1988-1991",
+    "dh": "RICHMOND WAS ROOKIE OF|THE YEAR IN 1989.",
+    "xch": "POKEDEX  NO. 5 PICK 1988",
+    "xcn": "RICHMOND",
+    "xcl": "1989:",
+    "xcv": "ROOKIE OF THE YEAR",
+    "di": "TWO PLAYOFF SERIES|WON HERE.",
+    "dj": "THE M IN RUN TMC, WITH|TIM AND CHRIS.",
+    "dba": "RICHMOND OBTAINED A|RING IN L.A.!",
+    "champ": "LAL 2002 CHAMP",
+    "s_f": "ROUTE 2009",
+    "s_f_sub": "TALL GRASS",
+    "dbb": "AND STEPH?",
+    "dbc": "SOME SCOUTS SAID HE|WAS TOO SMALL.",
+    "xdh": "POKEDEX  NO. 7 PICK 2009",
+    "xdn": "CURRY",
+    "xdl": "SCOUTS SAID:",
+    "xdv": "TOO SMALL",
+    "s_g": "THREE SEASONS HALL",
+    "s_g_sub": "EACH MAN'S FIRST 3",
+    "h_a": "PARISH",
+    "h_b": "MITCH",
+    "h_c": "STEPH",
+    "l_ppg": "PPG",
+    "l_as": "ALL-STAR",
+    "l_sw": "SERIES WON",
+    "dbd": "THREE SEASONS EACH:|MITCH SCORED THE MOST.",
+    "dbe": "ZERO ALL-STAR GAMES|FOR ALL THREE.",
+    "dbf": "RICHMOND WON TWO|SERIES.",
+    "dbg": "AND STEPH? ZERO.",
+    "s_h": "SAN FRANCISCO",
+    "s_h_sub": "2026-27",
+    "dbh": "TWO OF OUR TOP PICKS|WON IT SOMEWHERE ELSE.",
+    "dbi": "STEPH WON FOUR|HERE.",
+    "still": "STILL HERE",
+    "v_ppga": "12.9",
+    "v_ppgb": "22.7",
+    "v_ppgc": "17.5",
+    "v_asa": "0",
+    "v_asb": "0",
+    "v_asc": "0",
+    "v_swa": "1",
+    "v_swb": "2",
+    "v_swc": "0"
+   },
+   "stat": {
+    "shots": [
+     {
+      "t": 0,
+      "map": "lab",
+      "sign": [
+       "@s_lab",
+       "@s_lab_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:3814@GSW",
+        "x": 101,
+        "y": 345,
+        "sz": 58,
+        "tag": "@n_a",
+        "tag2": "@r_a",
+        "tag2in": 4.209,
+        "tag2c": "#2a4a9a"
+       },
+       {
+        "k": "ball",
+        "x": 101,
+        "y": 433,
+        "out": 1.4,
+        "noshadow": true
+       },
+       {
+        "k": "m:stonehorn",
+        "x": 101,
+        "y": 433,
+        "sz": 44,
+        "in": 1.4,
+        "run": [
+         1.4,
+         2.0
+        ]
+       },
+       {
+        "k": "p:704@GSW",
+        "x": 270,
+        "y": 345,
+        "sz": 58,
+        "tag": "@n_b",
+        "tag2": "@r_b",
+        "tag2in": 4.209,
+        "tag2c": "#e8782a"
+       },
+       {
+        "k": "ball",
+        "x": 277,
+        "y": 433,
+        "out": 2.0,
+        "noshadow": true
+       },
+       {
+        "k": "m:emberfox",
+        "x": 277,
+        "y": 433,
+        "sz": 44,
+        "in": 2.0,
+        "run": [
+         2.0,
+         2.6
+        ]
+       },
+       {
+        "k": "p:3975",
+        "x": 437,
+        "y": 345,
+        "sz": 58,
+        "tag": "@n_c",
+        "bub": [
+         4.209,
+         "?",
+         null
+        ]
+       },
+       {
+        "k": "ball",
+        "x": 437,
+        "y": 433,
+        "out": 2.6,
+        "noshadow": true
+       },
+       {
+        "k": "m:galehawk",
+        "x": 437,
+        "y": 433,
+        "sz": 44,
+        "in": 2.6,
+        "run": [
+         2.6,
+         3.2
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 0,
+        "dlg": "@da",
+        "pre": true
+       },
+       {
+        "t": 3.2,
+        "dlg": "@db"
+       }
+      ]
+     },
+     {
+      "t": 5.52,
+      "fin": 0.15,
+      "idle": [
+       [
+        5.52,
+        8.135
+       ]
+      ],
+      "map": "route2",
+      "sign": [
+       "@s_rb",
+       "@s_rb_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:3814@GSW",
+        "x": 225,
+        "y": 368,
+        "sz": 58,
+        "tag": "@n_a",
+        "tagin": 6.939,
+        "path": [
+         [
+          5.52,
+          75,
+          368
+         ],
+         [
+          6.918,
+          75,
+          368
+         ],
+         [
+          6.939,
+          225,
+          368
+         ]
+        ]
+       },
+       {
+        "k": "m:stonehorn",
+        "x": 292,
+        "y": 368,
+        "sz": 44,
+        "run": [
+         5.52,
+         6.939
+        ],
+        "path": [
+         [
+          5.52,
+          146,
+          368
+         ],
+         [
+          6.918,
+          146,
+          368
+         ],
+         [
+          6.939,
+          292,
+          368
+         ]
+        ]
+       },
+       {
+        "k": "l:GS",
+        "x": 455,
+        "y": 368,
+        "sz": 40,
+        "out": 6.939,
+        "float": true
+       }
+      ],
+      "pages": [
+       {
+        "t": 5.52,
+        "dlg": "@dc"
+       },
+       {
+        "t": 7.04,
+        "dlg": "@dd"
+       }
+      ],
+      "pops": [
+       {
+        "t": 6.939,
+        "type": "dex",
+        "head": "@xbh",
+        "name": "@xbn",
+        "lab": "@xbl",
+        "val": "@xbv",
+        "cps": 40
+       }
+      ]
+     },
+     {
+      "t": 9.12,
+      "fin": 0.15,
+      "idle": [
+       [
+        9.12,
+        10.064
+       ]
+      ],
+      "map": "town",
+      "mood": "day",
+      "crestPos": "tr",
+      "crestK": "l:GS",
+      "sign": [
+       "@s_c",
+       "@s_c_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:3814@GSW",
+        "x": 167,
+        "y": 372,
+        "sz": 58,
+        "tag": "@n_a",
+        "tag2": "@ppg_a",
+        "tag2in": 10.158,
+        "tag2c": "#2a4478",
+        "path": [
+         [
+          9.12,
+          206,
+          372
+         ],
+         [
+          9.479,
+          206,
+          372
+         ],
+         [
+          9.497,
+          167,
+          372
+         ]
+        ]
+       },
+       {
+        "k": "m:stonehorn",
+        "x": 234,
+        "y": 372,
+        "sz": 44,
+        "run": [
+         9.497,
+         10.158
+        ],
+        "path": [
+         [
+          9.12,
+          270,
+          372
+         ],
+         [
+          9.479,
+          270,
+          372
+         ],
+         [
+          9.497,
+          234,
+          372
+         ]
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 9.12,
+        "dlg": "@de"
+       }
+      ],
+      "pops": [
+       {
+        "t": 9.497,
+        "type": "badges",
+        "y": 407,
+        "lab": "@bl",
+        "n0": 0
+       }
+      ]
+     },
+     {
+      "t": 12.8,
+      "fin": 0.15,
+      "map": "bay",
+      "crest": "l:BOS",
+      "sign": [
+       "@s_d",
+       "@s_d_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:3814@GSW",
+        "x": 180,
+        "y": 334,
+        "sz": 58,
+        "tag": "@n_a",
+        "tagin": 13.636,
+        "path": [
+         [
+          12.8,
+          26,
+          334
+         ],
+         [
+          13.615,
+          26,
+          334
+         ],
+         [
+          13.636,
+          180,
+          334
+         ]
+        ]
+       },
+       {
+        "k": "m:stonehorn",
+        "x": 255,
+        "y": 334,
+        "sz": 44,
+        "path": [
+         [
+          12.8,
+          105,
+          334
+         ],
+         [
+          13.615,
+          105,
+          334
+         ],
+         [
+          13.636,
+          255,
+          334
+         ]
+        ],
+        "flash": [
+         13.636,
+         14.68
+        ],
+        "grow": [
+         14.68,
+         58
+        ],
+        "run": [
+         12.8,
+         13.615
+        ],
+        "run2": [
+         14.68,
+         15.68
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 12.8,
+        "dlg": "@df"
+       },
+       {
+        "t": 14.68,
+        "dlg": "@dg"
+       }
+      ],
+      "pops": [
+       {
+        "t": 12.8,
+        "type": "badges",
+        "y": 388,
+        "lab": "@bl",
+        "n0": 0,
+        "fills": [
+         [
+          14.872,
+          1
+         ]
+        ],
+        "col": "#f8c838",
+        "fade": false
+       },
+       {
+        "t": 15.065,
+        "type": "banner",
+        "s": "@evo",
+        "x": 349,
+        "y": 227,
+        "w": 86,
+        "col": "#3a9a5a"
+       }
+      ],
+      "trophy": [
+       15.45,
+       352,
+       134
+      ],
+      "flashes": [
+       [
+        13.6,
+        0.06
+       ],
+       [
+        14.6,
+        0.06
+       ]
+      ]
+     },
+     {
+      "t": 16.604,
+      "fin": 0.15,
+      "map": "dock",
+      "boat": 23.584,
+      "sign": [
+       "@s_e",
+       "@s_e_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:704@GSW",
+        "x": 293,
+        "y": 367,
+        "sz": 58,
+        "tag": "@n_b",
+        "tagin": 17.2,
+        "tag2": "@champ",
+        "tag2in": 24.805,
+        "tag2c": "#e8782a",
+        "path": [
+         [
+          16.604,
+          0,
+          367
+         ],
+         [
+          17.18,
+          0,
+          367
+         ],
+         [
+          17.2,
+          94,
+          367
+         ],
+         [
+          17.58,
+          94,
+          367
+         ],
+         [
+          17.6,
+          191,
+          367
+         ],
+         [
+          18.18,
+          191,
+          367
+         ],
+         [
+          18.2,
+          293,
+          367
+         ],
+         [
+          23.561,
+          293,
+          367
+         ],
+         [
+          23.584,
+          294,
+          461
+         ],
+         [
+          24.447,
+          294,
+          461
+         ],
+         [
+          24.469,
+          416,
+          484
+         ]
+        ]
+       },
+       {
+        "k": "m:emberfox",
+        "x": 364,
+        "y": 368,
+        "sz": 44,
+        "path": [
+         [
+          16.604,
+          71,
+          368
+         ],
+         [
+          17.18,
+          71,
+          368
+         ],
+         [
+          17.2,
+          165,
+          368
+         ],
+         [
+          17.58,
+          165,
+          368
+         ],
+         [
+          17.6,
+          262,
+          368
+         ],
+         [
+          18.18,
+          262,
+          368
+         ],
+         [
+          18.2,
+          364,
+          368
+         ],
+         [
+          24.447,
+          364,
+          368
+         ],
+         [
+          24.469,
+          360,
+          484
+         ]
+        ],
+        "flash": [
+         24.469,
+         25.48
+        ],
+        "grow": [
+         25.48,
+         56
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 16.7,
+        "dlg": "@dh"
+       },
+       {
+        "t": 19.8,
+        "dlg": "@di"
+       },
+       {
+        "t": 21.48,
+        "dlg": "@dj"
+       },
+       {
+        "t": 24.58,
+        "dlg": "@dba"
+       }
+      ],
+      "pops": [
+       {
+        "t": 18.2,
+        "until": 19.8,
+        "type": "dex",
+        "head": "@xch",
+        "name": "@xcn",
+        "lab": "@xcl",
+        "val": "@xcv",
+        "cps": 40
+       },
+       {
+        "t": 19.8,
+        "until": 23.584,
+        "type": "badges",
+        "y": 407,
+        "lab": "@bl",
+        "n0": 0,
+        "fills": [
+         [
+          20.01,
+          1
+         ],
+         [
+          20.22,
+          2
+         ]
+        ],
+        "col": "#f0a030"
+       }
+      ]
+     },
+     {
+      "t": 26.38,
+      "fin": 0.15,
+      "map": "route2",
+      "variant": "grass",
+      "sign": [
+       "@s_f",
+       "@s_f_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:3975",
+        "x": 225,
+        "y": 368,
+        "sz": 58,
+        "tag": "@n_c",
+        "tagin": 27.091
+       },
+       {
+        "k": "m:galehawk",
+        "x": 292,
+        "y": 368,
+        "sz": 44,
+        "bub": [
+         26.469,
+         "!",
+         null,
+         27.091
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 26.38,
+        "dlg": "@dbb"
+       },
+       {
+        "t": 27.18,
+        "dlg": "@dbc"
+       }
+      ],
+      "pops": [
+       {
+        "t": 27.091,
+        "type": "dex",
+        "head": "@xdh",
+        "name": "@xdn",
+        "lab": "@xdl",
+        "val": "@xdv",
+        "cps": 40,
+        "strike": 29.402,
+        "nope": 29.487
+       }
+      ]
+     },
+     {
+      "t": 30.0,
+      "fin": 0.15,
+      "map": "hall",
+      "sign": [
+       "@s_g",
+       "@s_g_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:3814@GSW",
+        "x": 94,
+        "y": 319,
+        "sz": 54,
+        "tag": "@n_a"
+       },
+       {
+        "k": "m:stonehorn",
+        "x": 149,
+        "y": 319,
+        "sz": 50
+       },
+       {
+        "k": "p:704@GSW",
+        "x": 248,
+        "y": 319,
+        "sz": 54,
+        "tag": "@n_b"
+       },
+       {
+        "k": "m:emberfox",
+        "x": 303,
+        "y": 319,
+        "sz": 50
+       },
+       {
+        "k": "p:3975",
+        "x": 405,
+        "y": 319,
+        "sz": 54,
+        "tag": "@n_c"
+       },
+       {
+        "k": "m:galehawk",
+        "x": 460,
+        "y": 319,
+        "sz": 44
+       }
+      ],
+      "pages": [
+       {
+        "t": 30.0,
+        "dlg": "@dbd"
+       },
+       {
+        "t": 32.76,
+        "dlg": "@dbe"
+       },
+       {
+        "t": 35.12,
+        "dlg": "@dbf"
+       },
+       {
+        "t": 36.98,
+        "dlg": "@dbg"
+       }
+      ],
+      "pops": [
+       {
+        "t": 30.153,
+        "type": "table",
+        "heads": [
+         "@h_a",
+         "@h_b",
+         "@h_c"
+        ],
+        "rows": [
+         {
+          "lab": "@l_ppg",
+          "vals": [
+           "@v_ppga",
+           "@v_ppgb",
+           "@v_ppgc"
+          ],
+          "at": 31.227,
+          "lead": 1
+         },
+         {
+          "lab": "@l_as",
+          "vals": [
+           "@v_asa",
+           "@v_asb",
+           "@v_asc"
+          ],
+          "at": 32.867,
+          "lead": null
+         },
+         {
+          "lab": "@l_sw",
+          "vals": [
+           "@v_swa",
+           "@v_swb",
+           "@v_swc"
+          ],
+          "at": 35.213,
+          "lead": 1
+         }
+        ],
+        "red": [
+         [
+          37.362,
+          2,
+          [
+           2
+          ]
+         ]
+        ],
+        "lines": [
+         [
+          37.458,
+          2,
+          388,
+          444
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "t": 38.7,
+      "fin": 0.15,
+      "map": "town",
+      "mood": "night",
+      "sparkle": true,
+      "crestPos": "tr",
+      "crestK": "l:GS",
+      "sign": [
+       "@s_h",
+       "@s_h_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:3975",
+        "x": 225,
+        "y": 371,
+        "sz": 58,
+        "tag": "@n_c",
+        "tag2": "@still",
+        "tag2in": 42.4,
+        "tag2c": "#3a9a5a"
+       },
+       {
+        "k": "m:galehawk",
+        "x": 296,
+        "y": 371,
+        "sz": 46
+       },
+       {
+        "k": "m:stonehorn",
+        "x": 94,
+        "y": 405,
+        "sz": 50
+       },
+       {
+        "k": "m:emberfox",
+        "x": 442,
+        "y": 405,
+        "sz": 50
+       }
+      ],
+      "pages": [
+       {
+        "t": 38.7,
+        "dlg": "@dbh"
+       },
+       {
+        "t": 41.3,
+        "dlg": "@dbi"
+       }
+      ]
+     }
+    ],
+    "endDim": 44.4
+   }
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.44
+  },
+  {
+   "kind": "town",
+   "vo": "and two of them won rings somewhere else."
+  },
+  {
+   "kind": "town",
+   "vo": "Robert Parish first."
+  },
+  {
+   "kind": "town",
+   "vo": "We took him eighth out of Centenary."
+  },
+  {
+   "kind": "town",
+   "vo": "Here he scored almost 14 a night with zero All-Star games."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.14
+  },
+  {
+   "kind": "town",
+   "vo": "Then we traded him to Boston."
+  },
+  {
+   "kind": "town",
+   "vo": "All-Star, then a title."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.38
+  },
+  {
+   "kind": "town",
+   "vo": "Then Mitch Richmond was our Rookie of the Year."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.54
+  },
+  {
+   "kind": "town",
+   "vo": "Two playoff series here,"
+  },
+  {
+   "kind": "town",
+   "vo": "the M in Run TMC, next to Tim and Chris,"
+  },
+  {
+   "kind": "town",
+   "vo": "then a ring with the Lakers."
+  },
+  {
+   "kind": "town",
+   "vo": "And Steph?"
+  },
+  {
+   "kind": "town",
+   "vo": "Some scouts said he was too small for the NBA."
+  },
+  {
+   "kind": "town",
+   "vo": "Through three seasons each, Richmond scored the most."
+  },
+  {
+   "kind": "town",
+   "vo": "Zero All-Star games for all three."
+  },
+  {
+   "kind": "town",
+   "vo": "Richmond won two series."
+  },
+  {
+   "kind": "town",
+   "vo": "And Steph had zero."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.14
+  },
+  {
+   "kind": "town",
+   "vo": "Two of our top picks won it somewhere else."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.28
+  },
+  {
+   "kind": "town",
+   "vo": "Steph won four here."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 1.4
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Robert Parish was drafted eighth overall (No. 8) by the Golden State Warriors in the 1976 NBA draft out of Centenary College; he played four seasons for Golden State, 1976-1980, averaging 13.8 points (almost 14 a night)",
+   "source": "https://en.wikipedia.org/wiki/Robert_Parish"
+  },
+  {
+   "claim": "In 1980 Golden State traded Parish (and the No. 3 pick) to Boston (Boston, 1980) for the No. 1 pick; his first All-Star selection was 1981 and he won titles with Boston in 1981, 1984 and 1986 and with Chicago in 1997 (four rings in all); zero All-Star games with Golden State (0)",
+   "source": "https://en.wikipedia.org/wiki/Robert_Parish"
+  },
+  {
+   "claim": "Mitch Richmond was drafted 5th overall (No. 5) by Golden State in 1988, won 1989 Rookie of the Year, was the M of Run TMC with Tim Hardaway and Chris Mullin, and was traded to Sacramento on November 1, 1991 (Warriors 1988-1991); he won a ring with the Lakers in 2002",
+   "source": "https://en.wikipedia.org/wiki/Mitch_Richmond"
+  },
+  {
+   "claim": "Stephen Curry was selected seventh overall (No. 7) by Golden State in the 2009 draft; pre-draft scouting said 'At 6-2, he's extremely small' (too small)",
+   "source": "https://www.nbadraft.net/players/stephen-curry"
+  },
+  {
+   "claim": "Curry has won four NBA titles with Golden State (2015, 2017, 2018, 2022) and is still a Warrior in 2026-27",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  },
+  {
+   "claim": "So of three top-10 picks (Nos. 8, 5, 7), two (Parish, Richmond) won rings elsewhere",
+   "source": "https://en.wikipedia.org/wiki/Mitch_Richmond"
+  },
+  {
+   "claim": "First 3 seasons each (each man's first 3), regular season: Parish 1976-77..1978-79 3026 pts / 235 games = 12.9 PPG; Richmond 1988-89..1990-91 5301 / 234 = 22.7 PPG; Curry 2009-10..2011-12 3155 / 180 = 17.5 PPG",
+   "source": "https://www.espn.com/nba/player/stats/_/id/704/mitch-richmond"
+  },
+  {
+   "claim": "Parish season totals 1977-1979: 697/77, 1025/82, 1304/76; Curry 2009-10..2011-12: 1399/80, 1373/74, 383/26",
+   "source": "https://www.espn.com/nba/player/stats/_/id/3814/robert-parish"
+  },
+  {
+   "claim": "All-Star games in each man's first 3 seasons: 0 for all three (Parish's first was 1981, Richmond's 1993, Curry's 2014)",
+   "source": "https://en.wikipedia.org/wiki/Mitch_Richmond"
+  },
+  {
+   "claim": "Playoff series won in first 3 seasons: Parish 1 (1977: beat Detroit 2-1, lost to the Lakers 4-3)",
+   "source": "https://en.wikipedia.org/wiki/1977_NBA_playoffs"
+  },
+  {
+   "claim": "Richmond 2 two playoff series won here: 1989 beat Utah 3-0 (lost to Phoenix 4-1)",
+   "source": "https://en.wikipedia.org/wiki/1989_NBA_playoffs"
+  },
+  {
+   "claim": "Richmond: 1991 beat San Antonio 3-1 (lost to the Lakers 4-1); Curry 0: Golden State missed the 2010, 2011 and 2012 playoffs",
+   "source": "https://en.wikipedia.org/wiki/1991_NBA_playoffs"
+  }
+ ]
+}

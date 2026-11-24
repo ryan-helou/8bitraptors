@@ -1,0 +1,122 @@
+{
+ "team": "raptors",
+ "name": "walter19",
+ "record": "5-4",
+ "caption": "PICK 19 🎮🏀 Hurt before his first camp. Sent down to the 905. Now he's playing real minutes.\n\n• 2024 draft: we take Ja'Kobe Walter at #19, then he misses training camp hurt\n• March 4, 2025: game-winning three at Orlando with 0.5 seconds left\n• 2025-26: 40.9% from three. Playoffs: 24 points in an OT win over Cleveland\n• First 9 games this season: 10.9 PPG in 29.1 minutes, 22 at Minnesota\n\nKeeper or trade chip? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 19",
+   "key": "p:4684272@TOR",
+   "name": "WALTER",
+   "badge": "2024 DRAFT",
+   "lines": [
+    [
+     "#19",
+     "2024 DRAFT"
+    ]
+   ],
+   "vo": "We drafted Ja'Kobe Walter nineteenth. Then he got hurt, missed training camp, and got sent down to our G League team.",
+   "dlg": "PICK 19: HURT IN CAMP.|SENT DOWN TO THE 905."
+  },
+  {
+   "kind": "fire",
+   "head": "GAME WINNER",
+   "key": "p:4684272@TOR",
+   "name": "WALTER",
+   "badge": "AT ORLANDO",
+   "lines": [
+    [
+     "0.5",
+     "SEC LEFT"
+    ]
+   ],
+   "vo": "March twenty twenty-five, in Orlando: he hits the game-winning three with half a second left.",
+   "dlg": "MARCH 2025 AT ORLANDO:|GAME-WINNER WITH 0.5 LEFT."
+  },
+  {
+   "kind": "fire",
+   "head": "SHOOTER",
+   "key": "p:4684272@TOR",
+   "name": "WALTER",
+   "badge": "PLAYOFFS",
+   "lines": [
+    [
+     "40.9",
+     "FROM THREE"
+    ],
+    [
+     "24",
+     "PLAYOFF PTS"
+    ]
+   ],
+   "vo": "Last season: forty point nine percent from three. Then twenty-four points in an overtime playoff win over Cleveland.",
+   "dlg": "2025-26: 40.9% FROM THREE.|PLAYOFFS: 24 ON CLEVELAND."
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:4684272@TOR",
+   "name": "WALTER",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "10.9",
+     "PPG"
+    ],
+    [
+     "29.1",
+     "MIN"
+    ]
+   ],
+   "vo": "Through nine games this season: twenty-nine minutes a night, ten point nine points, and twenty-two at Minnesota.",
+   "dlg": "FIRST 9 GAMES: 29.1 MIN,|10.9 PPG. 22 AT MINNESOTA."
+  },
+  {
+   "kind": "next",
+   "head": "KEEPER?",
+   "logo": "l:TOR",
+   "rec": "#19",
+   "ntxt": "WALTER",
+   "nday": "2024 PICK",
+   "vo": "Keeper, or trade chip? Comment below.",
+   "dlg": "KEEPER OR TRADE CHIP?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4684272",
+   "season": "2025-26",
+   "stat": "3P%",
+   "value": 40.9
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 10.9
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 29.1
+  },
+  {
+   "game": "401909864",
+   "player": "4684272",
+   "stat": "PTS",
+   "value": 22
+  },
+  {
+   "claim": "June 26, 2024: Walter selected #19 (19th overall) by Toronto; missed the start of the season including training camp with an AC joint sprain and was assigned several times to Raptors 905; March 4, 2025: game-winning three with 0.5 seconds left in a 114-113 win at Orlando; May 1, 2026: playoff career-high 24 points in a 112-110 overtime (OT) win against Cleveland",
+   "source": "https://en.wikipedia.org/wiki/Ja'Kobe_Walter"
+  }
+ ]
+}

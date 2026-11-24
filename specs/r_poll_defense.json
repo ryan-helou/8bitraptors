@@ -1,0 +1,129 @@
+{
+ "team": "raptors",
+ "name": "poll_defense",
+ "l1": "ONE STOP TO WIN...",
+ "q": "PICK YOUR STOPPER!",
+ "boxA": "LOCKDOWN",
+ "boxB": "WHO GUARDS THEIR BEST?",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: DEFENDER 🎮🏀 We need one stop to win it. Who are you putting on their best player?\n\n1️⃣ Kawhi Leonard, The Claw: 2x Defensive Player of the Year, 1.8 SPG for us in 2018-19, back with us now\n2️⃣ OG Anunoby, stopper: led the NBA in steals in 2022-23 with 1.9 SPG, All-Defensive\n3️⃣ Scottie Barnes, today: 2.3 SPG through 8 games this season, 2026 All-Defensive\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "6450",
+   "name": "KAWHI",
+   "full": "KAWHI LEONARD",
+   "jersey": "2",
+   "type": "CLAW",
+   "season": "RAPTORS 2018-19",
+   "stats": [
+    [
+     "2X",
+     "DPOY"
+    ],
+    [
+     "1.8",
+     "SPG"
+    ],
+    [
+     "1",
+     "TITLE"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3934719",
+   "name": "OG",
+   "full": "OG ANUNOBY",
+   "jersey": "3",
+   "type": "STOPPER",
+   "season": "RAPTORS 2022-23",
+   "stats": [
+    [
+     "1.9",
+     "SPG"
+    ],
+    [
+     "#1",
+     "IN STEALS"
+    ],
+    [
+     "ALL-D",
+     "2023"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "4433134",
+   "name": "SCOTTIE",
+   "full": "SCOTTIE BARNES",
+   "jersey": "4",
+   "type": "DO-IT-ALL",
+   "season": "2026-27",
+   "stats": [
+    [
+     "2.3",
+     "SPG"
+    ],
+    [
+     "7.6",
+     "RPG"
+    ],
+    [
+     "ALL-D",
+     "2026"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Kawhi Leonard: 2x NBA Defensive Player of the Year (2015, 2016); NBA champion 2019 with Toronto (1 title with us); No. 2 for Toronto; back with Toronto 2026-present",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "player": "6450",
+   "season": "2018-19",
+   "stat": "STL",
+   "value": 1.8
+  },
+  {
+   "claim": "Anunoby: NBA steals leader (#1) in 2023 (2022-23 season) and All-Defensive Second Team 2023",
+   "source": "https://en.wikipedia.org/wiki/OG_Anunoby"
+  },
+  {
+   "claim": "Anunoby wore #3 for Toronto",
+   "source": "https://www.basketball-reference.com/players/a/anunoog01.html"
+  },
+  {
+   "player": "3934719",
+   "season": "2022-23",
+   "stat": "STL",
+   "value": 1.9
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 2.3
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 7.6
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Scottie Barnes: NBA All-Defensive Second Team (2026); No. 4 for Toronto",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  }
+ ]
+}

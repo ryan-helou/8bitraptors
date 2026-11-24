@@ -1,0 +1,170 @@
+{
+ "team": "raptors",
+ "name": "tr_tjd",
+ "record": "5-4",
+ "caption": "IF TRAYCE JACKSON-DAVIS WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n🛡️ Bastiodon, the wall: Indiana's all-time leader in blocks (270) and rebounds (1,143)\n🔥 Magmortar, the cannon: 43 points vs Marshall, Indiana's first 40-point game in 27 years\n💪 Machamp, the power forward: Karl Malone Award, the nation's top power forward\n🪙 Gholdengo, sold for cash: pick 57, Washington sold his rights for cash\n⚡ Electivire, the jolt: 10 points and 10 rebounds in 15 minutes in his debut for us, 5th ever in our history\n🦏 Rhyperior, the ace: 71.4% shooting through 8 games\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "TJD'S TEAM",
+   "key": "p:4431684@TOR",
+   "logo": "l:TOR",
+   "team": [
+    "pk:bastiodon",
+    "pk:magmortar",
+    "pk:machamp",
+    "pk:gholdengo",
+    "pk:electivire",
+    "pk:rhyperior"
+   ],
+   "vo": "If Trayce Jackson-Davis was a trainer... this is his team.",
+   "dlg": "IF TJD WAS A TRAINER...|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "TJD'S TEAM",
+   "key": "p:4431684@TOR",
+   "mon": "pk:bastiodon",
+   "name": "THE WALL",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "species": "NOTHING GETS BY",
+   "callout": "270 BLOCKS",
+   "vo": "First up, the wall. Indiana's all-time leader in blocks and rebounds.",
+   "dlg": "FIRST UP: THE WALL!|INDIANA'S ALL-TIME BLOCKS"
+  },
+  {
+   "kind": "mon",
+   "head": "TJD'S TEAM",
+   "key": "p:4431684@TOR",
+   "mon": "pk:magmortar",
+   "name": "THE CANNON",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "species": "OPENS FIRE",
+   "callout": "43 PTS",
+   "vo": "The cannon. Forty-three points against Marshall, Indiana's first forty-point game in twenty-seven years.",
+   "dlg": "THE CANNON: 43 POINTS!|INDIANA'S 1ST 40 IN 27 YRS"
+  },
+  {
+   "kind": "mon",
+   "head": "TJD'S TEAM",
+   "key": "p:4431684@TOR",
+   "mon": "pk:machamp",
+   "name": "POWER FORWARD",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "species": "ALL MUSCLE",
+   "callout": "MALONE AWARD",
+   "vo": "The power forward. He won the Karl Malone Award, for the best power forward in the country.",
+   "dlg": "THE POWER FORWARD:|KARL MALONE AWARD!"
+  },
+  {
+   "kind": "mon",
+   "head": "TJD'S TEAM",
+   "key": "p:4431684@TOR",
+   "mon": "pk:gholdengo",
+   "name": "SOLD FOR CASH",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "species": "MADE OF COINS",
+   "callout": "PICK 57",
+   "vo": "The coin monster. Pick fifty-seven, and Washington sold his rights for cash.",
+   "dlg": "PICK 57...|RIGHTS SOLD FOR CASH!"
+  },
+  {
+   "kind": "mon",
+   "head": "TJD'S TEAM",
+   "key": "p:4431684@TOR",
+   "mon": "pk:electivire",
+   "name": "THE JOLT",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "species": "INSTANT SPARK",
+   "callout": "10 PTS 10 REB",
+   "vo": "The jolt. His debut for us: ten points, ten rebounds in fifteen minutes. Only the fifth in our history.",
+   "dlg": "DEBUT: 10 PTS, 10 REB!|5TH EVER IN OUR HISTORY."
+  },
+  {
+   "kind": "mon",
+   "head": "TJD'S TEAM",
+   "key": "p:4431684@TOR",
+   "mon": "pk:rhyperior",
+   "name": "THE ACE",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "species": "SMASHES IT IN",
+   "callout": "71.4 FG%",
+   "vo": "And the ace. The finisher. Seventy-one point four percent shooting through eight games.",
+   "dlg": "THE ACE: THE FINISHER.|71.4% FG, FIRST 8 GAMES"
+  },
+  {
+   "kind": "next",
+   "head": "TJD'S TEAM",
+   "logo": "l:TOR",
+   "rec": "#57",
+   "ntxt": "TJD",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4431684",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "4431684",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 71.4
+  },
+  {
+   "claim": "Finished his Indiana career as the program's all-time leader in rebounds (1,143) and blocked shots (270); November 27, 2021: career-high 43 points vs Marshall, first (1st) Indiana player to score at least 40 points in 27 years; awarded the Karl Malone Award for the nation's top power forward; drafted 57th overall (#57) in 2023, the pick held by Washington, who traded his rights for cash considerations; Raptors debut: 10 points and 10 rebounds in 15 minutes, fifth (5th) player in franchise history with a double-double in their debut",
+   "source": "https://en.wikipedia.org/wiki/Trayce_Jackson-Davis"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

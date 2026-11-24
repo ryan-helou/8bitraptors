@@ -1,0 +1,225 @@
+{
+ "team": "raptors",
+ "name": "tr_cmb",
+ "record": "5-4",
+ "caption": "IF COLLIN HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🐣 Torchic: a little chick with a fire burning inside. South Carolina Gamecock to pick 9\n🔥 Ho-Oh: its Regenerator ability heals it when it switches out. Mono couldn't stop him\n🎨 Smeargle: its signature move Sketch copies any move. 17 points, 15 rebounds, 3 blocks, 3 steals, a first in our history\n🪲 Heracross: flings foes away no matter how heavy. Playoff career-high 22 points as we beat Cleveland\n🐆 Liepard: sneaks up and strikes before you can react. 4 steals at Milwaukee\n🐻 Ursaring: would rather snap a tree than climb it. Our bruiser, 10.7 points a night in his first 9 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Collin Murray-Boyles had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF COLLIN HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Torchic. A little chick with a fire burning inside. A South Carolina Gamecock, and we took him ninth.",
+   "dlg": "A CHICK WITH FIRE INSIDE.|SOUTH CAROLINA TO PICK 9!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Ho-Oh. Its ability, Regenerator, heals it every time it switches out. Mono knocked Collin out in college. He came right back.",
+   "dlg": "REGENERATOR: IT HEALS UP.|MONO COULDN'T STOP HIM!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Smeargle. Its signature move, Sketch, copies any move it sees. Seventeen points, fifteen boards, three blocks, three steals. A first in our history.",
+   "dlg": "SKETCH: COPIES ANY MOVE.|17-15-3-3, A TEAM FIRST!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Heracross. No matter how heavy the opponent, it flings it away with its horn. Twenty-two points as we beat Cleveland in the playoffs.",
+   "dlg": "FLINGS ANY FOE, ANY SIZE.|22 AS WE BEAT CLEVELAND!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Liepard. It sneaks up from behind and strikes before you can react. Four steals at Milwaukee this month.",
+   "dlg": "STRIKES BEFORE YOU REACT.|4 STEALS AT MILWAUKEE!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Ursaring. It would rather snap a tree than climb it. Our bruiser: ten point seven a night in his first nine games.",
+   "dlg": "SNAPS STOUT TREES.|10.7 A NIGHT IN 9 GAMES!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 10.7
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "game": "401909292",
+   "player": "5093267",
+   "stat": "STL",
+   "value": 4
+  },
+  {
+   "claim": "Murray-Boyles played college basketball for the South Carolina Gamecocks; before the 2023-24 season he contracted mononucleosis and missed significant time, then became a top player upon returning; chosen ninth overall (#9, pick 9) by Toronto in 2025; January 11, 2026: 17 points, 15 rebounds, 3 blocks and 3 steals, the first player in Raptors history with those numbers; April 23, 2026: playoff career-high 22 points in a 126-104 win over Cleveland",
+   "source": "https://en.wikipedia.org/wiki/Collin_Murray-Boyles"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:5093267@TOR",
+   "mon": "pk:torchic",
+   "nick": "TORCHIC",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "THE GAMECOCK",
+   "stat": "PICK 9"
+  },
+  {
+   "key": "p:5093267@TOR",
+   "mon": "pk:ho-oh",
+   "nick": "HO-OH",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE COMEBACK",
+   "stat": "BEAT MONO"
+  },
+  {
+   "key": "p:5093267@TOR",
+   "mon": "pk:smeargle",
+   "nick": "SMEARGLE",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "STAT STUFFER",
+   "stat": "17-15-3-3"
+  },
+  {
+   "key": "p:5093267@TOR",
+   "mon": "pk:heracross",
+   "nick": "HERACROSS",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "GIANT SLAYER",
+   "stat": "22 PTS"
+  },
+  {
+   "key": "p:5093267@TOR",
+   "mon": "pk:liepard",
+   "nick": "LIEPARD",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "THE THIEF",
+   "stat": "4 STL"
+  },
+  {
+   "key": "p:5093267@TOR",
+   "mon": "pk:ursaring",
+   "nick": "URSARING",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "10.7 PPG"
+  }
+ ],
+ "mode": "trainer"
+}

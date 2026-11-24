@@ -1,0 +1,161 @@
+{
+ "team": "raptors",
+ "name": "poll_canada",
+ "l1": "ONE GAME FOR CANADA...",
+ "q": "BEST CANADIAN RAPTOR?",
+ "boxA": "OUR CANADIANS",
+ "boxB": "HOMEGROWN",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: CANADIAN RAPTOR 🎮🏀 Canada's only team. Who's the best Canadian to ever wear our jersey?\n\n1️⃣ RJ Barrett, born in Toronto: 21.3 PPG through 12 games this season\n2️⃣ Cory Joseph, born in Toronto: 9.3 PPG and 3.3 APG in 80 games in 2016-17\n3️⃣ Chris Boucher, raised in Montreal: 13.6 PPG and 1.9 BPG in 2020-21, 7th in our history in blocks\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "4395625",
+   "name": "RJ",
+   "full": "RJ BARRETT",
+   "jersey": "9",
+   "type": "MAMBA",
+   "season": "2026-27",
+   "stats": [
+    [
+     "21.3",
+     "PPG"
+    ],
+    [
+     "6.7",
+     "RPG"
+    ],
+    [
+     "4.1",
+     "APG"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "6446",
+   "name": "CORY",
+   "full": "CORY JOSEPH",
+   "jersey": "6",
+   "type": "STEADY",
+   "season": "RAPTORS 2016-17",
+   "stats": [
+    [
+     "9.3",
+     "PPG"
+    ],
+    [
+     "3.3",
+     "APG"
+    ],
+    [
+     "80",
+     "GAMES"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3948153",
+   "name": "BOUCHER",
+   "full": "CHRIS BOUCHER",
+   "jersey": "25",
+   "type": "BLOCKER",
+   "season": "RAPTORS 2020-21",
+   "stats": [
+    [
+     "13.6",
+     "PPG"
+    ],
+    [
+     "1.9",
+     "BPG"
+    ],
+    [
+     "#7",
+     "BLOCKS"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.3
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 6.7
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 4.1
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 12
+  },
+  {
+   "claim": "RJ Barrett: Canadian, born in Toronto, nicknamed the Maple Mamba; No. 9 for the Toronto Raptors",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  },
+  {
+   "player": "6446",
+   "season": "2016-17",
+   "stat": "PTS",
+   "value": 9.3
+  },
+  {
+   "player": "6446",
+   "season": "2016-17",
+   "stat": "AST",
+   "value": 3.3
+  },
+  {
+   "player": "6446",
+   "season": "2016-17",
+   "stat": "GP",
+   "value": 80
+  },
+  {
+   "claim": "Cory Joseph: Canadian, born in Toronto; played for Toronto 2015-2017",
+   "source": "https://en.wikipedia.org/wiki/Cory_Joseph"
+  },
+  {
+   "claim": "Cory Joseph wore #6 for Toronto",
+   "source": "https://www.basketball-reference.com/players/j/josepco01.html"
+  },
+  {
+   "player": "3948153",
+   "season": "2020-21",
+   "stat": "PTS",
+   "value": 13.6
+  },
+  {
+   "player": "3948153",
+   "season": "2020-21",
+   "stat": "BLK",
+   "value": 1.9
+  },
+  {
+   "claim": "Chris Boucher: Saint Lucian-Canadian, moved to Montreal at age five; Toronto Raptors 2018-2025",
+   "source": "https://en.wikipedia.org/wiki/Chris_Boucher_(basketball)"
+  },
+  {
+   "claim": "Chris Boucher is 7th (#7) in Raptors career blocks (384)",
+   "source": "https://www.basketball-reference.com/teams/TOR/leaders_career.html"
+  },
+  {
+   "claim": "Boucher wore #25 for Toronto",
+   "source": "https://www.basketball-reference.com/players/b/bouchch01.html"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "team": "warriors",
+ "name": "wiggins",
+ "pace": "wolves",
+ "record": "7-3",
+ "caption": "TRADE COURT, CASE #1: NO. 1 PICK. BUST? 🎮🏀 Andrew Wiggins was the No. 1 overall pick. Minnesota traded him to us anyway.\n\n• Drafted 1st overall in 2014, then dealt to Minnesota: Rookie of the Year\n• Feb 2020: Minnesota sends him to us in the D'Angelo Russell trade\n• 2022: his first All-Star Game\n• 2022 Finals: 18.3 points, 8.8 rebounds, and stifling defense on Jayson Tatum\n• Then: a ring with us\n\nBust, or not?\n\nYour verdict: comment W or L 👇\nCase #2 drops tomorrow night. Follow so you don't miss it.",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "NO. 1 PICK. BUST?",
+   "key": "p:3059319@GSW",
+   "name": "WIGGINS",
+   "badge": "TRADE COURT #1",
+   "lines": [
+    [
+     "#1",
+     "OVERALL"
+    ]
+   ],
+   "vo": "The number one overall pick. Minnesota traded him to us anyway.",
+   "dlg": "THE NO. 1 OVERALL PICK.|MINNESOTA TRADED HIM."
+  },
+  {
+   "kind": "fire",
+   "head": "ROOKIE OF THE YEAR",
+   "key": "p:3059319@GSW",
+   "name": "WIGGINS",
+   "badge": "2014 DRAFT",
+   "lines": [
+    [
+     "ROY",
+     "2015"
+    ]
+   ],
+   "vo": "Cleveland drafted him first in twenty fourteen, then dealt him to Minnesota. He was Rookie of the Year.",
+   "dlg": "NO. 1 IN 2014, TO MINN.|ROOKIE OF THE YEAR."
+  },
+  {
+   "kind": "fire",
+   "head": "THE TRADE",
+   "key": "p:3059319@GSW",
+   "name": "WIGGINS",
+   "badge": "TO US",
+   "lines": [
+    [
+     "2020",
+     "TRADE"
+    ]
+   ],
+   "vo": "In twenty twenty, Minnesota sent him to us, and took D'Angelo Russell.",
+   "dlg": "2020: HE COMES TO US.|RUSSELL GOES TO MINN."
+  },
+  {
+   "kind": "fire",
+   "head": "ALL-STAR",
+   "key": "p:3059319@GSW",
+   "name": "WIGGINS",
+   "badge": "1ST ALL-STAR",
+   "lines": [
+    [
+     "2022",
+     "ALL-STAR"
+    ]
+   ],
+   "vo": "Two years later, in twenty twenty-two, he made his first All-Star Game.",
+   "dlg": "2022: HIS FIRST|ALL-STAR GAME."
+  },
+  {
+   "kind": "fire",
+   "head": "THE FINALS",
+   "key": "p:3059319@GSW",
+   "name": "WIGGINS",
+   "badge": "ON TATUM",
+   "lines": [
+    [
+     "18.3",
+     "PPG"
+    ],
+    [
+     "8.8",
+     "RPG"
+    ]
+   ],
+   "vo": "Then the Finals: eighteen point three points, eight point eight rebounds, and lockdown defense on Jayson Tatum.",
+   "dlg": "2022 FINALS: 18.3 PTS,|8.8 REB, LOCKING UP TATUM"
+  },
+  {
+   "kind": "next",
+   "head": "THE VERDICT",
+   "logo": "l:GSW",
+   "rec": "W OR L?",
+   "ntxt": "CASE #2",
+   "nday": "TOMORROW",
+   "vo": "Number one pick, traded away, then a ring with us. Did we win this trade? W or L. Case two, tomorrow night.",
+   "dlg": "DID WE WIN THIS TRADE?|W OR L? CASE #2: TOMORROW NIGHT."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Wiggins: selected first (1st, No. 1, #1) overall in the 2014 NBA draft by the Cleveland Cavaliers, then traded to Minnesota (MINN.); NBA Rookie of the Year (2015); February 6, 2020: traded with two draft picks to the Golden State Warriors for D'Angelo Russell and others, two (2) years before his 2022 All-Star selection (first, 1st); 2022 NBA champion (1 ring); in the 2022 Finals averaged 18.3 points, 8.8 rebounds and 1.5 blocks while playing stifling defense on Jayson Tatum",
+   "source": "https://en.wikipedia.org/wiki/Andrew_Wiggins"
+  }
+ ]
+}

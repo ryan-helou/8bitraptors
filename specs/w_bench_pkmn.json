@@ -1,0 +1,745 @@
+{
+ "team": "warriors",
+ "name": "bench_pkmn",
+ "template": "fmt_bench.html",
+ "pace": "wolves",
+ "record": "8-6",
+ "music": "bench92",
+ "voice_eq": "bright",
+ "cps": 40,
+ "caption": "THE WARRIORS BENCH AS A POKÉMON TEAM 💛⚡\n\n🧤 6TH De'Anthony Melton = Weavile (ability Pickpocket, 1.3 steals a night)\n😴 7TH Georges Niang = Snorlax (11 points vs Orlando, 3 of 3 from three)\n🎯 8TH Will Richard = Inteleon (ability Sniper: 40.5% from three in 19.4 minutes)\n🐢 9TH Al Horford = Shuckle (the steady vet, 40 and still Sturdy)\n🦏 10TH Charles Bassey = Rhyhorn (5.4 boards in 14.2 minutes. One day, a Rhydon)\n🥊 11TH Gary Payton II = Hitmonchan (son of The Glove, all over the ball)\n\n💻 PC box: LJ Cryer = Pichu · Graham Ike = Geodude · Malevy Leons = Magikarp · Moses Moody = Abra · Jimmy Butler III = Metapod (hardening till he's back)\n\n8-6, and this bench is a big reason why. Who would you swap out, and what Pokémon would you give them?\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "id": "b0",
+   "role": "b",
+   "key": "p:4066436",
+   "mon": "m:pmdanim_weavile_2_40",
+   "tag": "MELTON"
+  },
+  {
+   "id": "b1",
+   "role": "b",
+   "key": "p:2990969",
+   "mon": "m:pmdanim_snorlax_6_9",
+   "tag": "NIANG"
+  },
+  {
+   "id": "b2",
+   "role": "b",
+   "key": "p:4897262",
+   "mon": "m:pmdanim_inteleon_11_10",
+   "tag": "RICHARD"
+  },
+  {
+   "id": "b3",
+   "role": "b",
+   "key": "p:3213",
+   "mon": "m:pmdanim_shuckle_4_22",
+   "tag": "HORFORD"
+  },
+  {
+   "id": "b4",
+   "role": "b",
+   "key": "p:4397886",
+   "mon": "m:pmdanim_rhyhorn_3_25",
+   "tag": "BASSEY",
+   "evo": "m:pmdanim_rhydon_2_33"
+  },
+  {
+   "id": "b5",
+   "role": "b",
+   "key": "p:3134903",
+   "mon": "m:pmdanim_hitmonchan_4_12",
+   "tag": "PAYTON II"
+  },
+  {
+   "id": "pc0",
+   "role": "pc",
+   "key": "p:4433149",
+   "mon": "m:pmdanim_pichu_4_12",
+   "tag": "CRYER"
+  },
+  {
+   "id": "pc1",
+   "role": "pc",
+   "key": "p:4703396",
+   "mon": "m:pmdanim_geodude_4_10",
+   "tag": "IKE"
+  },
+  {
+   "id": "pc2",
+   "role": "pc",
+   "key": "p:4897449",
+   "mon": "m:pmdanim_magikarp_4_10",
+   "tag": "LEONS"
+  },
+  {
+   "id": "pc3",
+   "role": "pc",
+   "key": "p:4432171",
+   "mon": "m:pmdanim_abra_6_13",
+   "tag": "MOODY"
+  },
+  {
+   "id": "pc4",
+   "role": "pc",
+   "key": "p:6430",
+   "mon": "m:pmdanim_metapod_4_12",
+   "tag": "BUTLER"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "bench",
+   "scene": "intro",
+   "cfg": {
+    "title": "WARRIORS BENCH AS A|POKEMON TEAM",
+    "outro": "8-6: A BIG REASON WHY"
+   },
+   "dlg": "HERE'S THE SQUAD:|6TH MAN TO 11TH.",
+   "full": true,
+   "vo": "Here's the Warriors bench as a Pokemon team."
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.22
+  },
+  {
+   "kind": "bench",
+   "vo": "De'Anthony Melton is Weavile, its ability is Pickpocket, and De'Anthony's got one point two steals a night.",
+   "pages": [
+    {
+     "scene": "court",
+     "first": true,
+     "hdr": "BENCH: 6TH",
+     "dlg": "DE'ANTHONY MELTON|IS WEAVILE."
+    },
+    {
+     "scene": "court",
+     "fx": "shot",
+     "dlg": "ITS ABILITY:|PICKPOCKET.",
+     "w": "its"
+    },
+    {
+     "scene": "court",
+     "bar": {
+      "head": "PICKPOCKET: 1.3 STL"
+     },
+     "dlg": "DE'ANTHONY'S GOT|1.3 STEALS PER GAME.",
+     "w": "and"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 0,
+      "st": {
+       "fl2": 0.0
+      },
+      "cut": 3.1
+     },
+     {
+      "i": 0,
+      "st": {
+       "fl1": 0.3
+      },
+      "cut": 5.3
+     },
+     {
+      "i": 0,
+      "st": {},
+      "cut": 7.3
+     }
+    ],
+    "pt": [
+     0,
+     2.2,
+     4.2
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.08
+  },
+  {
+   "kind": "bench",
+   "vo": "Georges Niang is Snorlax, pure Normal, eleven points on Orlando in twenty-five minutes,",
+   "pages": [
+    {
+     "scene": "court",
+     "first": true,
+     "hdr": "BENCH: 7TH",
+     "dlg": "GEORGES NIANG IS|SNORLAX."
+    },
+    {
+     "scene": "court",
+     "fx": "spark",
+     "dlg": "PURE NORMAL.",
+     "w": "pure"
+    },
+    {
+     "scene": "court",
+     "fx": "spark",
+     "count": {
+      "v": 11
+     },
+     "dlg": "11 POINTS ON ORLANDO|IN 25 MINUTES,",
+     "w": "eleven"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 1,
+      "st": {
+       "fl2": 0.0
+      },
+      "cut": 9.2
+     },
+     {
+      "i": 1,
+      "st": {
+       "fl1": 0.3
+      },
+      "cut": 11.4
+     },
+     {
+      "i": 1,
+      "st": {
+       "count": 0.2
+      },
+      "cut": 12.6
+     }
+    ],
+    "pt": [
+     0,
+     2.2,
+     3.4
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 1.0
+  },
+  {
+   "kind": "bench",
+   "vo": "three of three from three, because you just can't leave him open.",
+   "pages": [
+    {
+     "scene": "court",
+     "bar": {
+      "head": "11 PTS: PERFECT FROM 3",
+      "sub": "3-3 3PT, 25 MIN VS ORL"
+     },
+     "dlg": "3 OF 3|FROM THREE,"
+    },
+    {
+     "scene": "court",
+     "dlg": "BECAUSE YOU CAN'T|LEAVE HIM OPEN.",
+     "w": "because"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 1,
+      "st": {},
+      "cut": 15.5
+     },
+     {
+      "i": 1,
+      "st": {},
+      "cut": 17.3
+     }
+    ],
+    "pt": [
+     0,
+     1.8
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.72
+  },
+  {
+   "kind": "bench",
+   "vo": "Will Richard is Inteleon, Sniper, all he needs is one clean look.",
+   "pages": [
+    {
+     "scene": "court",
+     "first": true,
+     "hdr": "BENCH: 8TH",
+     "dlg": "WILL RICHARD IS|INTELEON."
+    },
+    {
+     "scene": "court",
+     "fx": "after",
+     "bar": {
+      "head": "40.5% 3PT IN 19.4 MIN"
+     },
+     "dlg": "SNIPER:|ONE CLEAN LOOK.",
+     "w": "sniper"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 2,
+      "st": {
+       "fl2": 0.17,
+       "mt": 1.0
+      },
+      "cut": 19.4
+     },
+     {
+      "i": 2,
+      "st": {
+       "bar": 0.7
+      },
+      "cut": 21.6
+     }
+    ],
+    "pt": [
+     0,
+     2.2
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 1.3
+  },
+  {
+   "kind": "bench",
+   "vo": "Al Horford is Shuckle, the steady vet, forty years old and still Sturdy.",
+   "pages": [
+    {
+     "scene": "half",
+     "first": true,
+     "diss": true,
+     "hdr": "WARRIORS COURT",
+     "sub": "BENCH: 9TH",
+     "dlg": "AL HORFORD IS|SHUCKLE."
+    },
+    {
+     "scene": "half",
+     "hdr": "WARRIORS COURT",
+     "sub": "BENCH: 9TH",
+     "bar": {
+      "head": "THE STEADY VET",
+      "sub": "1.0 BLK IN 17.0 MIN"
+     },
+     "dlg": "THE STEADY VET, 40|AND STILL STURDY.",
+     "w": "the"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 3,
+      "st": {},
+      "cut": 24.6
+     },
+     {
+      "i": 3,
+      "st": {
+       "hdrOff": 0.5
+      },
+      "cut": 26.8
+     }
+    ],
+    "pt": [
+     0,
+     2.2
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.82
+  },
+  {
+   "kind": "bench",
+   "vo": "Charles Bassey is Rhyhorn, big, strong, and one day, a Rhydon.",
+   "pages": [
+    {
+     "scene": "half",
+     "first": true,
+     "fx": "dots",
+     "hdr": "BENCH: 10TH",
+     "dlg": "CHARLES BASSEY|IS RHYHORN."
+    },
+    {
+     "scene": "half",
+     "fx": "ghost",
+     "bar": {
+      "head": "5.4 REB IN 14.2 MIN"
+     },
+     "dlg": "BIG, STRONG, AND|ONE DAY, A RHYDON.",
+     "w": "big"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 4,
+      "st": {
+       "fl2": 0.12
+      },
+      "cut": 29.5
+     },
+     {
+      "i": 4,
+      "st": {
+       "gt": 1.0
+      },
+      "cut": 31.7
+     }
+    ],
+    "pt": [
+     0,
+     2.2
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 1.34
+  },
+  {
+   "kind": "bench",
+   "vo": "Gary Payton the second is Hitmonchan, son of the Glove, all over the ball.",
+   "pages": [
+    {
+     "scene": "half",
+     "first": true,
+     "hdr": "BENCH: 11TH",
+     "dlg": "GARY PAYTON II|IS HITMONCHAN."
+    },
+    {
+     "scene": "half",
+     "fx": "ball",
+     "bar": {
+      "head": "IRON FIST"
+     },
+     "dlg": "SON OF THE GLOVE,|ALL OVER THE BALL.",
+     "w": "son"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 5,
+      "st": {
+       "fl2": 0.35
+      },
+      "cut": 34.7
+     },
+     {
+      "i": 5,
+      "st": {},
+      "cut": 36.7
+     }
+    ],
+    "pt": [
+     0,
+     2.0
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.05
+  },
+  {
+   "kind": "bench",
+   "vo": "And the PC box, Pichu, Geodude, Magikarp, Abra,",
+   "pages": [
+    {
+     "scene": "pc",
+     "first": true,
+     "diss": true,
+     "hdr": "WARRIORS PC: BOX 2",
+     "sub": "DEEP BENCH",
+     "dlg": "AND THE PC BOX:"
+    },
+    {
+     "scene": "pc",
+     "hdr": "WARRIORS PC: BOX 2",
+     "sub": "DEEP BENCH",
+     "dlg": "PICHU, GEODUDE,|MAGIKARP, ABRA...",
+     "w": "pichu",
+     "pa": [
+      "pichu",
+      "geodude",
+      "magikarp",
+      "abra"
+     ]
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": null,
+      "st": {
+       "pcn": 0
+      },
+      "cut": 38.8
+     },
+     {
+      "i": null,
+      "st": {
+       "hdrOff": 0.25,
+       "pcn": 4,
+       "pct": [
+        0,
+        0,
+        0.43,
+        1.2
+       ]
+      },
+      "cut": 41.0
+     }
+    ],
+    "pt": [
+     0,
+     1.95
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 1.05
+  },
+  {
+   "kind": "bench",
+   "vo": "and Jimmy's a Metapod, hardening till he's back.",
+   "pages": [
+    {
+     "scene": "pc",
+     "dlg": "AND JIMMY'S A METAPOD,",
+     "pa": [
+      "metapod"
+     ]
+    },
+    {
+     "scene": "pc",
+     "dlg": "...HARDENING TILL|HE'S BACK.",
+     "w": "harden"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": null,
+      "st": {
+       "pcn": 5,
+       "pct": [
+        0.97
+       ]
+      },
+      "cut": 43.5
+     },
+     {
+      "i": null,
+      "st": {
+       "pcn": 5
+      },
+      "cut": 45.0
+     }
+    ],
+    "pt": [
+     0,
+     1.5
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.05
+  },
+  {
+   "kind": "bench",
+   "vo": "We're eight and six, and this bench is a big reason why.",
+   "pages": [
+    {
+     "scene": "outro",
+     "dlg": "WE'RE 8-6,"
+    },
+    {
+     "scene": "outro",
+     "dlg": "AND THIS BENCH IS A|BIG REASON WHY.",
+     "w": "this"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": null,
+      "st": {
+       "pop": [
+        3,
+        0.35
+       ]
+      },
+      "cut": 46.2
+     },
+     {
+      "i": null,
+      "st": {},
+      "cut": 47.6
+     }
+    ],
+    "pt": [
+     0,
+     1.27
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 1.25,
+   "end": true
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Bench rule (ESPN 2026-27 averages, Nov 18): the starters are the five players with the most starts (Lendeborg 14, Podziemski 12, Green 12, Curry 10, Santos 6). The bench, ranked 6th, 7th, 8th, 9th, 10th and 11th, is everyone else not listed Out, by minutes per game: Melton 22.0, Niang 19.6, Richard 18.8, Horford 17.0, Bassey 13.4, Payton II 12.8 (Brandon Williams, 16.1, is listed Out). PC box 2 = the rest: Cryer 10.5, Ike 9.5, Leons 5.9, Moody (Out), Butler (Out).",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/9/roster"
+  },
+  {
+   "claim": "Warriors record 8-6 (ESPN, Nov 18 2026)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/9"
+  },
+  {
+   "player": "4066436",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 1.3
+  },
+  {
+   "game": "401909942",
+   "player": "2990969",
+   "stat": "PTS",
+   "value": "11"
+  },
+  {
+   "game": "401909942",
+   "player": "2990969",
+   "stat": "3PT",
+   "value": "3-3"
+  },
+  {
+   "game": "401909942",
+   "player": "2990969",
+   "stat": "MIN",
+   "value": "25"
+  },
+  {
+   "claim": "Warriors beat Orlando on Nov 8 (W, Niang 11 points)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909942"
+  },
+  {
+   "player": "4897262",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 40.5
+  },
+  {
+   "player": "4897262",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 19.4
+  },
+  {
+   "player": "3213",
+   "season": "2026-27",
+   "stat": "BLK",
+   "value": 1.0
+  },
+  {
+   "player": "3213",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 17.0
+  },
+  {
+   "claim": "Al Horford is 40 (ESPN athlete profile)",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3213"
+  },
+  {
+   "player": "4397886",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 5.4
+  },
+  {
+   "player": "4397886",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 14.2
+  },
+  {
+   "claim": "Gary Payton II is the son of Hall of Famer Gary Payton, known as \"the Glove\"",
+   "source": "https://en.wikipedia.org/wiki/Gary_Payton_II"
+  },
+  {
+   "claim": "Weavile has the ability Pickpocket",
+   "source": "https://pokeapi.co/api/v2/pokemon/weavile"
+  },
+  {
+   "claim": "Snorlax is pure Normal type",
+   "source": "https://pokeapi.co/api/v2/pokemon/snorlax"
+  },
+  {
+   "claim": "Inteleon has the ability Sniper",
+   "source": "https://pokeapi.co/api/v2/pokemon/inteleon"
+  },
+  {
+   "claim": "Shuckle has the ability Sturdy",
+   "source": "https://pokeapi.co/api/v2/pokemon/shuckle"
+  },
+  {
+   "claim": "Rhyhorn evolves into Rhydon",
+   "source": "https://pokeapi.co/api/v2/evolution-chain/50/"
+  },
+  {
+   "claim": "Hitmonchan has the ability Iron Fist",
+   "source": "https://pokeapi.co/api/v2/pokemon/hitmonchan"
+  },
+  {
+   "claim": "Metapod learns Harden",
+   "source": "https://pokeapi.co/api/v2/pokemon/metapod"
+  },
+  {
+   "claim": "Monster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "tts_speed": 1.1
+}

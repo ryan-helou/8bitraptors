@@ -1,0 +1,174 @@
+{
+ "team": "raptors",
+ "name": "tr_rj",
+ "record": "5-4",
+ "caption": "IF RJ WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n🦖 Tyrunt, the hometown kid: born right here in Toronto\n🐍 Seviper, the Maple Mamba: nicknamed for playing like Kobe\n🥉 Bronzong, the medal: sealed Canada's World Cup bronze over the USA\n🐦 Dodrio, the triple-double: 25 points, 10 rebounds, 15 assists\n🔥 Magmortar, the big stage: playoff career-high 33 points vs Cleveland\n🐉 Salamence, the ace: our scorer, 21.6 points a night through 9 games\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "RJ'S TEAM",
+   "key": "p:4395625@TOR",
+   "logo": "l:TOR",
+   "team": [
+    "pk:tyrunt",
+    "pk:seviper",
+    "pk:bronzong",
+    "pk:dodrio",
+    "pk:magmortar",
+    "pk:salamence"
+   ],
+   "vo": "If RJ Barrett was a trainer... this is his team.",
+   "dlg": "IF RJ WAS A TRAINER...|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "RJ'S TEAM",
+   "key": "p:4395625@TOR",
+   "mon": "pk:tyrunt",
+   "name": "HOMETOWN KID",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "species": "BORN IN TORONTO",
+   "callout": "BORN HERE",
+   "vo": "First up, the hometown kid. Born right here in Toronto. A baby raptor.",
+   "dlg": "THE HOMETOWN KID:|BORN IN TORONTO!"
+  },
+  {
+   "kind": "mon",
+   "head": "RJ'S TEAM",
+   "key": "p:4395625@TOR",
+   "mon": "pk:seviper",
+   "name": "MAPLE MAMBA",
+   "types": [
+    [
+     "POISON",
+     "#a040a0"
+    ]
+   ],
+   "species": "SNAKE STYLE",
+   "callout": "KOBE'S GAME",
+   "vo": "Then the Maple Mamba. The nickname came from playing like Kobe.",
+   "dlg": "THE MAPLE MAMBA:|HE PLAYS LIKE KOBE!"
+  },
+  {
+   "kind": "mon",
+   "head": "RJ'S TEAM",
+   "key": "p:4395625@TOR",
+   "mon": "pk:bronzong",
+   "name": "THE MEDAL",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "species": "BRONZE BELL",
+   "callout": "BRONZE VS USA",
+   "vo": "The medal. For Canada, he sealed a bronze medal win over the United States.",
+   "dlg": "THE MEDAL: FOR CANADA.|BRONZE OVER THE USA!"
+  },
+  {
+   "kind": "mon",
+   "head": "RJ'S TEAM",
+   "key": "p:4395625@TOR",
+   "mon": "pk:dodrio",
+   "name": "TRIPLE-DOUBLE",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "species": "THREE HEADS",
+   "callout": "25-10-15",
+   "vo": "The triple-double. Three heads, three stats: twenty-five points, ten boards, fifteen assists.",
+   "dlg": "THREE HEADS, THREE STATS:|25, 10 AND 15!"
+  },
+  {
+   "kind": "mon",
+   "head": "RJ'S TEAM",
+   "key": "p:4395625@TOR",
+   "mon": "pk:magmortar",
+   "name": "BIG STAGE",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "species": "PLAYOFF HEAT",
+   "callout": "33 PTS",
+   "vo": "The big stage. Thirty-three points in a playoff game against Cleveland.",
+   "dlg": "THE BIG STAGE:|33 IN A PLAYOFF GAME!"
+  },
+  {
+   "kind": "mon",
+   "head": "RJ'S TEAM",
+   "key": "p:4395625@TOR",
+   "mon": "pk:salamence",
+   "name": "THE ACE",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "species": "OUR SCORER",
+   "callout": "21.6 PPG",
+   "vo": "And the ace. Our scorer. Twenty-one point six a night through nine games.",
+   "dlg": "THE ACE: OUR SCORER.|21.6 A NIGHT, 9 GAMES IN!"
+  },
+  {
+   "kind": "next",
+   "head": "RJ'S TEAM",
+   "logo": "l:TOR",
+   "rec": "#3",
+   "ntxt": "RJ",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.6
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "claim": "Barrett was born in Toronto; nicknamed the Maple Mamba due to his playstyle resemblance to Kobe Bryant; sealed Canada's victory over the United States with a 3 point shot to win bronze at the 2023 FIBA World Cup; first career triple-double: 25 points, 10 rebounds and 15 assists (November 16, 2024); April 24, 2026, Game 3 vs Cleveland: playoff career-high 33 points; selected third overall (#3) in the 2019 draft",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

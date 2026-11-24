@@ -1,0 +1,129 @@
+{
+ "team": "raptors",
+ "name": "rjsplit",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "WHAT CHANGED? 🎮🏀 The Knicks traded RJ Barrett home to us 26 games into 2023-24. Same season, different player.\n\n• Knicks, 2023-24: 18.2 PPG on 42.3% shooting (26 games)\n• With us, same season: 21.8 PPG on 55.3%, 6.4 RPG, 4.1 APG (32 games)\n• Nearly the same shots: 14.9 a game in New York, 15.4 with us\n• This season: 20+ points in 8 of our first 10 games, 27 at Milwaukee\n\nWas it coming home, or was it New York? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "WHAT CHANGED?",
+   "key": "p:4395625@NYK",
+   "name": "RJ",
+   "badge": "DEC 30, 2023",
+   "lines": [
+    [
+     "26",
+     "KNICKS GP"
+    ]
+   ],
+   "vo": "The Knicks traded RJ Barrett home to us, mid-season. Twenty-six games in. Watch what changed.",
+   "dlg": "26 GAMES IN, THE KNICKS|TRADE RJ HOME TO US."
+  },
+  {
+   "kind": "fire",
+   "head": "IN NEW YORK",
+   "key": "p:4395625@NYK",
+   "name": "RJ",
+   "badge": "KNICKS",
+   "lines": [
+    [
+     "18.2",
+     "PPG"
+    ],
+    [
+     "42.3",
+     "FG%"
+    ]
+   ],
+   "vo": "In New York that season: eighteen point two points a night, on forty-two percent shooting.",
+   "dlg": "KNICKS: 18.2 PPG|ON 42.3% SHOOTING."
+  },
+  {
+   "kind": "fire",
+   "head": "WITH US",
+   "key": "p:4395625@TOR",
+   "name": "RJ",
+   "badge": "SAME SEASON",
+   "lines": [
+    [
+     "21.8",
+     "PPG"
+    ],
+    [
+     "55.3",
+     "FG%"
+    ]
+   ],
+   "vo": "With us, the same season: twenty-one point eight points, on fifty-five percent. On almost the same number of shots.",
+   "dlg": "WITH US: 21.8 PPG|ON 55.3% SHOOTING."
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:4395625@TOR",
+   "name": "RJ",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "8",
+     "OF 10 GAMES"
+    ],
+    [
+     "27",
+     "AT MIL"
+    ]
+   ],
+   "vo": "And this season? Twenty points or more in eight of our first ten games, including twenty-seven at Milwaukee.",
+   "dlg": "20+ POINTS IN 8 OF|OUR FIRST 10 GAMES."
+  },
+  {
+   "kind": "next",
+   "head": "WHAT CHANGED?",
+   "logo": "l:TOR",
+   "rec": "+13",
+   "ntxt": "FG%",
+   "nday": "AFTER TRADE",
+   "vo": "Was it coming home, or was it New York? Comment below.",
+   "dlg": "WAS IT COMING HOME,|OR WAS IT NEW YORK?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4395625",
+   "season": "2023-24",
+   "stat": "PTS",
+   "value": 18.2
+  },
+  {
+   "player": "4395625",
+   "season": "2023-24",
+   "stat": "FG%",
+   "value": 42.3
+  },
+  {
+   "player": "4395625",
+   "season": "2023-24",
+   "stat": "GP",
+   "value": 26
+  },
+  {
+   "claim": "ESPN stats, 2023-24 with the New York Knicks: 26 GP, 18.2 PTS, 42.3 FG%, 14.9 FGA; with the Toronto Raptors: 32 GP, 21.8 PTS, 55.3 FG%, 15.4 FGA, 6.4 REB, 4.1 AST; FG% up 13.0 points (+13) after the trade",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4395625/stats?seasontype=2"
+  },
+  {
+   "claim": "On December 30, 2023, the Knicks traded Barrett to the Toronto Raptors; he was born in Toronto",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  },
+  {
+   "claim": "ESPN game log 2026-27: Barrett scored 20 or more points in 8 of Toronto's first 10 games (20+)",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4395625/gamelog?season=2027"
+  },
+  {
+   "game": "401909292",
+   "player": "4395625",
+   "stat": "PTS",
+   "value": 27
+  }
+ ]
+}

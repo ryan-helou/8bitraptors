@@ -1,0 +1,182 @@
+{
+ "team": "raptors",
+ "name": "scottiebosh",
+ "pace": "wolves",
+ "record": "5-4",
+ "caption": "ONE LEFT. ONE STAYED. 🎮🏀 Chris Bosh was our No. 4 pick and left us for Miami. Scottie Barnes was our No. 4 pick and stayed.\n\n• Bosh at 24 (2008-09): 22.7 PPG, 10.0 RPG, 0.9 SPG, 1.0 BPG, All-Star\n• Scottie at 24 (2025-26): 18.1 PPG, 7.5 RPG, 5.9 APG, 1.4 SPG, 1.5 BPG, All-Star\n• Scottie now, first 8 games: 23.5 PPG\n• Bosh signed with Miami in 2010\n\nBosh at 24 or Scottie at 24? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "ONE LEFT. ONE STAYED.",
+   "key": "p:1977@TOR",
+   "name": "BOSH",
+   "badge": "2003 PICK 4",
+   "lines": [
+    [
+     "#4",
+     "2003 DRAFT"
+    ]
+   ],
+   "vo": "Two number four picks. Chris Bosh left us for Miami. Scottie Barnes stayed.",
+   "dlg": "BOSH: PICK 4 IN 2003.|SCOTTIE: PICK 4 IN 2021."
+  },
+  {
+   "kind": "fire",
+   "head": "BOSH AT 24",
+   "key": "p:1977@TOR",
+   "name": "BOSH",
+   "badge": "ALL-STAR",
+   "lines": [
+    [
+     "22.7",
+     "PPG"
+    ],
+    [
+     "10.0",
+     "RPG"
+    ]
+   ],
+   "vo": "Bosh at twenty-four: twenty-two point seven points and ten rebounds a night. An All-Star.",
+   "dlg": "BOSH AT 24: 22.7 PPG,|10.0 RPG. ALL-STAR."
+  },
+  {
+   "kind": "fire",
+   "head": "SCOTTIE AT 24",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "ALL-STAR",
+   "lines": [
+    [
+     "18.1",
+     "PPG"
+    ],
+    [
+     "5.9",
+     "APG"
+    ]
+   ],
+   "vo": "Scottie at twenty-four, last season: eighteen points, seven and a half rebounds, almost six assists. Also an All-Star.",
+   "dlg": "SCOTTIE AT 24: 18.1 PPG,|7.5 RPG, 5.9 APG."
+  },
+  {
+   "kind": "fire",
+   "head": "THE DEFENSE",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "DOES IT ALL",
+   "lines": [
+    [
+     "1.4",
+     "STEALS"
+    ],
+    [
+     "1.5",
+     "BLOCKS"
+    ]
+   ],
+   "vo": "Bosh scored more. Scottie did more: more steals, more blocks, more than double the assists.",
+   "dlg": "STEALS: 1.4 VS 0.9.|BLOCKS: 1.5 VS 1.0."
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:4433134@TOR",
+   "name": "SCOTTIE",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "23.5",
+     "PPG"
+    ]
+   ],
+   "vo": "And now, through his first eight games? Scottie is up to twenty-three point five a night.",
+   "dlg": "NOW, FIRST 8 GAMES:|SCOTTIE AT 23.5 PPG."
+  },
+  {
+   "kind": "next",
+   "head": "WHO'S BETTER?",
+   "logo": "l:TOR",
+   "rec": "#4",
+   "ntxt": "BOSH OR",
+   "nday": "SCOTTIE?",
+   "vo": "Bosh at twenty-four, or Scottie at twenty-four? Comment below.",
+   "dlg": "BOSH OR SCOTTIE AT 24?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "1977",
+   "season": "2008-09",
+   "stat": "PTS",
+   "value": 22.7
+  },
+  {
+   "player": "1977",
+   "season": "2008-09",
+   "stat": "REB",
+   "value": 10.0
+  },
+  {
+   "player": "1977",
+   "season": "2008-09",
+   "stat": "STL",
+   "value": 0.9
+  },
+  {
+   "player": "1977",
+   "season": "2008-09",
+   "stat": "BLK",
+   "value": 1.0
+  },
+  {
+   "player": "4433134",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 18.1
+  },
+  {
+   "player": "4433134",
+   "season": "2025-26",
+   "stat": "REB",
+   "value": 7.5
+  },
+  {
+   "player": "4433134",
+   "season": "2025-26",
+   "stat": "AST",
+   "value": 5.9
+  },
+  {
+   "player": "4433134",
+   "season": "2025-26",
+   "stat": "STL",
+   "value": 1.4
+  },
+  {
+   "player": "4433134",
+   "season": "2025-26",
+   "stat": "BLK",
+   "value": 1.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Bosh (born March 24, 1984) was selected fourth overall (#4) by Toronto in the 2003 draft, played for Toronto 2003-2010 and joined the Miami Heat in 2010; All-Star 2006-2016, so an All-Star in 2009 at age 24 (2008-09 season)",
+   "source": "https://en.wikipedia.org/wiki/Chris_Bosh"
+  },
+  {
+   "claim": "Barnes (born August 1, 2001) was the fourth overall (#4) pick in 2021; All-Star in 2024 and 2026, so an All-Star at age 24 in the 2025-26 season",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  }
+ ]
+}

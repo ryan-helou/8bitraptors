@@ -1,0 +1,132 @@
+{
+ "team": "raptors",
+ "name": "cmbpick9",
+ "record": "5-4",
+ "caption": "PICK 9 🎮🏀 Mono wiped out the start of his college career. We drafted him ninth anyway.\n\n• Missed the start of his freshman year at South Carolina with mono\n• 2025 draft: we take Collin Murray-Boyles at #9\n• Jan 11, 2026: 17 points, 15 rebounds, 3 blocks, 3 steals, a first in our history\n• Playoffs: 22 points on Cleveland, All-Rookie Second Team\n• First 9 games this season: 10.7 PPG, 5.0 RPG, 1.2 SPG\n\nFuture All-Star or role player? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 9",
+   "key": "p:5093267@TOR",
+   "name": "COLLIN",
+   "badge": "2025 DRAFT",
+   "lines": [
+    [
+     "#9",
+     "2025 DRAFT"
+    ]
+   ],
+   "vo": "Mono wiped out the start of his college career. Two years later, we drafted Collin Murray-Boyles ninth overall.",
+   "dlg": "MONO WRECKED HIS START.|2025: WE TAKE HIM AT #9."
+  },
+  {
+   "kind": "fire",
+   "head": "FIRST EVER",
+   "key": "p:5093267@TOR",
+   "name": "COLLIN",
+   "badge": "ROOKIE",
+   "lines": [
+    [
+     "17",
+     "PTS"
+    ],
+    [
+     "15",
+     "REB"
+    ]
+   ],
+   "vo": "As a rookie: seventeen points, fifteen rebounds, three blocks, three steals in one game. Nobody in our history had ever done that.",
+   "dlg": "17-15, 3 BLOCKS, 3 STEALS.|A FIRST IN OUR HISTORY."
+  },
+  {
+   "kind": "fire",
+   "head": "PLAYOFFS",
+   "key": "p:5093267@TOR",
+   "name": "COLLIN",
+   "badge": "ALL-ROOKIE",
+   "lines": [
+    [
+     "22",
+     "PTS"
+    ],
+    [
+     "8",
+     "REB"
+    ]
+   ],
+   "vo": "In the playoffs he dropped twenty-two on Cleveland. And he made All-Rookie Second Team.",
+   "dlg": "PLAYOFFS: 22 ON CLEVELAND.|ALL-ROOKIE SECOND TEAM."
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:5093267@TOR",
+   "name": "COLLIN",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "10.7",
+     "PPG"
+    ],
+    [
+     "5.0",
+     "RPG"
+    ]
+   ],
+   "vo": "Through nine games this season: ten point seven points and five rebounds. Plus nineteen points and four steals in our win at Milwaukee.",
+   "dlg": "FIRST 9 GAMES: 10.7 PPG.|19 PTS, 4 STEALS AT MIL."
+  },
+  {
+   "kind": "next",
+   "head": "PICK 9",
+   "logo": "l:TOR",
+   "rec": "#9",
+   "ntxt": "COLLIN",
+   "nday": "2025 PICK",
+   "vo": "Future All-Star, or role player? Comment below.",
+   "dlg": "FUTURE ALL-STAR?|OR ROLE PLAYER?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 10.7
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 5.0
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 1.2
+  },
+  {
+   "game": "401909292",
+   "player": "5093267",
+   "stat": "PTS",
+   "value": 19
+  },
+  {
+   "game": "401909292",
+   "player": "5093267",
+   "stat": "STL",
+   "value": 4
+  },
+  {
+   "claim": "Before the 2023-24 season at South Carolina, Murray-Boyles contracted mononucleosis and missed significant time; chosen #9 (ninth overall) in the 2025 NBA draft by Toronto; January 11, 2026: 17 points, 15 rebounds, 3 blocks and 3 steals, first player in Raptors history with those numbers; April 23, 2026: playoff career-high 22 points and 8 rebounds in a 126-104 win over Cleveland; NBA All-Rookie Second Team",
+   "source": "https://en.wikipedia.org/wiki/Collin_Murray-Boyles"
+  }
+ ]
+}

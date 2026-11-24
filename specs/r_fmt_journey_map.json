@@ -1,0 +1,521 @@
+{
+ "team": "raptors",
+ "name": "fmt_journey_map",
+ "template": "fmt_journey_map.html",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "HOW RJ GOT HOME 🗺️🦖 Born in Toronto. About 15,000 miles later, he's ours.\n\n🍁 Mississauga: St. Marcellinus, 27 points in a game as a freshman. Godfather: Steve Nash\n🌴 Montverde, FL (2015): 22 PPG and 7 RPG as a sophomore\n🇪🇬 Cairo (2017): 38 and 13 on the USA in the U19 World Cup semis. Gold + MVP\n🌴 Back in Florida: national champs, every major player of the year award\n😈 Duke: 22.6 PPG next to Zion, first-team All-American\n🗽 New York: No. 3 pick in 2019, youngest Knick ever to average 20\n🦖 Dec 30, 2023: traded home. 19 and 9 in his first game, a win\n📈 This season: 21.3 PPG through 10 games\n\nMiles are great-circle distances between stops, rounded. Where should his road go next? 👇",
+ "party": [
+  {
+   "id": "rj",
+   "key": "p:4395625@TOR"
+  },
+  {
+   "id": "rjny",
+   "key": "p:4395625@NYK"
+  },
+  {
+   "id": "s0",
+   "lat": 43.6,
+   "lon": -79.65,
+   "label": "MISSISSAUGA, ON  2014",
+   "stat": "0"
+  },
+  {
+   "id": "s1",
+   "lat": 28.5978,
+   "lon": -81.6748,
+   "label": "MONTVERDE, FL  2015",
+   "stat": "1,043"
+  },
+  {
+   "id": "s2",
+   "lat": 30.04444,
+   "lon": 31.23583,
+   "label": "CAIRO, EGYPT  2017",
+   "stat": "7,484"
+  },
+  {
+   "id": "s3",
+   "lat": 28.5978,
+   "lon": -81.6748,
+   "label": "MONTVERDE, FL  2017",
+   "stat": "13,925"
+  },
+  {
+   "id": "s4",
+   "lat": 35.9976,
+   "lon": -78.9422,
+   "label": "DURHAM, NC  2018",
+   "stat": "14,460"
+  },
+  {
+   "id": "s5",
+   "lat": 40.75056,
+   "lon": -73.99361,
+   "label": "NEW YORK, NY  2019",
+   "stat": "14,884"
+  },
+  {
+   "id": "s6",
+   "lat": 43.64333,
+   "lon": -79.37917,
+   "label": "TORONTO, ON  2023",
+   "stat": "15,225"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "jm_globe",
+   "mode": "tour",
+   "title": true,
+   "hero": "rj",
+   "cfg": {
+    "end": {
+     "al": "BORN: TORONTO",
+     "b": "l:TOR",
+     "bl": "HOME: TORONTO",
+     "miles": "15,225 MILES LATER"
+    },
+    "top": "HOW RJ BARRETT",
+    "main": "GOT HOME"
+   },
+   "vo": "From Mississauga to Toronto, RJ Barrett traveled about fifteen thousand miles to get home.",
+   "dlgA": "FROM MISSISSAUGA|TO TORONTO...",
+   "dlg": "ABOUT 15,000 MILES|ON THE ROAD."
+  },
+  {
+   "kind": "jm_globe",
+   "mode": "tour",
+   "title": true,
+   "cont": true,
+   "vo": "",
+   "hold": 0.55,
+   "dlg": "ABOUT 15,000 MILES|ON THE ROAD."
+  },
+  {
+   "kind": "jm_globe",
+   "mode": "rewind",
+   "title": true,
+   "vo": "Let's run it back.",
+   "dlg": "LET'S RUN IT BACK."
+  },
+  {
+   "kind": "jm_level",
+   "tin": "fade",
+   "head": "MISSISSAUGA, ON",
+   "theme": "snow",
+   "season": "2014-15",
+   "lv": "14",
+   "paint": "#ce1141",
+   "vo": "Mississauga, Ontario.",
+   "dlg": "MISSISSAUGA, ONTARIO."
+  },
+  {
+   "kind": "jm_level",
+   "head": "MISSISSAUGA, ON",
+   "theme": "snow",
+   "season": "2014-15",
+   "lv": "14",
+   "paint": "#ce1141",
+   "ov": {
+    "t": "board",
+    "top": "ST. MARCELLINUS",
+    "big": "27",
+    "sub": "POINTS"
+   },
+   "vo": "As a freshman at St. Marcellinus, he dropped twenty-seven in a game.",
+   "dlg": "FRESHMAN YEAR:|27 POINTS IN ONE GAME!",
+   "stat": {
+    "at": 0.3
+   }
+  },
+  {
+   "kind": "jm_level",
+   "head": "MISSISSAUGA, ON",
+   "theme": "snow",
+   "season": "2014-15",
+   "lv": "14",
+   "paint": "#ce1141",
+   "ov": {
+    "chip": "GODFATHER: STEVE NASH",
+    "t": "none"
+   },
+   "vo": "And he trained with his godfather, Steve Nash.",
+   "dlg": "HIS GODFATHER?|STEVE NASH.",
+   "stat": {
+    "at": 0.1
+   }
+  },
+  {
+   "kind": "jm_globe",
+   "head": "NEXT STOP: FLORIDA",
+   "stat": {
+    "from": 0,
+    "to": 1
+   },
+   "vo": "At fifteen, he left home for Montverde Academy in Florida.",
+   "dlg": "AT 15, HE LEFT HOME|FOR MONTVERDE, FLORIDA."
+  },
+  {
+   "kind": "jm_level",
+   "head": "MONTVERDE, FL",
+   "theme": "beach",
+   "season": "2016-17",
+   "lv": "16",
+   "paint": "#1a3a8a",
+   "floor": "#e0b070",
+   "ov": {
+    "t": "trip",
+    "v": [
+     [
+      "22",
+      "PPG"
+     ],
+     [
+      "7",
+      "RPG"
+     ]
+    ],
+    "chip": "SOPHOMORE OF THE YEAR"
+   },
+   "vo": "As a sophomore: twenty-two points and seven rebounds a game.",
+   "dlg": "SOPHOMORE YEAR:|22 POINTS, 7 BOARDS.",
+   "stat": {
+    "at": 0.3
+   }
+  },
+  {
+   "kind": "jm_globe",
+   "head": "NEXT STOP: EGYPT",
+   "stat": {
+    "from": 1,
+    "to": 2
+   },
+   "vo": "Summer twenty seventeen: Cairo, for the Under-19 World Cup.",
+   "dlg": "SUMMER 2017: CAIRO,|THE U19 WORLD CUP."
+  },
+  {
+   "kind": "jm_level",
+   "head": "CAIRO, EGYPT",
+   "theme": "desert",
+   "season": "JULY 2017",
+   "lv": "17",
+   "paint": "#d83a3a",
+   "floor": "#d8b070",
+   "ov": {
+    "t": "trip",
+    "v": [
+     [
+      "38",
+      "PTS"
+     ],
+     [
+      "13",
+      "REB"
+     ],
+     [
+      "5",
+      "AST"
+     ]
+    ]
+   },
+   "vo": "Semifinal against the USA: thirty-eight points and thirteen rebounds.",
+   "dlg": "SEMIS VS THE USA:|38 POINTS, 13 BOARDS!",
+   "stat": {
+    "at": 0.3
+   }
+  },
+  {
+   "kind": "jm_level",
+   "head": "CAIRO, EGYPT",
+   "theme": "desert",
+   "season": "JULY 2017",
+   "lv": "17",
+   "paint": "#d83a3a",
+   "floor": "#d8b070",
+   "ov": {
+    "t": "trip",
+    "v": [
+     [
+      "38",
+      "PTS"
+     ],
+     [
+      "13",
+      "REB"
+     ],
+     [
+      "5",
+      "AST"
+     ]
+    ],
+    "chip": "GOLD + TOURNAMENT MVP"
+   },
+   "vo": "Canada won gold. He was the tournament MVP.",
+   "dlg": "CANADA WON GOLD.|TOURNAMENT MVP!",
+   "stat": {
+    "at": -1
+   }
+  },
+  {
+   "kind": "jm_globe",
+   "head": "BACK TO FLORIDA",
+   "stat": {
+    "from": 2,
+    "to": 3
+   },
+   "vo": "Back in Florida, senior year: a national title, and every major player of the year award.",
+   "dlg": "SENIOR YEAR: NATIONAL|TITLE, EVERY AWARD!"
+  },
+  {
+   "kind": "jm_globe",
+   "head": "NEXT STOP: DUKE",
+   "stat": {
+    "from": 3,
+    "to": 4
+   },
+   "vo": "Then Duke.",
+   "dlg": "THEN: DUKE."
+  },
+  {
+   "kind": "jm_level",
+   "head": "DURHAM, NC",
+   "theme": "crowd",
+   "season": "2018-19",
+   "lv": "18",
+   "paint": "#1a3a9a",
+   "ov": {
+    "t": "trip",
+    "v": [
+     [
+      "22.6",
+      "PPG"
+     ],
+     [
+      "7.6",
+      "RPG"
+     ],
+     [
+      "4.3",
+      "APG"
+     ]
+    ],
+    "chip": "1ST-TEAM ALL-AMERICAN"
+   },
+   "vo": "Twenty-two point six points a night, next to Zion Williamson. First-team All-American.",
+   "dlg": "22.6 A NIGHT NEXT TO ZION.|FIRST-TEAM ALL-AMERICAN!",
+   "stat": {
+    "at": 0.3
+   }
+  },
+  {
+   "kind": "jm_globe",
+   "head": "NEXT STOP: NEW YORK",
+   "stat": {
+    "from": 4,
+    "to": 5
+   },
+   "vo": "Draft night, twenty nineteen.",
+   "dlg": "DRAFT NIGHT, 2019."
+  },
+  {
+   "kind": "jm_level",
+   "head": "NEW YORK, NY",
+   "theme": "city",
+   "season": "JUNE 2019",
+   "lv": "19",
+   "paint": "#1d5ab8",
+   "ov": {
+    "t": "pick",
+    "key": "rjny",
+    "big": "NO. 3 PICK",
+    "sub": "2019 NBA DRAFT"
+   },
+   "vo": "The Knicks took him third.",
+   "dlg": "GOTCHA! RJ WAS|DRAFTED 3RD!",
+   "stat": {
+    "at": 0.3
+   }
+  },
+  {
+   "kind": "jm_level",
+   "head": "NEW YORK, NY",
+   "theme": "city",
+   "season": "2021-22",
+   "lv": "21",
+   "paint": "#1d5ab8",
+   "ov": {
+    "t": "trip",
+    "v": [
+     [
+      "20.0",
+      "PPG"
+     ],
+     [
+      "5.8",
+      "RPG"
+     ],
+     [
+      "3.0",
+      "APG"
+     ]
+    ]
+   },
+   "vo": "At twenty-one, the youngest Knick ever to average twenty a game.",
+   "dlg": "THE YOUNGEST KNICK EVER|TO AVERAGE 20 A GAME.",
+   "stat": {
+    "at": 0.3
+   }
+  },
+  {
+   "kind": "jm_globe",
+   "head": "THE TRADE",
+   "stat": {
+    "from": 5,
+    "to": 6
+   },
+   "card": {
+    "a": "rjny",
+    "b": "rj",
+    "line": "TO TORONTO: RJ + QUICKLEY",
+    "date": "DEC 30, 2023"
+   },
+   "vo": "Then, December thirtieth, twenty twenty-three, we traded for him.",
+   "dlg": "DEC 30, 2023:|WE TRADED FOR HIM!"
+  },
+  {
+   "kind": "jm_level",
+   "head": "TORONTO, ON",
+   "theme": "city",
+   "season": "JAN 2024",
+   "lv": "23",
+   "paint": "#ce1141",
+   "ov": {
+    "t": "trip",
+    "v": [
+     [
+      "19",
+      "PTS"
+     ],
+     [
+      "9",
+      "REB"
+     ]
+    ],
+    "chip": "124-121 WIN VS CLEVELAND"
+   },
+   "vo": "His first game home: nineteen points and nine rebounds in a win.",
+   "dlg": "FIRST GAME HOME:|19 POINTS, 9 BOARDS, A WIN!",
+   "stat": {
+    "at": 0.3
+   }
+  },
+  {
+   "kind": "jm_level",
+   "head": "TORONTO, ON",
+   "theme": "city",
+   "season": "2026-27",
+   "lv": "26",
+   "paint": "#ce1141",
+   "ov": {
+    "t": "trip",
+    "v": [
+     [
+      "21.3",
+      "PPG"
+     ],
+     [
+      "5.8",
+      "RPG"
+     ],
+     [
+      "3.7",
+      "APG"
+     ]
+    ],
+    "chip": "THROUGH 10 GAMES"
+   },
+   "vo": "And this season: twenty-one point three a night through ten games.",
+   "dlg": "THIS SEASON: 21.3 A NIGHT|THROUGH 10 GAMES.",
+   "stat": {
+    "at": 0.3
+   }
+  },
+  {
+   "kind": "jm_end",
+   "head": "WELCOME HOME",
+   "theme": "city",
+   "vo": "Born in Toronto. About fifteen thousand miles later, he's home.",
+   "dlg": "BORN IN TORONTO... 15,000|MILES LATER, HE'S HOME."
+  }
+ ],
+ "facts": [
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.3
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 5.8
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 3.7
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "player": "4395625",
+   "season": "2021-22",
+   "stat": "PTS",
+   "value": 20.0
+  },
+  {
+   "player": "4395625",
+   "season": "2021-22",
+   "stat": "REB",
+   "value": 5.8
+  },
+  {
+   "player": "4395625",
+   "season": "2021-22",
+   "stat": "AST",
+   "value": 3.0
+  },
+  {
+   "claim": "RJ Barrett, born June 14, 2000 in Toronto; family settled in Mississauga in 2008; began high school at St. Marcellinus in Mississauga (2014-15), 27-point effort as a freshman on October 9, 2014; trained with Steve Nash, his godfather; in September 2015 transferred to Montverde Academy (2015-18); sophomore season 2016-17: 22 points and 7 rebounds per game, National Sophomore of the Year; July 2017 FIBA U19 World Cup: 38 points, 13 rebounds, 5 assists in a 99-87 semifinal win over the US; Canada won gold, Barrett MVP; senior year (2017-18): first player since LeBron James to sweep all major awards and win the national championship; Duke 2018-19: 22.6 points, 7.6 rebounds, 4.3 assists, consensus first-team (1ST-TEAM) All-American, teammate Zion Williamson; June 20, 2019 Knicks drafted him third overall (No. 3, 3RD) in the 2019 NBA draft; youngest Knicks player to average 20 points per game, at 21; December 30, 2023 traded with Quickley to Toronto for Anunoby, Achiuwa and Flynn; January 1, 2024 (JAN 2024): 19 points, 9 rebounds in a 124-121 win over Cleveland",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  },
+  {
+   "claim": "Level = age at each stop (born June 14, 2000): LV 14 in 2014-15, LV 16 in 2016-17, LV 17 in July 2017, LV 18 in 2018-19, LV 19 in June 2019, LV 21 in 2021-22, LV 23 in Jan 2024, LV 26 in 2026-27; at 15 he left for Montverde (Sept 2015); map tags by year: Mississauga 2014, Montverde 2015, Cairo 2017, back to Montverde 2017, Durham 2018, New York 2019, Toronto 2023",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  },
+  {
+   "claim": "The 2017 FIBA Under-19 Basketball World Cup was held in Cairo, Egypt from 1 to 9 July 2017; Canada won gold, MVP R. J. Barrett (U19)",
+   "source": "https://en.wikipedia.org/wiki/2017_FIBA_Under-19_Basketball_World_Cup"
+  },
+  {
+   "claim": "Great-circle miles (haversine, Earth radius 3958.8 mi) between Wikipedia coordinates: Mississauga (43.600, -79.650) to Montverde Academy (28.5978, -81.6748) 1,043; to Cairo (30.04444, 31.23583) 6,441 (cumulative 7,484); back to Montverde 6,441 (13,925); to Cameron Indoor Stadium, Durham (35.9976, -78.9422) 536 (14,460); to Madison Square Garden (40.75056, -73.99361) 424 (14,884); to Scotiabank Arena (43.64333, -79.37917) 340 (15,225 total, about 15,000). Counter starts at 0",
+   "source": "https://en.wikipedia.org/wiki/Scotiabank_Arena"
+  },
+  {
+   "claim": "Coordinates used: Montverde Academy page",
+   "source": "https://en.wikipedia.org/wiki/Montverde_Academy"
+  },
+  {
+   "claim": "Coordinates used: Cameron Indoor Stadium and Madison Square Garden pages; Mississauga and Cairo city pages",
+   "source": "https://en.wikipedia.org/wiki/Cameron_Indoor_Stadium"
+  }
+ ]
+}

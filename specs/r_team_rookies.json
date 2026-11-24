@@ -1,0 +1,240 @@
+{
+ "team": "raptors",
+ "name": "team_rookies",
+ "record": "5-4",
+ "mode": "starters",
+ "caption": "IF OUR YOUNG CORE WERE POKÉMON 🎮🏀\n\n🐦 Ja'Kobe Walter = Fletchling: easy to train, ferocious in battle. The 19th pick in 2024, then a game-winner with 0.5 seconds left\n🐼 Collin Murray-Boyles = Pancham: grows up imitating the leader it looks up to. The 9th pick in 2025, first Raptor ever with 17 points, 15 boards, 3 blocks and 3 steals in a game\n🐶 Allen Graves = Rockruff: friendly, but rougher as it grows up. Our youngest at 20, and one growth spurt took him from 6'1 to 6'7\n🦝 Jamal Shead = Sneasel: hidden claws, hidden ability Pickpocket. The 45th pick, after Big 12 Player and Defensive Player of the Year in the same season\n🐉 Scottie Barnes = Dragonite: flies over the seas rescuing people. The 4th pick in 2021, Rookie of the Year in 2022\n\nThat's a team we're taking into any gym in the league. Who would you change? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "key": "p:4684272@TOR",
+   "mon": "pk:fletchling",
+   "nick": "WALTER",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "TINY ROBIN",
+   "stat": "#19 PICK"
+  },
+  {
+   "key": "p:5093267@TOR",
+   "mon": "pk:pancham",
+   "nick": "CMB",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "PLAYFUL",
+   "stat": "#9 PICK"
+  },
+  {
+   "key": "p:5149115@TOR",
+   "mon": "pk:rockruff",
+   "nick": "GRAVES",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ]
+   ],
+   "label": "PUPPY",
+   "stat": "AGE 20"
+  },
+  {
+   "key": "p:4432241@TOR",
+   "mon": "pk:sneasel",
+   "nick": "SHEAD",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "label": "SHARP CLAW",
+   "stat": "#45 PICK"
+  },
+  {
+   "key": "p:4433134@TOR",
+   "mon": "pk:dragonite",
+   "nick": "BARNES",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "DRAGON",
+   "stat": "ROY 2022"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If our young core were Pokemon,",
+   "dlg": "IF OUR YOUNG CORE|WERE MONSTERS..."
+  },
+  {
+   "kind": "p_intro",
+   "cont": true,
+   "vo": "here's the team.",
+   "dlg": "HERE'S THE TEAM!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "Jah-Kobe Walter is Fletchling.",
+   "dlg": "GO! JA'KOBE WALTER!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "vo": "It's friendly and easy to train, but when the battle is joined, it shows its ferocious side.",
+   "dlg": "EASY TO TRAIN. FEROCIOUS|IN BATTLE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "The nineteenth pick in twenty twenty-four. Then a game-winner at Orlando with half a second left.",
+   "dlg": "NO. 19 PICK. GAME-WINNER|WITH 0.5 SECONDS LEFT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "Collin Murray-Boyles is Pancham.",
+   "dlg": "GO! COLLIN MURRAY-BOYLES!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "It grows up imitating Pangoro, which it looks up to as a leader.",
+   "dlg": "IT GROWS UP IMITATING|THE LEADER IT LOOKS UP TO."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "The ninth pick in twenty twenty-five, and the first player in our history with seventeen points, fifteen boards, three blocks and three steals in one game.",
+   "dlg": "NO. 9 PICK. FIRST RAPTOR|EVER WITH 17-15-3-3!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "Allen Graves is Rockruff.",
+   "dlg": "GO! ALLEN GRAVES!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "It's friendly, but its disposition grows rougher as it grows up.",
+   "dlg": "FRIENDLY, BUT IT GETS|ROUGHER AS IT GROWS UP."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "Our youngest player at twenty. One summer, a growth spurt took him from six-one to six-seven.",
+   "dlg": "OUR YOUNGEST AT 20:|FROM 6'1 TO 6'7!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "vo": "Jamal Shead is Sneasel.",
+   "dlg": "GO! JAMAL SHEAD!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "Its paws conceal sharp claws, and its hidden ability is Pickpocket.",
+   "dlg": "SHARP CLAWS. HIDDEN|ABILITY: PICKPOCKET."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "stat": true,
+   "vo": "Picked forty-fifth, after becoming the first player ever to win Big Twelve Player of the Year and Defensive Player of the Year in the same season.",
+   "dlg": "NO. 45 PICK. BIG 12 POY|AND DPOY IN ONE SEASON!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "vo": "And Scottie Barnes is Dragonite.",
+   "dlg": "GO! SCOTTIE BARNES!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "vo": "It's said to fly over the seas, rescuing people who are drowning.",
+   "dlg": "IT FLIES OVER THE SEAS,|RESCUING PEOPLE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "stat": true,
+   "vo": "The fourth pick in twenty twenty-one, and Rookie of the Year in year one. The leader of the core.",
+   "dlg": "NO. 4 PICK. ROOKIE OF|THE YEAR IN YEAR ONE!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a team we're taking into any gym in the league.",
+   "dlg": "A TEAM WE'RE TAKING INTO|ANY GYM IN THE LEAGUE."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who would you change? Comment below.",
+   "dlg": "WHO WOULD YOU CHANGE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "June 26, 2024: Walter selected with the 19th overall pick (#19) by Toronto; March 4, 2025: hit a three with 0.5 seconds left for a 114-113 win over Orlando",
+   "source": "https://en.wikipedia.org/wiki/Ja'Kobe_Walter"
+  },
+  {
+   "claim": "Murray-Boyles chosen ninth overall (#9) in the 2025 NBA draft by Toronto; recorded 17 points, 15 rebounds, 3 blocks and 3 steals (17-15-3-3) vs Philadelphia, the first player in Raptors history to achieve those numbers in a game",
+   "source": "https://en.wikipedia.org/wiki/Collin_Murray-Boyles"
+  },
+  {
+   "claim": "A growth spurt over one summer took Graves from 6 ft 1 in (6'1) to 6 ft 7 in (6'7); selected 19th overall by Toronto in 2026",
+   "source": "https://en.wikipedia.org/wiki/Allen_Graves"
+  },
+  {
+   "claim": "Raptors roster: Allen Graves, age 20, is the youngest player (next youngest Collin Murray-Boyles, 21)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/roster"
+  },
+  {
+   "claim": "Shead: Big 12 Player of the Year (POY) and Defensive Player of the Year (DPOY), the first player to win both in the same season; selected 45th overall (#45) in the 2024 NBA draft, traded on draft night to Toronto",
+   "source": "https://en.wikipedia.org/wiki/Jamal_Shead"
+  },
+  {
+   "claim": "Barnes: selected with the fourth overall pick (#4) in the 2021 NBA draft; NBA Rookie of the Year in 2022",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

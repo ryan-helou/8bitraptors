@@ -1,0 +1,134 @@
+{
+ "team": "warriors",
+ "name": "klay14",
+ "pace": "wolves",
+ "record": "7-3",
+ "caption": "14 THREES IN 27 MINUTES? 🎮🏀 Klay Thompson hit 14 threes. He played 27 minutes.\n\n• Before that night: 5 for 36 from three in his first 7 games\n• Oct 29, 2018 at Chicago: 14 of 24 from three, breaking Steph's record of 13\n• 52 points\n• We win 149-124\n\nWill anyone ever hit 15? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "14 THREES IN 27 MIN?",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "AT CHICAGO",
+   "lines": [
+    [
+     "14",
+     "THREES"
+    ],
+    [
+     "27",
+     "MIN"
+    ]
+   ],
+   "vo": "Klay Thompson hit fourteen threes. He only played twenty-seven minutes.",
+   "dlg": "14 THREES...|IN 27 MINUTES."
+  },
+  {
+   "kind": "fire",
+   "head": "5 FOR 36",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "SLOW START",
+   "lines": [
+    [
+     "5-36",
+     "THREES"
+    ]
+   ],
+   "vo": "And he'd started that season ice cold. Five for thirty-six from three in his first seven games.",
+   "dlg": "HIS FIRST 7 GAMES:|5 FOR 36 FROM THREE."
+  },
+  {
+   "kind": "fire",
+   "head": "THE RECORD",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "OCT 29, 2018",
+   "lines": [
+    [
+     "13",
+     "OLD RECORD"
+    ]
+   ],
+   "vo": "October twenty-ninth, twenty eighteen, in Chicago. He breaks Steph's record of thirteen.",
+   "dlg": "OCT. 29, 2018: HE BREAKS|STEPH'S RECORD OF 13."
+  },
+  {
+   "kind": "fire",
+   "head": "52 POINTS",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "SHOOTING",
+   "lines": [
+    [
+     "14-24",
+     "THREES"
+    ],
+    [
+     "52",
+     "PTS"
+    ]
+   ],
+   "vo": "Fourteen of twenty-four from three. Fifty-two points.",
+   "dlg": "14 OF 24 FROM THREE.|52 POINTS."
+  },
+  {
+   "kind": "fire",
+   "head": "BLOWOUT",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "WE WIN",
+   "lines": [
+    [
+     "149",
+     "GS"
+    ],
+    [
+     "124",
+     "CHI"
+    ]
+   ],
+   "vo": "We win, one forty-nine to one twenty-four.",
+   "dlg": "WE WIN,|149-124."
+  },
+  {
+   "kind": "next",
+   "head": "15 EVER?",
+   "logo": "l:GSW",
+   "rec": "14",
+   "ntxt": "THREES",
+   "nday": "OCT 29, 2018",
+   "vo": "Fourteen threes in one night. Will anyone ever hit fifteen? Comment below.",
+   "dlg": "WILL ANYONE EVER HIT 15?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401070772",
+   "player": "6475",
+   "stat": "PTS",
+   "value": "52"
+  },
+  {
+   "game": "401070772",
+   "player": "6475",
+   "stat": "MIN",
+   "value": "27"
+  },
+  {
+   "game": "401070772",
+   "player": "6475",
+   "stat": "3PT",
+   "value": "14-24"
+  },
+  {
+   "game": "401070772",
+   "score": "149-124"
+  },
+  {
+   "claim": "Over the first seven (7) games of the 2018-19 season, Thompson shot 5 for 36 from behind the arc; on October 29, 2018, against the Chicago Bulls, he hit an NBA-record 14 threes to break Curry's former mark of 13, scoring 52 points in 27 minutes; nobody has hit 15",
+   "source": "https://en.wikipedia.org/wiki/Klay_Thompson"
+  }
+ ]
+}

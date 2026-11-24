@@ -1,0 +1,306 @@
+{
+ "team": "warriors",
+ "name": "fmt_contender",
+ "template": "fmt_contender.html",
+ "pace": "wolves",
+ "record": "8-3",
+ "caption": "ARE THE WARRIORS FOR REAL? 💛💙🎮 The numbers say maybe (standings after MON 11/9)\n\n🪜 8-3 is only 4th in the West right now\n⛰️ But we started 0-3 and haven't lost since: 8 straight. Only San Antonio (9) has a longer streak\n🔥 120.4 points a night, 2nd in the NBA behind the Lakers (122.1)\n🏠 The catch: 6 of the 8 wins came at Chase Center. Home 6-1, road 2-2\n💪 Statement win: 112-95 over the Lakers, who sit 1st in the West at 10-2\n📈 Point differential +9.2, 3rd in the West behind the Spurs (+11.7) and Wolves (+11.1)\n\n🧳 The real test: 5 straight on the road. Wed @ HOU, Fri @ SA, Mon @ NO, Wed @ DAL, Thu @ MEM\n\nContender or pretender? 👇",
+ "beats": [
+  {
+   "kind": "ct_tv",
+   "head": "ARE THE WARRIORS FOR REAL?",
+   "rec": "8-3",
+   "lines": [
+    [
+     "REAL CONTENDER?"
+    ],
+    [
+     "THE NUMBERS SAY..."
+    ]
+   ],
+   "vo": "Are the Warriors a real contender out west? The numbers say: maybe. More than you think.",
+   "merge": true,
+   "alt": "THE NUMBERS SAY: MAYBE"
+  },
+  {
+   "kind": "ct_tv",
+   "head": "ARE THE WARRIORS FOR REAL?",
+   "rec": "8-3",
+   "cont": true,
+   "merge": true,
+   "lines": [
+    [
+     "REAL CONTENDER?"
+    ],
+    [
+     "THE NUMBERS SAY..."
+    ]
+   ],
+   "alt": "THE NUMBERS SAY: MAYBE",
+   "hold": 0.4,
+   "vo": ""
+  },
+  {
+   "kind": "ct_ladder",
+   "head": "THE STANDINGS",
+   "head2": "8-3 IS ONLY 4TH",
+   "hi": "GS",
+   "fadeOut": true,
+   "rows": [
+    {
+     "l": "l:LAL",
+     "a": "LAL",
+     "r": "10-2"
+    },
+    {
+     "l": "l:SA",
+     "a": "SA",
+     "r": "9-2"
+    },
+    {
+     "l": "l:OKC",
+     "a": "OKC",
+     "r": "8-2"
+    },
+    {
+     "l": "l:GS",
+     "a": "GS",
+     "r": "8-3"
+    },
+    {
+     "l": "l:MIN",
+     "a": "MIN",
+     "r": "8-3"
+    },
+    {
+     "l": "l:HOU",
+     "a": "HOU",
+     "r": "8-3"
+    }
+   ],
+   "vo": "Eight and three is only fourth in the West."
+  },
+  {
+   "kind": "ct_mount",
+   "head": "BUT LOOK AT THE CLIMB",
+   "from": 0,
+   "to": 0,
+   "fadeIn": true,
+   "card": {
+    "title": "HOW WE STARTED",
+    "rows": [
+     {
+      "l": "l:GS",
+      "v": "0-3",
+      "s": "FIRST 3 GAMES"
+     }
+    ]
+   },
+   "vo": "But look at the climb. We started oh and three."
+  },
+  {
+   "kind": "ct_mount",
+   "head": "TOP OF THE MOUNTAIN",
+   "from": 0,
+   "to": 4,
+   "rival": "l:SA",
+   "card": {
+    "title": "WIN STREAK",
+    "rows": [
+     {
+      "l": "l:GS",
+      "v": "8",
+      "s": "STRAIGHT WINS"
+     },
+     {
+      "l": "l:SA",
+      "v": "9",
+      "s": "ONLY LONGER ONE"
+     }
+    ]
+   },
+   "vo": "We haven't lost since. Eight straight, and only San Antonio has a longer streak."
+  },
+  {
+   "kind": "ct_mount",
+   "head": "AND THE OFFENSE",
+   "from": 4,
+   "to": 4,
+   "rival": "l:LAL",
+   "card": {
+    "title": "POINTS PER GAME",
+    "rows": [
+     {
+      "l": "l:GS",
+      "v": "120.4",
+      "s": "2ND IN THE NBA"
+     },
+     {
+      "l": "l:LAL",
+      "v": "122.1",
+      "s": "LAKERS: 1ST"
+     }
+    ]
+   },
+   "vo": "And the offense: one hundred twenty point four a night. Second in the NBA, behind the Lakers."
+  },
+  {
+   "kind": "ct_pier",
+   "head": "THE CATCH: HOME COOKING",
+   "big": "HOME 6-1 * ROAD 2-2",
+   "sub": "6 OF THE 8 WINS AT CHASE CENTER",
+   "items": [
+    {
+     "l": "l:DEN"
+    },
+    {
+     "l": "l:MIN"
+    },
+    {
+     "l": "l:LAL",
+     "h": true
+    },
+    {
+     "l": "l:LAC",
+     "h": true
+    },
+    {
+     "l": "l:PHX",
+     "h": true
+    },
+    {
+     "l": "l:MIA",
+     "h": true
+    },
+    {
+     "l": "l:ORL",
+     "h": true
+    },
+    {
+     "l": "l:NO",
+     "h": true
+    }
+   ],
+   "vo": "The catch: six of the eight wins came at Chase Center. On the road, we're just two and two."
+  },
+  {
+   "kind": "ct_win",
+   "head": "THE STATEMENT WIN",
+   "when": "FRI 10/30 * VS LAL",
+   "score": "112-95",
+   "opp": "l:LAL",
+   "note": "LAKERS NOW 10-2",
+   "chip": "1ST IN WEST",
+   "vo": "The statement win: we beat the Lakers by seventeen. Today, LA sits first in the West."
+  },
+  {
+   "kind": "ct_bars",
+   "head": "POINT DIFFERENTIAL",
+   "head2": "OURS: +9.2 * 3RD IN WEST",
+   "unit": "POINT DIFF",
+   "hi": "GS",
+   "bars": [
+    {
+     "l": "l:SA",
+     "v": "+11.7"
+    },
+    {
+     "l": "l:MIN",
+     "v": "+11.1"
+    },
+    {
+     "l": "l:GS",
+     "v": "+9.2"
+    },
+    {
+     "l": "l:HOU",
+     "v": "+9.1"
+    }
+   ],
+   "vo": "Our point differential is plus nine point two. Third in the West, behind San Antonio and Minnesota."
+  },
+  {
+   "kind": "ct_route",
+   "head": "THE REAL TEST",
+   "head2": "5 STRAIGHT ON THE ROAD",
+   "stops": [
+    {
+     "l": "l:HOU",
+     "d": "WED 11/11",
+     "tm": "9:30 PM ET"
+    },
+    {
+     "l": "l:SA",
+     "d": "FRI 11/13",
+     "tm": "9:30 PM ET"
+    },
+    {
+     "l": "l:NO",
+     "d": "MON 11/16",
+     "tm": "8 PM ET"
+    },
+    {
+     "l": "l:DAL",
+     "d": "WED 11/18",
+     "tm": "9:30 PM ET"
+    },
+    {
+     "l": "l:MEM",
+     "d": "THU 11/19",
+     "tm": "8 PM ET"
+    }
+   ],
+   "vo": "The real test starts Wednesday. Five straight on the road: Houston, San Antonio, New Orleans, Dallas, Memphis."
+  },
+  {
+   "kind": "ct_route",
+   "head": "NEXT BOSS: SAN ANTONIO",
+   "cont": true,
+   "hi": "SA",
+   "chip": "SPURS: 9 STRAIGHT",
+   "fadeOut": true,
+   "stops": [
+    {
+     "l": "l:HOU",
+     "d": "WED 11/11",
+     "tm": "9:30 PM ET"
+    },
+    {
+     "l": "l:SA",
+     "d": "FRI 11/13",
+     "tm": "9:30 PM ET"
+    },
+    {
+     "l": "l:NO",
+     "d": "MON 11/16",
+     "tm": "8 PM ET"
+    },
+    {
+     "l": "l:DAL",
+     "d": "WED 11/18",
+     "tm": "9:30 PM ET"
+    },
+    {
+     "l": "l:MEM",
+     "d": "THU 11/19",
+     "tm": "8 PM ET"
+    }
+   ],
+   "vo": "And Friday in San Antonio: the only team in the NBA with a longer streak than ours."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "ESPN standings after Mon 11/9 (West, by seed): 1 LAL 10-2, 2 SA 9-2 (W9, +11.7), 3 OKC 8-2, 4 GS 8-3 (W8, +9.2, 120.4 PPG, home 6-1, road 2-2), 5 MIN 8-3 (+11.1), 6 HOU 8-3 (+9.1). Most points per game in the NBA: LAL 122.1, then GS 120.4 (2nd). GS point differential 3rd in the West. Longest active streak: SA 9; GS 8 is second.",
+   "source": "https://site.api.espn.com/apis/v2/sports/basketball/nba/standings"
+  },
+  {
+   "claim": "Warriors schedule: started 0-3 (L @LAL 105-127, L vs MEM 108-111, L @PHX 122-131), then won 8 straight: @DEN, @MIN, vs LAL 112-95 (Fri 10/30), vs LAC, vs PHX, vs MIA, vs ORL, vs NO; 6 of the 8 wins at Chase Center. Next 5 games all on the road: Wed 11/11 @HOU 9:30 PM ET, Fri 11/13 @SA 9:30 PM ET, Mon 11/16 @NO 8 PM ET, Wed 11/18 @DAL 9:30 PM ET, Thu 11/19 @MEM 8 PM ET",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/9/schedule"
+  },
+  {
+   "game": "401909285",
+   "score": "112-95"
+  }
+ ]
+}

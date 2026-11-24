@@ -1,0 +1,36 @@
+{
+ "team": "raptors",
+ "name": "rudygay",
+ "pace": "wolves",
+ "record": "48-34",
+ "caption": "WE TRADED RUDY GAY. THEN WE GOT BETTER 🎮🏀\n\n• Dec 9, 2013: Rudy Gay, Quincy Acy and Aaron Gray to Sacramento for Greivis Vásquez, Patrick Patterson, John Salmons and Chuck Hayes\n• From 6-12, we went on a 10-2 run\n• We finished 48-34, the best record in franchise history at the time, and won the Atlantic\n• First playoffs since 2008. We The North was born\n\nWas trading Rudy the move that built us? 👇",
+ "beats": [
+  {"kind": "fire", "head": "THE TRADE", "key": "p:3005@TOR", "name": "RUDY", "badge": "DEC 9, 2013",
+   "lines": [["DEC 9", "2013"], ["4", "PLAYERS BACK"]],
+   "vo": "December 2013. We traded Rudy Gay to Sacramento. And then we got better.",
+   "dlg": "WE TRADED RUDY GAY.|THEN WE GOT BETTER."},
+  {"kind": "hot", "head": "WHAT CAME BACK",
+   "rows": [
+    {"logo": "p:4291@TOR", "name": "VASQUEZ", "sub": "FROM SACRAMENTO", "val": "IN", "w": 1},
+    {"logo": "p:4264@TOR", "name": "PATTERSON", "sub": "FROM SACRAMENTO", "val": "IN", "w": 1},
+    {"logo": "p:1726@TOR", "name": "SALMONS", "sub": "FROM SACRAMENTO", "val": "IN", "w": 1},
+    {"logo": "p:2834@TOR", "name": "HAYES", "sub": "FROM SACRAMENTO", "val": "IN", "w": 1}
+   ],
+   "vo": "Back came Vasquez, Patterson, Salmons and Hayes.",
+   "dlg": "VASQUEZ. PATTERSON.|SALMONS. HAYES."},
+  {"kind": "fire", "head": "THE RUN", "key": "l:TOR", "name": "US", "badge": "2013-14",
+   "lines": [["6-12", "BEFORE THE RUN"], ["10-2", "THE RUN"]],
+   "vo": "From six and twelve, we ripped off a ten and two run.",
+   "dlg": "FROM 6-12...|A 10-2 RUN."},
+  {"kind": "fire", "head": "THE FINISH", "key": "l:TOR", "name": "US", "badge": "2013-14",
+   "lines": [["48-34", "BEST EVER, AT THE TIME"], ["1ST", "IN THE ATLANTIC"]],
+   "vo": "Forty-eight and thirty-four. The best record we'd ever had. Division champs.",
+   "dlg": "48-34. OUR BEST EVER.|ATLANTIC CHAMPS."},
+  {"kind": "next", "head": "WE THE NORTH", "logo": "l:TOR", "rec": "48-34", "ntxt": "1ST PLAYOFFS", "nday": "SINCE 2008",
+   "vo": "Our first playoffs since 2008. Was trading Rudy the move that built us? Comment below.",
+   "dlg": "WAS TRADING RUDY|THE MOVE THAT BUILT US?"}
+ ],
+ "facts": [
+  {"claim": "On December 9, 2013 (Dec 9, 2013), the Raptors traded Rudy Gay, Quincy Acy and Aaron Gray to the Sacramento Kings for John Salmons, Greivis Vasquez, Patrick Patterson and Chuck Hayes (4 players back, in 1 trade). The trade was a turning point: the Raptors went on a 10-2 run from a 6-12 record and finished 48-34, their best record in franchise history at that time, won the Atlantic Division (1st, division champs) and made the playoffs for the first time since 2008. Season 2013-14. ESPN player ids: Rudy Gay 3005, Greivis Vasquez 4291, Patrick Patterson 4264, John Salmons 1726, Chuck Hayes 2834.", "source": "https://en.wikipedia.org/wiki/2013%E2%80%9314_Toronto_Raptors_season"}
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "team": "raptors",
+ "name": "tr_bosh",
+ "record": "5-4",
+ "caption": "IF BOSH HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n💾 Porygon: made entirely of programming code. Studied computer imaging at Georgia Tech, then our No. 4 pick in 2003\n🐲 Zweilous: two heads, both always eating. Our double-double record holder, 24.0 points and 10.8 boards in 2009-10\n🌿 Tangrowth: ensnares anything nearby with its vines. Left as our all-time leader in rebounds and blocks\n🦅 Braviary: a brave warrior that fights for its friends. Our captain, our first-ever division title in 2006-07\n⭐ Starmie: its core glows like a gem. 5-time All-Star with us\n🦖 Aerodactyl: flew fearlessly through prehistoric skies. Left as our all-time points leader, Hall of Fame in 2021\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Chris Bosh had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF CHRIS BOSH HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Porygon. Made entirely of code. Chris studied computer imaging, then we took him fourth in twenty oh three.",
+   "dlg": "MADE ENTIRELY OF CODE.|2003: OUR NO. 4 PICK"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Zweilous. Two heads, both always eating. Chris set our record for double-doubles. His last year with us: twenty-four points, ten point eight boards.",
+   "dlg": "TWO HEADS, BOTH FEASTING.|OUR DOUBLE-DOUBLE RECORD"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Tangrowth. It ensnares anything that wanders near with its vines. When Chris left, he was our all-time leader in rebounds and blocks.",
+   "dlg": "ITS VINES ENSNARE PREY.|OUR ALL-TIME REBOUND KING"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Braviary. A brave warrior that fights for its friends. Twenty oh seven: our captain leads us to our first division title ever.",
+   "dlg": "IT FIGHTS FOR ITS FRIENDS.|2007: FIRST DIVISION TITLE"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Starmie. Its core glows with the seven colors of the rainbow. Chris was an All-Star five times with us.",
+   "dlg": "ITS CORE GLOWS LIKE A GEM.|5X ALL-STAR WITH US"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Aerodactyl. It flew fearlessly through prehistoric skies. Chris left as our all-time points leader, and made the Hall of Fame in twenty twenty-one.",
+   "dlg": "FEARLESS IN ANCIENT SKIES.|HALL OF FAME: 2021"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "1977",
+   "season": "2009-10",
+   "stat": "PTS",
+   "value": 24.0
+  },
+  {
+   "player": "1977",
+   "season": "2009-10",
+   "stat": "REB",
+   "value": 10.8
+  },
+  {
+   "claim": "Bosh enrolled at Georgia Tech to study graphic design and computer imaging; selected fourth overall (No. 4) by Toronto in the 2003 NBA draft; named one of Toronto's team captains before 2005-06; on March 28, 2007 became the franchise record holder for double-doubles; in 2006-07 (2007) led Toronto to its first-ever division title; a five-time (5X) NBA All-Star with the Raptors; left the Raptors in 2010 (his last season 2009-10) as the franchise's all-time leader in points, rebounds, blocks and minutes; inducted into the Hall of Fame in 2021",
+   "source": "https://en.wikipedia.org/wiki/Chris_Bosh"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:1977@TOR",
+   "mon": "pk:porygon",
+   "nick": "PORYGON",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "THE BRAIN",
+   "stat": "NO. 4 PICK"
+  },
+  {
+   "key": "p:1977@TOR",
+   "mon": "pk:zweilous",
+   "nick": "ZWEILOUS",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "label": "DOUBLE-DOUBLE",
+   "stat": "24.0 + 10.8"
+  },
+  {
+   "key": "p:1977@TOR",
+   "mon": "pk:tangrowth",
+   "nick": "TANGROWTH",
+   "types": [
+    [
+     "GRASS",
+     "#78c850"
+    ]
+   ],
+   "label": "GLASS CLEANER",
+   "stat": "REB LEADER"
+  },
+  {
+   "key": "p:1977@TOR",
+   "mon": "pk:braviary",
+   "nick": "BRAVIARY",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE CAPTAIN",
+   "stat": "DIVISION CHAMP"
+  },
+  {
+   "key": "p:1977@TOR",
+   "mon": "pk:starmie",
+   "nick": "STARMIE",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "THE STAR",
+   "stat": "5X ALL-STAR"
+  },
+  {
+   "key": "p:1977@TOR",
+   "mon": "pk:aerodactyl",
+   "nick": "AERODACTYL",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "HALL OF FAME"
+  }
+ ],
+ "mode": "trainer"
+}

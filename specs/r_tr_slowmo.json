@@ -1,0 +1,215 @@
+{
+ "team": "raptors",
+ "name": "tr_slowmo",
+ "record": "5-4",
+ "caption": "IF KYLE ANDERSON HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🐌 Slowpoke: incredibly slow, never worries about the time. His nickname since 8th grade, for his deliberate pace\n🪄 Alakazam: makes its spoons with psychic power. His high school coach called him a modern-day Magic Johnson\n🐉 Hydreigon: three heads that devour everything in its path. 13 points, 12 rebounds, 11 assists in one UCLA game\n🐱 Meowth: sneaks out at night and hoards every coin it finds. 6 steals in one playoff game, a Memphis record\n🌊 Lapras: ferries people across the sea on its back. 7 franchises counting us, plus China at the 2023 World Cup\n👑 Slowking: incredible intellect, calm in any situation. A 6-9 point guard with a 7-3 wingspan, now ours\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Kyle Anderson had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF SLOW-MO HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Slowpoke. Incredibly slow, and never worried about the time. He plays so deliberately, he's been Slow-Mo since eighth grade.",
+   "dlg": "NEVER WORRIES ABOUT TIME.|SLOW-MO SINCE GRADE 8."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Alakazam. It makes its spoons with psychic power. His high school coach called him a modern-day Magic Johnson.",
+   "dlg": "SPOONS MADE BY ITS MIND.|A MODERN-DAY MAGIC JOHNSON"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Hydreigon. Three heads, and it uses all three to devour everything. At UCLA: thirteen points, twelve rebounds, eleven assists in one night.",
+   "dlg": "THREE HEADS, DEVOURS ALL.|13 PTS, 12 REB, 11 AST!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Meowth. It sneaks around at night, picking up every coin it finds. Six steals in one playoff game, a Memphis franchise record.",
+   "dlg": "IT PICKS UP EVERY COIN.|6 PLAYOFF STEALS, A RECORD"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Lapras. It ferries people across the sea on its back. Seven franchises counting us, and the World Cup with China's national team.",
+   "dlg": "IT FERRIES PEOPLE BY SEA.|7 TEAMS AND TEAM CHINA!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Slowking. Incredible intellect, calm in any situation. Six-nine, a seven-three wingspan, running the point. Now he's ours.",
+   "dlg": "CALM, COLLECTED, A GENIUS.|6-9, 7-3 WINGSPAN, OURS!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Anderson nicknamed Slow Mo after his deliberate style, a nickname earned in eighth (8th) grade in AAU; high school coach Bob Hurley: 'I think he's a modern-day Magic Johnson'; November 22, 2013 at UCLA: 13 points, 12 rebounds, 11 assists (triple-double) vs Morehead State; 2021 playoff opener at Utah: Memphis franchise single-game playoff record six (6) steals; franchises: Spurs, Grizzlies, Timberwolves, Warriors, Heat, Jazz, Raptors (7); Chinese citizenship, played for China at the 2023 FIBA World Cup; standing 6 feet 9 inches (6-9) with a 7 feet 3 inches (7-3) wingspan, ran the offense as point guard; 2014 NBA draft 30th overall pick (#30)",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Anderson_(basketball)"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:2993874@TOR",
+   "mon": "pk:slowpoke",
+   "nick": "SLOWPOKE",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "SLOW-MO",
+   "stat": "SINCE GRADE 8"
+  },
+  {
+   "key": "p:2993874@TOR",
+   "mon": "pk:alakazam",
+   "nick": "ALAKAZAM",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "THE MAGICIAN",
+   "stat": "MODERN MAGIC"
+  },
+  {
+   "key": "p:2993874@TOR",
+   "mon": "pk:hydreigon",
+   "nick": "HYDREIGON",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "label": "TRIPLE THREAT",
+   "stat": "TRIPLE-DOUBLE"
+  },
+  {
+   "key": "p:2993874@TOR",
+   "mon": "pk:meowth",
+   "nick": "MEOWTH",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "PICKPOCKET",
+   "stat": "6 STEALS"
+  },
+  {
+   "key": "p:2993874@TOR",
+   "mon": "pk:lapras",
+   "nick": "LAPRAS",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "label": "THE TRAVELER",
+   "stat": "7 FRANCHISES"
+  },
+  {
+   "key": "p:2993874@TOR",
+   "mon": "pk:slowking",
+   "nick": "SLOWKING",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "7-3 WINGSPAN"
+  }
+ ],
+ "mode": "trainer"
+}

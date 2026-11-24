@@ -1,0 +1,110 @@
+{
+ "team": "warriors",
+ "name": "wilt100",
+ "record": "7-3",
+ "caption": "100 POINTS 🎮🏀 Only one player has ever scored 100 in an NBA game. He was one of us.\n\n• March 2, 1962: Wilt Chamberlain, Philadelphia Warriors, vs the Knicks\n• 36 of 63 from the field, 28 of 32 from the line\n• We win 169-147\n• Closest since: Bam Adebayo's 83 in March 2026\n• Steph's career high: 62\n\nWill anyone ever score 100 again? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "100 POINTS",
+   "key": "l:GSW",
+   "name": "WILT",
+   "badge": "MARCH 2, 1962",
+   "lines": [
+    [
+     "100",
+     "POINTS"
+    ]
+   ],
+   "vo": "Only one player has ever scored a hundred points in an NBA game. He played for us: Wilt Chamberlain.",
+   "dlg": "ONLY ONE MAN EVER HIT 100.|HE PLAYED FOR US."
+  },
+  {
+   "kind": "hot",
+   "head": "WILT'S NIGHT",
+   "rows": [
+    {
+     "logo": "l:GSW",
+     "name": "FIELD GOALS",
+     "sub": "WILT",
+     "val": "36/63",
+     "w": 1
+    },
+    {
+     "logo": "l:GSW",
+     "name": "FREE THROWS",
+     "sub": "WILT",
+     "val": "28/32",
+     "w": 1
+    },
+    {
+     "logo": "l:GSW",
+     "name": "POINTS",
+     "sub": "NBA RECORD",
+     "val": "100",
+     "w": 1
+    }
+   ],
+   "vo": "Thirty-six of sixty-three from the field. Twenty-eight of thirty-two at the line, from a guy who usually shot about fifty percent.",
+   "dlg": "36 OF 63 FROM THE FIELD.|28 OF 32 AT THE LINE!"
+  },
+  {
+   "kind": "fire",
+   "head": "FINAL",
+   "key": "l:NY",
+   "name": "KNICKS",
+   "badge": "HERSHEY, PA",
+   "lines": [
+    [
+     "169",
+     "US"
+    ],
+    [
+     "147",
+     "KNICKS"
+    ]
+   ],
+   "vo": "March second, nineteen sixty-two. We beat the Knicks, one sixty-nine to one forty-seven.",
+   "dlg": "WE BEAT THE KNICKS|169-147."
+  },
+  {
+   "kind": "fire",
+   "head": "THE CLOSEST",
+   "key": "l:MIA",
+   "name": "BAM",
+   "badge": "MARCH 2026",
+   "lines": [
+    [
+     "83",
+     "BAM, 2026"
+    ],
+    [
+     "62",
+     "STEPH'S BEST"
+    ]
+   ],
+   "vo": "The closest anyone has come since: Bam Adebayo's eighty-three last March. Steph's career high? Sixty-two.",
+   "dlg": "CLOSEST SINCE: BAM'S 83.|STEPH'S BEST: 62."
+  },
+  {
+   "kind": "next",
+   "head": "100 AGAIN?",
+   "logo": "l:GSW",
+   "rec": "100",
+   "ntxt": "POINTS",
+   "nday": "1962",
+   "vo": "Will anyone ever score a hundred again? Comment below.",
+   "dlg": "WILL ANYONE HIT 100 AGAIN?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "On March 2, 1962 Wilt Chamberlain scored 100 points for the Philadelphia Warriors in a 169–147 win over the New York Knicks at Hershey, Pennsylvania (PA); 36 of 63 field goals and 28 of 32 free throws, far better than his roughly 50% career average; only 1 player has done it; the closest since is Bam Adebayo's 83 on March 10, 2026",
+   "source": "https://en.wikipedia.org/wiki/Wilt_Chamberlain%27s_100-point_game"
+  },
+  {
+   "claim": "Curry career-high 62 points on January 3, 2021",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  }
+ ]
+}

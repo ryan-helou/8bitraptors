@@ -1,0 +1,705 @@
+{
+ "team": "raptors",
+ "name": "fmt_effect",
+ "template": "fmt_effect.html",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "THE KAWHI EFFECT 🦖🎮 Why we went and got Kawhi, and what he means to us\n\n📟 Last season in LA: 27.9 PPG (career high) and 1.9 SPG in 65 games (up from 37 the year before)\n🏆 2 rings, 2 Finals MVPs, 2x Defensive Player of the Year\n🔄 The trade (Sept 2026): Brandon Ingram, Gradey Dick and 5 picks to the Clippers to bring him home\n🩹 Through 10 games he's played 2. Out with left knee swelling\n✅ With Kawhi: 2-0, +26.5 a night, 52.0 rebounds and 13.5 steals a game\n❌ Without him: 3-5, -2.5 a night, 38.8 rebounds and 10.5 steals\n💪 The guys are stepping up: in the 121-107 win at Milwaukee (11/7), RJ 27, Alijah Martin 27, Collin Murray-Boyles 19, Jakob Poeltl 19\n⏳ Next update on his knee: in 1 week\n\nHow much better are we with a healthy Kawhi? 👇",
+ "beats": [
+  {
+   "kind": "ef_dex",
+   "first": true,
+   "head": "WHY WE GOT KAWHI",
+   "name": "KAWHI LEONARD",
+   "sub": "BEFORE HE CAME BACK",
+   "logo": "l:LAC",
+   "city": "LOS ANGELES",
+   "key": "p:6450",
+   "stats": [
+    [
+     "27.9",
+     "PPG"
+    ],
+    [
+     "1.9",
+     "SPG"
+    ]
+   ],
+   "vo": "Before he came home, Kawhi Leonard was putting up 28 points and 2 steals a night in LA.",
+   "sel": {
+    "stats": [
+     2.4,
+     3.3
+    ]
+   }
+  },
+  {
+   "kind": "ef_dex",
+   "head": "WHY WE GOT KAWHI",
+   "name": "KAWHI LEONARD",
+   "sub": "BEFORE HE CAME BACK",
+   "logo": "l:LAC",
+   "city": "LOS ANGELES",
+   "key": "p:6450",
+   "stats": [
+    [
+     "27.9",
+     "PPG"
+    ],
+    [
+     "1.9",
+     "SPG"
+    ]
+   ],
+   "badges": [
+    [
+     "CHAMP x2",
+     "#3a6ad8"
+    ],
+    [
+     "FINALS MVP x2",
+     "#c8902a"
+    ]
+   ],
+   "disOut": true,
+   "vo": "Two rings. Two Finals MVPs.",
+   "sel": {
+    "stats": [
+     -1,
+     -1
+    ],
+    "badges": [
+     0.3,
+     1.25
+    ]
+   }
+  },
+  {
+   "kind": "ef_health",
+   "head": "LAST SEASON: 65 GAMES",
+   "key": "p:6450",
+   "sub": "OUT OF 82",
+   "rows": [
+    [
+     "21-22",
+     0
+    ],
+    [
+     "22-23",
+     52
+    ],
+    [
+     "23-24",
+     68
+    ],
+    [
+     "24-25",
+     37
+    ],
+    [
+     "25-26",
+     65
+    ]
+   ],
+   "tag": "UP FROM 37",
+   "disOut": true,
+   "vo": "And last season, he played 65 games, up from 37 the year before.",
+   "sel": {
+    "tag": 1.6
+   }
+  },
+  {
+   "kind": "ef_trade",
+   "head": "THE TRADE: SEPT 2026",
+   "from": "l:TOR",
+   "fromLab": "RAPTORS",
+   "to": "l:LAC",
+   "toLab": "CLIPPERS",
+   "sent": [
+    {
+     "ref": "ka",
+     "name": "INGRAM"
+    },
+    {
+     "ref": "kb",
+     "name": "GRADEY DICK"
+    },
+    {
+     "logo": "l:TOR",
+     "name": "5 PICKS"
+    }
+   ],
+   "got": [
+    {
+     "ref": "kc",
+     "name": "KAWHI"
+    }
+   ],
+   "wipeOut": true,
+   "vo": "So in September, we sent Brandon Ingram, Gradey Dick and five picks to the Clippers to bring him home.",
+   "sel": {
+    "sent": 0.2,
+    "got": 2.6
+   },
+   "ka": "p:3913176",
+   "kb": "p:5106258",
+   "kc": "p:6450"
+  },
+  {
+   "kind": "ef_roster",
+   "head": "WHAT WE'RE MISSING",
+   "wipeIn": true,
+   "title": "OPENING NIGHT FIVE",
+   "logo": "l:TOR",
+   "rows": [
+    {
+     "tag": "G",
+     "name": "QUICKLEY"
+    },
+    {
+     "tag": "F",
+     "name": "BARRETT"
+    },
+    {
+     "tag": "F",
+     "name": "LEONARD",
+     "miss": "MISSING"
+    },
+    {
+     "tag": "F",
+     "name": "BARNES"
+    },
+    {
+     "tag": "C",
+     "name": "POELTL"
+    }
+   ],
+   "note": "OUT: LEFT KNEE",
+   "vo": "But through 10 games, he's played just two. He's out with swelling in his left knee.",
+   "sel": {
+    "miss": 0.9,
+    "note": 2.2
+   }
+  },
+  {
+   "kind": "ef_grid",
+   "title": "WITH KAWHI: 2 GAMES",
+   "games": [
+    {
+     "logo": "l:CHI",
+     "w": true,
+     "score": "135-92",
+     "opp": "CHI",
+     "hi": true,
+     "dim": false
+    },
+    {
+     "logo": "l:WSH",
+     "w": true,
+     "score": "112-102",
+     "opp": "WSH",
+     "hi": true,
+     "dim": false
+    },
+    {
+     "logo": "l:MIN",
+     "w": false,
+     "score": "94-117",
+     "opp": "MIN",
+     "hi": false,
+     "dim": true
+    },
+    {
+     "logo": "l:ORL",
+     "w": true,
+     "score": "129-99",
+     "opp": "ORL",
+     "hi": false,
+     "dim": true
+    },
+    {
+     "logo": "l:ORL",
+     "w": false,
+     "score": "114-121",
+     "opp": "ORL",
+     "hi": false,
+     "dim": true
+    },
+    {
+     "logo": "l:LAL",
+     "w": false,
+     "score": "125-131",
+     "opp": "LAL",
+     "hi": false,
+     "dim": true
+    },
+    {
+     "logo": "l:LAC",
+     "w": true,
+     "score": "125-118",
+     "opp": "LAC",
+     "hi": false,
+     "dim": true
+    },
+    {
+     "logo": "l:DEN",
+     "w": false,
+     "score": "109-128",
+     "opp": "DEN",
+     "hi": false,
+     "dim": true
+    },
+    {
+     "logo": "l:MIL",
+     "w": true,
+     "score": "121-107",
+     "opp": "MIL",
+     "hi": false,
+     "dim": true
+    },
+    {
+     "logo": "l:MEM",
+     "w": false,
+     "score": "102-118",
+     "opp": "MEM",
+     "hi": false,
+     "dim": true
+    }
+   ],
+   "cols": 4,
+   "tags": [
+    [
+     "2-0",
+     "#2a8a2a"
+    ],
+    [
+     "+26.5 A NIGHT",
+     "#2a8a2a"
+    ]
+   ],
+   "vo": "With Kawhi, we're two and oh, winning by 26.5 a night.",
+   "dlg": "WITH KAWHI: 2-0,|WINNING BY 26.5 A NIGHT.",
+   "sel": {
+    "step": 0.12,
+    "tags": [
+     1.5,
+     2.3
+    ]
+   }
+  },
+  {
+   "kind": "ef_grid",
+   "title": "WITHOUT KAWHI: 8 GAMES",
+   "games": [
+    {
+     "logo": "l:CHI",
+     "w": true,
+     "score": "135-92",
+     "opp": "CHI",
+     "hi": false,
+     "dim": true
+    },
+    {
+     "logo": "l:WSH",
+     "w": true,
+     "score": "112-102",
+     "opp": "WSH",
+     "hi": false,
+     "dim": true
+    },
+    {
+     "logo": "l:MIN",
+     "w": false,
+     "score": "94-117",
+     "opp": "MIN",
+     "hi": true,
+     "dim": false
+    },
+    {
+     "logo": "l:ORL",
+     "w": true,
+     "score": "129-99",
+     "opp": "ORL",
+     "hi": true,
+     "dim": false
+    },
+    {
+     "logo": "l:ORL",
+     "w": false,
+     "score": "114-121",
+     "opp": "ORL",
+     "hi": true,
+     "dim": false
+    },
+    {
+     "logo": "l:LAL",
+     "w": false,
+     "score": "125-131",
+     "opp": "LAL",
+     "hi": true,
+     "dim": false
+    },
+    {
+     "logo": "l:LAC",
+     "w": true,
+     "score": "125-118",
+     "opp": "LAC",
+     "hi": true,
+     "dim": false
+    },
+    {
+     "logo": "l:DEN",
+     "w": false,
+     "score": "109-128",
+     "opp": "DEN",
+     "hi": true,
+     "dim": false
+    },
+    {
+     "logo": "l:MIL",
+     "w": true,
+     "score": "121-107",
+     "opp": "MIL",
+     "hi": true,
+     "dim": false
+    },
+    {
+     "logo": "l:MEM",
+     "w": false,
+     "score": "102-118",
+     "opp": "MEM",
+     "hi": true,
+     "dim": false
+    }
+   ],
+   "cols": 4,
+   "cont": true,
+   "tags": [
+    [
+     "3-5",
+     "#c82a2a"
+    ],
+    [
+     "-2.5 A NIGHT",
+     "#c82a2a"
+    ]
+   ],
+   "irisOut": true,
+   "vo": "Without him, we're three and five, and getting outscored by 2.5.",
+   "dlg": "WITHOUT HIM: 3-5,|OUTSCORED BY 2.5 A NIGHT.",
+   "sel": {
+    "tags": [
+     0.6,
+     1.6
+    ]
+   }
+  },
+  {
+   "kind": "ef_level",
+   "head": "LEVEL UP!",
+   "irisIn": true,
+   "keys": [
+    "ka"
+   ],
+   "rows": [
+    {
+     "lab": "TEAM REB / GAME",
+     "val": "52.0",
+     "delta": "+13.2",
+     "was": "W/O KAWHI: 38.8"
+    }
+   ],
+   "vo": "In his two games, we grabbed 52 rebounds a night. Without him, 38.8.",
+   "dlg": "IN HIS 2 GAMES: 52 REBOUNDS|A NIGHT. WITHOUT HIM: 38.8.",
+   "ka": "p:6450",
+   "sel": {
+    "rows": [
+     0.9
+    ]
+   }
+  },
+  {
+   "kind": "ef_level",
+   "head": "LEVEL UP!",
+   "keys": [
+    "ka"
+   ],
+   "rows": [
+    {
+     "lab": "TEAM REB / GAME",
+     "val": "52.0",
+     "delta": "+13.2",
+     "was": "W/O KAWHI: 38.8"
+    },
+    {
+     "lab": "TEAM STL / GAME",
+     "val": "13.5",
+     "delta": "+3.0",
+     "was": "W/O KAWHI: 10.5"
+    }
+   ],
+   "fadeOut": true,
+   "vo": "And 13.5 steals, up from 10.5.",
+   "dlg": "AND 13.5 STEALS,|UP FROM 10.5.",
+   "ka": "p:6450",
+   "sel": {
+    "rows": [
+     -1,
+     0.3
+    ]
+   }
+  },
+  {
+   "kind": "ef_party",
+   "fadeIn": true,
+   "title": "NO KAWHI? @ MIL * W 121-107",
+   "cards": [
+    {
+     "name": "BARRETT",
+     "val": "27",
+     "lab": "PTS",
+     "ref": "ka"
+    },
+    {
+     "name": "MARTIN",
+     "val": "27",
+     "lab": "PTS",
+     "ref": "kb"
+    },
+    {
+     "name": "MURRAY-BOYLES",
+     "val": "19",
+     "lab": "PTS",
+     "ref": "kc"
+    },
+    {
+     "name": "POELTL",
+     "val": "19",
+     "lab": "PTS",
+     "ref": "kd"
+    }
+   ],
+   "vo": "But the guys are stepping up. At Milwaukee, four of them scored 19 or more.",
+   "dlg": "AT MILWAUKEE, 4 GUYS|SCORED 19 OR MORE.",
+   "ka": "p:4395625",
+   "kb": "p:4702656",
+   "kc": "p:5093267",
+   "kd": "p:3134908",
+   "empty": true
+  },
+  {
+   "kind": "ef_party",
+   "title": "NO KAWHI? @ MIL * W 121-107",
+   "cards": [
+    {
+     "name": "BARRETT",
+     "val": "27",
+     "lab": "PTS",
+     "ref": "ka"
+    },
+    {
+     "name": "MARTIN",
+     "val": "27",
+     "lab": "PTS",
+     "ref": "kb"
+    },
+    {
+     "name": "MURRAY-BOYLES",
+     "val": "19",
+     "lab": "PTS",
+     "ref": "kc"
+    },
+    {
+     "name": "POELTL",
+     "val": "19",
+     "lab": "PTS",
+     "ref": "kd"
+    }
+   ],
+   "fadeOut": true,
+   "vo": "RJ had 27, Alijah Martin 27, Collin Murray-Boyles 19, and Jakob 19.",
+   "dlg": "RJ 27, ALIJAH 27,|COLLIN 19, JAKOB 19.",
+   "ka": "p:4395625",
+   "kb": "p:4702656",
+   "kc": "p:5093267",
+   "kd": "p:3134908",
+   "sel": {
+    "cards": [
+     0.1,
+     0.9,
+     1.7,
+     3.0
+    ]
+   }
+  },
+  {
+   "kind": "ef_end",
+   "fadeIn": true,
+   "tower": true,
+   "head": "WAITING ON KAWHI...",
+   "key": "p:6450",
+   "tag": "NEXT UPDATE: 1 WEEK",
+   "cards": [
+    {
+     "big": "2-0",
+     "sub": "WITH KAWHI",
+     "col": "#2a8a2a"
+    },
+    {
+     "big": "3-5",
+     "sub": "WITHOUT HIM",
+     "col": "#c82a2a"
+    }
+   ],
+   "fadeOut": true,
+   "vo": "Two games with Kawhi, two wins. The next update on his knee comes in a week.",
+   "sel": {
+    "tag": 2.4,
+    "cards": [
+     0.3,
+     0.9
+    ]
+   }
+  }
+ ],
+ "facts": [
+  {
+   "player": "6450",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 27.9
+  },
+  {
+   "player": "6450",
+   "season": "2025-26",
+   "stat": "STL",
+   "value": 1.9
+  },
+  {
+   "player": "6450",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 65
+  },
+  {
+   "player": "6450",
+   "season": "2024-25",
+   "stat": "GP",
+   "value": 37
+  },
+  {
+   "player": "6450",
+   "season": "2023-24",
+   "stat": "GP",
+   "value": 68
+  },
+  {
+   "player": "6450",
+   "season": "2022-23",
+   "stat": "GP",
+   "value": 52
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 2
+  },
+  {
+   "claim": "Kawhi Leonard played 0 games in 2021-22 (21-22): 'remained inactive the entire season' after a partial ACL tear. NBA regular season = 82 games.",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "Kawhi Leonard: 2x NBA Finals MVP (2014, 2019), 2x NBA Defensive Player of the Year (2015, 2016)",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "On September 14, 2026 (Sept 2026), Leonard was traded back to the Raptors for Brandon Ingram, Gradey Dick and five (5) draft picks",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "Raptors are 5-5 through 10 games; Leonard played games 1 and 2 (2 games, W 135-92 vs CHI, W 112-102 at WSH; 2-0) and missed the other 8 (3-5), listed out with left knee swelling (DNP 10/25 'LEFT KNEE SWELLING'). Opening night five: Quickley G, Barrett F, Leonard F, Barnes F, Poeltl C.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909864"
+  },
+  {
+   "claim": "Point margin with Leonard: (135-92)+(112-102)=53 over 2 games = +26.5 a night. Without him (8 games): scored 919, allowed 939 = -20, -2.5 a night. Team rebounds with: 51+53=104/2=52.0; without: 34+45+38+47+41+29+42+34=310/8=38.75 (38.8); difference 13.2 vs displayed 38.8. Team steals with: 15+12=27/2=13.5; without: 15+15+5+14+6+10+12+7=84/8=10.5; +3.0. (ESPN box scores of all 10 games)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/schedule"
+  },
+  {
+   "claim": "Leonard (knee) is continuing reconditioning; another update will be provided in 1 week (one week) (ESPN injury note, 2026-11-10)",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/6450"
+  },
+  {
+   "game": "401909837",
+   "score": "135-92"
+  },
+  {
+   "game": "401909846",
+   "score": "112-102"
+  },
+  {
+   "game": "401909864",
+   "score": "94-117"
+  },
+  {
+   "game": "401909885",
+   "score": "129-99"
+  },
+  {
+   "game": "401909281",
+   "score": "114-121"
+  },
+  {
+   "game": "401909906",
+   "score": "125-131"
+  },
+  {
+   "game": "401909920",
+   "score": "125-118"
+  },
+  {
+   "game": "401909931",
+   "score": "109-128"
+  },
+  {
+   "game": "401909292",
+   "score": "121-107"
+  },
+  {
+   "game": "401909955",
+   "score": "102-118"
+  },
+  {
+   "game": "401909292",
+   "player": "4395625",
+   "stat": "PTS",
+   "value": 27
+  },
+  {
+   "game": "401909292",
+   "player": "4702656",
+   "stat": "PTS",
+   "value": 27
+  },
+  {
+   "game": "401909292",
+   "player": "5093267",
+   "stat": "PTS",
+   "value": 19
+  },
+  {
+   "game": "401909292",
+   "player": "3134908",
+   "stat": "PTS",
+   "value": 19
+  },
+  {
+   "claim": "Raptors won at Milwaukee 121-107 on Sat 11/7 (2026-11-07); 4 Raptors scored 19 or more (Barrett 27, Martin 27, Murray-Boyles 19, Poeltl 19)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909292"
+  },
+  {
+   "claim": "Narration rounds 27.9 PPG to 28 points and 1.9 SPG to 2 steals; Leonard is a 2x NBA champion (2014, 2019)",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  }
+ ]
+}

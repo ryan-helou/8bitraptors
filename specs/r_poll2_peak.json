@@ -1,0 +1,147 @@
+{
+ "team": "raptors",
+ "name": "poll2_peak",
+ "l1": "ONE SEASON, ONE PICK...",
+ "q": "WHOSE YEAR WAS BEST?",
+ "boxA": "PEAK SEASONS",
+ "boxB": "TWO LEGENDS VS NOW",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: PEAK SEASON 🎮🏀 Two legends and one of our guys today. Whose best year with us was best?\n\n1️⃣ Chris Bosh, 2009-10: 24.0 PPG, 10.8 RPG on 51.8% shooting, All-Star\n2️⃣ Pascal Siakam, 2019-20: 22.9 PPG, 7.3 RPG, All-NBA Second Team, All-Star\n3️⃣ RJ Barrett, 2024-25: 21.1 PPG, 6.3 RPG, 5.4 APG, and he's still here\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "1977",
+   "name": "BOSH",
+   "full": "CHRIS BOSH",
+   "jersey": "4",
+   "type": "BIG MAN",
+   "season": "2009-10",
+   "stats": [
+    [
+     "24.0",
+     "PPG"
+    ],
+    [
+     "10.8",
+     "RPG"
+    ],
+    [
+     "51.8",
+     "FG%"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3149673",
+   "name": "SIAKAM",
+   "full": "PASCAL SIAKAM",
+   "jersey": "43",
+   "type": "SPIN",
+   "season": "2019-20",
+   "stats": [
+    [
+     "22.9",
+     "PPG"
+    ],
+    [
+     "7.3",
+     "RPG"
+    ],
+    [
+     "2ND",
+     "ALL-NBA"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "4395625",
+   "name": "RJ",
+   "full": "RJ BARRETT",
+   "jersey": "9",
+   "type": "SCORER",
+   "season": "2024-25",
+   "stats": [
+    [
+     "21.1",
+     "PPG"
+    ],
+    [
+     "6.3",
+     "RPG"
+    ],
+    [
+     "5.4",
+     "APG"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "player": "1977",
+   "season": "2009-10",
+   "stat": "PTS",
+   "value": 24.0
+  },
+  {
+   "player": "1977",
+   "season": "2009-10",
+   "stat": "REB",
+   "value": 10.8
+  },
+  {
+   "player": "1977",
+   "season": "2009-10",
+   "stat": "FG%",
+   "value": 51.8
+  },
+  {
+   "claim": "Bosh: 11x NBA All-Star (2006-2016), including 2010; wore #4 for Toronto",
+   "source": "https://en.wikipedia.org/wiki/Chris_Bosh"
+  },
+  {
+   "player": "3149673",
+   "season": "2019-20",
+   "stat": "PTS",
+   "value": 22.9
+  },
+  {
+   "player": "3149673",
+   "season": "2019-20",
+   "stat": "REB",
+   "value": 7.3
+  },
+  {
+   "claim": "Siakam: All-NBA Second Team (2nd) 2020 and first All-Star in the 2019-20 season",
+   "source": "https://en.wikipedia.org/wiki/Pascal_Siakam"
+  },
+  {
+   "claim": "Siakam wore #43 for Toronto",
+   "source": "https://www.basketball-reference.com/players/s/siakapa01.html"
+  },
+  {
+   "player": "4395625",
+   "season": "2024-25",
+   "stat": "PTS",
+   "value": 21.1
+  },
+  {
+   "player": "4395625",
+   "season": "2024-25",
+   "stat": "REB",
+   "value": 6.3
+  },
+  {
+   "player": "4395625",
+   "season": "2024-25",
+   "stat": "AST",
+   "value": 5.4
+  },
+  {
+   "claim": "RJ Barrett: No. 9 for the Toronto Raptors",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  }
+ ]
+}

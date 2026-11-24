@@ -1,0 +1,121 @@
+{
+ "team": "raptors",
+ "name": "record54",
+ "pace": "wolves",
+ "caption": "OUR SCORING RECORD 🎮🏀 Not Vince. Not DeMar. The guy nobody drafted.\n\n• Vince Carter: 51 vs Phoenix (Feb 27, 2000). Terrence Ross tied it in 2014\n• DeMar DeRozan: 52 vs Milwaukee (Jan 1, 2018). Pascal Siakam matched it in 2022\n• Fred VanVleet: 54 vs Orlando (Feb 2, 2021), with 11 threes in a 123-108 win\n• The most points ever by an undrafted player, passing Moses Malone's 53\n\nWho breaks 54 next? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "OUR RECORD",
+   "key": "l:TOR",
+   "name": "US",
+   "badge": "ONE GAME",
+   "lines": [
+    [
+     "?",
+     "POINTS"
+    ]
+   ],
+   "vo": "Our single-game scoring record isn't Vince. It isn't DeMar. It's the guy nobody drafted.",
+   "dlg": "NOT VINCE. NOT DEMAR.|THE GUY NOBODY DRAFTED."
+  },
+  {
+   "kind": "hot",
+   "head": "THE LADDER",
+   "rows": [
+    {
+     "logo": "p:2991230@TOR",
+     "name": "FRED",
+     "sub": "FEB 2, 2021",
+     "val": "54",
+     "w": 1
+    },
+    {
+     "logo": "p:3978@TOR",
+     "name": "DEMAR",
+     "sub": "JAN 1, 2018",
+     "val": "52",
+     "w": 1
+    },
+    {
+     "logo": "p:3149673@TOR",
+     "name": "PASCAL",
+     "sub": "DEC 21, 2022",
+     "val": "52",
+     "w": 1
+    },
+    {
+     "logo": "p:136@TOR",
+     "name": "VINCE",
+     "sub": "FEB 27, 2000",
+     "val": "51",
+     "w": 1
+    }
+   ],
+   "vo": "Vince had fifty-one. DeMar got fifty-two, and Pascal matched it. Fred? Fifty-four.",
+   "dlg": "VINCE 51. DEMAR 52. PASCAL 52.|FRED: 54."
+  },
+  {
+   "kind": "fire",
+   "head": "FEB 2, 2021",
+   "key": "p:2991230@TOR",
+   "name": "FRED",
+   "badge": "VS ORLANDO",
+   "lines": [
+    [
+     "54",
+     "POINTS"
+    ],
+    [
+     "11",
+     "THREES"
+    ]
+   ],
+   "vo": "Fifty-four points against Orlando, with eleven threes, in a fifteen-point win.",
+   "dlg": "54 POINTS. 11 THREES.|A 123-108 WIN."
+  },
+  {
+   "kind": "fire",
+   "head": "UNDRAFTED",
+   "key": "p:2991230@TOR",
+   "name": "FRED",
+   "badge": "NBA HISTORY",
+   "lines": [
+    [
+     "54",
+     "FRED"
+    ],
+    [
+     "53",
+     "MOSES MALONE"
+    ]
+   ],
+   "vo": "The most points ever by an undrafted player. He passed Moses Malone.",
+   "dlg": "MOST EVER BY AN UNDRAFTED|PLAYER. SORRY, MOSES."
+  },
+  {
+   "kind": "next",
+   "head": "WHO'S NEXT?",
+   "logo": "l:TOR",
+   "rec": "54",
+   "ntxt": "WHO BREAKS",
+   "nday": "IT NEXT?",
+   "vo": "Who breaks fifty-four next? Comment below.",
+   "dlg": "WHO BREAKS 54 NEXT?|COMMENT BELOW."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Toronto Raptors most points scored in a game (correct as of the end of 2025-26): Fred VanVleet 54 vs Orlando Magic, 2 February 2021 (Feb 2, 2021); DeMar DeRozan 52 vs Milwaukee Bucks, 1 January 2018 (Jan 1, 2018); Pascal Siakam 52 vs New York Knicks, 21 December 2022 (Dec 21, 2022); Vince Carter 51 vs Phoenix Suns, 27 February 2000 (Feb 27, 2000); Terrence Ross 51 vs Los Angeles Clippers, 25 January 2014 (2014). ESPN ids: VanVleet 2991230, DeRozan 3978, Siakam 3149673, Carter 136.",
+   "source": "https://en.wikipedia.org/wiki/Toronto_Raptors_accomplishments_and_records"
+  },
+  {
+   "claim": "On February 2, 2021, VanVleet scored a career-high 54 points with a career-high 11 three-pointers in a 123-108 victory against Orlando (a 15-point win), a franchise record, and the most points by an undrafted NBA player, previously held by Moses Malone with 53.",
+   "source": "https://en.wikipedia.org/wiki/Fred_VanVleet"
+  },
+  {
+   "claim": "No Raptor has scored more than 41 in a game in the first 13 games of 2026-27 (ESPN box scores), so 54 still stands.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/tor/schedule"
+  }
+ ]
+}

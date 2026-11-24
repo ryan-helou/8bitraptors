@@ -1,0 +1,411 @@
+{
+ "team": "raptors",
+ "name": "fmt_team_builder",
+ "template": "fmt_team_builder.html",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "HOW WE BUILT THIS TEAM 🎮🦖 4 trades, 4 free-agent catches, 4 draft eggs.\n\n🔄 Trade machine: OG to New York for RJ + Quickley (Dec 2023), Poeltl back from San Antonio (Feb 2023), Shead from Sacramento on draft night (2024), Ingram + Gradey + 5 picks for Kawhi (Sept 2026)\n🏀 Caught: Jamison Battle (undrafted, 2024), Kyle Anderson (1 year), Quickley re-signed (5 years, $175M), Poeltl extended (4 years, $104M)\n🥚 Draft eggs: Scottie (No. 4, 2021), CMB (No. 9, 2025), Ja'Kobe Walter (No. 19, 2024), Allen Graves (No. 19, 2026)\n\nWe're 5-5. Who's your favorite pickup? 👇",
+ "party": [
+  {
+   "id": "scottie",
+   "key": "p:4433134"
+  },
+  {
+   "id": "rj",
+   "key": "p:4395625@TOR"
+  },
+  {
+   "id": "iq",
+   "key": "p:4395724"
+  },
+  {
+   "id": "og",
+   "key": "p:3934719@NYK"
+  },
+  {
+   "id": "poeltl",
+   "key": "p:3134908"
+  },
+  {
+   "id": "shead",
+   "key": "p:4432241"
+  },
+  {
+   "id": "kawhi",
+   "key": "p:6450@TOR"
+  },
+  {
+   "id": "ingram",
+   "key": "p:3913176"
+  },
+  {
+   "id": "dick",
+   "key": "p:5106258"
+  },
+  {
+   "id": "battle",
+   "key": "p:4431893"
+  },
+  {
+   "id": "anderson",
+   "key": "p:2993874"
+  },
+  {
+   "id": "cmb",
+   "key": "p:5093267"
+  },
+  {
+   "id": "walter",
+   "key": "p:4684272"
+  },
+  {
+   "id": "graves",
+   "key": "p:5149115"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "tb_menu",
+   "walker": "scottie",
+   "cfg": {
+    "title": "HOW THE RAPTORS WERE BUILT",
+    "sub": "EVERY PLAYER. EVERY MOVE.",
+    "gm": "RAPTORS GM",
+    "ballsWord": "RAPTOR BALLS",
+    "squadTitle": "THE 2026-27 RAPTORS"
+   },
+   "vo": "How did every Raptor get here?",
+   "dlg": "HOW DID EVERY RAPTOR|GET HERE? LET'S SEE!"
+  },
+  {
+   "kind": "tb_menu",
+   "cont": true,
+   "walker": "scottie",
+   "dlg": "HOW DID EVERY RAPTOR|GET HERE? LET'S SEE!",
+   "hold": 0.2,
+   "vo": ""
+  },
+  {
+   "kind": "tb_menu",
+   "cont": true,
+   "walker": "scottie",
+   "dlg": "HOW DID EVERY RAPTOR|GET HERE? LET'S SEE!",
+   "vo": "Trades, free agent catches, and draft eggs."
+  },
+  {
+   "kind": "tb_menu",
+   "cont": true,
+   "walker": "scottie",
+   "dlg": "HOW DID EVERY RAPTOR|GET HERE? LET'S SEE!",
+   "hold": 0.15,
+   "vo": ""
+  },
+  {
+   "kind": "tb_menu",
+   "cont": true,
+   "walker": "scottie",
+   "dlg": "HOW DID EVERY RAPTOR|GET HERE? LET'S SEE!",
+   "vo": "Let's run it back."
+  },
+  {
+   "kind": "tb_menu",
+   "cont": true,
+   "walker": "scottie",
+   "dlg": "HOW DID EVERY RAPTOR|GET HERE? LET'S SEE!",
+   "hold": 0.1,
+   "vo": ""
+  },
+  {
+   "kind": "tb_trade",
+   "tin": "fade",
+   "walker": "rj",
+   "oname": "KNICKS",
+   "ocol": "#1d5ab8",
+   "A": [
+    {
+     "key": "og",
+     "name": "OG"
+    }
+   ],
+   "B": [
+    {
+     "key": "rj",
+     "name": "RJ"
+    },
+    {
+     "key": "iq",
+     "name": "IQ"
+    }
+   ],
+   "vo": "December twenty twenty-three. We sent OG Anunoby to New York for RJ Barrett and Immanuel Quickley.",
+   "dlg": "TRADE: OG FOR|RJ + QUICKLEY!"
+  },
+  {
+   "kind": "tb_trade",
+   "walker": "poeltl",
+   "oname": "SPURS",
+   "ocol": "#6a7480",
+   "A": [
+    {
+     "name": "KHEM|BIRCH"
+    },
+    {
+     "name": "2024|1ST"
+    },
+    {
+     "name": "2 2NDS"
+    }
+   ],
+   "B": [
+    {
+     "key": "poeltl",
+     "name": "POELTL"
+    }
+   ],
+   "vo": "February twenty twenty-three. Jakob Poeltl came home from San Antonio for Khem Birch, a first and two seconds.",
+   "dlg": "TRADE: BIRCH + PICKS|FOR JAKOB POELTL!"
+  },
+  {
+   "kind": "tb_trade",
+   "walker": "shead",
+   "oname": "KINGS",
+   "ocol": "#5a2d81",
+   "A": [
+    {
+     "name": "JALEN|MCDANIELS"
+    }
+   ],
+   "B": [
+    {
+     "key": "shead",
+     "name": "SHEAD"
+    }
+   ],
+   "vo": "Draft night twenty twenty-four. Jamal Shead came over from Sacramento.",
+   "dlg": "TRADE: MCDANIELS|FOR JAMAL SHEAD!"
+  },
+  {
+   "kind": "tb_trade",
+   "walker": "kawhi",
+   "oname": "CLIPPERS",
+   "ocol": "#c8102e",
+   "A": [
+    {
+     "key": "ingram",
+     "name": "INGRAM"
+    },
+    {
+     "key": "dick",
+     "name": "DICK"
+    },
+    {
+     "name": "5|PICKS"
+    }
+   ],
+   "B": [
+    {
+     "key": "kawhi",
+     "name": "KAWHI"
+    }
+   ],
+   "vo": "This September: Brandon Ingram, Gradey Dick and five picks to the Clippers for Kawhi Leonard.",
+   "dlg": "TRADE: INGRAM + DICK|FOR KAWHI LEONARD!"
+  },
+  {
+   "kind": "tb_catch",
+   "tin": "fade",
+   "walker": "battle",
+   "key": "battle",
+   "name": "BATTLE",
+   "money": "2024",
+   "years": "UNDRAFTED",
+   "stat": {
+    "left0": 4,
+    "left": 3
+   },
+   "vo": "Free agency. Jamison Battle went undrafted in twenty twenty-four, so we caught him.",
+   "dlgA": "WE THREW A|RAPTOR BALL!",
+   "dlg": "GOTCHA! BATTLE WAS|CAUGHT! UNDRAFTED, 2024"
+  },
+  {
+   "kind": "tb_catch",
+   "walker": "anderson",
+   "key": "anderson",
+   "name": "ANDERSON",
+   "money": "MIN",
+   "years": "1 YEAR",
+   "stat": {
+    "left0": 3,
+    "left": 2
+   },
+   "vo": "This summer, Kyle Anderson. One year.",
+   "dlgA": "WE THREW A|RAPTOR BALL!",
+   "dlg": "GOTCHA! ANDERSON WAS|CAUGHT! 1 YEAR"
+  },
+  {
+   "kind": "tb_catch",
+   "walker": "iq",
+   "key": "iq",
+   "name": "QUICKLEY",
+   "money": "$175M",
+   "years": "5 YEARS",
+   "stat": {
+    "left0": 2,
+    "left": 1
+   },
+   "vo": "Immanuel Quickley re-signed. Five years, a hundred seventy-five million.",
+   "dlgA": "WE THREW A|RAPTOR BALL!",
+   "dlg": "GOTCHA! QUICKLEY|RE-SIGNED! 5Y, $175M"
+  },
+  {
+   "kind": "tb_catch",
+   "walker": "poeltl",
+   "key": "poeltl",
+   "name": "POELTL",
+   "money": "$104M",
+   "years": "4 YEARS",
+   "stat": {
+    "left0": 1,
+    "left": 0
+   },
+   "vo": "And Jakob Poeltl. Four more years, a hundred and four million.",
+   "dlgA": "WE THREW A|RAPTOR BALL!",
+   "dlg": "GOTCHA! POELTL|RE-SIGNED! 4Y, $104M"
+  },
+  {
+   "kind": "tb_eggs",
+   "tin": "fade",
+   "walker": "scottie",
+   "stat": {
+    "t0": 1.0,
+    "gap": 1.25
+   },
+   "eggs": [
+    {
+     "key": "scottie",
+     "pick": "#4",
+     "name": "SCOTTIE"
+    },
+    {
+     "key": "cmb",
+     "pick": "#9",
+     "name": "CMB"
+    },
+    {
+     "key": "walter",
+     "pick": "#19",
+     "name": "WALTER"
+    },
+    {
+     "key": "graves",
+     "pick": "#19",
+     "name": "GRAVES"
+    }
+   ],
+   "vo": "And from the draft: Scottie Barnes at four, Collin Murray-Boyles at nine, and Ja'Kobe Walter and Allen Graves, both at nineteen.",
+   "dlg": "DRAFT EGGS: SCOTTIE, CMB,|WALTER AND GRAVES!"
+  },
+  {
+   "kind": "tb_squad",
+   "walker": "scottie",
+   "players": [
+    {
+     "key": "scottie",
+     "how": "D"
+    },
+    {
+     "key": "rj",
+     "how": "T"
+    },
+    {
+     "key": "iq",
+     "how": "T"
+    },
+    {
+     "key": "kawhi",
+     "how": "T"
+    },
+    {
+     "key": "poeltl",
+     "how": "T"
+    },
+    {
+     "key": "shead",
+     "how": "T"
+    },
+    {
+     "key": "battle",
+     "how": "S"
+    },
+    {
+     "key": "anderson",
+     "how": "S"
+    },
+    {
+     "key": "cmb",
+     "how": "D"
+    },
+    {
+     "key": "walter",
+     "how": "D"
+    },
+    {
+     "key": "graves",
+     "how": "D"
+    }
+   ],
+   "vo": "Four trades, four catches, four draft eggs, and we're five and five. Who's your favorite pickup?",
+   "dlg": "THE SQUAD: 5-5!|BEST PICKUP? TELL US"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "On December 30, 2023, the Knicks traded RJ Barrett and Immanuel Quickley (with a 2024 second-round pick) to the Toronto Raptors for OG Anunoby, Precious Achiuwa and Malachi Flynn",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  },
+  {
+   "claim": "On February 9, 2023, Pöltl was traded back to the Toronto Raptors in exchange for Khem Birch, a 2024 first-round pick (1ST), a 2023 second-round pick and a 2025 second-round pick (2 2NDS). On July 7, 2025 he signed a 4-year (4Y, 4 YEARS), $104 million ($104M) extension",
+   "source": "https://en.wikipedia.org/wiki/Jakob_Pöltl"
+  },
+  {
+   "claim": "In the 2024 NBA draft Shead was selected 45th by Sacramento and traded on draft night (with Davion Mitchell, Aleksandar Vezenkov and a 2025 second-round pick) to Toronto for Jalen McDaniels",
+   "source": "https://en.wikipedia.org/wiki/Jamal_Shead"
+  },
+  {
+   "claim": "On September 14, 2026, Ingram was traded to the Clippers along with Gradey Dick and five (5) draft picks in exchange for Leonard",
+   "source": "https://en.wikipedia.org/wiki/Brandon_Ingram"
+  },
+  {
+   "claim": "After going undrafted in the 2024 NBA draft, Battle signed with the Toronto Raptors on July 16, 2024",
+   "source": "https://en.wikipedia.org/wiki/Jamison_Battle"
+  },
+  {
+   "claim": "On July 2, 2026, Anderson signed a one-year (1 YEAR) minimum (MIN) deal with the Toronto Raptors",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Anderson_(basketball)"
+  },
+  {
+   "claim": "On July 8, 2024, Quickley re-signed on a 5-year (5Y, 5 YEARS), $175 million ($175M) contract to remain with the Raptors",
+   "source": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
+  },
+  {
+   "claim": "Barnes taken #4 (No. 4) in the 2021 draft",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "claim": "Collin Murray-Boyles chosen #9 (ninth overall) in the 2025 NBA draft by Toronto",
+   "source": "https://en.wikipedia.org/wiki/Collin_Murray-Boyles"
+  },
+  {
+   "claim": "June 26, 2024: Ja'Kobe Walter selected #19 (19th overall) by Toronto",
+   "source": "https://en.wikipedia.org/wiki/Ja'Kobe_Walter"
+  },
+  {
+   "claim": "June 23, 2026: Allen Graves drafted #19 (19th overall) by Toronto",
+   "source": "https://en.wikipedia.org/wiki/Allen_Graves"
+  },
+  {
+   "claim": "Reel counts: 4 trades, 4 free-agent catches, 4 draft eggs; 2026-27 roster (THE 2026-27 RAPTORS); Raptors 5-5 after 10 games",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28"
+  }
+ ]
+}

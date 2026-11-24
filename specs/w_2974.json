@@ -1,0 +1,82 @@
+{
+ "team": "warriors",
+ "name": "s2974",
+ "record": "23-4",
+ "caption": "THE 3-POINT KING 🎮🏀 December 14, 2021. Madison Square Garden. Steph needs two threes to pass Ray Allen.\n\n• He ties it early in the 1st quarter\n• Then SPLASH: No. 2,974\n• In 789 games. Ray Allen needed 1,300\n• We win 105-96, with Allen and Reggie Miller in the building\n\nWill anyone ever catch our guy? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "THE CHASE",
+   "key": "p:3975",
+   "name": "STEPH",
+   "badge": "AT MSG",
+   "lines": [
+    [
+     "2,973",
+     "RAY ALLEN'S RECORD"
+    ]
+   ],
+   "vo": "December fourteenth, twenty twenty-one. Madison Square Garden. Our guy needs two threes to pass Ray Allen.",
+   "dlg": "DEC 14, 2021. THE GARDEN.|STEPH NEEDS 2 THREES..."
+  },
+  {
+   "kind": "fire",
+   "head": "NO. 2,974",
+   "key": "p:3975",
+   "name": "STEPH",
+   "badge": "NEW RECORD",
+   "lines": [
+    [
+     "2,974",
+     "ALL-TIME THREES"
+    ],
+    [
+     "789",
+     "GAMES. ALLEN: 1,300"
+    ]
+   ],
+   "vo": "First quarter: he ties it... then, splash. Number twenty-nine seventy-four, in seven hundred eighty-nine games. Ray Allen needed thirteen hundred.",
+   "dlg": "SPLASH! NO. 2,974...|IN 789 GAMES. ALLEN: 1,300."
+  },
+  {
+   "kind": "final",
+   "head": "WE WIN",
+   "oname": "KNICKS",
+   "logo": "l:NY",
+   "ocol": "auto:NY",
+   "my": 105,
+   "th": 96,
+   "win": true,
+   "vo": "We win, one-oh-five to ninety-six, with Ray Allen and Reggie Miller in the building.",
+   "dlg": "WE WIN 105-96.|ALLEN AND REGGIE WATCHED."
+  },
+  {
+   "kind": "next",
+   "head": "3-POINT KING",
+   "logo": "l:GSW",
+   "rec": "#1",
+   "ntxt": "ALL-TIME 3S",
+   "nday": "DEC 14, 2021",
+   "vo": "Will anyone ever catch our guy? Comment below.",
+   "dlg": "WILL ANYONE CATCH STEPH?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401360238",
+   "score": "105-96"
+  },
+  {
+   "claim": "Dec 14, 2021 at Madison Square Garden vs the Knicks, Curry, needing 2 threes, made his 2,974th career three (passing Ray Allen's 2,973) to become the NBA's #1 all-time 3-point leader",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  },
+  {
+   "claim": "Ray Allen played 1,300 career games",
+   "source": "https://en.wikipedia.org/wiki/Ray_Allen"
+  },
+  {
+   "claim": "Curry's 789th career game: 762 games through 2020-21 + 27 in 2021-22 through Dec 14 (ESPN game logs, counted Nov 8 2026); he tied Allen in the 1st quarter",
+   "source": "https://www.espn.com/nba/player/gamelog/_/id/3975/type/nba/year/2022"
+  }
+ ]
+}

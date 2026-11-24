@@ -1,0 +1,296 @@
+{
+ "team": "raptors",
+ "name": "shiny6",
+ "record": "5-7",
+ "mode": "starters",
+ "full_party": true,
+ "party": [
+  {
+   "key": "p:4431893@TOR",
+   "mon": "pk:inteleon",
+   "nick": "BATTLE",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "SNIPER",
+   "stat": "43.3% DEEP"
+  },
+  {
+   "key": "p:5093267@TOR",
+   "mon": "pk:scizor",
+   "nick": "CMB",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "STEEL",
+     "#b8b8d0"
+    ]
+   ],
+   "label": "STEEL BODY",
+   "stat": "1.0 BPG"
+  },
+  {
+   "key": "p:4684272@TOR",
+   "mon": "pk:sneasel",
+   "nick": "WALTER",
+   "types": [
+    [
+     "DARK",
+     "#705848"
+    ],
+    [
+     "ICE",
+     "#98d8d8"
+    ]
+   ],
+   "label": "THIEF",
+   "stat": "1.3 SPG"
+  },
+  {
+   "key": "p:4395724@TOR",
+   "mon": "pk:alakazam",
+   "nick": "QUICKLEY",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "IQ",
+   "stat": "5.6 APG"
+  },
+  {
+   "key": "p:4395625@TOR",
+   "mon": "pk:donphan",
+   "nick": "BARRETT",
+   "types": [
+    [
+     "GROUND",
+     "#e0c068"
+    ]
+   ],
+   "label": "ROLLOUT",
+   "stat": "21.3 PPG"
+  },
+  {
+   "key": "p:4433134@TOR",
+   "mon": "pks:mew",
+   "nick": "BARNES",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "SHINY",
+   "stat": "23.5 PPG",
+   "hide": true
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "Our six best players right now as Pokemon,",
+   "dlg": "OUR 6 BEST PLAYERS|RIGHT NOW AS POKEMON..."
+  },
+  {
+   "kind": "p_intro",
+   "cont": true,
+   "vo": "and one of them is shiny.",
+   "dlg": "...AND ONE OF THEM|IS SHINY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "Number six. Jamison Battle is Inteleon.",
+   "dlg": "NO. 6:|JAMISON BATTLE!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "It finds your weak spot and fires. Undrafted, and hitting forty-three percent from three.",
+   "dlg": "IT FINDS THE WEAK SPOT.|UNDRAFTED. 43.3% FROM DEEP!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "Number five. Collin Murray-Boyles is Scizor.",
+   "dlg": "NO. 5:|MURRAY-BOYLES!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "A body as hard as steel. A steal and a block a night.",
+   "dlg": "A BODY OF STEEL.|1.1 STEALS, 1.0 BLOCKS!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "Number four. Jah-Kobe Walter is Sneasel.",
+   "dlg": "NO. 4:|JA'KOBE WALTER!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "It steals eggs while the parents are away. Walter just steals the ball.",
+   "dlg": "IT STEALS EGGS.|WALTER STEALS THE BALL!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "vo": "Number three. Immanuel Quickley is Alakazam.",
+   "dlg": "NO. 3:|IMMANUEL QUICKLEY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "stat": true,
+   "vo": "Its I Q is said to be five thousand. Ours just goes by I Q.",
+   "dlg": "ITS IQ: 5,000.|OURS JUST GOES BY IQ."
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "vo": "Number two. RJ Barrett is Donphan.",
+   "dlg": "NO. 2:|RJ BARRETT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "stat": true,
+   "vo": "Once it starts rolling, it can't stop. Twenty-one point three a night.",
+   "dlg": "ONCE IT ROLLS, IT|CAN'T STOP. 21.3 A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "vo": "And number one. Scottie Barnes is Mew.",
+   "dlg": "AND NO. 1:|SCOTTIE BARNES!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "fx": "shiny",
+   "vo": "And it's shiny. So rare, experts call it a mirage.",
+   "dlg": "IT'S SHINY!|SO RARE IT'S A MIRAGE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "stat": true,
+   "vo": "Our leading scorer, and he does it all.",
+   "dlg": "OUR LEADING SCORER.|HE DOES IT ALL!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "Who did we leave out?",
+   "dlg": "WHO DID WE LEAVE OUT?"
+  }
+ ],
+ "caption": "OUR 6 BEST PLAYERS RIGHT NOW AS POKÉMON. AND ONE OF THEM IS SHINY ✨🎮\n\n6️⃣ Jamison Battle = Inteleon: finds the weak spot and fires. Undrafted, 43.3% from three\n5️⃣ Collin Murray-Boyles = Scizor: a body of steel. 1.1 steals, 1.0 blocks a night\n4️⃣ Ja'Kobe Walter = Sneasel: it steals eggs, he steals the ball. 1.3 steals a night\n3️⃣ Immanuel Quickley = Alakazam: its IQ is 5,000. Ours just goes by IQ. 5.6 assists a night\n2️⃣ RJ Barrett = Donphan: once it starts rolling, it can't stop. 21.3 a night\n1️⃣ Scottie Barnes = SHINY Mew: so rare it's called a mirage. Our leading scorer at 23.5 a night\n\nWho did we leave out? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "facts": [
+  {
+   "player": "4431893",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 43.3
+  },
+  {
+   "player": "4431893",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 12
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 1.1
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "BLK",
+   "value": 1.0
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "STL",
+   "value": 1.3
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.6
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.3
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "claim": "Undrafted in the 2024 NBA draft, signed by Toronto July 16, 2024",
+   "source": "https://en.wikipedia.org/wiki/Jamison_Battle"
+  },
+  {
+   "claim": "Scottie Barnes leads the Raptors in scoring this season (No. 1 scorer, leading scorer, 23.5 PPG), ahead of RJ Barrett 21.3 and Immanuel Quickley 17.6",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/tor/roster"
+  },
+  {
+   "claim": "Inteleon (Shield Pokedex): Its nictitating membranes let it pick out foes' weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/inteleon/"
+  },
+  {
+   "claim": "Scizor (Ruby Pokedex): Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks.",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/scizor/"
+  },
+  {
+   "claim": "Sneasel (Ruby Pokedex): It seeks out unguarded nests and steals eggs for food while the parents are away.",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/sneasel/"
+  },
+  {
+   "claim": "Alakazam (LeafGreen Pokedex): Its IQ (intelligence quotient) is said to be around 5,000.",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/alakazam/"
+  },
+  {
+   "claim": "Donphan (Ruby Pokedex): Once it starts rolling, this Pokemon can't stop very easily.",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/donphan/"
+  },
+  {
+   "claim": "Mew is a Mythical Pokemon; (Red Pokedex) So rare that it is still said to be a mirage by many experts. Shiny Pokemon are rare alternate-colour variants.",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/mew/"
+  },
+  {
+   "claim": "Ranking positions, not stats: this reel ranks six (6) current Raptors from No. 6 down to 5, 4, 3, 2 and No. 1; the order is our opinion, every player is on the current roster",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/tor/roster"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

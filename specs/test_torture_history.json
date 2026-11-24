@@ -1,0 +1,19 @@
+{"team": "raptors", "name": "torture_history", "record": "100-100",
+ "caption": "TEST - never post",
+ "beats": [
+  {"kind": "fire", "head": "THE LONGEST HEADLINE WE COULD EVER WRITE", "key": "p:3032977", "name": "ANTETOKOUNMPO", "badge": "MOST VALUABLE PLAYER", "lines": [["100.0", "PERCENT FROM THE FIELD TONIGHT"], ["1,000", "CAREER DOUBLE-DOUBLES"]],
+   "vo": "Test line one.", "dlg": "A VERY LONG DIALOGUE LINE THAT HAS TO WRAP|ACROSS TWO LINES WITHOUT TOUCHING ANYTHING."},
+  {"kind": "hot", "head": "FOUR ROWS", "rows": [{"logo": "l:UTAH", "name": "FIELD GOALS MADE", "sub": "A LONG SUB LABEL HERE", "val": "100/100", "w": 1},
+     {"logo": "l:PHI", "name": "THREES", "sub": "3RD QUARTER", "val": "9/9", "w": 1}, {"logo": "l:ORL", "name": "POINTS", "sub": "134-128", "val": "+43", "w": 1}, {"logo": "l:POR", "name": "MINNESOTA", "sub": "119-114", "val": "-12", "w": 0}],
+   "vo": "Test line two.", "dlg": "SHORT."},
+  {"kind": "gym", "head": "CONFERENCE FINALS: PHI", "logo": "l:PHI", "ocol": "auto:PHI", "rec": "100-100", "chip": "DOWN 0-3 IN THE SERIES", "me": true, "line": "WON IN 7 GAMES",
+   "vo": "Test line three.", "dlg": "THE GYM TEST|WITH A LONGER SECOND LINE OF TEXT."},
+  {"kind": "final", "head": "OVERTIME", "oname": "TIMBERWOLVES", "logo": "l:MIN", "ocol": "auto:MIN", "my": 128, "th": 131, "win": false,
+   "vo": "Test line four.", "dlg": "FINAL TEST:|131-128."},
+  {"kind": "bat", "head": "BOSS", "oname": "WEMBANYAMA", "star": "p:5104157", "chip": "TURNOVERS 21|PTS OFF THEM 27",
+   "vo": "Test line five.", "dlg": "BOSS TEST."},
+  {"kind": "trainer", "head": "TRAINER CARD", "tag": "2025-26 SEASON", "reveal": true, "chip": "BEST START EVER", "games": [{"logo": "l:UTAH", "w": 1}, {"logo": "l:PHI", "w": 0}, {"logo": "l:ORL", "w": 1}, {"logo": "l:POR", "w": 1}, {"logo": "l:SA", "w": 0}, {"logo": "l:NO", "w": 1}, {"logo": "l:CHA", "w": 1}, {"logo": "l:LAC", "w": 1}, {"logo": "l:SAC", "w": 0}, {"logo": "l:DAL", "w": 1}],
+   "vo": "Test line six.", "dlg": "TRAINER TEST."},
+  {"kind": "next", "head": "NEXT BATTLE", "logo": "l:UTAH", "rec": "100-100", "ntxt": "VS TIMBERWOLVES", "nday": "WEDNESDAY 10:30 PM",
+   "vo": "Test line seven.", "dlg": "NEXT TEST|COMMENT BELOW!"}
+ ]}

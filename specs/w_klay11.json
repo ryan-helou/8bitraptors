@@ -1,0 +1,108 @@
+{
+ "team": "warriors",
+ "name": "klay11",
+ "pace": "wolves",
+ "caption": "DOWN 8 IN THE 4TH. THEN KLAY. 🎮🏀 Facing elimination in OKC, down 8 going into the fourth.\n\n• Game 6, 2016 West finals, May 28, 2016\n• Thunder up 83-75 after three quarters\n• Klay: 11 threes (the playoff record at the time) and 41 points\n• We win 108-101 and force Game 7\n\nKlay's greatest game ever? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "DOWN 8. THEN KLAY.",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "MUST WIN",
+   "lines": [
+    [
+     "8",
+     "DOWN IN 4TH"
+    ]
+   ],
+   "vo": "Down eight in the fourth, facing elimination in Oklahoma City. Then Klay happened.",
+   "dlg": "DOWN 8 IN THE 4TH.|THEN KLAY HAPPENED."
+  },
+  {
+   "kind": "fire",
+   "head": "GAME 6",
+   "key": "l:OKC",
+   "name": "THUNDER",
+   "badge": "2016 WEST FINALS",
+   "lines": [
+    [
+     "3-2",
+     "OKC LEADS"
+    ]
+   ],
+   "vo": "Game six of the twenty sixteen West finals. The Thunder lead the series three to two.",
+   "dlg": "GAME 6, 2016 WEST FINALS.|OKC LEADS 3-2."
+  },
+  {
+   "kind": "fire",
+   "head": "KLAY TIME",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "2016 WEST FINALS",
+   "lines": [
+    [
+     "11",
+     "THREES"
+    ],
+    [
+     "41",
+     "PTS"
+    ]
+   ],
+   "vo": "Then Klay Thompson goes off. Eleven threes, the playoff record at the time. Forty-one points.",
+   "dlg": "11 THREES, THE PLAYOFF|RECORD THEN. 41 POINTS."
+  },
+  {
+   "kind": "fire",
+   "head": "WE SURVIVE",
+   "key": "p:6475@GSW",
+   "name": "KLAY",
+   "badge": "GAME 7 FORCED",
+   "lines": [
+    [
+     "108",
+     "GS"
+    ],
+    [
+     "101",
+     "OKC"
+    ]
+   ],
+   "vo": "We win, one-oh-eight to one-oh-one. Game seven.",
+   "dlg": "WE WIN 108-101.|ON TO GAME 7."
+  },
+  {
+   "kind": "next",
+   "head": "KLAY'S BEST?",
+   "logo": "l:GSW",
+   "rec": "108-101",
+   "ntxt": "GAME 7",
+   "nday": "FORCED",
+   "vo": "Klay's greatest game ever? Comment below.",
+   "dlg": "KLAY'S GREATEST GAME?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "400876755",
+   "player": "6475",
+   "stat": "PTS",
+   "value": "41"
+  },
+  {
+   "game": "400876755",
+   "player": "6475",
+   "stat": "3PT",
+   "value": "11-18"
+  },
+  {
+   "game": "400876755",
+   "score": "108-101"
+  },
+  {
+   "claim": "Game 6, 2016 Western Conference finals, May 28, 2016 at Oklahoma City: Thunder led the series 3-2 (Warriors forced a seventh game / Game 7 with the win). Thunder led 83-75 after three quarters (down 8 going into the fourth). Thompson made a playoff-record 11 3-pointers and scored 41 points; Warriors won 108-101. Trailing entering the 4th quarter. 11 threes was the playoff record at the time (since broken).",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=400876755"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "team": "raptors",
+ "name": "graves",
+ "record": "5-4",
+ "caption": "OUR YOUNGEST 🎮🏀 He grew up playing football. Now he's the youngest player on our roster.\n\n• Grew from 6'1 to 6'7 in one summer, moved from point guard to big man\n• Santa Clara 2025-26: 11.8 PPG, 6.5 RPG, WCC Freshman of the Year\n• 2026 draft: we take Allen Graves at #19. He's 20\n• First 9 games: 13.2 minutes a night, 11 points and 6 rebounds at Minnesota\n\nFuture starter or long project? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "FOOTBALL KID",
+   "key": "p:5149115@TOR",
+   "name": "GRAVES",
+   "badge": "LOUISIANA",
+   "lines": [
+    [
+     "6'1",
+     "BEFORE"
+    ],
+    [
+     "6'7",
+     "AFTER"
+    ]
+   ],
+   "vo": "Allen Graves grew up playing football in Louisiana. Then, in one summer, he grew from six-one to six-seven.",
+   "dlg": "A FOOTBALL KID GROWS|6'1 TO 6'7 IN ONE SUMMER."
+  },
+  {
+   "kind": "fire",
+   "head": "SANTA CLARA",
+   "key": "p:5149115@TOR",
+   "name": "GRAVES",
+   "badge": "FRESHMAN OF YR",
+   "lines": [
+    [
+     "11.8",
+     "PPG"
+    ],
+    [
+     "6.5",
+     "RPG"
+    ]
+   ],
+   "vo": "One year at Santa Clara: eleven point eight points, six point five rebounds, and conference Freshman of the Year.",
+   "dlg": "SANTA CLARA: 11.8 PPG,|6.5 RPG. FRESHMAN OF YEAR."
+  },
+  {
+   "kind": "fire",
+   "head": "PICK 19",
+   "key": "p:5149115@TOR",
+   "name": "GRAVES",
+   "badge": "2026 DRAFT",
+   "lines": [
+    [
+     "#19",
+     "2026 DRAFT"
+    ],
+    [
+     "20",
+     "YEARS OLD"
+    ]
+   ],
+   "vo": "We drafted him nineteenth this summer. He's twenty, the youngest player on our roster.",
+   "dlg": "PICK 19 IN 2026.|AGE 20: OUR YOUNGEST."
+  },
+  {
+   "kind": "fire",
+   "head": "FIRST 9 GAMES",
+   "key": "p:5149115@TOR",
+   "name": "GRAVES",
+   "badge": "ROOKIE",
+   "lines": [
+    [
+     "13.2",
+     "MIN"
+    ],
+    [
+     "11",
+     "PTS AT MIN"
+    ]
+   ],
+   "vo": "Through nine games: thirteen minutes a night, and eleven points with six rebounds at Minnesota.",
+   "dlg": "FIRST 9 GAMES: 13.2 MIN.|11 AND 6 AT MINNESOTA."
+  },
+  {
+   "kind": "next",
+   "head": "STARTER?",
+   "logo": "l:TOR",
+   "rec": "#19",
+   "ntxt": "GRAVES",
+   "nday": "AGE 20",
+   "vo": "Future starter, or long project? Comment below.",
+   "dlg": "FUTURE STARTER|OR LONG PROJECT?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "5149115",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "5149115",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 13.2
+  },
+  {
+   "game": "401909864",
+   "player": "5149115",
+   "stat": "PTS",
+   "value": 11
+  },
+  {
+   "game": "401909864",
+   "player": "5149115",
+   "stat": "REB",
+   "value": 6
+  },
+  {
+   "claim": "Graves, born July 28, 2006 (age 20), grew up playing football; a growth spurt one summer took him from 6 ft 1 in (6'1) to 6 ft 7 in (6'7), shifting from point guard to big man; 2025-26 at Santa Clara: 11.8 PPG, 6.5 RPG, WCC Freshman of the Year (2026); June 23, 2026: drafted #19 (19th overall) by Toronto",
+   "source": "https://en.wikipedia.org/wiki/Allen_Graves"
+  },
+  {
+   "claim": "Raptors roster: Allen Graves, age 20, is the youngest player (next youngest Collin Murray-Boyles, 21)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/roster"
+  }
+ ]
+}

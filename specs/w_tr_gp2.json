@@ -1,0 +1,243 @@
+{
+ "team": "warriors",
+ "name": "tr_gp2",
+ "record": "7-3",
+ "caption": "IF GP2 HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🥊 Hitmonchan: punches too fast to see. Son of Hall of Famer Gary Payton, the Glove. He goes by Young Glove\n🕷️ Spidops: it takes out prey before it notices. 2x Pac-12 Defensive Player of the Year at Oregon State\n🐛 Nincada: it waits underground for years to evolve. Undrafted in 2016, then G League Defensive Player of the Year in 2021\n🧂 Garganacl: its salt heals even severe wounds. 2022 playoffs: a fractured elbow against Memphis\n🐬 Palafin: it powers up when its allies need it. Back for the Finals: 15 points and 3 steals in Game 5\n⚡ Pawmot: lightning fast once the battle starts. Undrafted, then a champion with us in 2022\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Gary Payton the second had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF GP2 HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Hitmonchan. Its punches are so fast, no one can see them. His dad is Hall of Famer Gary Payton, the Glove. He goes by Young Glove.",
+   "dlg": "PUNCHES TOO FAST TO SEE.|SON OF THE GLOVE!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Spidops. It takes out its prey before the prey even notices. Twice the Pac-12 Defensive Player of the Year at Oregon State.",
+   "dlg": "IT STRIKES UNNOTICED.|2X PAC-12 DEFENSIVE POY!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Nincada. It lives underground for years in darkness, waiting to evolve. Undrafted, then years in the G League. G League Defensive Player of the Year.",
+   "dlg": "IT WAITS YEARS TO EVOLVE.|UNDRAFTED. G LEAGUE DPOY."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Garganacl. Its salt heals even severe wounds. In the twenty twenty-two playoffs, he fractured his elbow against Memphis.",
+   "dlg": "ITS SALT HEALS WOUNDS.|2022: A FRACTURED ELBOW."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Palafin. When its allies are in danger, it transforms and powers up. Back for the Finals. Game five: fifteen points, three steals.",
+   "dlg": "IT POWERS UP FOR ITS TEAM|FINALS G5: 15 PTS, 3 STL"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Pawmot. Once the battle starts, it strikes with lightning-fast movements. Undrafted, and a champion with us in twenty twenty-two.",
+   "dlg": "LIGHTNING-FAST IN BATTLE.|UNDRAFTED TO CHAMPION!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Payton II: son of Hall of Famer Gary Payton, known as the Glove; nicknamed GP2 and Young Glove; 2x (2-time) Pac-12 Defensive Player of the Year at Oregon State; undrafted in the 2016 NBA draft; NBA G League Defensive Player of the Year (2021); fractured his left elbow in Game 2 of the 2022 Western Conference semifinals vs Memphis; NBA champion with the Warriors in 2022; in Game 5 of the Finals he posted 15 points and three (3) steals",
+   "source": "https://en.wikipedia.org/wiki/Gary_Payton_II"
+  },
+  {
+   "game": "401442534",
+   "player": "3134903",
+   "stat": "PTS",
+   "value": "15"
+  },
+  {
+   "game": "401442534",
+   "player": "3134903",
+   "stat": "STL",
+   "value": "3"
+  },
+  {
+   "claim": "Hitmonchan: fires punches in lightning fast volleys that are impossible to see",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/hitmonchan"
+  },
+  {
+   "claim": "Spidops: it takes out its prey before the prey even notices it",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/spidops"
+  },
+  {
+   "claim": "Nincada lives underground for many years in complete darkness and waits for evolution",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/nincada"
+  },
+  {
+   "claim": "Garganacl sprinkles injured Pokemon with salt; even severe wounds promptly heal",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/garganacl"
+  },
+  {
+   "claim": "Palafin: when its allies are in danger, it transforms and powers itself up (ability Zero to Hero)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/palafin"
+  },
+  {
+   "claim": "Pawmot: once it enters battle, it strikes down its enemies with lightning-fast movements",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/pawmot"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3134903@GSW",
+   "mon": "pk:hitmonchan",
+   "nick": "HITMONCHAN",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "YOUNG GLOVE",
+   "stat": "SON OF GP"
+  },
+  {
+   "key": "p:3134903@GSW",
+   "mon": "pk:spidops",
+   "nick": "SPIDOPS",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ]
+   ],
+   "label": "DEFENDER",
+   "stat": "2X PAC-12 DPOY"
+  },
+  {
+   "key": "p:3134903@GSW",
+   "mon": "pk:nincada",
+   "nick": "NINCADA",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "UNDRAFTED",
+   "stat": "G LEAGUE DPOY"
+  },
+  {
+   "key": "p:3134903@GSW",
+   "mon": "pk:garganacl",
+   "nick": "GARGANACL",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ]
+   ],
+   "label": "HEALER",
+   "stat": "ELBOW"
+  },
+  {
+   "key": "p:3134903@GSW",
+   "mon": "pk:palafin",
+   "nick": "PALAFIN",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "ZERO TO HERO",
+   "stat": "15 PTS"
+  },
+  {
+   "key": "p:3134903@GSW",
+   "mon": "pk:pawmot",
+   "nick": "PAWMOT",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "2022 RING"
+  }
+ ],
+ "mode": "trainer"
+}

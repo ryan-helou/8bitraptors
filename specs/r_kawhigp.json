@@ -1,0 +1,122 @@
+{
+ "team": "raptors",
+ "name": "kawhigp",
+ "record": "5-4",
+ "caption": "2 OF 9 🎮🏀 We gave up Brandon Ingram, Gradey Dick and 5 picks for Kawhi Leonard. He's played 2 of our 9 games.\n\n• 2017-18 in San Antonio: quad injury, 9 games\n• 2018-19 with us: 60 games and a title\n• 2021-22: partial ACL tear, 0 games\n• 2025-26: 65 games, a career-high 27.9 PPG\n• Oct 27, 2026: swelling in his left knee\n\nWill he play 60 games for us this season? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "THE PRICE",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "2 OF 9 GAMES",
+   "lines": [
+    [
+     "5",
+     "PICKS"
+    ],
+    [
+     "2",
+     "GAMES"
+    ]
+   ],
+   "vo": "We gave up Brandon Ingram, Gradey Dick and five draft picks for Kawhi Leonard. He's played two of our first nine games.",
+   "dlg": "INGRAM, DICK, 5 PICKS...|KAWHI: 2 OF OUR 9 GAMES."
+  },
+  {
+   "kind": "fire",
+   "head": "2017-18",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "QUAD INJURY",
+   "lines": [
+    [
+     "9",
+     "GAMES"
+    ]
+   ],
+   "vo": "Twenty seventeen, in San Antonio: a quad injury. Nine games all season.",
+   "dlg": "2017-18, SAN ANTONIO:|QUAD INJURY. 9 GAMES."
+  },
+  {
+   "kind": "fire",
+   "head": "ZERO GAMES",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "KNEE SURGERY",
+   "lines": [
+    [
+     "0",
+     "GAMES"
+    ]
+   ],
+   "vo": "Twenty twenty-one: surgery on a torn knee ligament. He missed the entire season.",
+   "dlg": "2021-22: KNEE SURGERY.|0 GAMES ALL SEASON."
+  },
+  {
+   "kind": "fire",
+   "head": "LAST SEASON",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "CAREER HIGH",
+   "lines": [
+    [
+     "65",
+     "GAMES"
+    ],
+    [
+     "27.9",
+     "PPG"
+    ]
+   ],
+   "vo": "But last season: sixty-five games, and a career-high twenty-seven point nine points.",
+   "dlg": "2025-26: 65 GAMES,|27.9 PPG, A CAREER HIGH."
+  },
+  {
+   "kind": "next",
+   "head": "60 GAMES?",
+   "logo": "l:TOR",
+   "rec": "2",
+   "ntxt": "KAWHI",
+   "nday": "OF 9 GAMES",
+   "vo": "Now it's swelling in his left knee. Will he play sixty games for us this season? Comment below.",
+   "dlg": "LEFT KNEE SWELLING.|60 GAMES THIS SEASON?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 2
+  },
+  {
+   "player": "6450",
+   "season": "2017-18",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "6450",
+   "season": "2018-19",
+   "stat": "GP",
+   "value": 60
+  },
+  {
+   "player": "6450",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 65
+  },
+  {
+   "player": "6450",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 27.9
+  },
+  {
+   "claim": "2017-18: right quadriceps injury, nine games; July 13, 2021 surgery on partial ACL tear in right knee, inactive the entire 2021-22 season (0 games); 2025-26 career high in scoring; Sept 14, 2026 traded to the Raptors for Brandon Ingram, Gradey Dick and five (5) draft picks; October 27, 2026: swelling in his left knee",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  }
+ ]
+}

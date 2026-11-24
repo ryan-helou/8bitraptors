@@ -1,0 +1,126 @@
+{
+ "team": "warriors",
+ "name": "runtmc",
+ "record": "7-3",
+ "caption": "RUN TMC 🎮🏀 Three future Hall of Famers, 72.5 points a night. Then we broke them up.\n\n• 1990-91: Mullin 25.7, Richmond 23.9, Hardaway 22.9 PPG\n• The league's highest-scoring trio\n• Nov 1, 1991: we trade Mitch Richmond to Sacramento for rookie Billy Owens\n• Today: Steph 31.3 PPG through 8 games, rookie Yaxel Lendeborg 21.2 through 10\n\nShould we have kept Run TMC together? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "RUN TMC",
+   "key": "l:GSW",
+   "name": "RUN TMC",
+   "badge": "NELLIE BALL",
+   "lines": [
+    [
+     "72.5",
+     "PPG, 3 GUYS"
+    ]
+   ],
+   "vo": "We had three future Hall of Famers scoring seventy-two points a night. Then we broke them up.",
+   "dlg": "3 FUTURE HALL OF FAMERS.|72.5 POINTS A NIGHT."
+  },
+  {
+   "kind": "hot",
+   "head": "1990-91",
+   "rows": [
+    {
+     "logo": "l:GSW",
+     "name": "MULLIN",
+     "sub": "1990-91",
+     "val": "25.7",
+     "w": 1
+    },
+    {
+     "logo": "l:GSW",
+     "name": "RICHMOND",
+     "sub": "1990-91",
+     "val": "23.9",
+     "w": 1
+    },
+    {
+     "logo": "l:GSW",
+     "name": "HARDAWAY",
+     "sub": "1990-91",
+     "val": "22.9",
+     "w": 1
+    }
+   ],
+   "vo": "Chris Mullin, Mitch Richmond, Tim Hardaway. The highest-scoring trio in the league.",
+   "dlg": "TIM, MITCH AND CHRIS:|THE LEAGUE'S TOP TRIO."
+  },
+  {
+   "kind": "fire",
+   "head": "BROKEN UP",
+   "key": "l:SAC",
+   "name": "THE TRADE",
+   "badge": "NOV 1, 1991",
+   "lines": [
+    [
+     "1991",
+     "RICHMOND OUT"
+    ]
+   ],
+   "vo": "November first, nineteen ninety-one. We trade Mitch Richmond to Sacramento for a rookie named Billy Owens.",
+   "dlg": "NOV 1991: RICHMOND TO SAC|FOR ROOKIE BILLY OWENS."
+  },
+  {
+   "kind": "fire",
+   "head": "OUR SCORERS NOW",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "8 GAMES IN",
+   "lines": [
+    [
+     "31.3",
+     "STEPH PPG"
+    ],
+    [
+     "21.2",
+     "YAXEL PPG"
+    ]
+   ],
+   "vo": "Today, Steph is scoring thirty-one point three through eight games, and our rookie Yaxel Lendeborg twenty-one point two through ten.",
+   "dlg": "STEPH: 31.3 PPG.|ROOKIE YAXEL: 21.2 PPG."
+  },
+  {
+   "kind": "next",
+   "head": "KEEP THEM?",
+   "logo": "l:GSW",
+   "rec": "72.5",
+   "ntxt": "RUN TMC",
+   "nday": "1989-1991",
+   "vo": "Should we have kept Run TMC together? Comment below.",
+   "dlg": "KEEP RUN TMC TOGETHER?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 31.3
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.2
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "claim": "Run TMC (Hardaway, Richmond, Mullin, all Hall of Famers, 3 players) played together from 1989 for two seasons (1989-1991); 1990–91: Mullin 25.7, Richmond 23.9, Hardaway 22.9, 72.5 points as the league's highest-scoring trio; on November 1, 1991 Golden State traded Richmond to the Sacramento Kings for rookie Billy Owens",
+   "source": "https://en.wikipedia.org/wiki/Run_TMC"
+  }
+ ]
+}

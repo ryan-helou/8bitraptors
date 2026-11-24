@@ -1,0 +1,127 @@
+{
+ "team": "raptors",
+ "name": "shead36",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "MORE THAN LOWRY? 🎮🏀 Kyle Lowry has the most assists in our history. Minute for minute, Jamal Shead's career rate with us is higher.\n\n• Assists per 36 minutes with us: Lowry 7.4, Shead 8.4 (#3 in our history, behind T.J. Ford and José Calderón)\n• Pick 45 in 2024, traded to us on draft night\n• First 10 games this season: 70 assists in 24.2 minutes a night, 10.4 per 36\n• 16 assists at Milwaukee, then 20 points and 11 assists in his start vs Memphis\n\nBetter passer than Lowry, or not even close? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "MORE THAN LOWRY?",
+   "key": "p:4432241@TOR",
+   "name": "SHEAD",
+   "badge": "PICK 45",
+   "lines": [
+    [
+     "8.4",
+     "AST PER 36"
+    ]
+   ],
+   "vo": "Jamal Shead passes more than Kyle Lowry, minute for minute. And Lowry has more assists than anyone in our history.",
+   "dlg": "LOWRY: #1 IN ASSISTS.|SHEAD PASSES MORE PER MIN."
+  },
+  {
+   "kind": "fire",
+   "head": "BY THE MINUTE",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "ALL-TIME #1",
+   "lines": [
+    [
+     "7.4",
+     "LOWRY"
+    ],
+    [
+     "8.4",
+     "SHEAD"
+    ]
+   ],
+   "vo": "Assists per thirty-six minutes with us: Lowry, seven point four. Shead, eight point four. Only Tee Jay Ford and Jose Calderon rate higher.",
+   "dlg": "PER 36 MIN: LOWRY 7.4,|SHEAD 8.4. #3 ALL-TIME."
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:4432241@TOR",
+   "name": "SHEAD",
+   "badge": "FIRST 10",
+   "lines": [
+    [
+     "70",
+     "AST"
+    ],
+    [
+     "10.4",
+     "PER 36"
+    ]
+   ],
+   "vo": "This season, it's even higher. Seventy assists in our first ten games, in about twenty-four minutes a night. That's ten point four per thirty-six.",
+   "dlg": "70 AST IN 10 GAMES.|10.4 PER 36 MINUTES."
+  },
+  {
+   "kind": "fire",
+   "head": "THE START",
+   "key": "p:4432241@TOR",
+   "name": "SHEAD",
+   "badge": "VS MEMPHIS",
+   "lines": [
+    [
+     "20",
+     "PTS"
+    ],
+    [
+     "11",
+     "AST"
+    ]
+   ],
+   "vo": "Sixteen assists at Milwaukee. Then, starting against Memphis: twenty points and eleven assists.",
+   "dlg": "16 AST AT MILWAUKEE.|STARTING: 20 PTS, 11 AST."
+  },
+  {
+   "kind": "next",
+   "head": "BETTER THAN LOWRY?",
+   "logo": "l:TOR",
+   "rec": "10.4",
+   "ntxt": "AST PER 36",
+   "nday": "PICK 45",
+   "vo": "Pick forty-five, passing like an all-timer. Better passer than Lowry, or not even close? Comment below.",
+   "dlg": "BETTER PASSER THAN LOWRY?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Raptors career leaders, assists per 36 minutes: #1 T.J. Ford 9.5, #2 Jose Calderon 9.1, #3 Jamal Shead 8.4, #5 Kyle Lowry 7.4; Lowry #1 in total assists",
+   "source": "https://www.basketball-reference.com/teams/TOR/leaders_career.html"
+  },
+  {
+   "claim": "2024 NBA draft: Shead selected 45th overall by Sacramento, traded to Toronto on draft night",
+   "source": "https://en.wikipedia.org/wiki/Jamal_Shead"
+  },
+  {
+   "claim": "ESPN game log 2026-27: Shead had 70 assists in 242 minutes over Toronto's first 10 games (24.2 minutes a game, 10.4 assists per 36 minutes)",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432241/gamelog?season=2027"
+  },
+  {
+   "game": "401909292",
+   "player": "4432241",
+   "stat": "AST",
+   "value": 16
+  },
+  {
+   "game": "401909955",
+   "player": "4432241",
+   "stat": "PTS",
+   "value": 20
+  },
+  {
+   "game": "401909955",
+   "player": "4432241",
+   "stat": "AST",
+   "value": 11
+  },
+  {
+   "claim": "Shead was in Toronto's starting lineup vs Memphis on Nov 9, 2026",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909955"
+  }
+ ]
+}

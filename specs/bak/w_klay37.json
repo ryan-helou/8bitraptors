@@ -1,0 +1,13 @@
+{"team": "warriors", "name": "klay37", "record": "67-15",
+ "caption": "KLAY'S QUARTER 🎮🏀 January 23, 2015 vs the Kings. Third quarter.\n\n• 13-for-13 from the field\n• 9-for-9 from three\n• 37 points in one quarter, still the NBA record\n• 52 for the night\n\nCan anyone ever break it? 👇",
+ "beats": [
+  {"kind": "fire", "head": "KLAY'S QUARTER", "key": "p:6475@GSW", "name": "KLAY", "badge": "3RD QUARTER", "lines": [["2015", "JAN 23 VS KINGS"]],
+   "vo": "January twenty-third, twenty fifteen. Klay Thompson, third quarter against the Kings.", "dlg": "JAN 23, 2015. KLAY VS KINGS.|THIRD QUARTER..."},
+  {"kind": "hot", "head": "THE 3RD QUARTER", "rows": [{"logo": "l:GSW", "name": "FIELD GOALS", "sub": "3RD QUARTER", "val": "13/13", "w": 1},
+     {"logo": "l:GSW", "name": "THREES", "sub": "3RD QUARTER", "val": "9/9", "w": 1}, {"logo": "l:GSW", "name": "POINTS", "sub": "NBA RECORD", "val": "37", "w": 1}],
+   "vo": "Thirteen for thirteen from the field. Nine for nine from three.", "dlg": "13 FOR 13 FROM THE FIELD.|9 FOR 9 FROM THREE!"},
+  {"kind": "fire", "head": "NBA RECORD", "key": "p:6475@GSW", "name": "KLAY", "badge": "NBA RECORD", "lines": [["37", "PTS IN A QUARTER"], ["52", "PTS IN THE GAME"]],
+   "vo": "Thirty-seven points in one quarter. Still the NBA record. Fifty-two for the night.", "dlg": "37 IN ONE QUARTER.|STILL THE NBA RECORD!"},
+  {"kind": "next", "head": "KLAY'S QUARTER", "logo": "l:GSW", "rec": "37", "ntxt": "IN 1 QUARTER", "nday": "JAN 23, 2015",
+   "vo": "Can anyone ever break it? Comment below.", "dlg": "CAN ANYONE BREAK IT?|COMMENT BELOW!"}
+ ]}

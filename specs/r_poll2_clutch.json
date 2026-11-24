@@ -1,0 +1,127 @@
+{
+ "team": "raptors",
+ "name": "poll2_clutch",
+ "l1": "LAST SHOT TO WIN IT...",
+ "q": "WHO TAKES IT?",
+ "boxA": "CLUTCH SHOOTERS",
+ "boxB": "THE BALL IS YOURS",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: CLUTCH SHOOTER 🎮🏀 Last shot, game on the line. Who's taking it for us?\n\n1️⃣ Kawhi Leonard, the shot: 4 bounces to beat Philly 92-90 in Game 7, 41 points, back with us now\n2️⃣ OG Anunoby, buzzer-beater: a three at the horn to beat Boston 104-103 in Game 3 of the 2020 second round\n3️⃣ Ja'Kobe Walter, today: game-winning three at Orlando with 0.5 seconds left, 40.9% from three last season\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "6450",
+   "name": "KAWHI",
+   "full": "KAWHI LEONARD",
+   "jersey": "2",
+   "type": "SHOT",
+   "season": "RAPTORS 2018-19",
+   "stats": [
+    [
+     "41",
+     "PTS G7"
+    ],
+    [
+     "4",
+     "BOUNCES"
+    ],
+    [
+     "2X",
+     "FMVP"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3934719",
+   "name": "OG",
+   "full": "OG ANUNOBY",
+   "jersey": "3",
+   "type": "BUZZER",
+   "season": "2020 PLAYOFFS",
+   "stats": [
+    [
+     "G3",
+     "WINNER"
+    ],
+    [
+     "2020",
+     "ROUND 2"
+    ],
+    [
+     "0-3",
+     "AVOIDED"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "4684272",
+   "name": "WALTER",
+   "full": "JA'KOBE WALTER",
+   "jersey": "14",
+   "type": "NO FEAR",
+   "season": "RAPTORS 2024-NOW",
+   "stats": [
+    [
+     "0.5",
+     "SEC LEFT"
+    ],
+    [
+     "G-W",
+     "THREE"
+    ],
+    [
+     "40.9",
+     "3P%"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401129105",
+   "score": "92-90"
+  },
+  {
+   "game": "401129105",
+   "player": "6450",
+   "stat": "PTS",
+   "value": 41
+  },
+  {
+   "claim": "Game 7 vs 76ers, May 12, 2019: Leonard's shot bounced off the rim 4 times before falling for a 92-90 win, first Game 7 buzzer beater in NBA history; 41 points",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "Kawhi Leonard: 2x NBA Finals MVP (2014, 2019); No. 2 for Toronto (2018-19); back with Toronto in 2026",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "Leonard wore #2 for Toronto",
+   "source": "https://www.basketball-reference.com/players/l/leonaka01.html"
+  },
+  {
+   "claim": "Anunoby hit a game-winning buzzer-beating three-pointer on Sept 3, 2020 in a 104-103 win in Game 3 of the Eastern Conference semifinals (second round) vs Boston; it prevented a 0-3 deficit",
+   "source": "https://en.wikipedia.org/wiki/OG_Anunoby"
+  },
+  {
+   "claim": "Anunoby wore #3 for Toronto",
+   "source": "https://www.basketball-reference.com/players/a/anunoog01.html"
+  },
+  {
+   "claim": "March 4, 2025: Walter hit the game-winning three with 0.5 seconds left in a 114-113 win at Orlando; drafted by Toronto in 2024, with Toronto 2024-present",
+   "source": "https://en.wikipedia.org/wiki/Ja'Kobe_Walter"
+  },
+  {
+   "claim": "Walter wears #14 for Toronto",
+   "source": "https://www.basketball-reference.com/players/w/walteja01.html"
+  },
+  {
+   "player": "4684272",
+   "season": "2025-26",
+   "stat": "3P%",
+   "value": 40.9
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "team": "raptors",
+ "name": "tr_walter",
+ "record": "5-4",
+ "caption": "IF WALTER HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🧸 Teddiursa: a little bear always licking honey off its paws. Big 12 Freshman of the Year at Baylor\n🐟 Feebas: so shabby-looking it's largely ignored. Pick 19, hurt before camp, sent down to the 905\n❄️ Glaceon: drops its body temperature at will. Game-winning three with 0.5 seconds left in Orlando\n🎯 Inteleon: its ability is Sniper, it finds a foe's weak points. 40.9% from three last season\n🔥 Infernape: its fire never goes out. Playoff career-high 24 in an overtime win over Cleveland\n🌊 Milotic: what Feebas evolves into, the most beautiful Pokémon of all. Fully evolved, 11.0 points a night through 10 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Ja'Kobe Walter had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF WALTER HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Teddiursa. A little bear that's always licking honey off its paws. At Baylor, Big Twelve Freshman of the Year.",
+   "dlg": "LICKS HONEY OFF ITS PAWS.|BIG 12 FRESHMAN OF YEAR!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Feebas. Because of its shabby look, it's largely ignored. We took him nineteenth. He got hurt before camp and got sent down to our G League team.",
+   "dlg": "SHABBY, LARGELY IGNORED.|HURT, SENT DOWN TO THE 905"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Glaceon. It can drop its body temperature in an instant. Ice cold: a game-winning three in Orlando with half a second left.",
+   "dlg": "DROPS ITS TEMP AT WILL.|A 3 WITH 0.5 SECONDS LEFT!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Inteleon. Its ability is Sniper, and it picks out a foe's weak points. Forty point nine percent from three last season.",
+   "dlg": "ITS ABILITY: SNIPER.|SHOT 40.9% FROM THREE!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Infernape. Its fire never goes out, and it'll take on any opponent. Twenty-four points in a playoff overtime win over Cleveland.",
+   "dlg": "ITS FIRE NEVER GOES OUT.|24 IN A PLAYOFF OT WIN!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Milotic. It's what that ignored Feebas evolves into, the most beautiful Pokemon of all. Fully evolved: eleven a night through ten games.",
+   "dlg": "WHAT FEEBAS BECOMES.|11.0 A NIGHT, 10 GAMES IN!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4684272",
+   "season": "2025-26",
+   "stat": "3P%",
+   "value": 40.9
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 11.0
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "claim": "Walter played college basketball for the Baylor Bears and was named Big 12 Freshman of the Year (2024); June 26, 2024 selected with the 19th overall pick (#19, pick 19) by Toronto; missed training camp with an AC joint sprain and was assigned several times to Raptors 905; March 4, 2025: game-winning three (3) with 0.5 seconds remaining in a 114-113 win at Orlando; May 1, 2026: playoff career-high 24 points in a 112-110 overtime (OT) win against Cleveland",
+   "source": "https://en.wikipedia.org/wiki/Ja'Kobe_Walter"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:4684272@TOR",
+   "mon": "pk:teddiursa",
+   "nick": "TEDDIURSA",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "BEAR CUB",
+   "stat": "FROSH OF YEAR"
+  },
+  {
+   "key": "p:4684272@TOR",
+   "mon": "pk:feebas",
+   "nick": "FEEBAS",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "LATE BLOOMER",
+   "stat": "SENT TO 905"
+  },
+  {
+   "key": "p:4684272@TOR",
+   "mon": "pk:glaceon",
+   "nick": "GLACEON",
+   "types": [
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "label": "ICE IN VEINS",
+   "stat": "0.5 SEC LEFT"
+  },
+  {
+   "key": "p:4684272@TOR",
+   "mon": "pk:inteleon",
+   "nick": "INTELEON",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "THE SNIPER",
+   "stat": "40.9 3P%"
+  },
+  {
+   "key": "p:4684272@TOR",
+   "mon": "pk:infernape",
+   "nick": "INFERNAPE",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "BIG STAGE",
+   "stat": "24 PTS, OT WIN"
+  },
+  {
+   "key": "p:4684272@TOR",
+   "mon": "pk:milotic",
+   "nick": "MILOTIC",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "11.0 PPG"
+  }
+ ],
+ "mode": "trainer"
+}

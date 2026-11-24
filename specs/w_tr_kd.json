@@ -1,0 +1,235 @@
+{
+ "team": "warriors",
+ "name": "tr_kd",
+ "record": "7-3",
+ "caption": "IF KD HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n⚡ Elekid: it loves violent thunder. #2 pick in 2007, then Rookie of the Year\n👻 Dusknoir: it carries lost spirits to another world. The Slim Reaper, 4 scoring titles\n🐉 Zekrom: it can scorch the world with lightning. MVP with the Thunder in 2014\n🫠 Ditto: it turns into a copy of its enemy. Up 3-1 on us in 2016, then he signed with us\n🦂 Drapion: its ability is Sniper. Easy Money's go-ahead three in Game 3 of the 2017 Finals, 45.3 seconds left\n⚔️ Zacian: the Warrior Pokémon, a legendary hero. 2 titles and 2 Finals MVPs with us, 2017 and 2018\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Kevin Durant had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF KD HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Elekid. It loves violent thunder. The second pick in two thousand seven, then Rookie of the Year.",
+   "dlg": "IT LOVES VIOLENT THUNDER.|PICK 2, ROOKIE OF THE YEAR"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Dusknoir. It's said to carry lost spirits off to another world. They call him the Slim Reaper. Four scoring titles.",
+   "dlg": "IT CARRIES SPIRITS AWAY.|4 SCORING TITLES!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Zekrom. This legend can scorch the world with lightning. MVP with the Thunder in twenty fourteen.",
+   "dlg": "IT SCORCHES THE WORLD WITH|LIGHTNING. MVP IN 2014!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Ditto. When it spots an enemy, it turns into an almost perfect copy. He was up three games to one on us. That summer, he became one of us.",
+   "dlg": "IT COPIES ITS ENEMY.|UP 3-1 ON US. THEN JOINS!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Drapion. Its ability is Sniper. Easy Money. Game three of the Finals, the go-ahead three with forty-five seconds left.",
+   "dlg": "ITS ABILITY IS SNIPER.|THE GO-AHEAD THREE!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Zacian, the Warrior Pokemon, known as a legendary hero. Two titles with us, and two Finals MVPs.",
+   "dlg": "THE WARRIOR POKEMON!|2 TITLES, 2 FINALS MVPS!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Durant: second (#2) overall pick by the Seattle SuperSonics in the 2007 NBA draft; NBA Rookie of the Year (2008); nicknamed the Slim Reaper; also nicknamed the Easy Money Sniper; four (4) NBA scoring titles; NBA Most Valuable Player (2014) with the Oklahoma City Thunder; OKC led the Warriors 3-1 in the 2016 West finals, then he signed with Golden State in 2016; 2017 Finals: go-ahead 3-pointer with 45.3 seconds left in Game 3; 2x NBA champion and 2x Finals MVP (2017, 2018)",
+   "source": "https://en.wikipedia.org/wiki/Kevin_Durant"
+  },
+  {
+   "claim": "OKC led the record 73-win Warriors 3-1 in the 2016 Western Conference Finals",
+   "source": "https://en.wikipedia.org/wiki/2016_NBA_playoffs"
+  },
+  {
+   "claim": "Elekid loves violent thunder",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/elekid"
+  },
+  {
+   "claim": "Dusknoir is said to take lost spirits along with it to worlds unknown",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/dusknoir"
+  },
+  {
+   "claim": "Zekrom: this legendary Pokemon can scorch the world with lightning",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/zekrom"
+  },
+  {
+   "claim": "Ditto: when it spots an enemy, its body transfigures into an almost perfect copy of its opponent",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/ditto"
+  },
+  {
+   "claim": "Drapion's abilities include Sniper",
+   "source": "https://pokeapi.co/api/v2/pokemon/drapion"
+  },
+  {
+   "claim": "Zacian: genus Warrior Pokemon; known as a legendary hero",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/zacian"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3202@GSW",
+   "mon": "pk:elekid",
+   "nick": "ELEKID",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "label": "ROOKIE",
+   "stat": "PICK 2"
+  },
+  {
+   "key": "p:3202@GSW",
+   "mon": "pk:dusknoir",
+   "nick": "DUSKNOIR",
+   "types": [
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "label": "SLIM REAPER",
+   "stat": "4X SCORING"
+  },
+  {
+   "key": "p:3202@GSW",
+   "mon": "pk:zekrom",
+   "nick": "ZEKROM",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "label": "MVP",
+   "stat": "2014 MVP"
+  },
+  {
+   "key": "p:3202@GSW",
+   "mon": "pk:ditto",
+   "nick": "DITTO",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "SWITCHED",
+   "stat": "UP 3-1"
+  },
+  {
+   "key": "p:3202@GSW",
+   "mon": "pk:drapion",
+   "nick": "DRAPION",
+   "types": [
+    [
+     "POISON",
+     "#a040a0"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "EASY MONEY",
+   "stat": "45.3 SEC"
+  },
+  {
+   "key": "p:3202@GSW",
+   "mon": "pk:zacian",
+   "nick": "ZACIAN",
+   "types": [
+    [
+     "FAIRY",
+     "#ee99ac"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "2X FMVP"
+  }
+ ],
+ "mode": "trainer"
+}

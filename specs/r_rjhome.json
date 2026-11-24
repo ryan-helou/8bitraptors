@@ -1,0 +1,132 @@
+{
+ "team": "raptors",
+ "name": "rjhome",
+ "record": "5-4",
+ "caption": "HOMETOWN KID 🎮🏀 Born in Toronto. Drafted by the Knicks. Now he's ours.\n\n• Born in Toronto, godson of Steve Nash\n• 2019 draft: New York takes him #3\n• Dec 30, 2023: we trade for him. First game home: 19 points, 9 rebounds, a win\n• 2024-25 with us: 21.1 PPG, 6.3 RPG, 5.4 APG\n• First 9 games this season: 21.6 PPG, 6.1 RPG\n\nBest Canadian to ever play for us? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "TORONTO KID",
+   "key": "p:4395625@NYK",
+   "name": "RJ",
+   "badge": "2019 DRAFT",
+   "lines": [
+    [
+     "#3",
+     "2019 DRAFT"
+    ]
+   ],
+   "vo": "RJ Barrett was born in Toronto. Steve Nash is his godfather. And the Knicks drafted him third overall.",
+   "dlg": "BORN IN TORONTO...|DRAFTED BY THE KNICKS."
+  },
+  {
+   "kind": "fire",
+   "head": "COMING HOME",
+   "key": "p:4395625@TOR",
+   "name": "RJ",
+   "badge": "HOME DEBUT",
+   "lines": [
+    [
+     "19",
+     "PTS"
+    ],
+    [
+     "9",
+     "REB"
+    ]
+   ],
+   "vo": "Then we trade for him. His first game home: nineteen points and nine rebounds in a win.",
+   "dlg": "DEC 2023: HE COMES HOME.|DEBUT: 19 PTS, 9 REB."
+  },
+  {
+   "kind": "fire",
+   "head": "YEAR TWO",
+   "key": "p:4395625@TOR",
+   "name": "RJ",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "21.1",
+     "PPG"
+    ],
+    [
+     "5.4",
+     "APG"
+    ]
+   ],
+   "vo": "His first full year with us: twenty-one point one points, six rebounds, five assists.",
+   "dlg": "2024-25: 21.1 PPG,|6.3 RPG, 5.4 APG."
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:4395625@TOR",
+   "name": "RJ",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "21.6",
+     "PPG"
+    ],
+    [
+     "6.1",
+     "RPG"
+    ]
+   ],
+   "vo": "And through nine games this season: twenty-one point six points and six rebounds a night.",
+   "dlg": "FIRST 9 GAMES: 21.6 PPG,|6.1 RPG."
+  },
+  {
+   "kind": "next",
+   "head": "BEST CANADIAN?",
+   "logo": "l:TOR",
+   "rec": "TOR",
+   "ntxt": "RJ BARRETT",
+   "nday": "HOMETOWN",
+   "vo": "The kid from Toronto. Is he the best Canadian to ever play for us? Comment below.",
+   "dlg": "BEST CANADIAN RAPTOR EVER?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4395625",
+   "season": "2024-25",
+   "stat": "PTS",
+   "value": 21.1
+  },
+  {
+   "player": "4395625",
+   "season": "2024-25",
+   "stat": "REB",
+   "value": 6.3
+  },
+  {
+   "player": "4395625",
+   "season": "2024-25",
+   "stat": "AST",
+   "value": 5.4
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.6
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 6.1
+  },
+  {
+   "claim": "Barrett was born in Toronto; godson of Steve Nash; drafted #3 (third overall) in the 2019 NBA draft by the New York Knicks; traded to Toronto December 30, 2023; first game with his hometown Raptors on January 1, 2024: 19 points and 9 rebounds in a 124-121 win over Cleveland",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "team": "warriors",
+ "name": "kdgame3",
+ "pace": "wolves",
+ "record": "7-3",
+ "caption": "45.3 SECONDS LEFT 🎮🏀 Game 3 of the 2017 Finals, in Cleveland. Kevin Durant pulls up.\n\n• June 7, 2017: we already led the series 2-0\n• KD's go-ahead three with 45.3 seconds left\n• We win 118-113 to go up 3-0\n• KD: 31 points, 9 rebounds\n• Title in 5 games, and KD is Finals MVP\n\nBiggest shot of the KD era? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "45.3 SECONDS LEFT",
+   "key": "p:3202@GSW",
+   "name": "KD",
+   "badge": "2017 FINALS",
+   "lines": [
+    [
+     "45.3",
+     "SEC LEFT"
+    ]
+   ],
+   "vo": "Forty-five seconds left in Cleveland. Kevin Durant pulls up.",
+   "dlg": "45.3 SECONDS LEFT.|KD PULLS UP..."
+  },
+  {
+   "kind": "fire",
+   "head": "GAME 3",
+   "key": "p:3202@GSW",
+   "name": "KD",
+   "badge": "AT CLEVELAND",
+   "lines": [
+    [
+     "2-0",
+     "SERIES"
+    ]
+   ],
+   "vo": "Game three of the twenty seventeen Finals. We already led the series two to oh.",
+   "dlg": "2017 FINALS, GAME 3.|WE LEAD THE SERIES 2-0."
+  },
+  {
+   "kind": "fire",
+   "head": "SPLASH",
+   "key": "p:3202@GSW",
+   "name": "KD",
+   "badge": "GO-AHEAD 3",
+   "lines": [
+    [
+     "118",
+     "GS"
+    ],
+    [
+     "113",
+     "CLE"
+    ]
+   ],
+   "vo": "The go-ahead three. We win, one eighteen to one thirteen.",
+   "dlg": "THE GO-AHEAD THREE.|WE WIN, 118-113."
+  },
+  {
+   "kind": "fire",
+   "head": "31 POINTS",
+   "key": "p:3202@GSW",
+   "name": "KD",
+   "badge": "UP 3-0",
+   "lines": [
+    [
+     "31",
+     "PTS"
+    ],
+    [
+     "9",
+     "REB"
+    ]
+   ],
+   "vo": "KD finished with thirty-one points and nine rebounds. Up three to oh.",
+   "dlg": "KD: 31 POINTS, 9 REB.|WE'RE UP 3-0."
+  },
+  {
+   "kind": "fire",
+   "head": "FINALS MVP",
+   "key": "p:3202@GSW",
+   "name": "KD",
+   "badge": "CHAMPIONS",
+   "lines": [
+    [
+     "2017",
+     "FMVP"
+    ]
+   ],
+   "vo": "We won the title in five games, and KD was Finals MVP.",
+   "dlg": "TITLE IN 5 GAMES.|KD: FINALS MVP."
+  },
+  {
+   "kind": "next",
+   "head": "BIGGEST SHOT?",
+   "logo": "l:GSW",
+   "rec": "3-0",
+   "ntxt": "SERIES",
+   "nday": "JUNE 7, 2017",
+   "vo": "Was that the biggest shot of the KD era? Comment below.",
+   "dlg": "BIGGEST SHOT OF THE|KD ERA? COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "400954512",
+   "player": "3202",
+   "stat": "PTS",
+   "value": "31"
+  },
+  {
+   "game": "400954512",
+   "player": "3202",
+   "stat": "REB",
+   "value": "9"
+  },
+  {
+   "game": "400954512",
+   "score": "118-113"
+  },
+  {
+   "claim": "2017 Finals: Durant helped the Warriors go up 3-0 in the series (already 2-0 after Game 2) with a 31-point effort in Game 3 (June 7, 2017 at Cleveland), including the go-ahead 3-pointer with 45.3 seconds left; Game 5 series-clinching win (title in 5 games); 2017 Finals MVP",
+   "source": "https://en.wikipedia.org/wiki/Kevin_Durant"
+  }
+ ]
+}

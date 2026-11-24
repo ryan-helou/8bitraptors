@@ -1,0 +1,99 @@
+{
+ "team": "raptors",
+ "name": "dunkers",
+ "l1": "ONE DUNK CONTEST...",
+ "q": "PICK ONE RAPTOR!",
+ "boxA": "OUR BEST DUNKERS",
+ "boxB": "ONE DUNK TO WIN",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: DUNK CONTEST 🎮🏀 One dunk contest, one of our guys. Who are you sending?\n\n1️⃣ Vince Carter: 2000 Dunk Contest champ, Air Canada himself\n2️⃣ Terrence Ross: 2013 Dunk Contest champ as a rookie\n3️⃣ DeMar DeRozan: 2010 Dunk Contest finalist, our all-time leading scorer\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "136",
+   "name": "VINCE",
+   "full": "VINCE CARTER",
+   "jersey": "15",
+   "type": "AIR CANADA",
+   "season": "RAPTORS 1998-2004",
+   "stats": [
+    [
+     "2000",
+     "CHAMP"
+    ],
+    [
+     "1999",
+     "ROY"
+    ],
+    [
+     "#15",
+     "RETIRED"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "6619",
+   "name": "ROSS",
+   "full": "TERRENCE ROSS",
+   "jersey": "31",
+   "type": "ROOKIE",
+   "season": "RAPTORS 2012-2017",
+   "stats": [
+    [
+     "2013",
+     "CHAMP"
+    ],
+    [
+     "51",
+     "PTS GAME"
+    ],
+    [
+     "#8",
+     "PICK"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3978",
+   "name": "DEMAR",
+   "full": "DEMAR DEROZAN",
+   "jersey": "10",
+   "type": "SCORER",
+   "season": "RAPTORS 2009-2018",
+   "stats": [
+    [
+     "#1",
+     "SCORER"
+    ],
+    [
+     "9",
+     "SEASONS"
+    ],
+    [
+     "2010",
+     "FINALIST"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Vince Carter won the 2000 Slam Dunk Contest and 1999 Rookie of the Year; nicknamed Air Canada; No. 15 retired by Toronto; wore #15 for Toronto 1998-2004",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "claim": "Terrence Ross won the 2013 Slam Dunk Contest as a rookie, scored 51 points in a game (Jan 25, 2014), was drafted #8 overall in 2012, wore #31 for Toronto 2012-2017",
+   "source": "https://en.wikipedia.org/wiki/Terrence_Ross"
+  },
+  {
+   "claim": "DeMar DeRozan lost in the final round of the 2010 Slam Dunk Contest; the Raptors' #1 all-time leading scorer; 9 seasons in Toronto (2009-2018); wore #10",
+   "source": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
+   "claim": "Jersey numbers: Ross 31, DeRozan 10, Carter 15 with Toronto",
+   "source": "https://www.basketball-reference.com/players/r/rosste01.html"
+  }
+ ]
+}

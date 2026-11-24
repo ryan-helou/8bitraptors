@@ -1,0 +1,1470 @@
+{
+ "team": "warriors",
+ "name": "jimmytrade_town",
+ "template": "fmt_town_trade.html",
+ "pace": "wolves",
+ "record": "8-8",
+ "music": "calm",
+ "voice_eq": "bright",
+ "voff": 0.0,
+ "duck_bridge": true,
+ "duck_depth": 0.9,
+ "cps": 45,
+ "tts_speed": 1.15,
+ "caption": "WHO WON THE JIMMY TRADE? 🌉🔥\n\nAlmost two years later, here's the scoreboard:\n• We got: Jimmy Butler. 38 in the play-in and a Game 7 win in Houston in year one, then a torn ACL against Miami in year two (20.0 PPG in 38 games)\n• Heat got: Andrew Wiggins, Kyle Anderson and the pick that became Kasparas Jakučionis (No. 20, 2025)\n• Year one: both teams made the playoffs (we lost to Minnesota in round two, Miami got swept by Cleveland)\n• Then Jakučionis + Tyler Herro went out in the deal for Giannis Antetokounmpo\n\nAdd it up: Jimmy for Wiggins and a piece of Giannis. We're 8-8 and 6-1 at home. The Heat are 9-6.\n\nStill, we beat Miami 120-100 on Nov 5 (Wiggins had 2). Boston's at Chase Center Sunday, 8:30 PM ET. Win and we're 9-8.\n\nSo who won the Jimmy trade: Heat or Warriors? You make the call 👇\n\n#NBA #JimmyButler #Warriors #StephenCurry #BasketBall",
+ "beats": [
+  {
+   "kind": "town",
+   "vo": "Almost two years ago, we traded Andrew Wiggins to Miami.",
+   "txt": {
+    "t_top": "WARRIORS DEBATES 1",
+    "t_main": "WHO WON THE JIMMY TRADE?",
+    "da": "WE TRADED WIGGINS TO|MIAMI IN FEB 2025.",
+    "stamp_top": "TRADE: FEB 2025",
+    "stamp_main": "WIGGINS TO HEAT",
+    "s_arena": "CHASE CENTER",
+    "s_arena_sub": "THU 11/5: 7 PM PT",
+    "db": "THIS MONTH, HE CAME|BACK TO CHASE.",
+    "dc": "SO WHO ACTUALLY WON|THE JIMMY TRADE?",
+    "m_a": "HEAT",
+    "m_b": "WARRIORS",
+    "s_route": "ROUTE 2025",
+    "s_route_sub": "WHAT WE GAVE",
+    "l_head": "HEAT GOT:",
+    "l_b": "WIGGINS",
+    "l_c": "ANDERSON",
+    "l_d": "'25 1ST-ROUND PICK",
+    "l_db": "JAKUČIONIS: NO. 20",
+    "n_wig": "WIGGINS",
+    "n_and": "ANDERSON",
+    "n_jak": "JAKUČIONIS",
+    "n_jimmy": "BUTLER",
+    "n_heat": "HEAT",
+    "n_gia": "GIANNIS",
+    "n_her": "HERRO",
+    "n_curry": "CURRY",
+    "n_dray": "GREEN",
+    "dd": "HERE'S WHAT WE GAVE.",
+    "de": "WIGGINS, ANDERSON,|PICK: JAKUČIONIS.",
+    "s_road": "PLAYOFF ROAD",
+    "s_road_sub": "2025: YEAR ONE",
+    "dg": "YEAR ONE: BOTH TEAMS|MADE THE PLAYOFFS.",
+    "b_l": "WEST SEMIS",
+    "b_r": "1ST ROUND",
+    "b_stop": "STOPPED HERE",
+    "st_name": "BUTLER",
+    "st_sub": "2025 PLAY-IN",
+    "st_val": "38",
+    "st_unit": "PTS VS MEMPHIS",
+    "dh": "38 FROM JIMMY, THEN|WE BEAT HOUSTON.",
+    "s_ny": "CHASE CENTER",
+    "s_ny_sub": "2026: YEAR TWO",
+    "di": "YEAR TWO: JIMMY TORE|HIS ACL.",
+    "champ": "TORN ACL",
+    "since": "JAN 19 VS MIAMI",
+    "dj": "AGAINST MIAMI, OF|ALL TEAMS.",
+    "s_ctr": "WARRIORS CENTER",
+    "s_ctr_sub": "2026 PLAY-IN",
+    "outb": "OUT IN PLAY-IN",
+    "dba": "BOTH TEAMS WENT OUT|IN THE PLAY-IN.",
+    "s_tc": "TRADE CORNER",
+    "s_tc_sub": "JULY 2026",
+    "dbb": "MIAMI PACKAGED IT|+ HERRO FOR GIANNIS.",
+    "s_tor": "SAN FRANCISCO",
+    "s_tor_sub": "NOV 2026",
+    "dbc": "JIMMY FOR WIGGINS|AND PART OF GIANNIS.",
+    "c_tor": "WARRIORS",
+    "c_tor_rec": "8-8",
+    "c_tor_tag": "6-1 AT HOME",
+    "c_ny": "HEAT",
+    "c_ny_rec": "9-6",
+    "c_ny_tag": "WIGGINS: 9.5 PPG",
+    "dbd": "WE'RE 8-8, AND 6-1|AT HOME.",
+    "dbe": "THE HEAT ARE 9-6.",
+    "dbf": "STILL, WE BEAT MIAMI|BY TWENTY.",
+    "s_det": "CHASE CENTER",
+    "s_det_sub": "SUN 11/22: 5:30 PM PT",
+    "t_us": "WARRIORS",
+    "t_them": "HEAT",
+    "dbg": "BEAT BOSTON SUNDAY|AND WE'RE 9-8.",
+    "dbi": "YOUR CALL: HEAT OR|WARRIORS?"
+   },
+   "stat": {
+    "shots": [
+     {
+      "t": 0,
+      "map": "town",
+      "mood": "day",
+      "crest": "l:GS",
+      "title": [
+       "@t_top",
+       "@t_main"
+      ],
+      "sprites": [
+       {
+        "k": "m:galehawk",
+        "x": 155,
+        "y": 416,
+        "sz": 54,
+        "out": 1.4
+       },
+       {
+        "k": "p:3059319",
+        "x": 227,
+        "y": 416,
+        "tag": "@n_wig",
+        "path": [
+         [
+          0,
+          196,
+          416
+         ],
+         [
+          0.8,
+          227,
+          416
+         ],
+         [
+          1.25,
+          227,
+          416
+         ],
+         [
+          1.4,
+          300,
+          405
+         ]
+        ],
+        "ball": 1.4
+       },
+       {
+        "k": "l:MIA",
+        "x": 400,
+        "y": 416,
+        "sz": 64,
+        "path": [
+         [
+          0,
+          436,
+          416
+         ],
+         [
+          0.9,
+          400,
+          416
+         ],
+         [
+          1.4,
+          400,
+          416
+         ],
+         [
+          2.0,
+          353,
+          423
+         ],
+         [
+          3.0,
+          353,
+          423
+         ],
+         [
+          3.9,
+          318,
+          423
+         ]
+        ],
+        "hopmove": true
+       }
+      ],
+      "pages": [
+       {
+        "t": 0,
+        "dlg": "@da",
+        "pre": true
+       }
+      ],
+      "pops": [
+       {
+        "t": 1.4,
+        "type": "stamp",
+        "top": "@stamp_top",
+        "main": "@stamp_main"
+       }
+      ]
+     },
+     {
+      "t": 4.2,
+      "fin": 0.08,
+      "map": "town",
+      "mood": "night",
+      "crest": "l:GS",
+      "sign": [
+       "@s_arena",
+       "@s_arena_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:3059319",
+        "x": 310,
+        "y": 416,
+        "tag": "@n_wig",
+        "tagin": 6.3,
+        "bub": [
+         6.3,
+         "?"
+        ],
+        "path": [
+         [
+          4.2,
+          404,
+          416
+         ],
+         [
+          5.2,
+          310,
+          416
+         ]
+        ]
+       },
+       {
+        "k": "m:galehawk",
+        "x": 379,
+        "y": 416,
+        "sz": 50,
+        "flip": true,
+        "path": [
+         [
+          4.2,
+          472,
+          416
+         ],
+         [
+          5.25,
+          379,
+          416
+         ]
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 4.2,
+        "dlg": "@db"
+       },
+       {
+        "t": 6.3,
+        "dlg": "@dc"
+       }
+      ],
+      "pops": [
+       {
+        "t": 6.3,
+        "type": "menu",
+        "opts": [
+         "@m_a",
+         "@m_b"
+        ],
+        "x": 51,
+        "y": 448,
+        "moves": [
+         [
+          6.5,
+          1
+         ],
+         [
+          6.9,
+          0
+         ],
+         [
+          7.7,
+          1
+         ],
+         [
+          8.1,
+          0
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "t": 8.6,
+      "fin": 0.3,
+      "map": "route",
+      "mood": "day",
+      "sign": [
+       "@s_route",
+       "@s_route_sub"
+      ],
+      "sprites": [
+       {
+        "k": "ball",
+        "x": 143,
+        "y": 322,
+        "out": 10.0
+       },
+       {
+        "k": "p:3059319",
+        "x": 143,
+        "y": 322,
+        "in": 10.0,
+        "tag": "@n_wig"
+       },
+       {
+        "k": "ball",
+        "x": 270,
+        "y": 322,
+        "out": 11.0
+       },
+       {
+        "k": "p:2993874",
+        "x": 262,
+        "y": 322,
+        "in": 11.0,
+        "tag": "@n_and"
+       },
+       {
+        "k": "m:galehawk",
+        "x": 322,
+        "y": 316,
+        "in": 9.0,
+        "sz": 46
+       },
+       {
+        "k": "l:GS",
+        "x": 306,
+        "y": 356,
+        "in": 9.0,
+        "sz": 40
+       },
+       {
+        "k": "ball",
+        "x": 396,
+        "y": 322,
+        "out": 13.5
+       },
+       {
+        "k": "p:5214640",
+        "x": 396,
+        "y": 322,
+        "in": 13.5,
+        "tag": "@n_jak"
+       }
+      ],
+      "pages": [
+       {
+        "t": 8.6,
+        "dlg": "@dd"
+       },
+       {
+        "t": 10.02,
+        "dlg": "@de"
+       }
+      ],
+      "pops": [
+       {
+        "t": 8.6,
+        "type": "list",
+        "head": "@l_head",
+        "items": [
+         "@l_b",
+         "@l_c",
+         "@l_d"
+        ],
+        "at": [
+         10.0,
+         11.0,
+         12.5
+        ],
+        "swap": [
+         [
+          13.5,
+          2,
+          "@l_db"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "t": 14.5,
+      "fin": 0.2,
+      "map": "road",
+      "sign": [
+       "@s_road",
+       "@s_road_sub"
+      ],
+      "sprites": [
+       {
+        "k": "l:GS",
+        "x": 125,
+        "y": 317,
+        "sz": 48
+       },
+       {
+        "k": "p:6430",
+        "x": 125,
+        "y": 415,
+        "sz": 60,
+        "tag": "@n_jimmy"
+       },
+       {
+        "k": "l:MIA",
+        "x": 414,
+        "y": 317,
+        "sz": 48
+       },
+       {
+        "k": "p:3059319",
+        "x": 414,
+        "y": 415,
+        "sz": 60,
+        "tag": "@n_wig"
+       }
+      ],
+      "pages": [
+       {
+        "t": 14.5,
+        "dlg": "@dg"
+       },
+       {
+        "t": 17.5,
+        "dlg": "@dh"
+       }
+      ],
+      "pops": [
+       {
+        "t": 16.2,
+        "type": "banner",
+        "s": "@b_l",
+        "x": 67,
+        "y": 220,
+        "w": 118,
+        "col": "#d83a3a"
+       },
+       {
+        "t": 16.2,
+        "type": "banner",
+        "s": "@b_r",
+        "x": 356,
+        "y": 220,
+        "w": 118,
+        "col": "#2a5ab8"
+       },
+       {
+        "t": 16.6,
+        "type": "banner",
+        "s": "@b_stop",
+        "x": 62,
+        "y": 427,
+        "w": 124,
+        "col": "#d83a3a"
+       },
+       {
+        "t": 16.6,
+        "type": "banner",
+        "s": "@b_stop",
+        "x": 354,
+        "y": 427,
+        "w": 124,
+        "col": "#d83a3a"
+       },
+       {
+        "t": 17.5,
+        "type": "stat",
+        "name": "@st_name",
+        "sub": "@st_sub",
+        "val": "@st_val",
+        "unit": "@st_unit"
+       }
+      ]
+     },
+     {
+      "t": 20.5,
+      "fin": 0.3,
+      "map": "plaza",
+      "crest": "l:GS",
+      "sign": [
+       "@s_ny",
+       "@s_ny_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:6430",
+        "x": 285,
+        "y": 374,
+        "sz": 66,
+        "tag": "@n_jimmy"
+       },
+       {
+        "k": "m:galehawk",
+        "x": 360,
+        "y": 372,
+        "sz": 50,
+        "flip": true
+       },
+       {
+        "k": "l:MIA",
+        "x": 205,
+        "y": 374,
+        "sz": 48,
+        "in": 22.0
+       }
+      ],
+      "pages": [
+       {
+        "t": 20.5,
+        "dlg": "@di"
+       },
+       {
+        "t": 22.76,
+        "dlg": "@dj"
+       }
+      ],
+      "pops": [
+       {
+        "t": 22.0,
+        "type": "big",
+        "s": "@champ",
+        "y": 224,
+        "col": "#d83a3a",
+        "until": 24.0
+       },
+       {
+        "t": 24.0,
+        "type": "big",
+        "s": "@since",
+        "y": 224,
+        "col": "#2a6ad0",
+        "sfx": "blip"
+       }
+      ]
+     },
+     {
+      "t": 25.6,
+      "fin": 0.12,
+      "map": "room",
+      "crest": "l:GS",
+      "sign": [
+       [
+        25.6,
+        "@s_ctr",
+        "@s_ctr_sub"
+       ],
+       [
+        27.2,
+        "@s_tc",
+        "@s_tc_sub"
+       ]
+      ],
+      "sprites": [
+       {
+        "k": "p:6430",
+        "x": 223,
+        "y": 345,
+        "sz": 56,
+        "dim": true,
+        "tag": "@n_jimmy",
+        "out": 27.2,
+        "path": [
+         [
+          25.6,
+          223,
+          395
+         ],
+         [
+          26.2,
+          223,
+          345
+         ]
+        ]
+       },
+       {
+        "k": "p:3059319",
+        "x": 320,
+        "y": 345,
+        "sz": 56,
+        "dim": true,
+        "tag": "@n_wig",
+        "out": 27.2,
+        "path": [
+         [
+          25.6,
+          320,
+          395
+         ],
+         [
+          26.2,
+          320,
+          345
+         ]
+        ]
+       },
+       {
+        "k": "p:5214640",
+        "x": 223,
+        "y": 345,
+        "sz": 56,
+        "tag": "@n_jak",
+        "in": 27.2,
+        "out": 27.7
+       },
+       {
+        "k": "p:4395725",
+        "x": 320,
+        "y": 345,
+        "sz": 56,
+        "tag": "@n_her",
+        "in": 27.2,
+        "out": 27.7
+       },
+       {
+        "k": "p:5214640",
+        "x": 200,
+        "y": 385,
+        "sz": 78,
+        "tag": "@n_jak",
+        "in": 27.7,
+        "out": 28.2
+       },
+       {
+        "k": "p:4395725",
+        "x": 320,
+        "y": 390,
+        "sz": 78,
+        "tag": "@n_her",
+        "in": 27.7,
+        "out": 28.2
+       },
+       {
+        "k": "p:5214640",
+        "x": 116,
+        "y": 400,
+        "sz": 72,
+        "tag": "@n_jak",
+        "in": 28.2,
+        "out": 29.0
+       },
+       {
+        "k": "p:4395725",
+        "x": 192,
+        "y": 395,
+        "sz": 72,
+        "tag": "@n_her",
+        "in": 28.2,
+        "out": 29.0
+       },
+       {
+        "k": "ball",
+        "x": 185,
+        "y": 423,
+        "in": 29.0
+       },
+       {
+        "k": "ball",
+        "x": 117,
+        "y": 372,
+        "in": 29.0,
+        "noshadow": true
+       },
+       {
+        "k": "ball",
+        "x": 423,
+        "y": 372,
+        "in": 29.0,
+        "noshadow": true
+       },
+       {
+        "k": "p:3032977",
+        "x": 424,
+        "y": 470,
+        "sz": 56,
+        "in": 29.5,
+        "tag": "@n_gia",
+        "path": [
+         [
+          29.5,
+          424,
+          520
+         ],
+         [
+          29.9,
+          470,
+          470
+         ]
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 25.6,
+        "dlg": "@dba"
+       },
+       {
+        "t": 27.15,
+        "dlg": "@dbb",
+        "cps": 36
+       }
+      ],
+      "pops": [
+       {
+        "t": 26.2,
+        "type": "big",
+        "s": "@outb",
+        "y": 370,
+        "col": "#d83a3a",
+        "until": 27.2,
+        "fin": 0.15
+       }
+      ]
+     },
+     {
+      "t": 30.7,
+      "fin": 0.13,
+      "map": "town",
+      "mood": "snow",
+      "crest": "l:GS",
+      "sign": [
+       "@s_tor",
+       "@s_tor_sub"
+      ],
+      "sprites": [
+       {
+        "k": "m:galehawk",
+        "x": 70,
+        "y": 375,
+        "sz": 80,
+        "in": 31.4,
+        "path": [
+         [
+          31.4,
+          20,
+          375
+         ],
+         [
+          32.2,
+          70,
+          375
+         ],
+         [
+          34.7,
+          70,
+          375
+         ],
+         [
+          35.6,
+          100,
+          375
+         ]
+        ]
+       },
+       {
+        "k": "p:6430",
+        "x": 155,
+        "y": 371,
+        "in": 31.4,
+        "tag": "@n_jimmy",
+        "path": [
+         [
+          31.4,
+          100,
+          371
+         ],
+         [
+          32.0,
+          155,
+          371
+         ]
+        ]
+       },
+       {
+        "k": "p:3975",
+        "x": 223,
+        "y": 371,
+        "in": 32.8,
+        "tag": "@n_curry",
+        "tagdy": -22,
+        "path": [
+         [
+          32.8,
+          170,
+          371
+         ],
+         [
+          33.3,
+          223,
+          371
+         ]
+        ]
+       },
+       {
+        "k": "p:6589",
+        "x": 294,
+        "y": 371,
+        "in": 33.3,
+        "tag": "@n_dray",
+        "path": [
+         [
+          33.3,
+          240,
+          371
+         ],
+         [
+          33.8,
+          294,
+          371
+         ]
+        ]
+       },
+       {
+        "k": "p:3059319",
+        "x": 395,
+        "y": 371,
+        "in": 30.8,
+        "tag": "@n_wig",
+        "tag2": "@n_heat",
+        "bobs": [
+         [
+          37.6,
+          40.2
+         ]
+        ]
+       },
+       {
+        "k": "m:galehawk",
+        "x": 455,
+        "y": 371,
+        "sz": 38,
+        "in": 30.8,
+        "flip": true
+       }
+      ],
+      "pages": [
+       {
+        "t": 30.7,
+        "dlg": "@dbc"
+       },
+       {
+        "t": 34.72,
+        "dlg": "@dbd"
+       },
+       {
+        "t": 37.52,
+        "dlg": "@dbe"
+       },
+       {
+        "t": 39.28,
+        "dlg": "@dbf"
+       }
+      ],
+      "pops": [
+       {
+        "t": 34.6,
+        "type": "card",
+        "side": 0,
+        "logo": "l:GS",
+        "name": "@c_tor",
+        "rec": "@c_tor_rec",
+        "tag": "@c_tor_tag",
+        "tagt": 36.4
+       },
+       {
+        "t": 37.45,
+        "type": "card",
+        "side": 1,
+        "logo": "l:MIA",
+        "bare": true,
+        "hdr": "#98002e",
+        "name": "@c_ny",
+        "rec": "@c_ny_rec",
+        "tag": "@c_ny_tag",
+        "tagt": 39.6,
+        "tagc": "#e08a2a"
+       }
+      ]
+     },
+     {
+      "t": 41.0,
+      "fin": 0.12,
+      "map": "town",
+      "mood": "night",
+      "crest": "l:GS",
+      "sign": [
+       "@s_det",
+       "@s_det_sub"
+      ],
+      "sprites": [
+       {
+        "k": "label",
+        "x": 148,
+        "y": 222,
+        "tag": "@t_us"
+       },
+       {
+        "k": "label",
+        "x": 407,
+        "y": 222,
+        "tag": "@t_them",
+        "tagc": "#2a6ad0"
+       },
+       {
+        "k": "p:6430",
+        "x": 82,
+        "y": 383,
+        "sz": 56,
+        "tag": "@n_jimmy",
+        "bub": [
+         41.1,
+         "!",
+         null,
+         43.4
+        ]
+       },
+       {
+        "k": "p:3975",
+        "x": 150,
+        "y": 383,
+        "sz": 56,
+        "tag": "@n_curry",
+        "tagdy": -22
+       },
+       {
+        "k": "p:6589",
+        "x": 215,
+        "y": 383,
+        "sz": 56,
+        "tag": "@n_dray",
+        "path": [
+         [
+          42.1,
+          215,
+          383
+         ],
+         [
+          42.5,
+          240,
+          383
+         ],
+         [
+          42.95,
+          215,
+          383
+         ]
+        ]
+       },
+       {
+        "k": "p:3059319",
+        "x": 377,
+        "y": 383,
+        "sz": 56,
+        "tag": "@n_wig",
+        "path": [
+         [
+          41.0,
+          470,
+          383
+         ],
+         [
+          42.0,
+          377,
+          383
+         ],
+         [
+          43.5,
+          377,
+          383
+         ],
+         [
+          44.4,
+          330,
+          383
+         ],
+         [
+          45.3,
+          377,
+          383
+         ]
+        ]
+       },
+       {
+        "k": "l:MIA",
+        "x": 446,
+        "y": 383,
+        "sz": 48
+       }
+      ],
+      "pages": [
+       {
+        "t": 41.0,
+        "dlg": "@dbg"
+       },
+       {
+        "t": 43.32,
+        "dlg": "@dc"
+       },
+       {
+        "t": 45.42,
+        "dlg": "@dbi"
+       }
+      ],
+      "pops": [
+       {
+        "t": 43.4,
+        "type": "menu",
+        "opts": [
+         "@m_a",
+         "@m_b"
+        ],
+        "x": 176,
+        "y": 397,
+        "h": 98,
+        "moves": [
+         [
+          43.9,
+          1
+         ],
+         [
+          44.5,
+          0
+         ],
+         [
+          45.7,
+          1
+         ],
+         [
+          46.3,
+          0
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "endDim": 47.35,
+    "arrow": [
+     [
+      0.2,
+      0.6
+     ],
+     [
+      1.0,
+      1.4
+     ],
+     [
+      1.8,
+      2.2
+     ],
+     [
+      2.6,
+      3.0
+     ],
+     [
+      3.4,
+      3.8
+     ],
+     [
+      4.2,
+      4.233
+     ],
+     [
+      5.033,
+      5.4
+     ],
+     [
+      5.8,
+      6.2
+     ],
+     [
+      7.0,
+      7.4
+     ],
+     [
+      7.8,
+      8.2
+     ],
+     [
+      8.6,
+      8.667
+     ],
+     [
+      9.433,
+      9.833
+     ],
+     [
+      11.133,
+      11.267
+     ],
+     [
+      11.667,
+      12.067
+     ],
+     [
+      12.467,
+      12.867
+     ],
+     [
+      13.267,
+      13.667
+     ],
+     [
+      14.067,
+      14.467
+     ],
+     [
+      15.533,
+      15.7
+     ],
+     [
+      16.1,
+      16.5
+     ],
+     [
+      16.9,
+      17.3
+     ],
+     [
+      18.3,
+      18.6
+     ],
+     [
+      19.0,
+      19.4
+     ],
+     [
+      19.8,
+      20.2
+     ],
+     [
+      21.333,
+      21.733
+     ],
+     [
+      22.133,
+      22.533
+     ],
+     [
+      23.633,
+      24.0
+     ],
+     [
+      24.4,
+      24.8
+     ],
+     [
+      25.2,
+      25.6
+     ],
+     [
+      26.4,
+      26.8
+     ],
+     [
+      28.067,
+      28.3
+     ],
+     [
+      28.7,
+      29.1
+     ],
+     [
+      29.5,
+      29.9
+     ],
+     [
+      30.3,
+      30.7
+     ],
+     [
+      31.667,
+      31.9
+     ],
+     [
+      32.3,
+      32.6
+     ],
+     [
+      33.1,
+      33.5
+     ],
+     [
+      33.9,
+      34.3
+     ],
+     [
+      34.7,
+      34.8
+     ],
+     [
+      35.533,
+      35.933
+     ],
+     [
+      36.333,
+      36.733
+     ],
+     [
+      37.133,
+      37.533
+     ],
+     [
+      38.367,
+      38.767
+     ],
+     [
+      39.167,
+      39.367
+     ],
+     [
+      40.1,
+      40.5
+     ],
+     [
+      40.9,
+      41.033
+     ],
+     [
+      41.8,
+      42.2
+     ],
+     [
+      42.6,
+      43.0
+     ],
+     [
+      44.1,
+      44.5
+     ],
+     [
+      44.9,
+      45.3
+     ],
+     [
+      46.233,
+      46.633
+     ],
+     [
+      47.033,
+      47.433
+     ]
+    ]
+   }
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.14
+  },
+  {
+   "kind": "town",
+   "vo": "This month, he came back to Chase."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.38
+  },
+  {
+   "kind": "town",
+   "vo": "So, who actually won the Jimmy trade?"
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.12
+  },
+  {
+   "kind": "town",
+   "vo": "Here's what we gave."
+  },
+  {
+   "kind": "town",
+   "vo": "Andrew Wiggins, Kyle Anderson,"
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.1
+  },
+  {
+   "kind": "town",
+   "vo": "and a pick that turned into Kasparas Jakučionis."
+  },
+  {
+   "kind": "town",
+   "vo": "Year one, both teams made the playoffs."
+  },
+  {
+   "kind": "town",
+   "vo": "Jimmy dropped 38 in the play-in, then we beat Houston."
+  },
+  {
+   "kind": "town",
+   "vo": "Year two, Jimmy tore his ACL."
+  },
+  {
+   "kind": "town",
+   "vo": "Against Miami, of all teams."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.62
+  },
+  {
+   "kind": "town",
+   "vo": "Both teams went out in the play-in."
+  },
+  {
+   "kind": "town",
+   "vo": "Then, Miami packaged that pick and Tyler Herro to get Giannis."
+  },
+  {
+   "kind": "town",
+   "vo": "Add it up: Jimmy for Wiggins and a piece of Giannis."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.12
+  },
+  {
+   "kind": "town",
+   "vo": "We're 8 and 8, and 6 and 1 at home."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.58
+  },
+  {
+   "kind": "town",
+   "vo": "The Heat are 9 and 6."
+  },
+  {
+   "kind": "town",
+   "vo": "Still, we beat Miami by twenty."
+  },
+  {
+   "kind": "town",
+   "vo": "Beat Boston Sunday, and we're 9 and 8."
+  },
+  {
+   "kind": "town",
+   "vo": "So, who actually won the Jimmy trade?"
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.9
+  }
+ ],
+ "facts": [
+  {
+   "claim": "On February 6, 2025, Butler was traded to Golden State in a five-team deal that sent a package headed by Andrew Wiggins to Miami (trade: Feb 2025, Wiggins to Heat, almost two years ago); Warriors debut Feb 8, 25 points vs Chicago",
+   "source": "https://en.wikipedia.org/wiki/Jimmy_Butler"
+  },
+  {
+   "claim": "Trade package: Miami got Andrew Wiggins, Kyle Anderson and a first-round pick ('25 1st-round pick); Dennis Schröder, Lindy Waters III and a second-round pick went to Detroit",
+   "source": "https://en.wikipedia.org/wiki/2024%E2%80%9325_Golden_State_Warriors_season"
+  },
+  {
+   "claim": "The Golden State first-round pick conveyed in 2025 (outside top 10) and Miami used it at No. 20 on Kasparas Jakučionis",
+   "source": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Miami_Heat_season"
+  },
+  {
+   "claim": "Jakučionis was selected by Miami with the 20th pick (June 25, 2025); on July 6, 2026 (July 2026) he, Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., the rights to Nate Ament and four future picks were traded to Milwaukee for Giannis Antetokounmpo and Bobby Portis",
+   "source": "https://en.wikipedia.org/wiki/Kasparas_Jaku%C4%8Dionis"
+  },
+  {
+   "claim": "Kyle Anderson was traded by Miami to Utah on July 7, 2025 (now with Toronto)",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Anderson_(basketball)"
+  },
+  {
+   "claim": "Year one 2024-25 (2025: year one): Warriors 48-34, 7th in the West; won the play-in vs Memphis; beat 2nd-seeded Houston in 7 (Game 7); lost to Minnesota 1-4 in the West semis (round two)",
+   "source": "https://en.wikipedia.org/wiki/2024%E2%80%9325_Golden_State_Warriors_season"
+  },
+  {
+   "claim": "April 15, 2025 play-in (2025 play-in): Butler 38 points, 7 rebounds, 6 assists in a 121-116 win over Memphis; Game 7 at Houston, 103-89 road win; eliminated in five by Minnesota",
+   "source": "https://en.wikipedia.org/wiki/Jimmy_Butler"
+  },
+  {
+   "claim": "Year one 2024-25: Heat 37-45, 10th seed, won two play-in games (Chicago, Atlanta), swept 0-4 by Cleveland in round one (1st round)",
+   "source": "https://en.wikipedia.org/wiki/2024%E2%80%9325_Miami_Heat_season"
+  },
+  {
+   "claim": "Year two (2026: year two): Butler tore his right ACL on January 19, 2026 (Jan 19) against the Heat (season-ending, surgery); through 38 games 20.0 PPG; Warriors 25-19 at the time",
+   "source": "https://en.wikipedia.org/wiki/Jimmy_Butler"
+  },
+  {
+   "claim": "Jan 19, 2026 (2026-01-20T03:00Z): Miami Heat at Golden State Warriors, Chase Center, Warriors 135-112",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/9/schedule?season=2026"
+  },
+  {
+   "claim": "Year two 2025-26 (2026 play-in): Warriors 37-45, 10th in the West; beat the Clippers in the play-in, then lost to Phoenix and were eliminated (out in the play-in)",
+   "source": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Golden_State_Warriors_season"
+  },
+  {
+   "claim": "Year two 2025-26: Heat 43-39; lost the first play-in stage to Charlotte in overtime and missed the playoffs (out in the play-in)",
+   "source": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Miami_Heat_season"
+  },
+  {
+   "claim": "Butler status: Out (since 2026-10-16), still recovering from the torn right ACL",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/6430"
+  },
+  {
+   "claim": "Warriors 8-8 (home 6-1, road 2-7) (ESPN, Nov 20 2026; Nov 2026)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/9"
+  },
+  {
+   "claim": "Heat 9-6 (ESPN, Nov 20 2026)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/14"
+  },
+  {
+   "game": "401909937",
+   "score": "120-100"
+  },
+  {
+   "claim": "Thu Nov 5, 2026 (11/5, 7 PM PT; 2026-11-06T03:00Z) at Chase Center: Warriors 120, Heat 100 (we beat Miami by twenty; Wiggins came back to Chase this month); Wiggins 2 points in 21 minutes, Curry 29, Giannis 20 and 14",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909937"
+  },
+  {
+   "game": "401909937",
+   "player": "3059319",
+   "stat": "PTS",
+   "value": "2"
+  },
+  {
+   "game": "401909937",
+   "player": "3975",
+   "stat": "PTS",
+   "value": "29"
+  },
+  {
+   "claim": "Next game: Sun Nov 22 (11/22), Boston (11-4) at Golden State, Chase Center, 2026-11-23T01:30Z = 5:30 PM PT / 8:30 PM ET; a win makes us 9-8",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401910035"
+  },
+  {
+   "player": "6430",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 20.0
+  },
+  {
+   "player": "6430",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 38
+  },
+  {
+   "player": "3059319",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 9.5
+  },
+  {
+   "claim": "'Warriors Debates 1' is our series label (episode 1), not a stat",
+   "source": "https://www.instagram.com/8bitwarriors/"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "team": "warriors",
+ "name": "yaxel",
+ "record": "7-3",
+ "caption": "PICK 11 🎮🏀 Junior college. Then UAB. Then a title at Michigan. Now he's our starter.\n\n• 3 years at Arizona Western, a junior college: NJCAA all-time record 870 rebounds\n• 2026: national champion and Big Ten Player of the Year at Michigan\n• 2026 draft: we take him at #11\n• Rookie year so far: 21.2 PPG, 7.2 RPG, 40.4 3P%, 37 against the Clippers\n\nSteal of the draft? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 11",
+   "key": "p:5175737@GSW",
+   "name": "YAXEL",
+   "badge": "2026 DRAFT",
+   "lines": [
+    [
+     "#11",
+     "2026 DRAFT"
+    ]
+   ],
+   "vo": "Three years at a junior college. Now he's our starting forward.",
+   "dlg": "JUNIOR COLLEGE...|NOW OUR STARTER."
+  },
+  {
+   "kind": "fire",
+   "head": "JUCO LEGEND",
+   "key": "p:5175737@GSW",
+   "name": "YAXEL",
+   "badge": "ARIZONA WESTERN",
+   "lines": [
+    [
+     "870",
+     "REBOUNDS"
+    ]
+   ],
+   "vo": "At Arizona Western, he grabs eight hundred seventy rebounds. The most in junior college history.",
+   "dlg": "870 REBOUNDS:|A JUCO RECORD!"
+  },
+  {
+   "kind": "fire",
+   "head": "CHAMPION",
+   "key": "p:5175737@GSW",
+   "name": "YAXEL",
+   "badge": "BIG TEN POY",
+   "lines": [
+    [
+     "2026",
+     "NCAA CHAMP"
+    ]
+   ],
+   "vo": "Then UAB. Then Michigan, where he wins a national title. We take him eleventh.",
+   "dlg": "2026: NATIONAL CHAMP.|WE TAKE HIM AT 11."
+  },
+  {
+   "kind": "fire",
+   "head": "ROOKIE YEAR",
+   "key": "p:5175737@GSW",
+   "name": "YAXEL",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "21.2",
+     "PPG"
+    ],
+    [
+     "40.4",
+     "3P%"
+    ]
+   ],
+   "vo": "Ten games in: twenty-one point two points a night, forty percent from three, and thirty-seven against the Clippers.",
+   "dlg": "ROOKIE: 21.2 PPG, 40.4 3P%.|37 VS THE CLIPPERS!"
+  },
+  {
+   "kind": "next",
+   "head": "OUR ROOKIE",
+   "logo": "l:GSW",
+   "rec": "#11",
+   "ntxt": "YAXEL",
+   "nday": "2026 PICK",
+   "vo": "Steal of the draft? Comment below.",
+   "dlg": "STEAL OF THE DRAFT?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.2
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 7.2
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 40.4
+  },
+  {
+   "game": "401909905",
+   "player": "5175737",
+   "stat": "PTS",
+   "value": 37
+  },
+  {
+   "claim": "Lendeborg played 3 seasons at Arizona Western (junior college) with an NJCAA all-time record 870 rebounds; then UAB and Michigan; 2026 NCAA champion and Big Ten Player of the Year; drafted 11th overall in 2026 by Golden State",
+   "source": "https://en.wikipedia.org/wiki/Yaxel_Lendeborg"
+  },
+  {
+   "claim": "Ten games played this season",
+   "source": "https://www.espn.com/nba/player/gamelog/_/id/5175737"
+  }
+ ]
+}

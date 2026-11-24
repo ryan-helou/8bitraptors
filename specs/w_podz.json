@@ -1,0 +1,122 @@
+{
+ "team": "warriors",
+ "name": "podz",
+ "record": "7-3",
+ "caption": "PODZ 🎮🏀 1.4 points a game as a college freshman. Now he starts for us.\n\n• Illinois: 16 games off the bench, 1.4 PPG, then he transfers\n• Santa Clara: WCC co-Player of the Year\n• 2023 draft: we take him at #19; All-Rookie 1st Team in 2024\n• Played all 82 games last season\n• First 8 games, all starts: 15.8 PPG, 5.4 RPG, 4.3 APG\n\nUntouchable, or our best trade chip? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "1.4 PPG",
+   "key": "p:4709138@GSW",
+   "name": "PODZ",
+   "badge": "ILLINOIS",
+   "lines": [
+    [
+     "1.4",
+     "PPG"
+    ]
+   ],
+   "vo": "As a college freshman at Illinois, he came off the bench and scored one point four a game. So he left.",
+   "dlg": "ILLINOIS: 1.4 PPG...|SO HE TRANSFERS."
+  },
+  {
+   "kind": "fire",
+   "head": "PICK 19",
+   "key": "p:4709138@GSW",
+   "name": "PODZ",
+   "badge": "WCC CO-POY",
+   "lines": [
+    [
+     "#19",
+     "2023 DRAFT"
+    ]
+   ],
+   "vo": "One year at Santa Clara: conference Player of the Year. We take him nineteenth.",
+   "dlg": "SANTA CLARA: WCC CO-POY.|WE TAKE HIM AT 19."
+  },
+  {
+   "kind": "fire",
+   "head": "ALL-ROOKIE",
+   "key": "p:4709138@GSW",
+   "name": "PODZ",
+   "badge": "1ST TEAM",
+   "lines": [
+    [
+     "2024",
+     "ALL-ROOKIE"
+    ],
+    [
+     "82",
+     "GAMES"
+    ]
+   ],
+   "vo": "Rookie year: All-Rookie First Team. Last year: all eighty-two games.",
+   "dlg": "ALL-ROOKIE FIRST TEAM.|LAST YEAR: ALL 82 GAMES."
+  },
+  {
+   "kind": "fire",
+   "head": "8 GAMES IN",
+   "key": "p:4709138@GSW",
+   "name": "PODZ",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "15.8",
+     "PPG"
+    ],
+    [
+     "5.4",
+     "RPG"
+    ]
+   ],
+   "vo": "Through eight games, all starts: fifteen point eight points, five point four rebounds, four point three assists.",
+   "dlg": "8 STARTS: 15.8 PPG,|5.4 RPG, 4.3 APG."
+  },
+  {
+   "kind": "next",
+   "head": "PODZ",
+   "logo": "l:GSW",
+   "rec": "#19",
+   "ntxt": "PODZ",
+   "nday": "2023 PICK",
+   "vo": "Untouchable, or our best trade chip? Comment below.",
+   "dlg": "UNTOUCHABLE OR TRADE CHIP?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 15.8
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 5.4
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 4.3
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "4709138",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 82
+  },
+  {
+   "claim": "Podziemski played 16 games off the bench as an Illinois freshman averaging 1.4 points, transferred to Santa Clara, WCC co-Player of the Year (2023), drafted 19th in 2023 by Golden State, NBA All-Rookie 1st Team (2024), appeared in all 82 games in 2025-26",
+   "source": "https://en.wikipedia.org/wiki/Brandin_Podziemski"
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "team": "raptors",
+ "name": "tr_siakam",
+ "record": "5-4",
+ "caption": "IF SIAKAM HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🥋 Tyrogue: keeps fighting even when it loses, to get stronger. Pick 27, then Raptors 905 Finals MVP as a rookie\n🐛 Metapod: hardens its shell while it prepares to evolve. 7.3 a night in year two, 16.9 and Most Improved in year three\n🎯 Remoraid: superb accuracy, hits moving prey from 300 feet. 32 points on 14-of-17 in Finals Game 1\n🌶️ Scovillain: once it goes on a rampage, there's no stopping it. Spicy P, All-Star and All-NBA in 2020\n🐴 Mudsdale: hauls 10 tons without rest. Led the NBA in minutes in 2022 and 2023\n🌀 Hitmontop: spins on its head while it kicks. The spin got its own McFlurry. Still spinning in Indiana: 22.2 a night through 10 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Pascal Siakam had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF SIAKAM HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Tyrogue. It keeps on fighting, even when it loses, just to get stronger. We took Pascal twenty-seventh. As a rookie, Finals MVP for our G League team.",
+   "dlg": "KEEPS FIGHTING TO GROW.|ROOKIE: 905 FINALS MVP"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Metapod. It hardens its shell and waits, getting ready to evolve. Year two: seven point three a night. Year three: sixteen point nine, Most Improved Player, and a ring.",
+   "dlg": "IT PREPARES TO EVOLVE.|7.3 PPG, THEN 16.9 + MIP"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Remoraid. Superb accuracy: it hits moving prey from three hundred feet. Game one of the Finals: thirty-two points on fourteen of seventeen.",
+   "dlg": "IT HAS SUPERB ACCURACY.|FINALS G1: 32 ON 14-OF-17"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Scovillain. Once it goes on a rampage, there's no stopping it. Spicy P, twenty twenty: his first All-Star game, and All-NBA second team.",
+   "dlg": "NO STOPPING ITS RAMPAGE.|SPICY P: 2020 ALL-STAR!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Mudsdale. So much stamina it can haul ten tons without rest. Pascal led the whole league in minutes, twice.",
+   "dlg": "IT NEVER NEEDS TO REST.|LED THE NBA IN MINUTES 2X"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Hitmontop. It spins on its head while it kicks. That spin got its own McFlurry. Today in Indiana: twenty-two point two through ten games.",
+   "dlg": "IT ATTACKS WHILE SPINNING.|HIS SPIN GOT A MCFLURRY!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3149673",
+   "season": "2017-18",
+   "stat": "PTS",
+   "value": 7.3
+  },
+  {
+   "player": "3149673",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 16.9
+  },
+  {
+   "player": "3149673",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 22.2
+  },
+  {
+   "player": "3149673",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "game": "401134815",
+   "player": "3149673",
+   "stat": "PTS",
+   "value": 32
+  },
+  {
+   "game": "401134815",
+   "player": "3149673",
+   "stat": "FG",
+   "value": "14-17"
+  },
+  {
+   "claim": "Siakam: selected 27th overall by Toronto in 2016; as a rookie in 2017 led Raptors 905 to the D-League title and was Finals MVP; 2017-18 sophomore year, 2018-19 (year 3) Most Improved Player and NBA champion; nicknamed Spicy P; 2019-20 (2020) first All-Star and All-NBA Second Team; NBA minutes played leader 2022 and 2023 (2X); in game 1 of the 2019 Finals scored 32 points on 14-of-17 shooting; the Siakam Swirl McFlurry was inspired by his iconic spin move; now with the Indiana Pacers",
+   "source": "https://en.wikipedia.org/wiki/Pascal_Siakam"
+  },
+  {
+   "claim": "Remoraid can strike moving prey from more than 300 feet; Mudsdale can carry over 10 tons without rest (PokeAPI species flavor text)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/remoraid"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3149673@TOR",
+   "mon": "pk:tyrogue",
+   "nick": "TYROGUE",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "905 GRINDER",
+   "stat": "905 FINALS MVP"
+  },
+  {
+   "key": "p:3149673@TOR",
+   "mon": "pk:metapod",
+   "nick": "METAPOD",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ]
+   ],
+   "label": "THE COCOON",
+   "stat": "7.3 TO 16.9"
+  },
+  {
+   "key": "p:3149673@TOR",
+   "mon": "pk:remoraid",
+   "nick": "REMORAID",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "SHARPSHOOTER",
+   "stat": "14-OF-17"
+  },
+  {
+   "key": "p:3149673@TOR",
+   "mon": "pk:scovillain",
+   "nick": "SCOVILLAIN",
+   "types": [
+    [
+     "GRASS",
+     "#78c850"
+    ],
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "SPICY P",
+   "stat": "2020 ALL-STAR"
+  },
+  {
+   "key": "p:3149673@TOR",
+   "mon": "pk:mudsdale",
+   "nick": "MUDSDALE",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "WORKHORSE",
+   "stat": "MINUTES LEADER"
+  },
+  {
+   "key": "p:3149673@TOR",
+   "mon": "pk:hitmontop",
+   "nick": "HITMONTOP",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "THE SPIN"
+  }
+ ],
+ "mode": "trainer"
+}

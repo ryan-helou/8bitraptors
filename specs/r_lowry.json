@@ -1,0 +1,100 @@
+{
+ "team": "raptors",
+ "name": "lowry",
+ "record": "6X ALL-STAR",
+ "caption": "KYLE LOWRY 🎮🏀 Our greatest ever?\n\n• 2012: we trade for him from Houston\n• Franchise leader in assists, steals and threes\n• 6 straight All-Star games\n• 2019: NBA champion\n• July 7, 2026: a one-day contract to retire with us\n• His No. 7 is going to the rafters\n\nGreatest Raptor ever? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "KYLE LOWRY",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "2012 TRADE",
+   "lines": [
+    [
+     "2012",
+     "FROM HOUSTON"
+    ]
+   ],
+   "vo": "Twenty twelve. We trade for a point guard from Houston named Kyle Lowry.",
+   "dlg": "2012: WE TRADE FOR|A GUARD NAMED KYLE LOWRY."
+  },
+  {
+   "kind": "hot",
+   "head": "FRANCHISE RECORDS",
+   "rows": [
+    {
+     "logo": "l:TOR",
+     "name": "ASSISTS",
+     "sub": "RAPTORS ALL-TIME",
+     "val": "#1",
+     "w": 1
+    },
+    {
+     "logo": "l:TOR",
+     "name": "STEALS",
+     "sub": "RAPTORS ALL-TIME",
+     "val": "#1",
+     "w": 1
+    },
+    {
+     "logo": "l:TOR",
+     "name": "THREES",
+     "sub": "RAPTORS ALL-TIME",
+     "val": "#1",
+     "w": 1
+    }
+   ],
+   "vo": "He becomes our all-time leader in assists, steals, and threes.",
+   "dlg": "#1 IN ASSISTS, STEALS|AND THREES. ALL-TIME."
+  },
+  {
+   "kind": "fire",
+   "head": "ALL-STAR",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "CHAMPION",
+   "lines": [
+    [
+     "6",
+     "STRAIGHT ALL-STARS"
+    ],
+    [
+     "2019",
+     "NBA CHAMPION"
+    ]
+   ],
+   "vo": "Six straight All-Star games. And in twenty nineteen, a ring.",
+   "dlg": "6 STRAIGHT ALL-STARS.|2019: NBA CHAMPION!"
+  },
+  {
+   "kind": "fire",
+   "head": "COMING HOME",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "1-DAY DEAL",
+   "lines": [
+    [
+     "JULY 7",
+     "1-DAY CONTRACT"
+    ],
+    [
+     "NO. 7",
+     "TO THE RAFTERS"
+    ]
+   ],
+   "vo": "On July seventh, number seven signed a one-day contract to finish his career with us. His jersey is headed for our rafters.",
+   "dlg": "JULY 7: HE COMES HOME.|NO. 7 GOES TO OUR RAFTERS."
+  },
+  {
+   "kind": "next",
+   "head": "THE GOAT RAPTOR?",
+   "logo": "l:TOR",
+   "rec": "#7",
+   "ntxt": "KYLE LOWRY",
+   "nday": "2012-2021",
+   "vo": "Our greatest ever? Comment below.",
+   "dlg": "OUR GREATEST EVER?|COMMENT BELOW!"
+  }
+ ]
+}

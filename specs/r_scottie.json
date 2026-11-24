@@ -1,0 +1,126 @@
+{
+ "team": "raptors",
+ "name": "scottie",
+ "record": "5-4",
+ "caption": "PICK 4 🎮🏀 Everybody wanted Suggs. We took Scottie.\n\n• 2021 draft: we take Scottie Barnes at #4 (the consensus said Jalen Suggs)\n• Rookie year: 15.3 PPG, 7.5 RPG, Rookie of the Year\n• All-Star in 2024 and 2026\n• This season: 23.5 PPG, 7.6 RPG, 5.1 APG\n\nRight call at #4? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 4",
+   "key": "p:4433134",
+   "name": "SCOTTIE",
+   "badge": "2021 DRAFT",
+   "lines": [
+    [
+     "#4",
+     "2021 DRAFT"
+    ]
+   ],
+   "vo": "The twenty twenty-one draft. Everybody expects us to take Jalen Suggs at four. We take Scottie Barnes instead.",
+   "dlg": "2021, PICK 4: NOT SUGGS.|WE TAKE SCOTTIE BARNES."
+  },
+  {
+   "kind": "fire",
+   "head": "ROOKIE OF THE YEAR",
+   "key": "p:4433134",
+   "name": "SCOTTIE",
+   "badge": "ROOKIE OF YEAR",
+   "lines": [
+    [
+     "15.3",
+     "PPG"
+    ],
+    [
+     "7.5",
+     "RPG"
+    ]
+   ],
+   "vo": "Year one: fifteen points and seven rebounds a night... and Rookie of the Year.",
+   "dlg": "YEAR 1: ROOKIE OF THE YEAR.|15.3 PPG, 7.5 RPG."
+  },
+  {
+   "kind": "fire",
+   "head": "ALL-STAR",
+   "key": "p:4433134",
+   "name": "SCOTTIE",
+   "badge": "ALL-STAR",
+   "lines": [
+    [
+     "2024",
+     "FIRST ALL-STAR"
+    ],
+    [
+     "2026",
+     "ALL-STAR AGAIN"
+    ]
+   ],
+   "vo": "Twenty twenty-four: his first All-Star game. Twenty twenty-six: his second.",
+   "dlg": "ALL-STAR IN 2024...|AND AGAIN IN 2026!"
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:4433134",
+   "name": "SCOTTIE",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "23.5",
+     "PPG"
+    ],
+    [
+     "7.6",
+     "RPG"
+    ]
+   ],
+   "vo": "And this season? Twenty-three point five points, seven point six rebounds, five point one assists.",
+   "dlg": "THIS SEASON: 23.5 PPG,|7.6 RPG, 5.1 APG."
+  },
+  {
+   "kind": "next",
+   "head": "OUR GUY",
+   "logo": "l:TOR",
+   "rec": "#4",
+   "ntxt": "SCOTTIE",
+   "nday": "2021 PICK",
+   "vo": "Did we make the right call at four? Comment below.",
+   "dlg": "RIGHT CALL AT #4?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4433134",
+   "season": "2021-22",
+   "stat": "PTS",
+   "value": 15.3
+  },
+  {
+   "player": "4433134",
+   "season": "2021-22",
+   "stat": "REB",
+   "value": 7.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 7.6
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.1
+  },
+  {
+   "claim": "Barnes taken #4 in the 2021 draft (consensus expected Jalen Suggs); Rookie of the Year in year 1 (2022); All-Star 2024 and 2026",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  }
+ ]
+}

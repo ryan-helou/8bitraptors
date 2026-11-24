@@ -1,0 +1,77 @@
+{
+ "team": "raptors",
+ "name": "camby",
+ "pace": "wolves",
+ "caption": "PICK 2. TRADED 2 YEARS LATER 🎮🏀\n\n• 1996: we took Marcus Camby 2nd overall\n• 1998: we traded him to the Knicks on draft day for Charles Oakley and the rights to Sean Marks\n• 2007: Camby was the NBA's Defensive Player of the Year\n\nCamby or Oakley? Right move? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 2",
+   "key": "p:125@TOR",
+   "name": "CAMBY",
+   "badge": "1996 DRAFT",
+   "lines": [
+    [
+     "2",
+     "PICK"
+    ],
+    [
+     "1996",
+     "DRAFT"
+    ]
+   ],
+   "vo": "We took Marcus Camby second overall. Two years later, he was gone.",
+   "dlg": "PICK 2. GONE|TWO YEARS LATER."
+  },
+  {
+   "kind": "fire",
+   "head": "THE TRADE",
+   "key": "l:NYK",
+   "name": "OAKLEY",
+   "badge": "1998 DRAFT DAY",
+   "lines": [
+    [
+     "OAK",
+     "COMING IN"
+    ],
+    [
+     "CAMBY",
+     "GOING OUT"
+    ]
+   ],
+   "vo": "On draft day 1998, we sent him to the Knicks for Charles Oakley.",
+   "dlg": "CAMBY TO NEW YORK|FOR CHARLES OAKLEY."
+  },
+  {
+   "kind": "fire",
+   "head": "THEN",
+   "key": "p:125@TOR",
+   "name": "CAMBY",
+   "badge": "2007",
+   "lines": [
+    [
+     "2007",
+     "DEFENSIVE POY"
+    ]
+   ],
+   "vo": "In 2007, Camby was the Defensive Player of the Year.",
+   "dlg": "2007: DEFENSIVE|PLAYER OF THE YEAR."
+  },
+  {
+   "kind": "next",
+   "head": "RIGHT MOVE?",
+   "logo": "l:TOR",
+   "rec": "#2",
+   "ntxt": "CAMBY",
+   "nday": "OR OAKLEY?",
+   "vo": "Camby or Oakley? Was it the right move? Comment below.",
+   "dlg": "CAMBY OR OAKLEY?|COMMENT BELOW."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Marcus Camby was selected second overall (pick 2, #2) by the Toronto Raptors in the 1996 NBA draft; in 1998 (two years later) he was traded to the New York Knicks in a draft-day deal for Charles Oakley and the draft rights of Sean Marks; NBA Defensive Player of the Year for 2006-07 (2007). ESPN ids Camby 125, Oakley 616.",
+   "source": "https://en.wikipedia.org/wiki/Marcus_Camby"
+  }
+ ]
+}

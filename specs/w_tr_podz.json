@@ -1,0 +1,241 @@
+{
+ "team": "warriors",
+ "name": "tr_podz",
+ "record": "7-3",
+ "caption": "IF PODZ HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🐣 Ducklett: better at swimming than flying. 1.4 points a game as a college freshman\n🦢 Swanna: the one dancing in the middle leads the flock. WCC co-Player of the Year at Santa Clara\n🐾 Eevee: unstable genes, so it can evolve in many ways. Pick #19, All-Rookie First Team\n🛡️ Registeel: a body harder than any metal. All 82 games last season\n🔥 Blaziken: the stronger the foe, the hotter it burns. Career-high 30 against Sacramento\n🦊 Zoroark: its Illusion ability fools everyone. 16.8 points, 5.0 rebounds, 4.2 assists in his first 9 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Brandin Podziemski had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF PODZ HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Ducklett. It's better at swimming than flying. One point four points a game as a college freshman.",
+   "dlg": "SWIMS BETTER THAN FLIES.|FRESHMAN: 1.4 PPG."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Swanna. At dusk, the one dancing in the middle leads the whole flock. He transfers to Santa Clara and shares conference Player of the Year.",
+   "dlg": "IT LEADS THE FLOCK.|WCC CO-PLAYER OF THE YEAR!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Eevee. Its genes are unstable, so it can evolve in all kinds of ways. We took him nineteenth, and he made All-Rookie First Team.",
+   "dlg": "CAN EVOLVE IN MANY WAYS.|PICK 19: ALL-ROOKIE 1ST!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Registeel. Its body is harder than any kind of metal. All eighty-two games last season.",
+   "dlg": "HARDER THAN ANY METAL.|ALL 82 GAMES LAST SEASON!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Blaziken. The stronger the foe, the hotter its wrists burn. A career-high thirty points against Sacramento.",
+   "dlg": "BURNS HOTTER VS TOUGH FOES|CAREER-HIGH 30 VS SAC!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Zoroark. Its ability, Illusion, fools everyone watching. Sixteen point eight points, five boards, four point two assists in his first nine games.",
+   "dlg": "ILLUSIONS FOOL EVERYONE.|16.8 PTS 5.0 REB 4.2 AST"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 16.8
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 5.0
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 4.2
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4709138",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 82
+  },
+  {
+   "claim": "Podziemski: 16 games off the bench as an Illinois freshman, 1.4 points per game; transferred to Santa Clara, WCC co-Player of the Year (2023); drafted 19th overall in 2023 by Golden State; NBA All-Rookie First (1st) Team (2024); April 10, 2026: career-high 30 points vs Sacramento; appeared in all 82 games in 2025-26",
+   "source": "https://en.wikipedia.org/wiki/Brandin_Podziemski"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:4709138@GSW",
+   "mon": "pk:ducklett",
+   "nick": "DUCKLETT",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "UGLY DUCKLING",
+   "stat": "1.4 PPG"
+  },
+  {
+   "key": "p:4709138@GSW",
+   "mon": "pk:swanna",
+   "nick": "SWANNA",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE GLOW-UP",
+   "stat": "WCC CO-POY"
+  },
+  {
+   "key": "p:4709138@GSW",
+   "mon": "pk:eevee",
+   "nick": "EEVEE",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "THE ROOKIE",
+   "stat": "ALL-ROOKIE 1ST"
+  },
+  {
+   "key": "p:4709138@GSW",
+   "mon": "pk:registeel",
+   "nick": "REGISTEEL",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "IRON MAN",
+   "stat": "82 GAMES"
+  },
+  {
+   "key": "p:4709138@GSW",
+   "mon": "pk:blaziken",
+   "nick": "BLAZIKEN",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "CAREER NIGHT",
+   "stat": "30 PTS"
+  },
+  {
+   "key": "p:4709138@GSW",
+   "mon": "pk:zoroark",
+   "nick": "ZOROARK",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "16.8 PPG"
+  }
+ ],
+ "mode": "trainer"
+}

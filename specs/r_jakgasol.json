@@ -1,0 +1,144 @@
+{
+ "team": "raptors",
+ "name": "jakgasol",
+ "record": "5-4",
+ "caption": "DEADLINE BIGS 🎮🏀 Two trade deadline deals for a center. Marc Gasol won us a ring. Jakob Poeltl is still chasing one.\n\n• Feb 7, 2019: Gasol arrives from Memphis\n• 2019 playoffs: 9.4 PPG, 6.4 RPG, NBA champion\n• Gasol, first full season with us (2019-20): 7.5 PPG, 6.3 RPG\n• Feb 9, 2023: Poeltl comes back from San Antonio\n• Poeltl, first full season back (2023-24): 11.1 PPG, 8.6 RPG, 65.6 FG%\n\nBetter center for us: Gasol or Poeltl? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "DEADLINE BIGS",
+   "key": "p:3206@TOR",
+   "name": "GASOL",
+   "badge": "FEB 2019",
+   "lines": [
+    [
+     "2019",
+     "FROM MEMPHIS"
+    ]
+   ],
+   "vo": "Two trade deadline deals for a center. Marc Gasol won us a ring. Jakob Poeltl is still chasing one.",
+   "dlg": "FEB 2019: MARC GASOL.|FEB 2023: JAKOB POELTL."
+  },
+  {
+   "kind": "fire",
+   "head": "THE RING",
+   "key": "p:3206@TOR",
+   "name": "GASOL",
+   "badge": "CHAMPION",
+   "lines": [
+    [
+     "9.4",
+     "PPG"
+    ],
+    [
+     "6.4",
+     "RPG"
+    ]
+   ],
+   "vo": "Gasol in the twenty nineteen playoffs: nine point four points, six point four rebounds, and a title.",
+   "dlg": "2019 PLAYOFFS: 9.4 PPG,|6.4 RPG. CHAMPION."
+  },
+  {
+   "kind": "fire",
+   "head": "GASOL, FULL YEAR",
+   "key": "p:3206@TOR",
+   "name": "GASOL",
+   "badge": "2019-20",
+   "lines": [
+    [
+     "7.5",
+     "PPG"
+    ],
+    [
+     "6.3",
+     "RPG"
+    ]
+   ],
+   "vo": "His first full season with us: seven point five points and six point three rebounds.",
+   "dlg": "GASOL, FIRST FULL SEASON:|7.5 PPG, 6.3 RPG."
+  },
+  {
+   "kind": "fire",
+   "head": "POELTL, FULL YEAR",
+   "key": "p:3134908@TOR",
+   "name": "JAK",
+   "badge": "2023-24",
+   "lines": [
+    [
+     "11.1",
+     "PPG"
+    ],
+    [
+     "8.6",
+     "RPG"
+    ]
+   ],
+   "vo": "Poeltl's first full season back: eleven point one points, eight point six rebounds, on sixty-five point six percent shooting.",
+   "dlg": "POELTL, FIRST FULL SEASON:|11.1 PPG, 8.6 RPG, 65.6%."
+  },
+  {
+   "kind": "next",
+   "head": "WHO'S BETTER?",
+   "logo": "l:TOR",
+   "rec": "C",
+   "ntxt": "GASOL OR",
+   "nday": "POELTL?",
+   "vo": "Better numbers, or the ring? Gasol or Poeltl? Comment below.",
+   "dlg": "GASOL OR POELTL?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3206",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 9.4,
+   "type": "playoffs"
+  },
+  {
+   "player": "3206",
+   "season": "2018-19",
+   "stat": "REB",
+   "value": 6.4,
+   "type": "playoffs"
+  },
+  {
+   "player": "3206",
+   "season": "2019-20",
+   "stat": "PTS",
+   "value": 7.5
+  },
+  {
+   "player": "3206",
+   "season": "2019-20",
+   "stat": "REB",
+   "value": 6.3
+  },
+  {
+   "player": "3134908",
+   "season": "2023-24",
+   "stat": "PTS",
+   "value": 11.1
+  },
+  {
+   "player": "3134908",
+   "season": "2023-24",
+   "stat": "REB",
+   "value": 8.6
+  },
+  {
+   "player": "3134908",
+   "season": "2023-24",
+   "stat": "FG%",
+   "value": 65.6
+  },
+  {
+   "claim": "On February 7, 2019 (Feb 7) Gasol was traded from Memphis to Toronto; NBA champion 2019; 2019-20 was his first full season with Toronto",
+   "source": "https://en.wikipedia.org/wiki/Marc_Gasol"
+  },
+  {
+   "claim": "On February 9, 2023 (Feb 9) Poeltl was traded back to Toronto from San Antonio, so 2023-24 was his first full season back",
+   "source": "https://en.wikipedia.org/wiki/Jakob_Poeltl"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "team": "raptors",
+ "name": "slowmo",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "3 TEAMS, 1 SEASON 🎮🏀 3 teams last season. Now he's ours.\n\n• High school: his coach called him a modern-day Magic Johnson\n• 2014 draft: #30 to San Antonio\n• Since then: Memphis, Minnesota, Golden State, Miami, Utah: 7 franchises counting us\n• July 2, 2026: 1-year minimum deal with us\n• His first 9 games with us: 7.6 minutes a night\n\nMore minutes for Slow Mo? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "3 TEAMS, 1 SEASON",
+   "key": "p:2993874@TOR",
+   "name": "ANDERSON",
+   "badge": "NEW RAPTOR",
+   "lines": [
+    [
+     "3",
+     "TEAMS"
+    ]
+   ],
+   "vo": "Last season, Kyle Anderson played for three different teams. This summer, he signed with us.",
+   "dlg": "3 TEAMS LAST SEASON.|THIS SUMMER: HE'S OURS."
+  },
+  {
+   "kind": "fire",
+   "head": "NEXT MAGIC?",
+   "key": "p:2993874@TOR",
+   "name": "ANDERSON",
+   "badge": "2014 DRAFT",
+   "lines": [
+    [
+     "#30",
+     "2014 DRAFT"
+    ]
+   ],
+   "vo": "In high school, his coach called him a modern-day Magic Johnson. San Antonio took him thirtieth.",
+   "dlg": "HS COACH: 'MODERN MAGIC.'|2014: PICK 30 BY THE SPURS"
+  },
+  {
+   "kind": "fire",
+   "head": "JOURNEYMAN",
+   "key": "p:2993874@TOR",
+   "name": "ANDERSON",
+   "badge": "VETERAN",
+   "lines": [
+    [
+     "7",
+     "FRANCHISES"
+    ]
+   ],
+   "vo": "Then Memphis. Minnesota. Golden State. Miami. Utah. And now us. Seven franchises.",
+   "dlg": "SPURS, GRIZZLIES, WOLVES,|WARRIORS, HEAT, JAZZ, US."
+  },
+  {
+   "kind": "fire",
+   "head": "THIS SEASON",
+   "key": "p:2993874@TOR",
+   "name": "ANDERSON",
+   "badge": "1-YEAR DEAL",
+   "lines": [
+    [
+     "9",
+     "GAMES"
+    ],
+    [
+     "7.6",
+     "MIN"
+    ]
+   ],
+   "vo": "His first nine games with us: about eight minutes a night, on a one-year minimum deal.",
+   "dlg": "FIRST 9 GAMES: 7.6 MIN.|1-YEAR MINIMUM DEAL."
+  },
+  {
+   "kind": "next",
+   "head": "MORE MINUTES?",
+   "logo": "l:TOR",
+   "rec": "#30",
+   "ntxt": "SLOW MO",
+   "nday": "VETERAN",
+   "vo": "Should Slow Mo get more minutes? Comment below.",
+   "dlg": "MORE MINUTES FOR SLOW MO?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "2993874",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "2993874",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 7.6
+  },
+  {
+   "claim": "Anderson nicknamed Slow Mo; high school coach Bob Hurley called him a modern-day Magic Johnson; 2014 NBA draft #30 (30th overall) by the San Antonio Spurs; career history: Spurs, Grizzlies, Timberwolves, Warriors, Heat, Jazz, Raptors (7 franchises); 2025-26: Utah Jazz, then traded to Memphis, waived and signed with Minnesota (3 teams); July 2, 2026: 1-year minimum deal with Toronto",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Anderson_(basketball)"
+  }
+ ]
+}

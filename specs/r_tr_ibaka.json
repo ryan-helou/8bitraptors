@@ -1,0 +1,231 @@
+{
+ "team": "raptors",
+ "name": "tr_ibaka",
+ "record": "5-4",
+ "caption": "IF SERGE HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🦜 Chatot: can learn and speak human words. Serge speaks 4: Lingala, French, English and Spanish\n🧱 Mr. Mime: its fingertips harden the air into a real wall. Led the NBA in blocks twice\n🗿 Golurk: its ability is No Guard, every attack lands. Started 14-for-14 and dropped 34 on the Lakers in 2018\n🍲 Delibird: carries food all day long and shares it. Chef Serge fed his teammates on How Hungry Are You?\n✂️ Furfrou: nobles competed to trim its fur into the most exquisite style. On Vanity Fair's Best Dressed List in 2019\n🐉 Kommo-o: when it howls after a win, its comrades celebrate all around. Traded to us in 2017, a champion in 2019\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Serge Ibaka had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF SERGE IBAKA HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Chatot. It can learn and speak human words. Serge speaks four languages: Lingala, French, English and Spanish.",
+   "dlg": "IT LEARNS HUMAN WORDS.|SERGE SPEAKS 4 LANGUAGES"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Mister Mime. Its fingertips harden the air into an actual wall. Serge led the whole league in blocks, twice.",
+   "dlg": "IT TURNS AIR INTO A WALL.|LED THE NBA IN BLOCKS 2X"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Golurk. Its ability is No Guard: every attack lands. November twenty eighteen, Serge starts fourteen for fourteen, and finishes with thirty-four.",
+   "dlg": "ITS ABILITY: NO GUARD.|14-FOR-14 START, 34 PTS!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Delibird. It carries food all day long and shares it. Serge is a chef, too: on his show How Hungry Are You, he fed his teammates.",
+   "dlg": "IT CARRIES FOOD TO SHARE.|CHEF SERGE FED THE TEAM"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Furfrou. Nobles once competed to trim its fur into the most exquisite style. In twenty nineteen, Vanity Fair put Serge on its Best Dressed List.",
+   "dlg": "STYLED FOR THE NOBLES.|VANITY FAIR'S BEST DRESSED"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Kommo-oh. When it howls after a win, its comrades celebrate all around it. We traded Terrence Ross for Serge in twenty seventeen. Twenty nineteen: champions.",
+   "dlg": "ITS COMRADES CELEBRATE.|2019: WE'RE CHAMPIONS!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401070820",
+   "player": "3439",
+   "stat": "PTS",
+   "value": 34
+  },
+  {
+   "game": "401070820",
+   "player": "3439",
+   "stat": "FG",
+   "value": "15-17"
+  },
+  {
+   "claim": "Ibaka speaks four (4) languages: Lingala, French, English and Spanish; twice (2X) led the NBA in blocks (2012, 2013); on 4 November 2018 he made his first 14 shots (14 of 14) on the way to a career-high 34 points vs the Lakers; a chef on his YouTube series How Hungry Are You?, as Mafuzzy Chef, serving his teammates; named to Vanity Fair's Best Dressed List in 2019; traded to the Raptors on 14 February 2017 for Terrence Ross; NBA champion 2019 with the Raptors",
+   "source": "https://en.wikipedia.org/wiki/Serge_Ibaka"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3439@TOR",
+   "mon": "pk:chatot",
+   "nick": "CHATOT",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "POLYGLOT",
+   "stat": "4 LANGUAGES"
+  },
+  {
+   "key": "p:3439@TOR",
+   "mon": "pk:mr-mime",
+   "nick": "MR. MIME",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ],
+    [
+     "FAIRY",
+     "#ee99ac"
+    ]
+   ],
+   "label": "BLOCK PARTY",
+   "stat": "2X BLK LEADER"
+  },
+  {
+   "key": "p:3439@TOR",
+   "mon": "pk:golurk",
+   "nick": "GOLURK",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "label": "NO MISSES",
+   "stat": "34 PTS"
+  },
+  {
+   "key": "p:3439@TOR",
+   "mon": "pk:delibird",
+   "nick": "DELIBIRD",
+   "types": [
+    [
+     "ICE",
+     "#58b8d0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE CHEF",
+   "stat": "MAFUZZY CHEF"
+  },
+  {
+   "key": "p:3439@TOR",
+   "mon": "pk:furfrou",
+   "nick": "FURFROU",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "BEST DRESSED",
+   "stat": "VANITY FAIR"
+  },
+  {
+   "key": "p:3439@TOR",
+   "mon": "pk:kommo-o",
+   "nick": "KOMMO O",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "2019 CHAMP"
+  }
+ ],
+ "mode": "trainer"
+}

@@ -1,0 +1,117 @@
+{
+ "team": "raptors",
+ "name": "poll2_boards",
+ "l1": "ONE GAME TO WIN...",
+ "q": "WHO OWNS THE GLASS?",
+ "boxA": "REBOUNDERS",
+ "boxB": "EVERY BOARD COUNTS",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: REBOUNDER 🎮🏀 One game, every board counts. Who's cleaning the glass for us?\n\n1️⃣ Chris Bosh, franchise big: #1 in our history with 4,776 rebounds, 9.4 RPG\n2️⃣ Jonas Valanciunas, glass eater: #2 with 3,961 rebounds, 8.4 RPG\n3️⃣ Scottie Barnes, today: 25 rebounds in one game (ties our record), 2,726 and counting\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "1977",
+   "name": "BOSH",
+   "full": "CHRIS BOSH",
+   "jersey": "4",
+   "type": "BIG MAN",
+   "season": "RAPTORS 2003-2010",
+   "stats": [
+    [
+     "#1",
+     "REBOUNDS"
+    ],
+    [
+     "4,776",
+     "TOTAL"
+    ],
+    [
+     "9.4",
+     "RPG"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "6477",
+   "name": "JV",
+   "full": "JONAS VALANCIUNAS",
+   "jersey": "17",
+   "type": "BOARDS",
+   "season": "RAPTORS 2012-2019",
+   "stats": [
+    [
+     "#2",
+     "REBOUNDS"
+    ],
+    [
+     "3,961",
+     "TOTAL"
+    ],
+    [
+     "8.4",
+     "RPG"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "4433134",
+   "name": "SCOTTIE",
+   "full": "SCOTTIE BARNES",
+   "jersey": "4",
+   "type": "GLASS",
+   "season": "RAPTORS 2021-NOW",
+   "stats": [
+    [
+     "25",
+     "REB GAME"
+    ],
+    [
+     "2,726",
+     "TOTAL"
+    ],
+    [
+     "7.5",
+     "RPG"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Raptors career leaders: total rebounds #1 Chris Bosh 4776, #2 Jonas Valanciunas 3961, #8 Scottie Barnes 2726; rebounds per game: Bosh 9.4, Valanciunas 8.4, Barnes 7.5",
+   "source": "https://www.basketball-reference.com/teams/TOR/leaders_career.html"
+  },
+  {
+   "claim": "Bosh: Toronto Raptors 2003-2010",
+   "source": "https://en.wikipedia.org/wiki/Chris_Bosh"
+  },
+  {
+   "claim": "Bosh wore #4 for Toronto",
+   "source": "https://www.basketball-reference.com/players/b/boshch01.html"
+  },
+  {
+   "claim": "Valanciunas: Toronto Raptors 2012-2019",
+   "source": "https://en.wikipedia.org/wiki/Jonas_Valančiūnas"
+  },
+  {
+   "claim": "Valanciunas wore #17 for Toronto",
+   "source": "https://www.basketball-reference.com/players/v/valanjo01.html"
+  },
+  {
+   "claim": "Dec 28, 2025: Barnes had a career-high and franchise record-tying 25 rebounds vs Golden State; Toronto 2021-present",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "game": "401810296",
+   "player": "4433134",
+   "stat": "REB",
+   "value": 25
+  },
+  {
+   "claim": "Barnes wears #4 for Toronto",
+   "source": "https://www.basketball-reference.com/players/b/barnesc01.html"
+  }
+ ]
+}

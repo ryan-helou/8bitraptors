@@ -1,0 +1,320 @@
+{
+ "team": "raptors",
+ "name": "fmt_news_drop",
+ "template": "fmt_news_drop.html",
+ "pace": "wolves",
+ "mode": "sample",
+ "not_for_posting": true,
+ "note": "SAMPLE ONLY. No genuine recent Raptors/Warriors drop was verifiable on 2026-11-10: the purple Statement story is an unconfirmed report (SportsLogos 10/19), so this spec only demos the template. Do not schedule or post.",
+ "record": "5-5",
+ "caption": "NOT FOR POSTING: SAMPLE for the news drop format (the news is an unconfirmed report from Oct 19)\n\nTHE DROP: is purple coming back? 💜🦖\n\n📰 SportsLogos.Net reports the Raptors will swap the black of the Statement jersey for purple, starting in 2027-28\n🗓️ It started with an Oct 11 post from @ProLineMockups\n🦖 Purple history: the original 1995 look, then the 30th season throwbacks in 2024-25\n🎨 The shade, PMS 266, was picked to stay clear of the Lakers, Suns and Jazz\n⚠️ The catch: neither the Raptors nor the NBA have said a word. We're in black at least through 2026-27\n\nPurple or black? 👇",
+ "beats": [
+  {
+   "kind": "nd_title",
+   "pal": {
+    "accent": "#b25ae8",
+    "sky": "#3a1a6a",
+    "panel": "#24164a"
+   },
+   "slots": [
+    {
+     "txt": "'95",
+     "lab": "ORIGINAL"
+    },
+    {
+     "txt": "'24",
+     "lab": "THROWBACK"
+    },
+    {
+     "txt": "'27",
+     "lab": "REPORTED"
+    }
+   ],
+   "sel": {
+    "slots": [
+     99,
+     99,
+     99
+    ],
+    "cps": 55
+   },
+   "vo": "Purple is reportedly making its way back to our Raptors jerseys,",
+   "dlg": "PURPLE IS REPORTEDLY|COMING BACK...",
+   "top": "PURPLE IS",
+   "sub": "COMING BACK?"
+  },
+  {
+   "kind": "nd_title",
+   "slots": [
+    {
+     "txt": "'95",
+     "lab": "ORIGINAL"
+    },
+    {
+     "txt": "'24",
+     "lab": "THROWBACK"
+    },
+    {
+     "txt": "'27",
+     "lab": "REPORTED"
+    }
+   ],
+   "sel": {
+    "slots": [
+     99,
+     99,
+     99
+    ],
+    "cps": 55
+   },
+   "vo": "and it took over three decades to get here.",
+   "dlg": "AND IT TOOK OVER|3 DECADES TO GET HERE.",
+   "top": "PURPLE IS",
+   "sub": "COMING BACK?"
+  },
+  {
+   "kind": "nd_title",
+   "slots": [
+    {
+     "txt": "'95",
+     "lab": "ORIGINAL"
+    },
+    {
+     "txt": "'24",
+     "lab": "THROWBACK"
+    },
+    {
+     "txt": "'27",
+     "lab": "REPORTED"
+    }
+   ],
+   "sel": {
+    "slots": [
+     0.2,
+     2.65,
+     6.7
+    ],
+    "cps": 55
+   },
+   "wipeOut": true,
+   "vo": "1995, the original purple dino. 2024-25, the 30th season throwbacks. And next, a purple Statement jersey in 2027-28.",
+   "dlg": "1995. 2024-25. AND NEXT: A|PURPLE STATEMENT IN 2027-28.",
+   "top": "PURPLE IS",
+   "sub": "COMING BACK?"
+  },
+  {
+   "kind": "nd_date",
+   "wipeIn": true,
+   "month": "OCT 2026",
+   "day": "11",
+   "dow": "SUNDAY",
+   "chip": "THE SOURCE",
+   "label": "@PROLINEMOCKUPS",
+   "sel": {
+    "label": 1.4,
+    "cps": 55
+   },
+   "vo": "It started with an October 11 post from ProLine Mockups.",
+   "dlg": "IT STARTED WITH AN OCT 11|POST FROM PROLINE MOCKUPS."
+  },
+  {
+   "kind": "nd_item",
+   "tag": "STATEMENT",
+   "jersey": {
+    "body": "#1a1a1e",
+    "trim": "#ce1141",
+    "word": "RAPTORS",
+    "wcol": "#f4f4f4",
+    "stripes": "#3a3a44"
+   },
+   "bg": "#c83a5a",
+   "calls": [
+    {
+     "txt": "BLACK + RED",
+     "pt": "chest"
+    }
+   ],
+   "sel": {
+    "calls": [
+     1.2
+    ],
+    "cps": 55
+   },
+   "vo": "Here's what it replaces: the black and red Statement jersey we've worn since 2020-21.",
+   "dlg": "WHAT IT REPLACES: BLACK AND|RED, WORN SINCE 2020-21."
+  },
+  {
+   "kind": "nd_item",
+   "cont": false,
+   "tag": "STATEMENT",
+   "jersey": {
+    "body": "#1a1a1e",
+    "trim": "#ce1141",
+    "word": "RAPTORS",
+    "wcol": "#f4f4f4",
+    "stripes": "#3a3a44"
+   },
+   "bg": "#c83a5a",
+   "calls": [
+    {
+     "txt": "BLACK + RED",
+     "pt": "chest"
+    },
+    {
+     "txt": "CHEVRONS",
+     "pt": "word"
+    },
+    {
+     "txt": "PINSTRIPES",
+     "pt": "side"
+    }
+   ],
+   "sel": {
+    "calls": [
+     -1,
+     0.1,
+     1.0
+    ],
+    "cps": 55
+   },
+   "fadeOut": true,
+   "vo": "Chevron lettering and jagged pinstripes, a nod to the original dino set.",
+   "dlg": "CHEVRON LETTERING, JAGGED|PINSTRIPES: A NOD TO THE 90S."
+  },
+  {
+   "kind": "nd_item",
+   "fadeIn": true,
+   "tag": "THE REPORT",
+   "jersey": {
+    "body": "#753bbd",
+    "trim": "#ce1141",
+    "word": "RAPTORS",
+    "wcol": "#f4f4f4",
+    "stripes": "#8a56cc"
+   },
+   "bg": "#8a5ad8",
+   "calls": [
+    {
+     "txt": "NOW PURPLE",
+     "pt": "chest"
+    },
+    {
+     "txt": "SAME DESIGN",
+     "pt": "word"
+    }
+   ],
+   "stamp": [
+    "SPORTSLOGOS.NET",
+    "COLOUR SWAP"
+   ],
+   "sel": {
+    "calls": [
+     0.9,
+     2.2
+    ],
+    "stamp": 3.0,
+    "cps": 55
+   },
+   "vo": "The report says the black becomes purple. A colour swap, not a full rebrand.",
+   "dlg": "THE BLACK BECOMES PURPLE.|A COLOUR SWAP, NOT A REBRAND."
+  },
+  {
+   "kind": "nd_item",
+   "cont": true,
+   "tag": "THE SHADE",
+   "jersey": {
+    "body": "#753bbd",
+    "trim": "#ce1141",
+    "word": "RAPTORS",
+    "wcol": "#f4f4f4",
+    "stripes": "#8a56cc"
+   },
+   "bg": "#8a5ad8",
+   "calls": [
+    {
+     "txt": "PMS 266",
+     "pt": "chest"
+    },
+    {
+     "txt": "NOT LAKERS",
+     "logo": "l:LAL"
+    },
+    {
+     "txt": "NOT SUNS",
+     "logo": "l:PHX"
+    },
+    {
+     "txt": "NOT JAZZ",
+     "logo": "l:UTAH"
+    }
+   ],
+   "sel": {
+    "calls": [
+     0.3,
+     1.9,
+     2.4,
+     2.9
+    ],
+    "cps": 55
+   },
+   "irisOut": true,
+   "vo": "That purple, PMS 266, was picked to stay clear of the Lakers, Suns and Jazz.",
+   "dlg": "THAT PURPLE, PMS 266, DODGED|THE LAKERS, SUNS AND JAZZ."
+  },
+  {
+   "kind": "nd_catch",
+   "irisIn": true,
+   "sign": "NOT OFFICIAL",
+   "vo": "The catch?",
+   "dlg": "THE CATCH?",
+   "sel": {
+    "cps": 55
+   }
+  },
+  {
+   "kind": "nd_catch",
+   "sign": "NOT OFFICIAL",
+   "chipL": "2027-28",
+   "chipR": "NO WORD FROM TEAM OR NBA",
+   "sel": {
+    "chipL": 2.6,
+    "chipR": 0.5,
+    "cps": 55
+   },
+   "vo": "Neither the Raptors nor the NBA have said a word. And it wouldn't start until 2027-28.",
+   "dlg": "NO WORD FROM THE RAPTORS OR|THE NBA. NOT UNTIL 2027-28."
+  },
+  {
+   "kind": "nd_catch",
+   "sign": "STILL BLACK",
+   "chipL": "2026-27",
+   "chipR": "PURPLE OR BLACK?",
+   "sel": {
+    "chipL": 0.3,
+    "chipR": 1.4,
+    "cps": 55
+   },
+   "fadeOut": true,
+   "vo": "So this season, we're still in black. Purple or black? Tell us below.",
+   "dlg": "THIS SEASON: STILL BLACK.|PURPLE OR BLACK? COMMENT!"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "SportsLogos.Net (Oct 19, 2026): the Raptors 'will reportedly swap the black of their Statement Edition uniform for purple beginning in the 2027-28 season' (27-28); a colour swap, not a full rebrand; rumour from an October 11 (Oct 11, 2026, a Sunday) tweet by @ProLineMockups; 'neither the Raptors nor the NBA have said a word about it'; Raptors wear the black Statement uniforms at least one more season, 2026-27.",
+   "source": "https://news.sportslogos.net/2026/10/19/report-purple-returning-to-toronto-raptors-uniforms-in-2027/basketball/"
+  },
+  {
+   "claim": "Purple was the primary colour when the team began in 1995; purple returned on throwback uniforms for the 30th season in 2024-25 (24-25). 1995 to 2027 = 32 years, more than 3 (three) decades. Short years on screen: '95 (1995), '24 (2024-25), '27 (2027-28).",
+   "source": "https://news.sportslogos.net/2026/10/19/report-purple-returning-to-toronto-raptors-uniforms-in-2027/basketball/"
+  },
+  {
+   "claim": "Current black and red Statement Edition worn since 2020-21; chevron lettering and jagged pinstripes nod to the original mid-'90s (90s) dinosaur set",
+   "source": "https://news.sportslogos.net/2026/10/19/report-purple-returning-to-toronto-raptors-uniforms-in-2027/basketball/"
+  },
+  {
+   "claim": "The shade, PMS 266, was chosen by Tom O'Grady to avoid colours worn by the Lakers, Suns and Jazz",
+   "source": "https://news.sportslogos.net/2026/10/19/report-purple-returning-to-toronto-raptors-uniforms-in-2027/basketball/"
+  }
+ ]
+}

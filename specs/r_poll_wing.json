@@ -1,0 +1,147 @@
+{
+ "team": "raptors",
+ "name": "poll_wing",
+ "l1": "ONE GAME TO WIN...",
+ "q": "PICK YOUR WING!",
+ "boxA": "RAPTORS WINGS",
+ "boxB": "WHO TAKES OUR LAST SHOT?",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: WING 🎮🏀 Tie game, last possession. Which wing gets our ball?\n\n1️⃣ Vince Carter, Air Canada: 25.7 PPG in 1999-00, 2000 Dunk Contest champ\n2️⃣ DeMar DeRozan, midrange king: 23.0 PPG and 5.2 APG in 2017-18, All-NBA 2nd Team\n3️⃣ RJ Barrett, hometown: 21.6 PPG and 6.1 RPG through 9 games this season\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "136",
+   "name": "VINCE",
+   "full": "VINCE CARTER",
+   "jersey": "15",
+   "type": "AIR CANADA",
+   "season": "RAPTORS 1999-00",
+   "stats": [
+    [
+     "25.7",
+     "PPG"
+    ],
+    [
+     "5.8",
+     "RPG"
+    ],
+    [
+     "2000",
+     "DUNK WIN"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3978",
+   "name": "DEROZAN",
+   "full": "DEMAR DEROZAN",
+   "jersey": "10",
+   "type": "MIDRANGE",
+   "season": "RAPTORS 2017-18",
+   "stats": [
+    [
+     "23.0",
+     "PPG"
+    ],
+    [
+     "5.2",
+     "APG"
+    ],
+    [
+     "2ND",
+     "ALL-NBA"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "4395625",
+   "name": "RJ",
+   "full": "RJ BARRETT",
+   "jersey": "9",
+   "type": "HOMETOWN",
+   "season": "2026-27",
+   "stats": [
+    [
+     "21.6",
+     "PPG"
+    ],
+    [
+     "6.1",
+     "RPG"
+    ],
+    [
+     "3.9",
+     "APG"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "player": "136",
+   "season": "1999-00",
+   "stat": "PTS",
+   "value": 25.7
+  },
+  {
+   "player": "136",
+   "season": "1999-00",
+   "stat": "REB",
+   "value": 5.8
+  },
+  {
+   "claim": "Vince Carter: nicknamed Air Canada; NBA Slam Dunk Contest champion (2000); No. 15 retired by Toronto",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "claim": "Carter wore #15 for Toronto",
+   "source": "https://www.basketball-reference.com/players/c/cartevi01.html"
+  },
+  {
+   "player": "3978",
+   "season": "2017-18",
+   "stat": "PTS",
+   "value": 23.0
+  },
+  {
+   "player": "3978",
+   "season": "2017-18",
+   "stat": "AST",
+   "value": 5.2
+  },
+  {
+   "claim": "DeRozan: All-NBA Second Team (2nd) in 2018 (2017-18 season); No. 10 with Toronto",
+   "source": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.6
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 6.1
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 3.9
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "claim": "RJ Barrett: No. 9 for the Toronto Raptors; born in Toronto",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  }
+ ]
+}

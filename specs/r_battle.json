@@ -1,0 +1,110 @@
+{
+ "team": "raptors",
+ "name": "battle",
+ "record": "5-5",
+ "caption": "NOBODY WANTED HIM? 🎮🏀 Nobody drafted Jamison Battle. He shot 43.3% from three over our first 12 games.\n\n• 2024: undrafted, we sign him, then move him to a two-way deal\n• Nov 2024 at New Orleans: 24 points, 6-of-8 from three\n• 2026 playoffs, Game 3 vs Cleveland: 14 points, all in the 4th, no misses\n• First 12 games this season: 43.3% from three, 20 at the Lakers\n\nBench spark or starter? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "NOBODY WANTED HIM?",
+   "key": "p:4431893@TOR",
+   "name": "BATTLE",
+   "badge": "2024 DRAFT",
+   "lines": [
+    [
+     "2024",
+     "UNDRAFTED"
+    ]
+   ],
+   "vo": "Nobody drafted Jamison Battle. We signed him anyway, on a two-way deal.",
+   "dlg": "2024: NOBODY DRAFTS HIM.|WE SIGN HIM TWO-WAY."
+  },
+  {
+   "kind": "fire",
+   "head": "24 POINTS",
+   "key": "p:4431893@TOR",
+   "name": "BATTLE",
+   "badge": "AT NEW ORLEANS",
+   "lines": [
+    [
+     "24",
+     "PTS"
+    ],
+    [
+     "6-8",
+     "FROM 3"
+    ]
+   ],
+   "vo": "That November in New Orleans: twenty-four points, six of eight from three.",
+   "dlg": "AT NEW ORLEANS: 24 PTS,|6-OF-8 FROM THREE."
+  },
+  {
+   "kind": "fire",
+   "head": "PLAYOFF SPARK",
+   "key": "p:4431893@TOR",
+   "name": "BATTLE",
+   "badge": "VS CLEVELAND",
+   "lines": [
+    [
+     "14",
+     "4TH QTR PTS"
+    ]
+   ],
+   "vo": "Last spring, Game three against Cleveland: fourteen points, all in the fourth quarter, without missing a shot.",
+   "dlg": "PLAYOFFS VS CLEVELAND:|14 IN THE 4TH. NO MISSES."
+  },
+  {
+   "kind": "fire",
+   "head": "FIRST 12 GAMES",
+   "key": "p:4431893@TOR",
+   "name": "BATTLE",
+   "badge": "SHOOTER",
+   "lines": [
+    [
+     "43.3",
+     "3PT%"
+    ],
+    [
+     "20",
+     "AT LAKERS"
+    ]
+   ],
+   "vo": "Through twelve games this season: forty-three point three percent from three, and twenty points against the Lakers.",
+   "dlg": "12 GAMES: 43.3% FROM THREE.|20 POINTS AT THE LAKERS."
+  },
+  {
+   "kind": "next",
+   "head": "STARTER?",
+   "logo": "l:TOR",
+   "rec": "43.3",
+   "ntxt": "BATTLE",
+   "nday": "3PT%",
+   "vo": "Bench spark, or starter? Comment below.",
+   "dlg": "BENCH SPARK OR STARTER?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4431893",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 12
+  },
+  {
+   "player": "4431893",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 43.3
+  },
+  {
+   "game": "401909906",
+   "player": "4431893",
+   "stat": "PTS",
+   "value": 20
+  },
+  {
+   "claim": "Undrafted in the 2024 NBA draft, signed July 16, 2024, converted to a two-way contract October 19; November 27 (2024): career-high 24 points on 9-of-11, 6-of-8 three-pointers, 119-93 road win at New Orleans; April 23, 2026, Game 3 of first round vs Cleveland: 14 points off the bench, all in the fourth (4th) quarter, perfect shooting",
+   "source": "https://en.wikipedia.org/wiki/Jamison_Battle"
+  }
+ ]
+}

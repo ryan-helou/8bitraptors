@@ -1,0 +1,80 @@
+{
+ "team": "warriors",
+ "name": "alltime",
+ "l1": "ONE GAME TO WIN...",
+ "q": "PICK ONE WARRIOR!",
+ "boxA": "ALL-TIME WARRIORS",
+ "boxB": "ONE GAME TO WIN",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: ALL-TIME 🎮🏀 One game, winner takes all. You get ONE Warrior.\n\n1️⃣ Stephen Curry, shooter: 4 titles, 2x MVP, #1 in threes ever\n2️⃣ Kevin Durant, scorer: 2 titles, 2x Finals MVP, 3x All-Star as a Warrior\n3️⃣ Klay Thompson, sniper: 4 titles, 5x All-Star, 37 points in a quarter\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "3975",
+   "name": "STEPH",
+   "full": "STEPHEN CURRY",
+   "jersey": "30",
+   "type": "SHOOTER",
+   "season": "WARRIORS 2009-NOW",
+   "stats": [
+    [
+     "4",
+     "TITLES"
+    ],
+    [
+     "2X",
+     "MVP"
+    ],
+    [
+     "#1",
+     "3PT EVER"
+    ]
+   ]
+  },
+  {
+   "id": "3202",
+   "name": "KD",
+   "full": "KEVIN DURANT",
+   "jersey": "35",
+   "type": "SCORER",
+   "season": "WARRIORS 2016-2019",
+   "stats": [
+    [
+     "2",
+     "TITLES"
+    ],
+    [
+     "2X",
+     "FMVP"
+    ],
+    [
+     "3X",
+     "ALL-STAR"
+    ]
+   ],
+   "team": "GSW"
+  },
+  {
+   "id": "6475",
+   "name": "KLAY",
+   "full": "KLAY THOMPSON",
+   "jersey": "11",
+   "type": "SNIPER",
+   "season": "WARRIORS 2011-2024",
+   "stats": [
+    [
+     "4",
+     "TITLES"
+    ],
+    [
+     "5X",
+     "ALL-STAR"
+    ],
+    [
+     "37",
+     "PT QTR"
+    ]
+   ],
+   "team": "GSW"
+  }
+ ]
+}

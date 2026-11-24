@@ -1,0 +1,231 @@
+{
+ "team": "raptors",
+ "name": "tr_poeltl",
+ "record": "5-4",
+ "caption": "IF POELTL HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🌲 Snover: lives up on snowy mountains. From Vienna, the first Austrian ever drafted\n🦴 Marowak: throws its bone like a boomerang. Traded for Kawhi, back with us in 2023\n🧊 Avalugg: an ice body as hard as steel. 6 blocks and 30 points days after coming home\n🥋 Hariyama: one slap can stop a train. 70.0% from the field last season\n🟣 Swalot: no teeth, it swallows everything whole. 19 points and 11 rebounds at Milwaukee\n🦖 Tyranitar: knocks down mountains to build its nest. Our big man, career-best 14.5 points a night in 2024-25\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Jakob Poeltl had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF POELTL HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Snover. It lives up on snowy mountains. From Vienna, we took him ninth, the first Austrian ever drafted.",
+   "dlg": "LIVES ON SNOWY MOUNTAINS.|PICK 9: FIRST AUSTRIAN!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Marowak. It throws its bone like a boomerang. We sent him to San Antonio for Kawhi. In twenty twenty-three, he came right back.",
+   "dlg": "ITS BONE IS A BOOMERANG.|SENT FOR KAWHI. CAME BACK!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Avalugg. Its ice body is as hard as steel. Days after coming home: six blocks and thirty points against Orlando.",
+   "dlg": "ICE BODY, HARD AS STEEL.|6 BLOCKS AND 30 POINTS!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Hariyama. One straight-arm slap can stop a train. Seventy percent from the field last season.",
+   "dlg": "ONE SLAP STOPS A TRAIN.|SHOT 70.0% LAST SEASON!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Swalot. No teeth. It swallows everything whole. Nineteen and eleven at Milwaukee this month.",
+   "dlg": "IT SWALLOWS EVERYTHING.|19 AND 11 AT MILWAUKEE!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Tyranitar. It can knock down a mountain to build its nest. Our big man, a career-best fourteen point five a night in twenty twenty-four twenty-five.",
+   "dlg": "IT KNOCKS DOWN MOUNTAINS.|CAREER-BEST 14.5 A NIGHT!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3134908",
+   "season": "2025-26",
+   "stat": "FG%",
+   "value": 70.0
+  },
+  {
+   "player": "3134908",
+   "season": "2024-25",
+   "stat": "PTS",
+   "value": 14.5
+  },
+  {
+   "game": "401909292",
+   "player": "3134908",
+   "stat": "PTS",
+   "value": 19
+  },
+  {
+   "game": "401909292",
+   "player": "3134908",
+   "stat": "REB",
+   "value": 11
+  },
+  {
+   "claim": "Pöltl was born in Vienna; June 23, 2016 selected by Toronto with the ninth overall pick (#9, pick 9), the first Austrian drafted to the NBA; traded with DeRozan to San Antonio for Kawhi Leonard in July 2018; traded back to the Raptors on February 9, 2023; February 14, 2023: 30 points, nine rebounds and 6 (six) blocks in a 133-123 win over the Orlando Magic",
+   "source": "https://en.wikipedia.org/wiki/Jakob_Pöltl"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3134908@TOR",
+   "mon": "pk:snover",
+   "nick": "SNOVER",
+   "types": [
+    [
+     "GRASS",
+     "#78c850"
+    ],
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "label": "THE PIONEER",
+   "stat": "FIRST AUSTRIAN"
+  },
+  {
+   "key": "p:3134908@TOR",
+   "mon": "pk:marowak",
+   "nick": "MAROWAK",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "BOOMERANG",
+   "stat": "BACK IN 2023"
+  },
+  {
+   "key": "p:3134908@TOR",
+   "mon": "pk:avalugg",
+   "nick": "AVALUGG",
+   "types": [
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "label": "THE WALL",
+   "stat": "6 BLOCKS"
+  },
+  {
+   "key": "p:3134908@TOR",
+   "mon": "pk:hariyama",
+   "nick": "HARIYAMA",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "THE FINISHER",
+   "stat": "70.0 FG%"
+  },
+  {
+   "key": "p:3134908@TOR",
+   "mon": "pk:swalot",
+   "nick": "SWALOT",
+   "types": [
+    [
+     "POISON",
+     "#a040a0"
+    ]
+   ],
+   "label": "GLASS EATER",
+   "stat": "19 PTS 11 REB"
+  },
+  {
+   "key": "p:3134908@TOR",
+   "mon": "pk:tyranitar",
+   "nick": "TYRANITAR",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "14.5 PPG"
+  }
+ ],
+ "mode": "trainer"
+}

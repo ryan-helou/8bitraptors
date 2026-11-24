@@ -1,0 +1,144 @@
+{
+ "team": "raptors",
+ "name": "bestseason",
+ "l1": "ONE SEASON...",
+ "q": "WHO HAD OUR BEST YEAR?",
+ "boxA": "BEST RAPTORS SEASON",
+ "boxB": "ONE PLAYER, ONE YEAR",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: BEST SEASON 🎮🏀 The best single season anyone has ever had for us. Pick one.\n\n1️⃣ Vince Carter, 2000-01: 27.6 PPG (still our record), 50 in a playoff game\n2️⃣ DeMar DeRozan, 2016-17: 27.3 PPG, 5.2 RPG\n3️⃣ Kawhi Leonard, 2018-19: 26.6 PPG, 30.5 in the playoffs, 1 title\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "136",
+   "name": "VINCE",
+   "full": "VINCE CARTER",
+   "jersey": "15",
+   "type": "HIGH-FLYER",
+   "season": "RAPTORS 2000-01",
+   "stats": [
+    [
+     "27.6",
+     "PPG"
+    ],
+    [
+     "5.5",
+     "RPG"
+    ],
+    [
+     "2ND",
+     "ALL-NBA"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3978",
+   "name": "DEMAR",
+   "full": "DEMAR DEROZAN",
+   "jersey": "10",
+   "type": "SCORER",
+   "season": "RAPTORS 2016-17",
+   "stats": [
+    [
+     "27.3",
+     "PPG"
+    ],
+    [
+     "5.2",
+     "RPG"
+    ],
+    [
+     "3.9",
+     "APG"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "6450",
+   "name": "KAWHI",
+   "full": "KAWHI LEONARD",
+   "jersey": "2",
+   "type": "CLOSER",
+   "season": "RAPTORS 2018-19",
+   "stats": [
+    [
+     "26.6",
+     "PPG"
+    ],
+    [
+     "7.3",
+     "RPG"
+    ],
+    [
+     "1",
+     "TITLE"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "player": "136",
+   "season": "2000-01",
+   "stat": "PTS",
+   "value": 27.6
+  },
+  {
+   "player": "136",
+   "season": "2000-01",
+   "stat": "REB",
+   "value": 5.5
+  },
+  {
+   "player": "3978",
+   "season": "2016-17",
+   "stat": "PTS",
+   "value": 27.3
+  },
+  {
+   "player": "3978",
+   "season": "2016-17",
+   "stat": "REB",
+   "value": 5.2
+  },
+  {
+   "player": "3978",
+   "season": "2016-17",
+   "stat": "AST",
+   "value": 3.9
+  },
+  {
+   "player": "6450",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 26.6
+  },
+  {
+   "player": "6450",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 30.5,
+   "type": "playoffs"
+  },
+  {
+   "claim": "Carter's 27.6 PPG in 2000-01 is the Raptors' single-season record; 50 points in a playoff game (May 11, 2001 vs Philadelphia); #15",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "claim": "Leonard: 1 title with Toronto (2019), #2; DeRozan #10",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "player": "6450",
+   "season": "2018-19",
+   "stat": "REB",
+   "value": 7.3
+  },
+  {
+   "claim": "Carter made the All-NBA Second Team in 2000-01 (2nd team)",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  }
+ ]
+}

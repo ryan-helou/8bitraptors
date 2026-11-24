@@ -1,0 +1,293 @@
+{
+ "team": "raptors",
+ "name": "team_bench",
+ "record": "5-4",
+ "mode": "starters",
+ "caption": "IF OUR BENCH WAS POKÉMON 🎮🏀\n\n🎁 Jamal Shead = Delibird: spends all day delivering food to others. 7.0 assists a night through 10 games\n🐒 Kyle Anderson = Passimian: its techniques pass from the boss to the group. 1.3 assists in 7 minutes a night in his 7 games\n🥋 Trayce Jackson-Davis = Makuhita: knock it down and it keeps getting up. 70.6% from the field in his 9 games\n🌪️ Jamison Battle = Kingdra: its ability is Sniper, and it causes tornadoes when it wakes. 42.9% from three through 10 games\n🐻 Collin Murray-Boyles = Bewear: tremendous strength, hugs its companions. 10.7 points a night in his 9 games\n\nThat's a team we're taking into any gym in the league. Who would you change? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "key": "p:4432241@TOR",
+   "mon": "pk:delibird",
+   "nick": "SHEAD",
+   "types": [
+    [
+     "ICE",
+     "#58b8d0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "DELIVERY",
+   "stat": "7.0 APG"
+  },
+  {
+   "key": "p:2993874@TOR",
+   "mon": "pk:passimian",
+   "nick": "SLO-MO",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "TEAMWORK",
+   "stat": "1.3 APG"
+  },
+  {
+   "key": "p:4431684@TOR",
+   "mon": "pk:makuhita",
+   "nick": "TJD",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "GUTS",
+   "stat": "70.6 FG%"
+  },
+  {
+   "key": "p:4431893@TOR",
+   "mon": "pk:kingdra",
+   "nick": "BATTLE",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "label": "DRAGON",
+   "stat": "42.9 3P%"
+  },
+  {
+   "key": "p:5093267@TOR",
+   "mon": "pk:bewear",
+   "nick": "CMB",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "STRONG ARM",
+   "stat": "10.7 PPG"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If our bench was Pokemon,",
+   "dlg": "IF OUR BENCH WAS|A TEAM OF MONSTERS..."
+  },
+  {
+   "kind": "p_intro",
+   "cont": true,
+   "vo": "here's the team.",
+   "dlg": "HERE'S THE TEAM!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "Jamal Shead is Delibird.",
+   "dlg": "GO! JAMAL SHEAD!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "vo": "It spends all day carrying food and delivering it to others.",
+   "dlg": "IT SPENDS ALL DAY|DELIVERING FOOD."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "Shead delivers too. Seven assists a night through ten games.",
+   "dlg": "SHEAD DELIVERS:|7.0 ASSISTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "Kyle Anderson is Passimian.",
+   "dlg": "GO! KYLE ANDERSON!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "Its ability is Receiver, and its techniques are passed down from the boss to the group.",
+   "dlg": "ITS TECHNIQUES PASS FROM|THE BOSS TO THE GROUP."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "Slow Mo, the vet of the group. One point three assists in just seven minutes a night, in his seven games.",
+   "dlg": "SLOW MO, THE VET:|1.3 ASSISTS IN 7 MINUTES!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "Trayce Jackson-Davis is Makuhita.",
+   "dlg": "GO! TRAYCE JACKSON-DAVIS!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "fx": "poster",
+   "vo": "It's tenacious. It keeps getting back up and attacking, however many times it's knocked down.",
+   "dlg": "KNOCK IT DOWN AND IT|KEEPS GETTING UP."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "Trayce at the rim: seventy point six percent from the field in his nine games.",
+   "dlg": "TRAYCE AT THE RIM:|70.6% FROM THE FIELD!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "vo": "Jamison Battle is Kingdra.",
+   "dlg": "GO! JAMISON BATTLE!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "Its ability is Sniper. It sleeps deep on the ocean floor, and it's said to cause tornadoes when it wakes.",
+   "dlg": "ITS ABILITY: SNIPER.|TORNADOES WHEN IT WAKES."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "stat": true,
+   "vo": "Battle off the bench: forty-two point nine percent from three through ten games.",
+   "dlg": "BATTLE OFF THE BENCH:|42.9% FROM THREE!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "vo": "And Collin Murray-Boyles is Bewear.",
+   "dlg": "GO! COLLIN MURRAY-BOYLES!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "vo": "It boasts tremendous physical strength, and it has a habit of hugging its companions.",
+   "dlg": "TREMENDOUS STRENGTH.|IT HUGS ITS COMPANIONS."
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "stat": true,
+   "vo": "Ten point seven points and five boards a night, in his nine games.",
+   "dlg": "COLLIN OFF THE BENCH:|10.7 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a team we're taking into any gym in the league.",
+   "dlg": "A TEAM WE'RE TAKING INTO|ANY GYM IN THE LEAGUE."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who would you change? Comment below.",
+   "dlg": "WHO WOULD YOU CHANGE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 7.0
+  },
+  {
+   "player": "4432241",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "player": "2993874",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 1.3
+  },
+  {
+   "player": "2993874",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 7.4
+  },
+  {
+   "player": "2993874",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 7
+  },
+  {
+   "player": "4431684",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 70.6
+  },
+  {
+   "player": "4431684",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4431893",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 42.9
+  },
+  {
+   "player": "4431893",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 10.7
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 5.0
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "claim": "3P% = three-point (3) field goal percentage, as listed by ESPN",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3012/stats?seasontype=2"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "team": "warriors",
+ "name": "barry75",
+ "record": "7-3",
+ "caption": "1975 🎮🏀 Washington won 60 games. We won 48. We swept them.\n\n• 1975 Finals: our 48-34 team vs the 60-22 Bullets\n• We sweep 4-0, our first title since 1956\n• Rick Barry: Finals MVP, shooting his free throws underhand\n• Barry's NBA career free throws: 90%\n• Steph today: 98.5% from the line through 8 games\n\nBest free throw shooter we've ever had: Barry or Steph? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "1975 FINALS",
+   "key": "l:GSW",
+   "name": "UNDERDOGS",
+   "badge": "1975 FINALS",
+   "lines": [
+    [
+     "48-34",
+     "US"
+    ],
+    [
+     "60-22",
+     "BULLETS"
+    ]
+   ],
+   "vo": "Washington wins sixty games. We win forty-eight. Everybody picks them.",
+   "dlg": "THE BULLETS WON 60.|WE WON 48."
+  },
+  {
+   "kind": "fire",
+   "head": "THE SWEEP",
+   "key": "l:WSH",
+   "name": "BULLETS",
+   "badge": "SWEPT",
+   "lines": [
+    [
+     "4-0",
+     "SWEEP"
+    ]
+   ],
+   "vo": "We sweep them. Four games to none. Our first title since nineteen fifty-six.",
+   "dlg": "WE SWEEP THEM 4-0.|FIRST TITLE SINCE 1956."
+  },
+  {
+   "kind": "fire",
+   "head": "FINALS MVP",
+   "key": "l:GSW",
+   "name": "RICK BARRY",
+   "badge": "HALL OF FAME",
+   "lines": [
+    [
+     "1975",
+     "FINALS MVP"
+    ],
+    [
+     "90%",
+     "FT, CAREER"
+    ]
+   ],
+   "vo": "Rick Barry is Finals MVP. And he shoots his free throws underhanded... at ninety percent for his NBA career.",
+   "dlg": "RICK BARRY: FINALS MVP.|UNDERHAND FREE THROWS!"
+  },
+  {
+   "kind": "fire",
+   "head": "AT THE LINE NOW",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "OVERHAND",
+   "lines": [
+    [
+     "98.5",
+     "FT%"
+    ],
+    [
+     "8",
+     "GAMES IN"
+    ]
+   ],
+   "vo": "Half a century later, Steph is shooting ninety-eight point five percent from the line through eight games.",
+   "dlg": "STEPH: 98.5% AT THE LINE|THROUGH 8 GAMES."
+  },
+  {
+   "kind": "next",
+   "head": "BARRY OR STEPH?",
+   "logo": "l:GSW",
+   "rec": "4-0",
+   "ntxt": "SWEEP",
+   "nday": "1975",
+   "vo": "Best free throw shooter we've ever had: Barry or Steph? Comment below.",
+   "dlg": "BARRY OR STEPH?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "FT%",
+   "value": 98.5
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "1975 NBA Finals: underdog Warriors (48–34) swept the Washington Bullets (60–22) 4–0, their first championship since 1956; Rick Barry Finals MVP",
+   "source": "https://en.wikipedia.org/wiki/1975_NBA_Finals"
+  },
+  {
+   "claim": "Rick Barry, Hall of Famer, underhand free throws; NBA career free throw percentage .900 (90%); 1975 Finals MVP",
+   "source": "https://en.wikipedia.org/wiki/Rick_Barry"
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "team": "warriors",
+ "name": "team_2022",
+ "record": "7-3",
+ "mode": "team",
+ "caption": "IF OUR 2022 FINALS STARTERS WERE POKÉMON 🎮🏀\n\n☀️ Steph Curry = Solgaleo: it lights up the darkest night like midday. 27.4 a night in the playoffs, first Finals MVP\n🐢 Klay Thompson = Wartortle: a symbol of longevity. Back after 2.5 years out, 19.0 a night in the playoffs\n🥋 Andrew Wiggins = Mienshao: whips its long arms too fast to see. 7.5 rebounds a night in the playoffs\n🐊 Draymond Green = Krookodile: never lets its prey escape. 6.3 assists a night in the playoffs\n🗿 Kevon Looney = Golett: a mysterious energy keeps it moving. All 82 games, 80 starts\n\nThat's a team we're taking into any gym in the league. Who would you change? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "key": "p:3975@GSW",
+   "mon": "pk:solgaleo",
+   "nick": "CURRY",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "THE SUN",
+   "stat": "FINALS MVP"
+  },
+  {
+   "key": "p:6475@GSW",
+   "mon": "pk:wartortle",
+   "nick": "THOMPSON",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "LONGEVITY",
+   "stat": "19.0 PPG"
+  },
+  {
+   "key": "p:3059319@GSW",
+   "mon": "pk:mienshao",
+   "nick": "WIGGINS",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "LONG ARMS",
+   "stat": "7.5 RPG"
+  },
+  {
+   "key": "p:6589@GSW",
+   "mon": "pk:krookodile",
+   "nick": "GREEN",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "NO ESCAPE",
+   "stat": "6.3 APG"
+  },
+  {
+   "key": "p:3155535@GSW",
+   "mon": "pk:golett",
+   "nick": "LOONEY",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ],
+    [
+     "GHOST",
+     "#705898"
+    ]
+   ],
+   "label": "NONSTOP",
+   "stat": "82 GAMES"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If our twenty twenty-two Finals five were Pokemon, here's the team.",
+   "dlg": "IF OUR 2022 FINALS|STARTERS WERE MONSTERS..."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "Steph Curry is Solgaleo.",
+   "dlg": "GO! STEPH CURRY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "vo": "The light from its body can make the darkest of nights light up like midday.",
+   "dlg": "IT LIGHTS UP THE DARKEST|NIGHT LIKE MIDDAY."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "Twenty-seven point four a night in the playoffs, and his first Finals MVP.",
+   "dlg": "27.4 IN THE PLAYOFFS,|FIRST FINALS MVP!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "Klay Thompson is Wartortle.",
+   "dlg": "GO! KLAY THOMPSON!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "It's recognized as a symbol of longevity.",
+   "dlg": "A SYMBOL OF|LONGEVITY."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "Back after two and a half years out. Nineteen points a night in the playoffs.",
+   "dlg": "BACK AFTER 2.5 YEARS:|19.0 PPG IN THE PLAYOFFS"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "Andrew Wiggins is Mienshao.",
+   "dlg": "GO! ANDREW WIGGINS!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "It whips its long arms so fast, the attacks can't even be seen.",
+   "dlg": "IT WHIPS ITS LONG ARMS|TOO FAST TO SEE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "Wiggins on Jayson Tatum. Seven point five rebounds a night in the playoffs.",
+   "dlg": "WIGGINS IN THE PLAYOFFS:|7.5 REBOUNDS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "vo": "Draymond Green is Krookodile.",
+   "dlg": "GO! DRAYMOND GREEN!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "It never allows its prey to escape. Its jaws can crush a car.",
+   "dlg": "IT NEVER LETS ITS|PREY ESCAPE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "stat": true,
+   "vo": "Dray running the show. Six point three assists a night in the playoffs.",
+   "dlg": "DRAY RUNS THE SHOW:|6.3 ASSISTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "fx": "aura",
+   "vo": "And Kevon Looney is Golett.",
+   "dlg": "GO! KEVON LOONEY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "fx": "aura",
+   "vo": "A mysterious energy powers it, and it has kept moving since ancient times.",
+   "dlg": "A MYSTERIOUS ENERGY|KEEPS IT MOVING."
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "fx": "aura",
+   "stat": true,
+   "vo": "Looney never stopped. All eighty-two games, eighty starts.",
+   "dlg": "HE NEVER STOPPED:|82 GAMES, 80 STARTS!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a team we're taking into any gym in the league.",
+   "dlg": "A TEAM WE'RE TAKING INTO|ANY GYM IN THE LEAGUE."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who would you change? Comment below.",
+   "dlg": "WHO WOULD YOU CHANGE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2021-22",
+   "stat": "PTS",
+   "value": 27.4,
+   "type": "playoffs"
+  },
+  {
+   "player": "6475",
+   "season": "2021-22",
+   "stat": "PTS",
+   "value": 19.0,
+   "type": "playoffs"
+  },
+  {
+   "player": "3059319",
+   "season": "2021-22",
+   "stat": "REB",
+   "value": 7.5,
+   "type": "playoffs"
+  },
+  {
+   "player": "6589",
+   "season": "2021-22",
+   "stat": "AST",
+   "value": 6.3,
+   "type": "playoffs"
+  },
+  {
+   "player": "3155535",
+   "season": "2021-22",
+   "stat": "GP",
+   "value": 82
+  },
+  {
+   "player": "3155535",
+   "season": "2021-22",
+   "stat": "GS",
+   "value": 80
+  },
+  {
+   "claim": "Our starters in Game 1 of the 2022 Finals: Draymond Green, Andrew Wiggins, Kevon Looney, Stephen Curry, Klay Thompson",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401442530"
+  },
+  {
+   "claim": "Curry: NBA Finals MVP (2022), his first",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  },
+  {
+   "claim": "Thompson: after missing over two and a half (2.5) years of play due to injury, returned in the middle of the 2021-22 season and won his fourth title in 2022",
+   "source": "https://en.wikipedia.org/wiki/Klay_Thompson"
+  },
+  {
+   "claim": "Wiggins played stifling defense on Boston forward Jayson Tatum in the 2022 Finals",
+   "source": "https://en.wikipedia.org/wiki/Andrew_Wiggins"
+  },
+  {
+   "claim": "Looney played in all 82 games of the 2021-22 regular season, making a career-high 80 starts; won his third championship in 2022",
+   "source": "https://en.wikipedia.org/wiki/Kevon_Looney"
+  },
+  {
+   "claim": "Solgaleo: the intense light it radiates from its body can make the darkest of nights light up like midday",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/solgaleo"
+  },
+  {
+   "claim": "Wartortle: it is recognized as a symbol of longevity",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/wartortle"
+  },
+  {
+   "claim": "Mienshao: it wields the fur on its arms like a whip; its arm attacks come with such rapidity that they cannot even be seen",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/mienshao"
+  },
+  {
+   "claim": "Krookodile: they never allow prey to escape; their jaws can crush the body of an automobile",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/krookodile"
+  },
+  {
+   "claim": "Golett: its movements are powered by a mysterious energy; it has continued to move since ancient times",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/golett"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

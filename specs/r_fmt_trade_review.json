@@ -1,0 +1,416 @@
+{
+ "team": "raptors",
+ "name": "fmt_trade_review",
+ "template": "fmt_trade_review.html",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "WHO WON THE KAWHI TRADE? 🦖🎒\n\n📊 Kawhi: 19.5 PPG through 2 games. Ingram in L.A.: 0 games so far (still coming back from heel surgery)\n🎒 What we gave up: Brandon Ingram (2026 All-Star), Gradey Dick (No. 13 pick in 2023), 1sts in 2031 and 2033, a 2027 pick swap and 2nds in 2030 and 2033\n🎯 What we got: a 2x Finals MVP. 23 points and 4 steals opening night, 16 and 9 in Washington\n🩹 Now he's out with swelling in his left knee\n🏀 Gradey in L.A.: 46.7% from three through 9 games, 15 on New Orleans\n📈 Standings: we're 5-5, the Clippers are 2-7\n\nRight now we're winning it. Ask me again in 2033 👇",
+ "beats": [
+  {
+   "kind": "tr_vs",
+   "side": "L",
+   "kL": "p:6450@TOR",
+   "kR": "p:3913176",
+   "cfg": {
+    "title": "WHO WON THE KAWHI TRADE?",
+    "L": {
+     "name": "KAWHI LEONARD",
+     "col": "#b4122e",
+     "logo": "l:TOR",
+     "val": "19.5",
+     "lab": "PPG"
+    },
+    "R": {
+     "name": "BRANDON INGRAM",
+     "col": "#1d428a",
+     "logo": "l:LAC",
+     "val": "0",
+     "lab": "GAMES",
+     "thud": 1,
+     "vcol": "#d83a3a"
+    },
+    "bag": [
+     [
+      "B. INGRAM",
+      "X1",
+      "2026 ALL-STAR"
+     ],
+     [
+      "G. DICK",
+      "X1",
+      "NO. 13 PICK, 2023"
+     ],
+     [
+      "1ST ROUND",
+      "X2",
+      "2031 * 2033"
+     ],
+     [
+      "PICK SWAP",
+      "X1",
+      "2027"
+     ],
+     [
+      "2ND ROUND",
+      "X2",
+      "2030 * 2033"
+     ]
+    ],
+    "rows": [
+     [
+      [
+       "23 PTS",
+       "OPENING NIGHT VS CHI"
+      ],
+      [
+       "4 STL",
+       "IN A 135-92 WIN"
+      ]
+     ],
+     [
+      [
+       "23 PTS",
+       "OPENING NIGHT VS CHI"
+      ],
+      [
+       "4 STL",
+       "IN A 135-92 WIN"
+      ],
+      [
+       "16 + 9",
+       "PTS + REB AT WSH"
+      ]
+     ],
+     [
+      [
+       "23 PTS",
+       "OPENING NIGHT VS CHI"
+      ],
+      [
+       "16 + 9",
+       "PTS + REB AT WSH"
+      ],
+      [
+       "OUT",
+       "LEFT KNEE SWELLING",
+       1
+      ]
+     ]
+    ],
+    "battle": {
+     "oName": "CLIPPERS",
+     "oLogo": "l:LAC",
+     "oRec": "2-7",
+     "mWL": "W5 L5",
+     "mRec": "5-5"
+    },
+    "end": [
+     [
+      "RAPTORS",
+      "5-5"
+     ],
+     [
+      "TRADE",
+      "WON (FOR NOW)"
+     ],
+     [
+      "CHECK AGAIN",
+      "2033"
+     ]
+    ]
+   },
+   "vo": "Kawhi's averaging nineteen point five points through two games.",
+   "dlg": "KAWHI'S AVERAGING 19.5|POINTS THROUGH 2 GAMES.",
+   "stat": {
+    "count": [
+     0.4,
+     1.5
+    ]
+   }
+  },
+  {
+   "kind": "tr_vs",
+   "side": "R",
+   "kL": "p:6450@TOR",
+   "kR": "p:3913176",
+   "vo": "Brandon Ingram? In L.A.? Zero games.",
+   "dlg": "BRANDON INGRAM, IN L.A.?|0 GAMES.",
+   "stat": {
+    "count": [
+     1.05,
+     0.15
+    ]
+   }
+  },
+  {
+   "kind": "tr_gym",
+   "sign": "RAPTORS GYM",
+   "vo": "So who actually won this trade?",
+   "dlg": "SO WHO ACTUALLY WON|THIS TRADE?"
+  },
+  {
+   "kind": "tr_bag",
+   "vo": "Here's what we gave up.",
+   "dlg": "HERE'S WHAT WE GAVE UP:",
+   "stat": {
+    "n": 0
+   }
+  },
+  {
+   "kind": "tr_bag",
+   "vo": "Brandon Ingram, an All-Star last season,",
+   "dlg": "INGRAM, AN ALL-STAR|LAST SEASON...",
+   "stat": {
+    "n": 1
+   }
+  },
+  {
+   "kind": "tr_bag",
+   "vo": "Gradey Dick, our thirteenth pick in twenty twenty-three,",
+   "dlg": "GRADEY DICK, OUR NO. 13|PICK IN 2023,",
+   "stat": {
+    "n": 2
+   }
+  },
+  {
+   "kind": "tr_bag",
+   "vo": "plus first-rounders in twenty thirty-one and twenty thirty-three,",
+   "dlg": "PLUS 1STS IN 2031|AND 2033,",
+   "stat": {
+    "n": 3
+   }
+  },
+  {
+   "kind": "tr_bag",
+   "vo": "a pick swap, and two second-rounders.",
+   "dlg": "A PICK SWAP AND|2 SECOND-ROUNDERS.",
+   "stat": {
+    "n": 5
+   }
+  },
+  {
+   "kind": "tr_bag",
+   "sent": 1,
+   "sentLogo": "l:LAC",
+   "sentTxt": "TO L.A.",
+   "vo": "That's a lot.",
+   "dlg": "THAT'S A LOT."
+  },
+  {
+   "kind": "tr_arena",
+   "tin": "bars",
+   "vo": "Here's what we got:",
+   "dlg": "HERE'S WHAT WE GOT:"
+  },
+  {
+   "kind": "tr_arena",
+   "reveal": 1,
+   "flash": 1,
+   "key": "p:6450@TOR",
+   "chip": "2X FINALS MVP!",
+   "vo": "a two-time Finals MVP.",
+   "dlg": "A TWO-TIME FINALS MVP."
+  },
+  {
+   "kind": "tr_stat",
+   "name": "KAWHI LEONARD",
+   "short": "KAWHI",
+   "pos": "F",
+   "key": "p:6450@TOR",
+   "vo": "Opening night: twenty-three points and four steals in a forty-three point win over Chicago.",
+   "dlg": "OPENING NIGHT: 23 PTS|AND 4 STEALS VS CHICAGO.",
+   "stat": {
+    "n": 2,
+    "set": 0,
+    "from": 0,
+    "gap": 1.6
+   }
+  },
+  {
+   "kind": "tr_stat",
+   "name": "KAWHI LEONARD",
+   "short": "KAWHI",
+   "pos": "F",
+   "key": "p:6450@TOR",
+   "vo": "Then sixteen and nine in Washington.",
+   "dlg": "...THEN 16 AND 9|IN WASHINGTON.",
+   "stat": {
+    "n": 3,
+    "set": 1,
+    "from": 2
+   }
+  },
+  {
+   "kind": "tr_stat",
+   "name": "KAWHI LEONARD",
+   "short": "KAWHI",
+   "pos": "F",
+   "key": "p:6450@TOR",
+   "vo": "But now he's out with swelling in his left knee.",
+   "dlg": "NOW HE'S OUT: SWELLING|IN HIS LEFT KNEE.",
+   "stat": {
+    "n": 3,
+    "set": 2
+   }
+  },
+  {
+   "kind": "tr_tv",
+   "tin": "bars",
+   "key": "p:5106258",
+   "logo": "l:LAC",
+   "col": "#1d428a",
+   "flo": "#2a5a9a",
+   "chip": "46.7 3P%",
+   "strip": "THROUGH 9 GAMES",
+   "vo": "And Gradey's shooting forty-seven percent from three in L.A.",
+   "dlg": "GRADEY'S HITTING 47%|FROM THREE IN L.A..."
+  },
+  {
+   "kind": "tr_tv",
+   "key": "p:5106258",
+   "logo": "l:LAC",
+   "col": "#1d428a",
+   "flo": "#2a5a9a",
+   "chip": "46.7 3P%",
+   "strip": "15 PTS VS NO",
+   "hearts": 1,
+   "vo": "and he just dropped fifteen on New Orleans.",
+   "dlg": "...AND HE JUST DROPPED|15 ON NEW ORLEANS."
+  },
+  {
+   "kind": "tr_tv",
+   "key": "p:3913176",
+   "logo": "l:LAC",
+   "col": "#1d428a",
+   "flo": "#2a5a9a",
+   "chip": "0 GP",
+   "strip": "HEEL SURGERY",
+   "vo": "Ingram hasn't played yet. He's still coming back from heel surgery.",
+   "dlg": "INGRAM HASN'T PLAYED YET:|HEEL SURGERY."
+  },
+  {
+   "kind": "tr_battle",
+   "tin": "bars",
+   "vo": "But look at the standings.",
+   "dlg": "BUT LOOK AT THE|STANDINGS...",
+   "stat": {
+    "n": 0
+   }
+  },
+  {
+   "kind": "tr_battle",
+   "vo": "We're five and five. The Clippers are two and seven.",
+   "dlg": "WE'RE 5-5.|THE CLIPPERS ARE 2-7.",
+   "stat": {
+    "n": 2
+   }
+  },
+  {
+   "kind": "tr_battle",
+   "won": 1,
+   "vo": "Right now, it's not close. We won this trade.",
+   "dlg": "RIGHT NOW, IT'S NOT CLOSE.|WE WON THIS TRADE.",
+   "stat": {
+    "n": 2
+   }
+  },
+  {
+   "kind": "tr_end",
+   "tin": "iris",
+   "vo": "Ask me again in twenty thirty-three.",
+   "dlg": "ASK ME AGAIN IN 2033."
+  }
+ ],
+ "facts": [
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 19.5
+  },
+  {
+   "player": "6450",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 2
+  },
+  {
+   "player": "5106258",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 46.7
+  },
+  {
+   "player": "5106258",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "game": "401909837",
+   "score": "135-92"
+  },
+  {
+   "game": "401909837",
+   "player": "6450",
+   "stat": "PTS",
+   "value": 23
+  },
+  {
+   "game": "401909837",
+   "player": "6450",
+   "stat": "STL",
+   "value": 4
+  },
+  {
+   "game": "401909846",
+   "player": "6450",
+   "stat": "PTS",
+   "value": 16
+  },
+  {
+   "game": "401909846",
+   "player": "6450",
+   "stat": "REB",
+   "value": 9
+  },
+  {
+   "game": "401909950",
+   "player": "5106258",
+   "stat": "PTS",
+   "value": 15
+  },
+  {
+   "claim": "Opening night Oct 21, 2026 vs Chicago: Raptors won 135-92, a 43-point win; Kawhi 23 PTS, 4 STL (game 401909837). Oct 23 at Washington: 16 points, 9 rebounds",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/6450/gamelog"
+  },
+  {
+   "claim": "On September 14, 2026, Ingram was officially traded to the Clippers along with Gradey Dick, Toronto's 2031 and 2033 1st round picks (2 firsts, X2), 2030 and 2033 2nd round picks (2 seconds, X2), and a 2027 1st round pick swap (X1) in exchange for Leonard: five (5) draft picks. Ingram was a 2026 NBA All-Star. May 8, 2026: right heel surgery",
+   "source": "https://en.wikipedia.org/wiki/Brandon_Ingram"
+  },
+  {
+   "claim": "Ingram has played 0 games for the Clippers in 2026-27 (no 2026-27 row in his ESPN stats; injury note: nearing a return from surgery)",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3913176/stats"
+  },
+  {
+   "claim": "Gradey Dick was selected by the Raptors with the 13th overall selection (No. 13) in the 2023 NBA draft (X1)",
+   "source": "https://en.wikipedia.org/wiki/Gradey_Dick"
+  },
+  {
+   "claim": "Kawhi Leonard: 2 (2X) NBA champion and 2x Finals MVP; October 27, 2026: out with swelling in his left knee",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "Nov 9, 2026: Gradey Dick 15 points for the Clippers vs New Orleans (game 401909950); through 9 games he shoots 46.7% from three, about 47% (shown as 46.7 3P%)",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5106258/gamelog"
+  },
+  {
+   "claim": "Standings Nov 10, 2026: Raptors 5-5 (W5 L5), Clippers 2-7",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/12"
+  },
+  {
+   "claim": "Opinion line: check again in 2033, when the 2033 1st-round pick conveys",
+   "source": "https://en.wikipedia.org/wiki/Brandon_Ingram"
+  }
+ ]
+}

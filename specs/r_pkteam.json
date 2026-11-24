@@ -1,0 +1,830 @@
+{
+ "team": "raptors",
+ "name": "pkteam",
+ "template": "fmt_pkteam.html",
+ "pace": "wolves",
+ "record": "5-10",
+ "music": "pkt112",
+ "voice_eq": "bright",
+ "tts_speed": 1.2,
+ "cps": 40,
+ "caption": "IF IMMANUEL QUICKLEY HAD A POKÉMON TEAM, THIS IS WHAT IT WOULD BE 🎮🦖\n\n🧠 Alakazam: an IQ of 5,000. A 6'2\" guard who sees the play before it happens\n🦘 Kangaskhan: guards what it carries. 1.1 turnovers in 32.0 minutes\n🔥 Arcanine: give it open floor and it's gone. That's Quickley on the break\n🦅 Pidgeot: Keen Eye, nothing throws off its aim. 80.4% at the line\n⚡ Emolga: Motor Drive, it only gets faster. 26 on 16 shots at Philly\n🥷 Greninja, the ace: appears, then vanishes. 27 points on 13 shots at the Clippers\n\n17.8 a night, 24 more last night in a 103-99 loss to Washington, and we're 5-10. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "id": "pl",
+   "role": "pl",
+   "key": "p:4395724",
+   "tag": "QUICKLEY"
+  },
+  {
+   "id": "m0",
+   "role": "m",
+   "mon": "m:pmdanim_alakazam_8_6",
+   "name": "ALAKAZAM"
+  },
+  {
+   "id": "m1",
+   "role": "m",
+   "mon": "m:pmdanim_kangaskhan_5_12",
+   "name": "KANGASKHAN"
+  },
+  {
+   "id": "m2",
+   "role": "m",
+   "mon": "m:pmdanim_arcanine_1_8",
+   "name": "ARCANINE"
+  },
+  {
+   "id": "m3",
+   "role": "m",
+   "mon": "m:pmdanim_pidgeot_4_12",
+   "name": "PIDGEOT"
+  },
+  {
+   "id": "m4",
+   "role": "m",
+   "mon": "m:pmdanim_emolga_6_9",
+   "name": "EMOLGA"
+  },
+  {
+   "id": "m5",
+   "role": "m",
+   "mon": "m:pmdanim_greninja_7_10",
+   "name": "GRENINJA"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "pkt",
+   "vo": "If Immanuel Quickley had a Pokemon team, this is what it would be.",
+   "pages": [
+    {
+     "scene": "intro",
+     "dlg": "IF IMMANUEL QUICKLEY|HAD A POKEMON TEAM",
+     "full": true
+    },
+    {
+     "scene": "intro",
+     "dlg": "THIS IS WHAT|IT WOULD BE.",
+     "w": "this"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 0
+     },
+     {
+      "cut": 2.6
+     }
+    ],
+    "flash": [
+     0.9,
+     1.7,
+     2.7,
+     3.4,
+     4.2,
+     4.7,
+     5.8,
+     6.3,
+     10.9,
+     11.3,
+     13.6,
+     15.1,
+     17.9,
+     18.3,
+     20.5,
+     22.5,
+     23.0,
+     25.1,
+     27.8,
+     28.4,
+     29.3,
+     30.4,
+     30.9,
+     33.3,
+     33.9,
+     34.4,
+     36.5,
+     41.4,
+     42.0,
+     42.7,
+     44.4,
+     45.1,
+     47.8,
+     48.4,
+     49.1
+    ],
+    "pt": [
+     0,
+     2.6
+    ]
+   },
+   "cfg": {
+    "title": "IF QUICKLEY HAD A|POKEMON TEAM...",
+    "opp": "l:WSH",
+    "ppg": "17.8 PPG"
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.52
+  },
+  {
+   "kind": "pkt",
+   "vo": "Leading off, Alakazam, I.Q. five thousand.",
+   "pages": [
+    {
+     "scene": "court",
+     "dlg": "LEADING OFF:|ALAKAZAM.",
+     "first": true,
+     "lbl": "ROUTE 5 COURT"
+    },
+    {
+     "scene": "court",
+     "dlg": "IQ: 5,000.",
+     "w": "five",
+     "sign": "IQ|5,000",
+     "fx": "jump"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 3.9,
+      "st": {
+       "lo": 0.9
+      }
+     },
+     {
+      "cut": 5.9
+     }
+    ],
+    "pt": [
+     0,
+     2.0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.49
+  },
+  {
+   "kind": "pkt",
+   "vo": "A six foot two guard who sees the play before it happens.",
+   "pages": [
+    {
+     "scene": "court",
+     "dlg": "A 6'2\" GUARD WHO SEES|THE PLAY",
+     "sign": "6'2\"|GUARD",
+     "signB": "SEES IT|FIRST",
+     "fx": "jump"
+    },
+    {
+     "scene": "court",
+     "dlg": "...BEFORE IT HAPPENS.",
+     "w": "before",
+     "sign": "SEES IT|FIRST",
+     "fx": "hop"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 7.15,
+      "st": {
+       "tB": 1.3,
+       "jt": 1.85
+      }
+     },
+     {
+      "cut": 9.9,
+      "st": {
+       "jt": 0.2
+      }
+     }
+    ],
+    "pt": [
+     0,
+     2.75
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.56
+  },
+  {
+   "kind": "pkt",
+   "vo": "Kangaskhan guards what it carries.",
+   "pages": [
+    {
+     "scene": "gym",
+     "dlg": "KANGASKHAN GUARDS|WHAT IT CARRIES.",
+     "first": true,
+     "lbl": "RAPTORS GYM HALL",
+     "plaque": "GUARDS|ITS POUCH"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 10.85
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.33
+  },
+  {
+   "kind": "pkt",
+   "vo": "Scorer's touch, point guard's care.",
+   "pages": [
+    {
+     "scene": "gym",
+     "dlg": "SCORER'S TOUCH,|POINT GUARD'S CARE."
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 13.2
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "About one turnover in thirty two minutes.",
+   "pages": [
+    {
+     "scene": "gym",
+     "dlg": "ABOUT 1 TURNOVER|IN 32 MINUTES.",
+     "plaque": "1.1 TO|32.0 MIN"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 14.93
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "Arcanine, give it open floor and it's gone.",
+   "pages": [
+    {
+     "scene": "route",
+     "dlg": "ARCANINE.",
+     "first": true,
+     "lbl": "ROUTE 5",
+     "sign": "FAST LANE"
+    },
+    {
+     "scene": "route",
+     "dlg": "GIVE IT OPEN FLOOR|AND IT'S GONE.",
+     "w": "give",
+     "lbl": "ROUTE 5"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 17.65
+     },
+     {
+      "cut": 18.9
+     }
+    ],
+    "pt": [
+     0,
+     1.08
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "That's Quickley on the break.",
+   "pages": [
+    {
+     "scene": "route",
+     "dlg": "THAT'S QUICKLEY|ON THE BREAK.",
+     "lbl": "ROUTE 5"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 20.81,
+      "st": {
+       "lo": 1.2
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "Pidgeot, nothing throws off its aim.",
+   "pages": [
+    {
+     "scene": "record",
+     "dlg": "PIDGEOT. NOTHING|THROWS OFF ITS AIM.",
+     "first": true,
+     "lbl": "RECORD HALL",
+     "board": [
+      "KEEN EYE",
+      ""
+     ]
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 22.15,
+      "st": {
+       "lo": 1.9
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.21
+  },
+  {
+   "kind": "pkt",
+   "vo": "Over eighty percent at the line.",
+   "pages": [
+    {
+     "scene": "record",
+     "dlg": "OVER 80%|AT THE LINE.",
+     "board": [
+      "80.4% FT",
+      "3.9 FTA A GAME"
+     ]
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 24.97,
+      "st": {
+       "bt": 1.4
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.57
+  },
+  {
+   "kind": "pkt",
+   "vo": "Emolga.",
+   "pages": [
+    {
+     "scene": "plant",
+     "dlg": "EMOLGA.",
+     "first": true,
+     "lbl": "POWER PLANT",
+     "sign": "MOTOR|DRIVE"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 27.5
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.43
+  },
+  {
+   "kind": "pkt",
+   "vo": "Hit it with electricity, and it only gets faster.",
+   "pages": [
+    {
+     "scene": "plant",
+     "dlg": "HIT IT WITH|ELECTRICITY, IT ONLY|GETS FASTER.",
+     "lbl": "POWER PLANT",
+     "fx": "spark"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 28.85,
+      "st": {
+       "lo": 1.6
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "Twenty six on sixteen shots at Philly.",
+   "pages": [
+    {
+     "scene": "plant",
+     "dlg": "26 ON 16 SHOTS|AT PHILLY.",
+     "sign": "26 AT|PHILLY"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 31.53
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "And the ace, Greninja.",
+   "pages": [
+    {
+     "scene": "arena",
+     "dlg": "AND THE ACE...",
+     "first": true,
+     "lbl": "INTUIT DOME",
+     "sub": "MON 11/2 AT LAC",
+     "sb": [
+      "125",
+      "118",
+      "l:LAC"
+     ],
+     "tick": "MON 11/2:  RAPTORS 125   CLIPPERS 118",
+     "sil": true
+    },
+    {
+     "scene": "arena",
+     "dlg": "GRENINJA!",
+     "w": "gr",
+     "fx": "reveal",
+     "lbl": "INTUIT DOME",
+     "sub": "MON 11/2 AT LAC"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 33.5
+     },
+     {
+      "cut": 35.3
+     }
+    ],
+    "pt": [
+     0,
+     1.15
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "Appears, then vanishes.",
+   "pages": [
+    {
+     "scene": "arena",
+     "dlg": "APPEARS,|THEN VANISHES.",
+     "fx": "zip",
+     "lbl": "INTUIT DOME",
+     "sub": "MON 11/2 AT LAC"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 36.0,
+      "st": {
+       "lo": 0.5
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.2
+  },
+  {
+   "kind": "pkt",
+   "vo": "At the Clippers, twenty seven points on thirteen shots.",
+   "pages": [
+    {
+     "scene": "arena",
+     "dlg": "AT THE CLIPPERS:|27 POINTS ON 13 SHOTS.",
+     "tickB": "QUICKLEY 27 PTS - 8-13 FG - 10-11 FT",
+     "tagB": "27 PTS",
+     "fx": "zip"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 37.97,
+      "st": {
+       "tB": 1.4,
+       "zt": 2.6
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.41
+  },
+  {
+   "kind": "pkt",
+   "vo": "Almost eighteen a night for us.",
+   "pages": [
+    {
+     "scene": "arena",
+     "dlg": "ALMOST 18|A NIGHT FOR US.",
+     "team": true,
+     "sb": [
+      "99",
+      "103",
+      "l:WSH"
+     ],
+     "tick": "WED 11/18:  RAPTORS 99   WIZARDS 103"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 41.4,
+      "st": {
+       "d0": 0.3
+      }
+     }
+    ],
+    "pt": [
+     0
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 0.37
+  },
+  {
+   "kind": "pkt",
+   "vo": "Twenty four more last night, we lost to Washington by four, and we're five and ten.",
+   "pages": [
+    {
+     "scene": "arena",
+     "dlg": "24 MORE LAST NIGHT,|WE LOST TO WSH BY 4..."
+    },
+    {
+     "scene": "arena",
+     "dlg": "...AND WE'RE 5-10.",
+     "w": "and",
+     "tickB": "RAPTORS 5-10 - NEXT: PISTONS FRI 11/20"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "cut": 43.65
+     },
+     {
+      "cut": 45.9,
+      "st": {
+       "tB": 0.5
+      }
+     }
+    ],
+    "pt": [
+     0,
+     2.25
+    ]
+   }
+  },
+  {
+   "kind": "pkt",
+   "cont": true,
+   "vo": "",
+   "hold": 1.11,
+   "end": true
+  }
+ ],
+ "facts": [
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 17.8
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 32.0
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "TO",
+   "value": 1.1
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "FT%",
+   "value": 80.4
+  },
+  {
+   "claim": "Quickley 2026-27 per game (ESPN): 3.2-3.9 FT, so 3.9 free throw attempts (FTA) a game; 80.4 FT% is over 80%; 1.1 turnovers is about 1 (one) in 32.0 minutes (32); 17.8 points is almost 18. Quickley wears number 5 (Route 5). Height 6'2\" (6 foot 2).",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4395724/stats?seasontype=2"
+  },
+  {
+   "claim": "Immanuel Quickley height 6' 2\", jersey 5, Toronto Raptors",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/roster"
+  },
+  {
+   "game": "401909920",
+   "score": "125-118"
+  },
+  {
+   "game": "401909920",
+   "player": "4395724",
+   "stat": "PTS",
+   "value": "27"
+  },
+  {
+   "game": "401909920",
+   "player": "4395724",
+   "stat": "FG",
+   "value": "8-13"
+  },
+  {
+   "game": "401909920",
+   "player": "4395724",
+   "stat": "FT",
+   "value": "10-11"
+  },
+  {
+   "game": "401909976",
+   "player": "4395724",
+   "stat": "PTS",
+   "value": "26"
+  },
+  {
+   "game": "401909976",
+   "player": "4395724",
+   "stat": "FG",
+   "value": "8-16"
+  },
+  {
+   "game": "401910012",
+   "score": "99-103"
+  },
+  {
+   "game": "401910012",
+   "player": "4395724",
+   "stat": "PTS",
+   "value": "24"
+  },
+  {
+   "claim": "Raptors schedule (ESPN, times ET): Mon 11/2 at LA Clippers (Intuit Dome) W 125-118; Thu 11/12 at Philadelphia; Wed 11/18 vs Washington L 99-103, lost by 4 (four); next: Fri 11/20 at Detroit Pistons. Record 5-10.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/schedule"
+  },
+  {
+   "claim": "Alakazam: 'It has an IQ of 5000' / 'an astoundingly high IQ of 5,000' (Pokédex)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/alakazam"
+  },
+  {
+   "claim": "Kangaskhan raises its young in its belly pouch and won't run from any fight to keep its young protected (Pokédex)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/kangaskhan"
+  },
+  {
+   "claim": "Arcanine is known for its high speed (Pokédex)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/arcanine"
+  },
+  {
+   "claim": "Pidgeot's ability Keen Eye prevents accuracy from being lowered",
+   "source": "https://pokeapi.co/api/v2/ability/keen-eye"
+  },
+  {
+   "claim": "Emolga's hidden ability Motor Drive absorbs Electric moves, raising Speed one stage",
+   "source": "https://pokeapi.co/api/v2/ability/motor-drive"
+  },
+  {
+   "claim": "Greninja appears and vanishes with a ninja's grace (Pokédex)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/greninja"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

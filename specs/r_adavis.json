@@ -1,0 +1,123 @@
+{
+ "team": "raptors",
+ "name": "adavis",
+ "pace": "wolves",
+ "record": "W OR L?",
+ "caption": "TRADE COURT, CASE #6: PICK 5 FOR ANTONIO DAVIS 🎮🏀 We drafted a high schooler fifth overall, then traded him for a big man.\n\n• 1999: we took Jonathan Bender at No. 5, then sent him to Indiana for Antonio Davis\n• Davis, 2000-01: 13.7 PPG, 10.1 RPG and an All-Star spot\n• We made the playoffs 3 years in a row\n• Bender: knee injuries, 5.6 PPG over 237 games. Sports Illustrated ranked him No. 11 on its 20 biggest busts\n\nYour verdict: comment W or L 👇\nCase #7 drops Monday night. Follow so you don't miss it.",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 5 FOR A BIG MAN",
+   "key": "l:TOR",
+   "name": "US",
+   "badge": "TRADE COURT #6",
+   "lines": [
+    [
+     "5",
+     "OUR PICK"
+    ],
+    [
+     "1999",
+     "DRAFT"
+    ]
+   ],
+   "vo": "We drafted a high schooler fifth overall. Then we traded him away.",
+   "dlg": "WE DRAFTED HIM 5TH.|THEN TRADED HIM."
+  },
+  {
+   "kind": "hot",
+   "head": "THE TRADE",
+   "rows": [
+    {
+     "logo": "l:TOR",
+     "name": "A. DAVIS",
+     "sub": "TO US",
+     "val": "IN",
+     "w": 1
+    },
+    {
+     "logo": "l:IND",
+     "name": "BENDER",
+     "sub": "TO INDIANA",
+     "val": "OUT",
+     "w": 1
+    }
+   ],
+   "vo": "Jonathan Bender went to Indiana. Antonio Davis came to us.",
+   "dlg": "BENDER TO INDIANA.|ANTONIO DAVIS TO US."
+  },
+  {
+   "kind": "fire",
+   "head": "WHAT WE GOT",
+   "key": "l:TOR",
+   "name": "DAVIS",
+   "badge": "2000-01",
+   "lines": [
+    [
+     "13.7",
+     "PPG"
+    ],
+    [
+     "10.1",
+     "RPG"
+    ]
+   ],
+   "vo": "Davis gave us thirteen point seven and ten point one, and made the All-Star team.",
+   "dlg": "13.7 AND 10.1.|AN ALL-STAR."
+  },
+  {
+   "kind": "fire",
+   "head": "THE PICK",
+   "key": "l:IND",
+   "name": "BENDER",
+   "badge": "KNEE INJURIES",
+   "lines": [
+    [
+     "5.6",
+     "CAREER PPG"
+    ],
+    [
+     "#11",
+     "SI'S BIGGEST BUSTS"
+    ]
+   ],
+   "vo": "Bender? Knee injuries. Five point six points a game. Sports Illustrated called him one of the biggest busts ever.",
+   "dlg": "5.6 PPG.|SI'S TOP 20 BUSTS."
+  },
+  {
+   "kind": "fire",
+   "head": "THE RESULT",
+   "key": "l:TOR",
+   "name": "US",
+   "badge": "WITH DAVIS",
+   "lines": [
+    [
+     "3",
+     "STRAIGHT PLAYOFFS"
+    ]
+   ],
+   "vo": "With Davis in the middle, we made the playoffs three years in a row.",
+   "dlg": "3 STRAIGHT|PLAYOFF TRIPS."
+  },
+  {
+   "kind": "next",
+   "head": "THE VERDICT",
+   "logo": "l:TOR",
+   "rec": "W OR L?",
+   "ntxt": "CASE #7",
+   "nday": "MONDAY",
+   "vo": "Pick five for an All-Star big. Did we win this trade? W or L. Case seven, Monday night.",
+   "dlg": "DID WE WIN THIS TRADE?|W OR L? CASE #7: MONDAY NIGHT."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "On August 1, 1999, Antonio Davis was traded to the Toronto Raptors in exchange for the 5th pick of the 1999 NBA draft, high schooler Jonathan Bender (1 trade, 1 player each way). In the 2000-01 season Davis averaged 13.7 points and 10.1 rebounds and was an NBA All-Star. In 2002 the Raptors made the playoffs for the third year in a row (3 straight).",
+   "source": "https://en.wikipedia.org/wiki/Antonio_Davis"
+  },
+  {
+   "claim": "Jonathan Bender was selected 5th by the Toronto Raptors in the 1999 NBA draft and traded to the Indiana Pacers. Knee injuries limited him; he averaged 5.6 points in 237 career regular season games. In 2005 Sports Illustrated rated him #11 (No. 11) on its list of the 20 biggest busts in modern NBA draft history.",
+   "source": "https://en.wikipedia.org/wiki/Jonathan_Bender"
+  }
+ ]
+}

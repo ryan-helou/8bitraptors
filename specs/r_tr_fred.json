@@ -1,0 +1,223 @@
+{
+ "team": "raptors",
+ "name": "tr_fred",
+ "record": "5-4",
+ "caption": "IF FRED HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🐶 Lillipup: faces strong opponents with great courage. Undrafted in 2016, signed by us, a 905 champion in 2017\n👶 Kangaskhan: never gives up a fight to protect its young. Son born mid-series, then 14-of-17 from three to close the East finals\n🔮 Gothitelle: its ability is literally called Shadow Tag. Our box-and-one on Steph Curry in the Finals\n🐕 Herdier: very loyal. Re-signed with us in 2020 for 4 years, $85 million, the biggest deal an undrafted player had ever signed\n🌊 Kyogre: brings torrential downpours. 54 points and 11 threes in 2021, our franchise record\n🏆 Stoutland: intelligent, good-natured and valiant. 22 off the bench in Finals Game 6, then an All-Star in 2022\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Fred VanVleet had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF FRED HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Lillipup. It faces strong opponents with great courage. Nobody drafted Fred in twenty sixteen. We signed him, and he won a title with our G League team.",
+   "dlg": "FACES STRONG FOES BRAVELY.|UNDRAFTED. SIGNED BY US."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Kangaskhan. To protect its young, it never gives up a fight. Before his son was born, Fred was six of forty-two. After: fourteen of seventeen from three to close the conference finals.",
+   "dlg": "IT FIGHTS FOR ITS YOUNG.|THEN: 14-OF-17 FROM 3!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Gothitelle. Its ability is literally called Shadow Tag: you can't escape it. In the Finals we ran a box-and-one, and Fred was Steph Curry's shadow.",
+   "dlg": "ITS ABILITY: SHADOW TAG.|FRED SHADOWED STEPH CURRY"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Herdier. A very loyal monster. In twenty twenty Fred stayed: four years, eighty-five million, the biggest deal an undrafted player had ever signed.",
+   "dlg": "A VERY LOYAL MONSTER.|STAYED: 4 YEARS, $85M"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Kyogre. It brings torrential downpours. February twenty twenty-one: fifty-four points, eleven threes. Our franchise record.",
+   "dlg": "IT BRINGS DOWNPOURS.|54 PTS + 11 THREES: RECORD"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Stoutland. Intelligent and valiant. Game six of the Finals: twenty-two off the bench. Twenty twenty-two: the undrafted kid is an All-Star.",
+   "dlg": "VALIANT AND BIG-HEARTED.|G6: 22 PTS. THEN ALL-STAR!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401134820",
+   "player": "2991230",
+   "stat": "PTS",
+   "value": 22
+  },
+  {
+   "game": "401134820",
+   "player": "2991230",
+   "stat": "3PT",
+   "value": "5-11"
+  },
+  {
+   "game": "401267483",
+   "player": "2991230",
+   "stat": "PTS",
+   "value": 54
+  },
+  {
+   "game": "401267483",
+   "player": "2991230",
+   "stat": "3PT",
+   "value": "11-14"
+  },
+  {
+   "claim": "VanVleet went undrafted in the 2016 NBA draft and signed with Toronto; member of Raptors 905's 2017 championship team; shot 6-42 (3-24 from three) in 9 playoff games before his son was born May 20, 2019, then 14-17 on threes in the final three games of the East finals; box-and-one defense on Stephen Curry in the Finals; Game 6 of the Finals: playoff career-high 22 points with five threes off the bench; November 2020 re-signed for four (4) years, $85 million, the largest ever for an undrafted free agent at the time; February 2, 2021: 54 points with 11 threes, a franchise record; NBA All-Star 2022",
+   "source": "https://en.wikipedia.org/wiki/Fred_VanVleet"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:2991230@TOR",
+   "mon": "pk:lillipup",
+   "nick": "LILLIPUP",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "UNDRAFTED",
+   "stat": "905 CHAMP"
+  },
+  {
+   "key": "p:2991230@TOR",
+   "mon": "pk:kangaskhan",
+   "nick": "KANGASKHAN",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "PROUD DAD",
+   "stat": "14-OF-17 3PT"
+  },
+  {
+   "key": "p:2991230@TOR",
+   "mon": "pk:gothitelle",
+   "nick": "GOTHITELLE",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "THE SHADOW",
+   "stat": "BOX-AND-ONE"
+  },
+  {
+   "key": "p:2991230@TOR",
+   "mon": "pk:herdier",
+   "nick": "HERDIER",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "LOYAL DOG",
+   "stat": "4 YRS, $85M"
+  },
+  {
+   "key": "p:2991230@TOR",
+   "mon": "pk:kyogre",
+   "nick": "KYOGRE",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "DOWNPOUR",
+   "stat": "54 PTS"
+  },
+  {
+   "key": "p:2991230@TOR",
+   "mon": "pk:stoutland",
+   "nick": "STOUTLAND",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "2022 ALL-STAR"
+  }
+ ],
+ "mode": "trainer"
+}

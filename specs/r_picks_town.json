@@ -1,0 +1,1113 @@
+{
+ "team": "raptors",
+ "name": "picks_town",
+ "template": "fmt_town_picks.html",
+ "pace": "wolves",
+ "music": "calm",
+ "voice_eq": "bright",
+ "voff": 0.0,
+ "duck_bridge": true,
+ "duck_depth": 0.9,
+ "cps": 42,
+ "tts_speed": 1.15,
+ "caption": "OUR TOP-4 PICKS 🦖 Bargnani, Bosh, Scottie\n\nWe built around three top-four picks. One of them won two rings somewhere else.\n• Andrea Bargnani (No. 1, 2006): compared to Dirk Nowitzki. 15.2 PPG here, zero All-Star games. New York traded for him in 2013: no All-Star, no title\n• Chris Bosh (No. 4, 2003): modeled his game on Kevin Garnett. Five All-Star games here, the most points in Raptors history when he left, then two rings in Miami (2012, 2013)\n• Scottie Barnes (No. 4, 2021): the consensus was we'd take Jalen Suggs\n\nFirst five seasons each:\nPPG: Bargnani 15.1 · Bosh 18.9 · Scottie 17.4\nAll-Star games: 0 · 3 · 2\nPlayoff series won: 0 · 0 · 0\n\nOne of our top picks won it somewhere else. Scottie's winning one here.\n\nWhich of our top picks do you trust most to bring one home? 👇",
+ "beats": [
+  {
+   "kind": "town",
+   "vo": "We have built our team around three of our top-four picks,",
+   "txt": {
+    "s_lab": "RAPTORS LAB",
+    "s_lab_sub": "OUR TOP-4 PICKS",
+    "n_a": "BARGNANI",
+    "n_b": "BOSH",
+    "n_c": "BARNES",
+    "r_a": "RINGS: 0",
+    "r_b": "RINGS: MIA",
+    "da": "WE BUILT AROUND THREE|TOP-4 PICKS.",
+    "db": "ONE WON 2 RINGS|SOMEWHERE ELSE.",
+    "s_rb": "ROUTE 2006",
+    "s_rb_sub": "DRAFT NIGHT",
+    "dc": "ANDREA BARGNANI FIRST.",
+    "dd": "HE GOT COMPARED|TO DIRK.",
+    "xbh": "POKEDEX  NO. 1 PICK 2006",
+    "xbn": "BARGNANI",
+    "xbl": "COMPARED TO:",
+    "xbv": "DIRK NOWITZKI",
+    "s_c": "TORONTO",
+    "s_c_sub": "2006-2013",
+    "ppg_a": "15.2 PPG",
+    "de": "15 A NIGHT.|ZERO ALL-STAR GAMES.",
+    "bl": "ALL-STAR BADGES:",
+    "s_d": "BIG APPLE",
+    "s_d_sub": "NEW YORK, 2013",
+    "df": "THEN NEW YORK|TRADED FOR HIM.",
+    "dg": "NO ALL-STAR, NO|TITLE.",
+    "evo": "NO RING",
+    "s_e": "HARBOURFRONT",
+    "s_e_sub": "BOSH: 2003-2010",
+    "dh": "BOSH MODELED HIS GAME|ON KEVIN GARNETT.",
+    "xch": "POKEDEX  NO. 4 PICK 2003",
+    "xcn": "BOSH",
+    "xcl": "MODELED ON:",
+    "xcv": "KEVIN GARNETT",
+    "di": "FIVE ALL-STAR GAMES|HERE.",
+    "dj": "MOST POINTS IN RAPTORS|HISTORY WHEN HE LEFT.",
+    "dba": "BOSH OBTAINED TWO|RINGS IN MIAMI!",
+    "champ": "MIA 2012+13 CHAMP",
+    "s_f": "ROUTE 2021",
+    "s_f_sub": "TALL GRASS",
+    "dbb": "AND SCOTTIE?",
+    "dbc": "EVERYONE EXPECTED|JALEN SUGGS AT NO. 4.",
+    "xdh": "POKEDEX  NO. 4 PICK 2021",
+    "xdn": "BARNES",
+    "xdl": "EXPECTED PICK:",
+    "xdv": "JALEN SUGGS",
+    "s_g": "FIVE SEASONS HALL",
+    "s_g_sub": "EACH MAN'S FIRST 5",
+    "h_a": "ANDREA",
+    "h_b": "BOSH",
+    "h_c": "SCOTTIE",
+    "l_ppg": "PPG",
+    "l_as": "ALL-STAR",
+    "l_sw": "SERIES WON",
+    "dbd": "FIVE SEASONS EACH:|BOSH SCORED THE MOST.",
+    "dbe": "THREE ALL-STAR GAMES|TO SCOTTIE'S TWO.",
+    "dbf": "PLAYOFF SERIES WON|HERE?",
+    "dbg": "ZERO FOR ALL THREE.",
+    "s_h": "TORONTO",
+    "s_h_sub": "2026-27",
+    "dbh": "ONE OF OUR TOP PICKS|WON IT SOMEWHERE ELSE.",
+    "dbi": "SCOTTIE'S WINNING ONE|HERE.",
+    "still": "STILL HERE",
+    "v_ppga": "15.1",
+    "v_ppgb": "18.9",
+    "v_ppgc": "17.4",
+    "v_asa": "0",
+    "v_asb": "3",
+    "v_asc": "2",
+    "v_swa": "0",
+    "v_swb": "0",
+    "v_swc": "0"
+   },
+   "stat": {
+    "shots": [
+     {
+      "t": 0,
+      "map": "lab",
+      "sign": [
+       "@s_lab",
+       "@s_lab_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:2987@TOR",
+        "x": 101,
+        "y": 345,
+        "sz": 58,
+        "tag": "@n_a",
+        "tag2": "@r_a",
+        "tag2in": 4.209,
+        "tag2c": "#2a4a9a"
+       },
+       {
+        "k": "ball",
+        "x": 101,
+        "y": 433,
+        "out": 1.4,
+        "noshadow": true
+       },
+       {
+        "k": "m:frostram",
+        "x": 101,
+        "y": 433,
+        "sz": 44,
+        "in": 1.4,
+        "run": [
+         1.4,
+         2.0
+        ]
+       },
+       {
+        "k": "p:1977@TOR",
+        "x": 270,
+        "y": 345,
+        "sz": 58,
+        "tag": "@n_b",
+        "tag2": "@r_b",
+        "tag2in": 4.209,
+        "tag2c": "#e8782a"
+       },
+       {
+        "k": "ball",
+        "x": 277,
+        "y": 433,
+        "out": 2.0,
+        "noshadow": true
+       },
+       {
+        "k": "m:shadepaw",
+        "x": 277,
+        "y": 433,
+        "sz": 44,
+        "in": 2.0,
+        "run": [
+         2.0,
+         2.6
+        ]
+       },
+       {
+        "k": "p:4433134",
+        "x": 437,
+        "y": 345,
+        "sz": 58,
+        "tag": "@n_c",
+        "bub": [
+         4.209,
+         "?",
+         null
+        ]
+       },
+       {
+        "k": "ball",
+        "x": 437,
+        "y": 433,
+        "out": 2.6,
+        "noshadow": true
+       },
+       {
+        "k": "m:clawrex",
+        "x": 437,
+        "y": 433,
+        "sz": 44,
+        "in": 2.6,
+        "run": [
+         2.6,
+         3.2
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 0,
+        "dlg": "@da",
+        "pre": true
+       },
+       {
+        "t": 3.2,
+        "dlg": "@db"
+       }
+      ]
+     },
+     {
+      "t": 5.52,
+      "fin": 0.15,
+      "idle": [
+       [
+        5.52,
+        8.189
+       ]
+      ],
+      "map": "route2",
+      "sign": [
+       "@s_rb",
+       "@s_rb_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:2987@TOR",
+        "x": 225,
+        "y": 368,
+        "sz": 58,
+        "tag": "@n_a",
+        "tagin": 7.275,
+        "path": [
+         [
+          5.52,
+          75,
+          368
+         ],
+         [
+          7.25,
+          75,
+          368
+         ],
+         [
+          7.275,
+          225,
+          368
+         ]
+        ]
+       },
+       {
+        "k": "m:frostram",
+        "x": 292,
+        "y": 368,
+        "sz": 44,
+        "run": [
+         5.52,
+         7.275
+        ],
+        "path": [
+         [
+          5.52,
+          146,
+          368
+         ],
+         [
+          7.25,
+          146,
+          368
+         ],
+         [
+          7.275,
+          292,
+          368
+         ]
+        ]
+       },
+       {
+        "k": "l:TOR",
+        "x": 455,
+        "y": 368,
+        "sz": 40,
+        "out": 7.275,
+        "float": true
+       }
+      ],
+      "pages": [
+       {
+        "t": 5.52,
+        "dlg": "@dc"
+       },
+       {
+        "t": 7.4,
+        "dlg": "@dd"
+       }
+      ],
+      "pops": [
+       {
+        "t": 7.275,
+        "type": "dex",
+        "head": "@xbh",
+        "name": "@xbn",
+        "lab": "@xbl",
+        "val": "@xbv",
+        "cps": 40
+       }
+      ]
+     },
+     {
+      "t": 8.9,
+      "fin": 0.15,
+      "idle": [
+       [
+        8.9,
+        9.9
+       ]
+      ],
+      "map": "town",
+      "mood": "snow",
+      "crestPos": "tr",
+      "crestK": "l:TOR",
+      "sign": [
+       "@s_c",
+       "@s_c_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:2987@TOR",
+        "x": 167,
+        "y": 372,
+        "sz": 58,
+        "tag": "@n_a",
+        "tag2": "@ppg_a",
+        "tag2in": 10.0,
+        "tag2c": "#2a4478",
+        "path": [
+         [
+          8.9,
+          206,
+          372
+         ],
+         [
+          9.28,
+          206,
+          372
+         ],
+         [
+          9.3,
+          167,
+          372
+         ]
+        ]
+       },
+       {
+        "k": "m:frostram",
+        "x": 234,
+        "y": 372,
+        "sz": 44,
+        "run": [
+         9.3,
+         10.0
+        ],
+        "path": [
+         [
+          8.9,
+          270,
+          372
+         ],
+         [
+          9.28,
+          270,
+          372
+         ],
+         [
+          9.3,
+          234,
+          372
+         ]
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 8.9,
+        "dlg": "@de"
+       }
+      ],
+      "pops": [
+       {
+        "t": 9.3,
+        "type": "badges",
+        "y": 407,
+        "lab": "@bl",
+        "n0": 0
+       }
+      ]
+     },
+     {
+      "t": 12.8,
+      "fin": 0.15,
+      "map": "bay",
+      "crest": "l:NY",
+      "sign": [
+       "@s_d",
+       "@s_d_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:2987@TOR",
+        "x": 180,
+        "y": 334,
+        "sz": 58,
+        "tag": "@n_a",
+        "tagin": 13.618,
+        "path": [
+         [
+          12.8,
+          26,
+          334
+         ],
+         [
+          13.597,
+          26,
+          334
+         ],
+         [
+          13.618,
+          180,
+          334
+         ]
+        ]
+       },
+       {
+        "k": "m:frostram",
+        "x": 255,
+        "y": 334,
+        "sz": 44,
+        "path": [
+         [
+          12.8,
+          105,
+          334
+         ],
+         [
+          13.597,
+          105,
+          334
+         ],
+         [
+          13.618,
+          255,
+          334
+         ]
+        ],
+        "flash": [
+         13.618,
+         14.64
+        ],
+        "run": [
+         12.8,
+         13.597
+        ],
+        "run2": [
+         14.64,
+         15.64
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 12.8,
+        "dlg": "@df"
+       },
+       {
+        "t": 14.64,
+        "dlg": "@dg"
+       }
+      ],
+      "pops": [
+       {
+        "t": 12.8,
+        "type": "badges",
+        "y": 388,
+        "lab": "@bl",
+        "n0": 0,
+        "fills": [],
+        "col": "#f8c838",
+        "fade": false
+       },
+       {
+        "t": 15.032,
+        "type": "banner",
+        "s": "@evo",
+        "x": 349,
+        "y": 227,
+        "w": 86,
+        "col": "#d83a3a"
+       }
+      ],
+      "flashes": [
+       [
+        13.6,
+        0.06
+       ],
+       [
+        14.6,
+        0.06
+       ]
+      ]
+     },
+     {
+      "t": 16.602,
+      "fin": 0.15,
+      "map": "dock",
+      "boat": 23.351,
+      "sign": [
+       "@s_e",
+       "@s_e_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:1977@TOR",
+        "x": 293,
+        "y": 367,
+        "sz": 58,
+        "tag": "@n_b",
+        "tagin": 17.2,
+        "tag2": "@champ",
+        "tag2in": 24.442,
+        "tag2c": "#e8782a",
+        "path": [
+         [
+          16.602,
+          0,
+          367
+         ],
+         [
+          17.18,
+          0,
+          367
+         ],
+         [
+          17.2,
+          94,
+          367
+         ],
+         [
+          17.58,
+          94,
+          367
+         ],
+         [
+          17.6,
+          191,
+          367
+         ],
+         [
+          18.18,
+          191,
+          367
+         ],
+         [
+          18.2,
+          293,
+          367
+         ],
+         [
+          23.333,
+          293,
+          367
+         ],
+         [
+          23.351,
+          294,
+          461
+         ],
+         [
+          24.087,
+          294,
+          461
+         ],
+         [
+          24.106,
+          416,
+          484
+         ]
+        ]
+       },
+       {
+        "k": "m:shadepaw",
+        "x": 364,
+        "y": 368,
+        "sz": 44,
+        "path": [
+         [
+          16.602,
+          71,
+          368
+         ],
+         [
+          17.18,
+          71,
+          368
+         ],
+         [
+          17.2,
+          165,
+          368
+         ],
+         [
+          17.58,
+          165,
+          368
+         ],
+         [
+          17.6,
+          262,
+          368
+         ],
+         [
+          18.18,
+          262,
+          368
+         ],
+         [
+          18.2,
+          364,
+          368
+         ],
+         [
+          24.087,
+          364,
+          368
+         ],
+         [
+          24.106,
+          360,
+          484
+         ]
+        ],
+        "flash": [
+         24.106,
+         25.17
+        ],
+        "grow": [
+         25.17,
+         56
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 16.7,
+        "dlg": "@dh"
+       },
+       {
+        "t": 19.8,
+        "dlg": "@di"
+       },
+       {
+        "t": 21.56,
+        "dlg": "@dj"
+       },
+       {
+        "t": 24.2,
+        "dlg": "@dba"
+       }
+      ],
+      "pops": [
+       {
+        "t": 18.2,
+        "until": 19.8,
+        "type": "dex",
+        "head": "@xch",
+        "name": "@xcn",
+        "lab": "@xcl",
+        "val": "@xcv",
+        "cps": 40
+       },
+       {
+        "t": 19.8,
+        "until": 23.351,
+        "type": "badges",
+        "y": 407,
+        "lab": "@bl",
+        "n0": 0,
+        "fills": [
+         [
+          20.02,
+          1
+         ],
+         [
+          20.24,
+          2
+         ],
+         [
+          20.46,
+          3
+         ],
+         [
+          20.68,
+          4
+         ],
+         [
+          20.9,
+          5
+         ]
+        ],
+        "col": "#f0a030"
+       }
+      ]
+     },
+     {
+      "t": 26.14,
+      "fin": 0.15,
+      "map": "route2",
+      "variant": "grass",
+      "sign": [
+       "@s_f",
+       "@s_f_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:4433134",
+        "x": 225,
+        "y": 368,
+        "sz": 58,
+        "tag": "@n_c",
+        "tagin": 27.118
+       },
+       {
+        "k": "m:clawrex",
+        "x": 292,
+        "y": 368,
+        "sz": 44,
+        "bub": [
+         26.262,
+         "!",
+         null,
+         27.118
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 26.14,
+        "dlg": "@dbb"
+       },
+       {
+        "t": 27.24,
+        "dlg": "@dbc"
+       }
+      ],
+      "pops": [
+       {
+        "t": 27.118,
+        "type": "dex",
+        "head": "@xdh",
+        "name": "@xdn",
+        "lab": "@xdl",
+        "val": "@xdv",
+        "cps": 40,
+        "strike": 29.635,
+        "nope": 29.727
+       }
+      ]
+     },
+     {
+      "t": 30.28,
+      "fin": 0.15,
+      "map": "hall",
+      "sign": [
+       "@s_g",
+       "@s_g_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:2987@TOR",
+        "x": 94,
+        "y": 319,
+        "sz": 54,
+        "tag": "@n_a"
+       },
+       {
+        "k": "m:frostram",
+        "x": 149,
+        "y": 319,
+        "sz": 44
+       },
+       {
+        "k": "p:1977@TOR",
+        "x": 248,
+        "y": 319,
+        "sz": 54,
+        "tag": "@n_b"
+       },
+       {
+        "k": "m:shadepaw",
+        "x": 303,
+        "y": 319,
+        "sz": 50
+       },
+       {
+        "k": "p:4433134",
+        "x": 405,
+        "y": 319,
+        "sz": 54,
+        "tag": "@n_c"
+       },
+       {
+        "k": "m:clawrex",
+        "x": 460,
+        "y": 319,
+        "sz": 44
+       }
+      ],
+      "pages": [
+       {
+        "t": 30.28,
+        "dlg": "@dbd"
+       },
+       {
+        "t": 32.86,
+        "dlg": "@dbe"
+       },
+       {
+        "t": 35.22,
+        "dlg": "@dbf"
+       },
+       {
+        "t": 36.9,
+        "dlg": "@dbg"
+       }
+      ],
+      "pops": [
+       {
+        "t": 30.423,
+        "type": "table",
+        "heads": [
+         "@h_a",
+         "@h_b",
+         "@h_c"
+        ],
+        "rows": [
+         {
+          "lab": "@l_ppg",
+          "vals": [
+           "@v_ppga",
+           "@v_ppgb",
+           "@v_ppgc"
+          ],
+          "at": 31.427,
+          "lead": 1
+         },
+         {
+          "lab": "@l_as",
+          "vals": [
+           "@v_asa",
+           "@v_asb",
+           "@v_asc"
+          ],
+          "at": 32.967,
+          "lead": 1
+         },
+         {
+          "lab": "@l_sw",
+          "vals": [
+           "@v_swa",
+           "@v_swb",
+           "@v_swc"
+          ],
+          "at": 35.304,
+          "lead": null
+         }
+        ],
+        "red": [
+         [
+          37.3,
+          2,
+          [
+           0,
+           1,
+           2
+          ]
+         ]
+        ],
+        "lines": [
+         [
+          37.4,
+          2,
+          196,
+          444
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "t": 38.7,
+      "fin": 0.15,
+      "map": "town",
+      "mood": "night",
+      "sparkle": true,
+      "crestPos": "tr",
+      "crestK": "l:TOR",
+      "sign": [
+       "@s_h",
+       "@s_h_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:4433134",
+        "x": 225,
+        "y": 371,
+        "sz": 58,
+        "tag": "@n_c",
+        "tag2": "@still",
+        "tag2in": 42.4,
+        "tag2c": "#3a9a5a"
+       },
+       {
+        "k": "m:clawrex",
+        "x": 296,
+        "y": 371,
+        "sz": 46
+       },
+       {
+        "k": "m:frostram",
+        "x": 94,
+        "y": 405,
+        "sz": 44
+       },
+       {
+        "k": "m:shadepaw",
+        "x": 442,
+        "y": 405,
+        "sz": 50
+       }
+      ],
+      "pages": [
+       {
+        "t": 38.7,
+        "dlg": "@dbh"
+       },
+       {
+        "t": 41.3,
+        "dlg": "@dbi"
+       }
+      ]
+     }
+    ],
+    "endDim": 44.4
+   }
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.3
+  },
+  {
+   "kind": "town",
+   "vo": "one of them won two rings somewhere else."
+  },
+  {
+   "kind": "town",
+   "vo": "Andrea Bargnani first."
+  },
+  {
+   "kind": "town",
+   "vo": "He got compared to Dirk."
+  },
+  {
+   "kind": "town",
+   "vo": "Here he scored 15 a night with zero All-Star games."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.68
+  },
+  {
+   "kind": "town",
+   "vo": "Then New York traded for him."
+  },
+  {
+   "kind": "town",
+   "vo": "No All-Star, no title."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.26
+  },
+  {
+   "kind": "town",
+   "vo": "Chris Bosh modeled his game on Kevin Garnett."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.42
+  },
+  {
+   "kind": "town",
+   "vo": "Five All-Star games here,"
+  },
+  {
+   "kind": "town",
+   "vo": "the most points in Raptors history when he left,"
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.14
+  },
+  {
+   "kind": "town",
+   "vo": "then two rings in Miami."
+  },
+  {
+   "kind": "town",
+   "vo": "And Scottie?"
+  },
+  {
+   "kind": "town",
+   "vo": "Everyone thought we'd take Jalen Suggs at number four."
+  },
+  {
+   "kind": "town",
+   "vo": "Through five seasons each, Bosh scored the most."
+  },
+  {
+   "kind": "town",
+   "vo": "Three All-Star games to Scottie's two."
+  },
+  {
+   "kind": "town",
+   "vo": "Playoff series won here?"
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.04
+  },
+  {
+   "kind": "town",
+   "vo": "Zero for all three."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.22
+  },
+  {
+   "kind": "town",
+   "vo": "One of our top picks won it somewhere else."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.3
+  },
+  {
+   "kind": "town",
+   "vo": "Scottie's winning one here."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 1.24
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Andrea Bargnani was selected first overall (No. 1) by the Toronto Raptors in the 2006 NBA draft; as a prospect he drew many comparisons to Dirk Nowitzki",
+   "source": "https://en.wikipedia.org/wiki/Andrea_Bargnani"
+  },
+  {
+   "claim": "Chris Bosh was drafted fourth overall (No. 4) by Toronto in 2003; Bosh named Kevin Garnett his favorite athlete and modeled his play after him; he played for Toronto 2003-2010",
+   "source": "https://en.wikipedia.org/wiki/Chris_Bosh"
+  },
+  {
+   "claim": "Scottie Barnes was the fourth overall pick (No. 4) of the Toronto Raptors in the 2021 NBA draft; the consensus was the Raptors would select Jalen Suggs",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "claim": "So of three top-4 picks (Nos. 1, 4, 4), one (Bosh) won 2 rings elsewhere: Miami titles in 2012 and 2013 (2012+13); Bargnani and Barnes have none",
+   "source": "https://en.wikipedia.org/wiki/Chris_Bosh"
+  },
+  {
+   "claim": "Bargnani's Raptors years: 2006-07 to 2012-13 (2006-2013), 6581 points in 433 games = 15.2 PPG (about 15 a night); never an NBA All-Star (0)",
+   "source": "https://www.espn.com/nba/player/stats/_/id/2987/andrea-bargnani"
+  },
+  {
+   "claim": "On 10 July 2013, Bargnani was traded to the New York Knicks (New York, 2013); no NBA All-Star selection and no NBA title afterwards",
+   "source": "https://en.wikipedia.org/wiki/Andrea_Bargnani"
+  },
+  {
+   "claim": "Bosh made five All-Star teams with the Raptors (2006, 2007, 2008, 2009, 2010); when he left Toronto in 2010 he held the franchise career record for points",
+   "source": "https://en.wikipedia.org/wiki/Chris_Bosh"
+  },
+  {
+   "claim": "First 5 seasons each (each man's first 5), regular season: Bargnani 2006-07..2010-11 5535 pts / 367 games = 15.1 PPG; Bosh 2003-04..2007-08 6851 / 362 = 18.9 PPG; Barnes 2021-22..2025-26 6204 / 356 = 17.4 PPG",
+   "source": "https://www.espn.com/nba/player/stats/_/id/1977/chris-bosh"
+  },
+  {
+   "claim": "Barnes season totals 2021-22..2025-26: 1134/74, 1179/77, 1191/60, 1252/65, 1448/80 (points/games)",
+   "source": "https://www.espn.com/nba/player/stats/_/id/4433134/scottie-barnes"
+  },
+  {
+   "claim": "All-Star games in each man's first 5 seasons: Bargnani 0; Bosh 3 (2006, 2007, 2008); Barnes 2 (2024 injury replacement, 2026 reserve)",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "claim": "Playoff series won in each man's first 5 seasons: 0 for all three. Toronto lost in the first round in 2007 (Nets) and 2008 (Magic, 4-1) for Bosh and Bargnani; Barnes's Raptors lost round one in 2022 (76ers) and 2026 (Cavaliers, in seven), missing the 2023-2025 playoffs",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "claim": "Barnes is still a Raptor in the 2026-27 season (career-high 41 points on October 30, 2026)",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  }
+ ]
+}

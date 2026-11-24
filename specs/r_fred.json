@@ -1,0 +1,116 @@
+{
+ "team": "raptors",
+ "name": "fred",
+ "record": "58-24",
+ "caption": "UNDRAFTED 🎮🏀 Nobody picked Fred VanVleet. We signed him anyway.\n\n• 2016: undrafted, signs with us\n• 2019 playoffs: ice cold, 6-for-42 over 9 games\n• May 20: Fred Jr. is born in the middle of the East finals, and Fred catches fire\n• Finals Game 6: 22 points, 5 threes off the bench, we win the title\n• 2022: All-Star\n\nBest underdog story in our history? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "UNDRAFTED",
+   "key": "p:2991230@TOR",
+   "name": "FRED",
+   "badge": "2016",
+   "lines": [
+    [
+     "2016",
+     "UNDRAFTED"
+    ]
+   ],
+   "vo": "Twenty sixteen. The draft comes and goes, and nobody picks Fred VanVleet. We sign him anyway.",
+   "dlg": "2016: UNDRAFTED.|WE SIGN HIM ANYWAY."
+  },
+  {
+   "kind": "fire",
+   "head": "ICE COLD",
+   "key": "p:2991230@TOR",
+   "name": "FRED",
+   "badge": "2019 PLAYOFFS",
+   "lines": [
+    [
+     "6-42",
+     "LAST 9 GAMES"
+    ],
+    [
+     "3-24",
+     "FROM THREE"
+    ]
+   ],
+   "vo": "Twenty nineteen playoffs. Fred is ice cold. Six for forty-two over nine games.",
+   "dlg": "2019 PLAYOFFS: ICE COLD.|6-FOR-42 IN 9 GAMES."
+  },
+  {
+   "kind": "fire",
+   "head": "FRED JR.",
+   "key": "p:2991230@TOR",
+   "name": "FRED",
+   "badge": "MAY 20, 2019",
+   "lines": [
+    [
+     "MAY 20",
+     "SON IS BORN"
+    ]
+   ],
+   "vo": "Then, on May twentieth, his son is born, right in the middle of the East finals. And Fred catches fire.",
+   "dlg": "MAY 20: FRED JR. IS BORN...|AND FRED CATCHES FIRE!"
+  },
+  {
+   "kind": "final",
+   "head": "FINALS GAME 6",
+   "oname": "WARRIORS",
+   "logo": "l:GSW",
+   "ocol": "auto:GSW",
+   "my": 114,
+   "th": 110,
+   "win": true,
+   "vo": "Finals Game six. Twenty-two points, five threes, off the bench. We win the title.",
+   "dlg": "22 PTS, 5 THREES...|WE WIN THE TITLE!"
+  },
+  {
+   "kind": "fire",
+   "head": "ALL-STAR",
+   "key": "p:2991230@TOR",
+   "name": "FRED",
+   "badge": "ALL-STAR",
+   "lines": [
+    [
+     "2022",
+     "ALL-STAR"
+    ]
+   ],
+   "vo": "Twenty twenty-two: an All-Star. Not bad for a guy nobody drafted.",
+   "dlg": "2022: ALL-STAR.|NOT BAD FOR UNDRAFTED!"
+  },
+  {
+   "kind": "next",
+   "head": "STEADY FRED",
+   "logo": "l:TOR",
+   "rec": "#23",
+   "ntxt": "FRED",
+   "nday": "UNDRAFTED",
+   "vo": "Best underdog story in our history? Comment below.",
+   "dlg": "BEST UNDERDOG STORY EVER?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401134820",
+   "score": "114-110"
+  },
+  {
+   "game": "401134820",
+   "player": "2991230",
+   "stat": "PTS",
+   "value": 22
+  },
+  {
+   "game": "401134820",
+   "player": "2991230",
+   "stat": "3PT",
+   "value": "5-11"
+  },
+  {
+   "claim": "VanVleet went undrafted in 2016 and signed with Toronto; shot 6-42 (3-24 from three) over 9 playoff games before his son was born May 20, 2019 during the East finals; 22 points with 5 threes off the bench in Finals Game 6; All-Star 2022; wore #23 in Toronto",
+   "source": "https://en.wikipedia.org/wiki/Fred_VanVleet"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "team": "warriors",
+ "name": "wilttrade",
+ "pace": "wolves",
+ "record": "W OR L?",
+ "caption": "TRADE COURT, CASE #4: WE TRADED WILT 🎮🏀 He scored 100 in a game for us. Less than three years later, he was gone.\n\n• 1961-62: Wilt averaged 50.4 PPG and scored 100 in one game\n• 1965 All-Star break: we traded him to Philadelphia for Paul Neumann, Connie Dierking and Lee Shaffer\n• 1967: Wilt won the title with the 76ers\n• It's still cited as a star traded for far less than he was worth\n\nYour verdict: comment W or L 👇\nCase #5 drops Monday night. Follow so you don't miss it.",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "WE TRADED WILT",
+   "key": "l:GSW",
+   "name": "WILT",
+   "badge": "TRADE COURT #4",
+   "lines": [
+    [
+     "50.4",
+     "PPG, 1961-62"
+    ],
+    [
+     "100",
+     "IN ONE GAME"
+    ]
+   ],
+   "vo": "He scored a hundred points in one game for us. Less than three years later, we traded him.",
+   "dlg": "HE SCORED 100 FOR US.|THEN WE TRADED HIM."
+  },
+  {
+   "kind": "hot",
+   "head": "WHAT CAME BACK",
+   "rows": [
+    {
+     "logo": "l:GSW",
+     "name": "NEUMANN",
+     "sub": "FROM PHILLY",
+     "val": "IN",
+     "w": 1
+    },
+    {
+     "logo": "l:GSW",
+     "name": "DIERKING",
+     "sub": "FROM PHILLY",
+     "val": "IN",
+     "w": 1
+    },
+    {
+     "logo": "l:GSW",
+     "name": "SHAFFER",
+     "sub": "FROM PHILLY",
+     "val": "IN",
+     "w": 1
+    }
+   ],
+   "vo": "Back from Philadelphia came Paul Neumann, Connie Dierking and Lee Shaffer.",
+   "dlg": "NEUMANN. DIERKING.|SHAFFER."
+  },
+  {
+   "kind": "fire",
+   "head": "IN PHILLY",
+   "key": "l:PHI",
+   "name": "WILT",
+   "badge": "1966-67",
+   "lines": [
+    [
+     "1967",
+     "NBA CHAMPION"
+    ]
+   ],
+   "vo": "Two years later, Wilt won the title in Philadelphia.",
+   "dlg": "WILT IN PHILLY:|1967 CHAMPION."
+  },
+  {
+   "kind": "next",
+   "head": "THE VERDICT",
+   "logo": "l:GSW",
+   "rec": "W OR L?",
+   "ntxt": "CASE #5",
+   "nday": "MONDAY",
+   "vo": "It's still cited as a star traded for far less than he was worth. Did we win this trade? W or L. Case five, Monday night.",
+   "dlg": "DID WE WIN THIS TRADE?|W OR L? CASE #5: MONDAY NIGHT."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "In 1961-62 Wilt Chamberlain averaged 50.4 points per game and scored 100 points in one game for the Warriors. At the 1965 All-Star Weekend he was traded to the Philadelphia 76ers. In the 1966-67 season he won the NBA championship with the 76ers (1967 champion).",
+   "source": "https://en.wikipedia.org/wiki/Wilt_Chamberlain"
+  },
+  {
+   "claim": "In 1965 Paul Neumann was traded at mid-season with Connie Dierking and Lee Shaffer (1 trade) to the San Francisco Warriors for Wilt Chamberlain, a trade frequently cited as an example of a star player being traded for far less than he is worth.",
+   "source": "https://en.wikipedia.org/wiki/Paul_Neumann_(basketball)"
+  }
+ ]
+}

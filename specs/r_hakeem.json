@@ -1,0 +1,81 @@
+{
+ "team": "raptors",
+ "name": "hakeem",
+ "pace": "wolves",
+ "caption": "HAKEEM'S LAST SEASON WAS WITH US 🎮🏀\n\n• Houston legend: 2 titles, 2 Finals MVPs (1994, 1995)\n• Aug 2, 2001: he turned down $13 million from the Rockets, and Houston traded him to us for draft picks\n• His deal with us: 3 years, $18 million\n• With us: 7.1 points and 6.0 rebounds a night, the lowest of his career\n• Fall 2002: he retired with a bad back, the NBA's all-time leader in blocks (3,830)\n\nDid you know The Dream played for us? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "THE DREAM",
+   "key": "l:TOR",
+   "name": "HAKEEM",
+   "badge": "2001-02",
+   "lines": [
+    [
+     "2",
+     "TITLES"
+    ],
+    [
+     "2",
+     "FINALS MVPS"
+    ]
+   ],
+   "vo": "Two titles. Two Finals MVPs. And Hakeem Olajuwon's last NBA season? He played it for us.",
+   "dlg": "TWO TITLES. TWO FINALS MVPS.|HIS LAST SEASON? WITH US."
+  },
+  {
+   "kind": "fire",
+   "head": "THE DEAL",
+   "key": "l:TOR",
+   "name": "HAKEEM",
+   "badge": "AUG 2, 2001",
+   "lines": [
+    [
+     "$13M",
+     "SAID NO TO HOUSTON"
+    ],
+    [
+     "$18M",
+     "3 YEARS WITH US"
+    ]
+   ],
+   "vo": "He turned down thirteen million from Houston, and the Rockets traded him to Toronto.",
+   "dlg": "HE SAID NO TO HOUSTON.|THEY SENT HIM TO US."
+  },
+  {
+   "kind": "fire",
+   "head": "ONE SEASON",
+   "key": "l:TOR",
+   "name": "HAKEEM",
+   "badge": "2001-02",
+   "lines": [
+    [
+     "7.1",
+     "PPG"
+    ],
+    [
+     "6.0",
+     "RPG"
+    ]
+   ],
+   "vo": "Seven point one points and six boards a night. Then his back gave out, and he retired.",
+   "dlg": "7.1 POINTS, 6.0 BOARDS.|THEN HE RETIRED."
+  },
+  {
+   "kind": "next",
+   "head": "DID YOU KNOW?",
+   "logo": "l:TOR",
+   "rec": "3,830",
+   "ntxt": "ALL-TIME",
+   "nday": "BLOCKS KING",
+   "vo": "He retired as the all-time blocks leader, in our jersey. Did you know? Comment below.",
+   "dlg": "THE ALL-TIME BLOCKS KING|RETIRED A RAPTOR."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Hakeem Olajuwon: 2 NBA titles and 2 Finals MVPs (1994, 1995) with Houston. On August 2, 2001 (Aug 2, 2001), after refusing a $13 million (13M) deal with the Rockets, he was traded to the Toronto Raptors for draft picks, on a three-year (3 years) contract worth $18 million (18M). With Toronto in 2001-02 he averaged career lows of 7.1 points and 6.0 rebounds per game in his final NBA season and retired in the fall of 2002 with a back injury, the all-time leader in blocked shots with 3,830 (3830). ESPN id 619.",
+   "source": "https://en.wikipedia.org/wiki/Hakeem_Olajuwon"
+  }
+ ]
+}

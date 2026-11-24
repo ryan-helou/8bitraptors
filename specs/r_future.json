@@ -1,0 +1,146 @@
+{
+ "team": "raptors",
+ "name": "future",
+ "l1": "THE NEXT TITLE TEAM...",
+ "q": "WHO DO YOU BUILD AROUND?",
+ "boxA": "THE FUTURE",
+ "boxB": "PICK ONE TO BUILD AROUND",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: THE FUTURE 🎮🏀 You're building our next title team. Who do you build around?\n\n1️⃣ Scottie Barnes, all-around: 23.5 PPG, 7.6 RPG, 5.1 APG\n2️⃣ Collin Murray-Boyles, two-way: 10.7 PPG, 5.0 RPG\n3️⃣ Ja'Kobe Walter, scorer: 10.9 PPG, 4.0 RPG\n\n(2026-27 stats)\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "4433134",
+   "name": "SCOTTIE",
+   "full": "SCOTTIE BARNES",
+   "jersey": "4",
+   "type": "ALL-AROUND",
+   "season": "2026-27",
+   "stats": [
+    [
+     "23.5",
+     "PPG"
+    ],
+    [
+     "7.6",
+     "RPG"
+    ],
+    [
+     "5.1",
+     "APG"
+    ]
+   ]
+  },
+  {
+   "id": "5093267",
+   "name": "CMB",
+   "full": "COLLIN MURRAY-BOYLES",
+   "jersey": "30",
+   "type": "TWO-WAY",
+   "season": "2026-27",
+   "stats": [
+    [
+     "10.7",
+     "PPG"
+    ],
+    [
+     "5.0",
+     "RPG"
+    ],
+    [
+     "1.3",
+     "APG"
+    ]
+   ]
+  },
+  {
+   "id": "4684272",
+   "name": "JA'KOBE",
+   "full": "JA'KOBE WALTER",
+   "jersey": "14",
+   "type": "SCORER",
+   "season": "2026-27",
+   "stats": [
+    [
+     "10.9",
+     "PPG"
+    ],
+    [
+     "4.0",
+     "RPG"
+    ],
+    [
+     "2.4",
+     "APG"
+    ]
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 7.6
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.1
+  },
+  {
+   "claim": "Scottie Barnes wears #4 for Toronto",
+   "source": "https://www.espn.com/nba/player/_/id/4433134"
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 10.7
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 5.0
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 1.3
+  },
+  {
+   "claim": "Collin Murray-Boyles wears #30 for Toronto",
+   "source": "https://www.espn.com/nba/player/_/id/5093267"
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 10.9
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 4.0
+  },
+  {
+   "player": "4684272",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 2.4
+  },
+  {
+   "claim": "Ja'Kobe Walter wears #14 for Toronto",
+   "source": "https://www.espn.com/nba/player/_/id/4684272"
+  }
+ ]
+}

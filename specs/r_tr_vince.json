@@ -1,0 +1,249 @@
+{
+ "team": "raptors",
+ "name": "tr_vince",
+ "record": "5-4",
+ "caption": "IF VINCE HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🐦 Rookidee: bravely challenges any opponent, no matter how powerful. Rookie of the Year in 1999, 18.3 a night\n✈️ Pidgeot: races through the sky at Mach 2. Air Canada, 25.7 a night in year two\n🤼 Hawlucha: strikes a pose, then ends it with a flashy finishing move. 2000 Slam Dunk champion: the 360 windmill, the elbow in the rim\n🔥 Typhlosion: so hot that anything that touches it goes up in flames. 27.6 a night in 2000-01, still our single-season record\n⚡ Zapdos: appears when the sky turns dark and lightning showers down. 50 points and 9 threes in a 2001 playoff game vs Philly\n🐉 Rayquaza: lives so far above the clouds it can't be seen from the ground. No. 15, the first jersey we ever retired\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Vince Carter had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF VINCE CARTER HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Rookidee. It bravely challenges any opponent, no matter how powerful. Vince's first year with us: Rookie of the Year, eighteen point three a night.",
+   "dlg": "CHALLENGES ANY OPPONENT.|1999: ROOKIE OF THE YEAR!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Pidgeot. It races through the skies at Mach two. That's why they called him Air Canada. Year two: twenty-five point seven a night.",
+   "dlg": "IT RACES THROUGH THE SKY.|THEY CALLED HIM AIR CANADA"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Hawlucha. It always strikes a pose, then ends the fight with a flashy finishing move. Two thousand: the three-sixty windmill, the elbow in the rim. Dunk contest champion.",
+   "dlg": "A FLASHY FINISHING MOVE.|2000 DUNK CONTEST CHAMP!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Typhlosion. When its rage peaks, anything that touches it goes up in flames. Year three: twenty-seven point six a night. Still our record.",
+   "dlg": "ANYTHING IT TOUCHES BURNS.|27.6 PPG: STILL OUR RECORD"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Zapdos. It appears when the sky turns dark and lightning showers down. Playoffs, twenty oh one, against Philly: fifty points, nine threes.",
+   "dlg": "LIGHTNING SHOWERS DOWN.|50 PTS, 9 THREES VS PHILLY"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Rayquaza. It lives so far above the clouds no one can see it. Twenty twenty-four: number fifteen, the first jersey we ever retired.",
+   "dlg": "LIVES ABOVE THE CLOUDS.|OUR FIRST RETIRED JERSEY"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "136",
+   "season": "1998-99",
+   "stat": "PTS",
+   "value": 18.3
+  },
+  {
+   "player": "136",
+   "season": "1999-00",
+   "stat": "PTS",
+   "value": 25.7
+  },
+  {
+   "player": "136",
+   "season": "2000-01",
+   "stat": "PTS",
+   "value": 27.6
+  },
+  {
+   "game": "210511028",
+   "player": "136",
+   "stat": "PTS",
+   "value": 50
+  },
+  {
+   "game": "210511028",
+   "player": "136",
+   "stat": "3PT",
+   "value": "9-13"
+  },
+  {
+   "claim": "Carter won the 1999 NBA Rookie of the Year Award averaging 18.3 points; nickname Air Canada; ascended to stardom in his second season (1999-00); won the 2000 Slam Dunk Contest with a 360 windmill and an elbow-in-the-rim dunk; in 2000-01, his third season, career-high 27.6 PPG, the Raptors' highest points per game in a season; 50 points in Game 3 vs the Philadelphia 76ers in the 2001 playoffs (May 11, 2001); on November 2, 2024 the Raptors retired his No. 15, the first Raptors player to have his jersey retired",
+   "source": "https://en.wikipedia.org/wiki/Vince_Carter"
+  },
+  {
+   "claim": "Pidgeot races through the skies at Mach-2 (Mach 2) speed (PokeAPI species flavor text)",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/pidgeot"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:136@TOR",
+   "mon": "pk:rookidee",
+   "nick": "ROOKIDEE",
+   "types": [
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "ROOKIE",
+   "stat": "18.3 PPG"
+  },
+  {
+   "key": "p:136@TOR",
+   "mon": "pk:pidgeot",
+   "nick": "PIDGEOT",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "AIR CANADA",
+   "stat": "25.7 PPG"
+  },
+  {
+   "key": "p:136@TOR",
+   "mon": "pk:hawlucha",
+   "nick": "HAWLUCHA",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "DUNK CHAMP",
+   "stat": "2000 CHAMP"
+  },
+  {
+   "key": "p:136@TOR",
+   "mon": "pk:typhlosion",
+   "nick": "TYPHLOSION",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "THE HEATER",
+   "stat": "27.6 PPG"
+  },
+  {
+   "key": "p:136@TOR",
+   "mon": "pk:zapdos",
+   "nick": "ZAPDOS",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE STORM",
+   "stat": "50 PTS"
+  },
+  {
+   "key": "p:136@TOR",
+   "mon": "pk:rayquaza",
+   "nick": "RAYQUAZA",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "NO. 15 RETIRED"
+  }
+ ],
+ "mode": "trainer"
+}

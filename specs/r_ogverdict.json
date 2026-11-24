@@ -1,0 +1,41 @@
+{
+ "team": "raptors",
+ "name": "ogverdict",
+ "pace": "wolves",
+ "record": "5-7",
+ "caption": "TONIGHT WE PLAY OG 🎮🏀 We traded him to the Knicks for RJ and IQ. Who won?\n\n• Dec 30, 2023: OG, Precious Achiuwa and Malachi Flynn to New York for RJ Barrett, Immanuel Quickley and a second-round pick\n• The Knicks then gave OG 5 years, $212.5 million\n• OG this season: 16.0 a night on 38.0% shooting (first 12 games)\n• RJ: 21.3 a night (first 12 games). IQ: 17.6 points, 5.6 assists (first 10 games)\n\nWho won the trade? 👇",
+ "beats": [
+  {"kind": "fire", "head": "WHO WON?", "key": "p:3934719@NYK", "name": "OG", "badge": "DEC 30, 2023",
+   "lines": [["OG", "TO NEW YORK"], ["RJ + IQ", "TO US"]],
+   "vo": "Tonight we play OG. We traded him to the Knicks for RJ and IQ. So who won the trade?",
+   "dlg": "TONIGHT WE PLAY OG.|WE TRADED HIM FOR RJ AND IQ."},
+  {"kind": "fire", "head": "WHAT WE SENT", "key": "p:3934719@NYK", "name": "OG", "badge": "FIRST 12 GAMES",
+   "lines": [["16.0", "PPG"], ["38.0%", "FROM THE FIELD"]],
+   "vo": "The Knicks paid OG two hundred and twelve million. This season: sixteen a night, on thirty-eight percent shooting.",
+   "dlg": "OG: $212.5M DEAL. 16.0 PPG|ON 38.0% THIS SEASON."},
+  {"kind": "fire", "head": "WHAT WE GOT", "key": "p:4395625@TOR", "name": "RJ", "badge": "FIRST 12 GAMES",
+   "lines": [["21.3", "PPG"], ["6.7", "RPG"]],
+   "vo": "RJ? Twenty-one point three a night, and six point seven boards.",
+   "dlg": "RJ: 21.3 POINTS,|6.7 REBOUNDS A NIGHT."},
+  {"kind": "fire", "head": "AND IQ", "key": "p:4395724@TOR", "name": "IQ", "badge": "FIRST 10 GAMES",
+   "lines": [["17.6", "PPG"], ["5.6", "APG"]],
+   "vo": "And IQ: seventeen point six points, five point six assists.",
+   "dlg": "IQ: 17.6 POINTS,|5.6 ASSISTS A NIGHT."},
+  {"kind": "next", "head": "WHO WON?", "logo": "l:TOR", "rec": "TONIGHT", "ntxt": "VS KNICKS", "nday": "6 PM ET",
+   "vo": "Two for one, and OG's on the other side tonight. Who won the trade? Comment below.",
+   "dlg": "TWO FOR ONE.|WHO WON THE TRADE?"}
+ ],
+ "facts": [
+  {"claim": "On 30 December 2023 (Dec 30, 2023), the Raptors traded Anunoby, Precious Achiuwa and Malachi Flynn to the New York Knicks in exchange for RJ Barrett, Immanuel Quickley, and a second-round pick. On 6 July 2024, Anunoby re-signed with the Knicks on a five-year (5 years), $212.5 million contract.", "source": "https://en.wikipedia.org/wiki/OG_Anunoby"},
+  {"claim": "Raptors vs Knicks, Sun Nov 15 2026, 23:00 UTC = 6 PM ET tip-off (ESPN game 401909990)", "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/tor/schedule"},
+  {"player": "3934719", "season": "2026-27", "stat": "GP", "value": 12},
+  {"player": "3934719", "season": "2026-27", "stat": "PTS", "value": 16.0},
+  {"player": "3934719", "season": "2026-27", "stat": "FG%", "value": 38.0},
+  {"player": "4395625", "season": "2026-27", "stat": "GP", "value": 12},
+  {"player": "4395625", "season": "2026-27", "stat": "PTS", "value": 21.3},
+  {"player": "4395625", "season": "2026-27", "stat": "REB", "value": 6.7},
+  {"player": "4395724", "season": "2026-27", "stat": "GP", "value": 10},
+  {"player": "4395724", "season": "2026-27", "stat": "PTS", "value": 17.6},
+  {"player": "4395724", "season": "2026-27", "stat": "AST", "value": 5.6}
+ ]
+}

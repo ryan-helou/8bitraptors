@@ -1,0 +1,295 @@
+{
+ "team": "warriors",
+ "name": "team_2015",
+ "record": "7-3",
+ "mode": "team",
+ "caption": "IF OUR 2015 CHAMPIONSHIP STARTERS WERE POKÉMON 🎮🏀\n\n🌊 Steph Curry = Lugia: one flutter of its wings can blow apart houses. First MVP season, 23.8 a night\n💦 Klay Thompson = Squirtle: shoots water at its prey. The other Splash Brother, 43.9% from three\n🛡️ Harrison Barnes = Corviknight: a steel body that terrifies any foe. 82 games, 82 starts\n🦞 Draymond Green = Crawdaunt: a brute that loves to battle. 8.2 rebounds and 3.7 assists a night\n🦎 Andre Iguodala = Kecleon: blends in, then strikes unnoticed. 0 starts all season, then Finals MVP\n\nThat's a team we're taking into any gym in the league. Who would you change? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "key": "p:3975@GSW",
+   "mon": "pk:lugia",
+   "nick": "CURRY",
+   "types": [
+    [
+     "PSYCHIC",
+     "#f85888"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "FIRST MVP",
+   "stat": "23.8 PPG"
+  },
+  {
+   "key": "p:6475@GSW",
+   "mon": "pk:squirtle",
+   "nick": "THOMPSON",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "SPLASH",
+   "stat": "43.9 3P%"
+  },
+  {
+   "key": "p:6578@GSW",
+   "mon": "pk:corviknight",
+   "nick": "BARNES",
+   "types": [
+    [
+     "FLYING",
+     "#a890f0"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "STEEL BODY",
+   "stat": "82 STARTS"
+  },
+  {
+   "key": "p:6589@GSW",
+   "mon": "pk:crawdaunt",
+   "nick": "GREEN",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "BRAWLER",
+   "stat": "8.2 RPG"
+  },
+  {
+   "key": "p:2386@GSW",
+   "mon": "pk:kecleon",
+   "nick": "IGUODALA",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "SIXTH MAN",
+   "stat": "FINALS MVP"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If our twenty fifteen champs were Pokemon, here's the team.",
+   "dlg": "IF OUR 2015 CHAMPIONSHIP|STARTERS WERE MONSTERS..."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "Steph Curry is Lugia.",
+   "dlg": "GO! STEPH CURRY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "vo": "Even a light flutter of its wings can blow apart houses.",
+   "dlg": "ONE FLUTTER OF ITS WINGS|CAN BLOW APART HOUSES."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "That's Steph's first MVP season. Twenty-three point eight points a night.",
+   "dlg": "FIRST MVP SEASON:|23.8 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "Klay Thompson is Squirtle.",
+   "dlg": "GO! KLAY THOMPSON!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "It shoots water at its prey, then sprays foam from its mouth.",
+   "dlg": "IT SHOOTS WATER|AT ITS PREY."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "The other Splash Brother. Forty-three point nine percent from three.",
+   "dlg": "THE OTHER SPLASH BROTHER|43.9% FROM THREE!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "Harrison Barnes is Corviknight.",
+   "dlg": "GO! HARRISON BARNES!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "The black luster of its steel body drives terror into the heart of any foe.",
+   "dlg": "ITS BLACK STEEL BODY|TERRIFIES ANY FOE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "Built like steel. Eighty-two games, eighty-two starts.",
+   "dlg": "BUILT LIKE STEEL:|82 GAMES, 82 STARTS!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "vo": "Draymond Green is Crawdaunt.",
+   "dlg": "GO! DRAYMOND GREEN!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "A brute that loves to battle. It challenges anything that comes near.",
+   "dlg": "A BRUTE THAT LOVES|TO BATTLE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "stat": true,
+   "vo": "That's Draymond. Eight point two rebounds and three point seven assists a night.",
+   "dlg": "DRAYMOND DOES IT ALL:|8.2 REB, 3.7 AST A NIGHT"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "fx": "aura",
+   "vo": "And Andre Iguodala is Kecleon.",
+   "dlg": "GO! ANDRE IGUODALA!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "fx": "aura",
+   "vo": "It changes color to blend in with its surroundings, then strikes before anyone notices.",
+   "dlg": "IT BLENDS IN, THEN|STRIKES UNNOTICED."
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "fx": "aura",
+   "stat": true,
+   "vo": "Zero starts all season, off our bench. Then he starts in the Finals, and wins Finals MVP.",
+   "dlg": "0 STARTS ALL SEASON...|THEN FINALS MVP!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a team we're taking into any gym in the league.",
+   "dlg": "A TEAM WE'RE TAKING INTO|ANY GYM IN THE LEAGUE."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who would you change? Comment below.",
+   "dlg": "WHO WOULD YOU CHANGE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2014-15",
+   "stat": "PTS",
+   "value": 23.8
+  },
+  {
+   "player": "6475",
+   "season": "2014-15",
+   "stat": "3P%",
+   "value": 43.9
+  },
+  {
+   "player": "6578",
+   "season": "2014-15",
+   "stat": "GP",
+   "value": 82
+  },
+  {
+   "player": "6578",
+   "season": "2014-15",
+   "stat": "GS",
+   "value": 82
+  },
+  {
+   "player": "6589",
+   "season": "2014-15",
+   "stat": "REB",
+   "value": 8.2
+  },
+  {
+   "player": "6589",
+   "season": "2014-15",
+   "stat": "AST",
+   "value": 3.7
+  },
+  {
+   "player": "2386",
+   "season": "2014-15",
+   "stat": "GS",
+   "value": 0
+  },
+  {
+   "claim": "3P% = three-point (3) field goal percentage, as listed by ESPN",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/6475/stats?seasontype=2"
+  },
+  {
+   "claim": "Our starters in the title-clinching Game 6 of the 2015 Finals: Andre Iguodala, Harrison Barnes, Draymond Green, Stephen Curry, Klay Thompson",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=400796850"
+  },
+  {
+   "claim": "Curry: NBA Most Valuable Player 2015 (first of 2 MVPs, 2015 and 2016)",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  },
+  {
+   "claim": "Thompson and Curry earned the nickname the Splash Brothers; 2015 champions",
+   "source": "https://en.wikipedia.org/wiki/Klay_Thompson"
+  },
+  {
+   "claim": "Iguodala: in 2014-15 a reserve for the first time in his career; captured the 2015 Finals MVP after returning to the starting lineup in the middle of the championship series",
+   "source": "https://en.wikipedia.org/wiki/Andre_Iguodala"
+  },
+  {
+   "claim": "Lugia: so powerful even a light fluttering of its wings can blow apart houses",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/lugia"
+  },
+  {
+   "claim": "Squirtle: shoots water at prey; sprays foam from its mouth",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/squirtle"
+  },
+  {
+   "claim": "Corviknight: the black luster of its steel body could drive terror into the heart of any foe",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/corviknight"
+  },
+  {
+   "claim": "Crawdaunt: a brutish Pokemon that loves to battle; compelled to challenge other living things to battle",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/crawdaunt"
+  },
+  {
+   "claim": "Kecleon: alters its body coloration to blend in with its surroundings, sneaking up on prey unnoticed",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/kecleon"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

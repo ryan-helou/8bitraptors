@@ -1,0 +1,106 @@
+{
+ "team": "warriors",
+ "name": "horford40",
+ "record": "7-3",
+ "caption": "BIG AL AT 40 🎮🏀 Everybody figured he'd retire. Instead he re-signed with us at 40.\n\n• 2007 draft: #3 overall to Atlanta, 5x All-Star\n• First ring in 2024, after 186 playoff games (an NBA record)\n• Signed with us in 2025, re-signed this summer\n• First 8 games off our bench: 41.7% from three, 4.3 RPG\n\nMore minutes, or save his legs for April? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "AGE 40",
+   "key": "p:3213@GSW",
+   "name": "AL",
+   "badge": "BIG AL",
+   "lines": [
+    [
+     "40",
+     "YEARS OLD"
+    ]
+   ],
+   "vo": "Everybody figured he'd retire. Instead, Al Horford is forty, and still in our rotation.",
+   "dlg": "EVERYONE SAID RETIRE.|AL'S 40 AND STILL HERE."
+  },
+  {
+   "kind": "fire",
+   "head": "PICK 3",
+   "key": "p:3213@GSW",
+   "name": "AL",
+   "badge": "5X ALL-STAR",
+   "lines": [
+    [
+     "#3",
+     "2007 DRAFT"
+    ]
+   ],
+   "vo": "Drafted third in two thousand seven, by Atlanta. Five All-Star games.",
+   "dlg": "2007: PICK 3 BY ATLANTA.|5X ALL-STAR."
+  },
+  {
+   "kind": "fire",
+   "head": "186 GAMES",
+   "key": "p:3213@GSW",
+   "name": "AL",
+   "badge": "NBA RECORD",
+   "lines": [
+    [
+     "186",
+     "PLAYOFF GMS"
+    ]
+   ],
+   "vo": "It took him one hundred eighty-six playoff games to win his first ring. An NBA record.",
+   "dlg": "186 PLAYOFF GAMES...|FIRST RING IN 2024."
+  },
+  {
+   "kind": "fire",
+   "head": "8 GAMES IN",
+   "key": "p:3213@GSW",
+   "name": "AL",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "41.7",
+     "3P%"
+    ],
+    [
+     "4.3",
+     "RPG"
+    ]
+   ],
+   "vo": "Then he chose us, and re-signed this summer. Through eight games off the bench: forty-one point seven percent from three.",
+   "dlg": "8 GAMES OFF OUR BENCH:|41.7% FROM THREE."
+  },
+  {
+   "kind": "next",
+   "head": "BIG AL",
+   "logo": "l:GSW",
+   "rec": "40",
+   "ntxt": "AL",
+   "nday": "AGE 40",
+   "vo": "More minutes for Big Al, or save his legs for April? Comment below.",
+   "dlg": "MORE MINUTES OR REST?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3213",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 41.7
+  },
+  {
+   "player": "3213",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 4.3
+  },
+  {
+   "player": "3213",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Horford, born June 3, 1986 (age 40), drafted 3rd overall in 2007 by Atlanta; 5x All-Star; first NBA championship in 2024 in his 186th career playoff game, the record for most playoff games before a championship; signed with Golden State October 1, 2025 and re-signed June 25, 2026",
+   "source": "https://en.wikipedia.org/wiki/Al_Horford"
+  }
+ ]
+}

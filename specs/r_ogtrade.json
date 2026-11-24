@@ -1,0 +1,132 @@
+{
+ "team": "raptors",
+ "name": "ogtrade",
+ "record": "5-4",
+ "caption": "THE OG TRADE 🎮🏀 We sent OG Anunoby to New York for RJ and IQ. Who won?\n\n• Dec 30, 2023: OG goes to the Knicks, RJ Barrett and Immanuel Quickley come to us\n• RJ this season: 21.6 PPG, 6.1 RPG\n• IQ this season: 17.4 PPG, 5.8 APG\n• OG this season: 16.4 PPG, 38.0 FG%\n\nWho won the trade? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "THE TRADE",
+   "key": "p:3934719@NYK",
+   "name": "OG",
+   "badge": "TO NEW YORK",
+   "lines": [
+    [
+     "2023",
+     "DEC 30"
+    ]
+   ],
+   "vo": "We traded OG Anunoby to New York for RJ Barrett and Immanuel Quickley. Did we win that trade?",
+   "dlg": "WE TRADE OG TO NEW YORK...|FOR RJ AND IQ."
+  },
+  {
+   "kind": "fire",
+   "head": "RJ BARRETT",
+   "key": "p:4395625@TOR",
+   "name": "RJ",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "21.6",
+     "PPG"
+    ],
+    [
+     "6.1",
+     "RPG"
+    ]
+   ],
+   "vo": "RJ this season: twenty-one point six points and six rebounds a night.",
+   "dlg": "RJ THIS SEASON:|21.6 PPG, 6.1 RPG."
+  },
+  {
+   "kind": "fire",
+   "head": "IMMANUEL QUICKLEY",
+   "key": "p:4395724@TOR",
+   "name": "IQ",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "17.4",
+     "PPG"
+    ],
+    [
+     "5.8",
+     "APG"
+    ]
+   ],
+   "vo": "Immanuel Quickley: seventeen point four points and almost six assists.",
+   "dlg": "IQ THIS SEASON:|17.4 PPG, 5.8 APG."
+  },
+  {
+   "kind": "fire",
+   "head": "OG IN NEW YORK",
+   "key": "p:3934719@NYK",
+   "name": "OG",
+   "badge": "KNICKS",
+   "lines": [
+    [
+     "16.4",
+     "PPG"
+    ],
+    [
+     "38.0",
+     "FG%"
+    ]
+   ],
+   "vo": "And OG in New York? Sixteen point four a night, shooting thirty-eight percent.",
+   "dlg": "OG THIS SEASON:|16.4 PPG, 38.0 FG%."
+  },
+  {
+   "kind": "next",
+   "head": "WHO WON?",
+   "logo": "l:TOR",
+   "rec": "2",
+   "ntxt": "FOR 1",
+   "nday": "RJ + IQ",
+   "vo": "Two for one. Who won the trade? Comment below.",
+   "dlg": "TWO FOR ONE.|WHO WON THE TRADE?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.6
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 6.1
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 17.4
+  },
+  {
+   "player": "4395724",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 5.8
+  },
+  {
+   "player": "3934719",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 16.4
+  },
+  {
+   "player": "3934719",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 38.0
+  },
+  {
+   "claim": "On 30 December 2023 the Raptors traded Anunoby (with Achiuwa and Flynn) to the Knicks for RJ Barrett, Immanuel Quickley and a second-round pick: 2 players for 1 star",
+   "source": "https://en.wikipedia.org/wiki/OG_Anunoby"
+  }
+ ]
+}

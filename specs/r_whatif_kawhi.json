@@ -1,0 +1,120 @@
+{
+ "team": "raptors",
+ "name": "whatif_kawhi",
+ "pace": "wolves",
+ "record": "5-7",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "WHAT IF HE STAYED?",
+   "key": "p:6450@TOR",
+   "name": "LEONARD",
+   "badge": "JULY 2019",
+   "lines": [
+    [
+     "2019",
+     "FINALS MVP"
+    ]
+   ],
+   "vo": "Kawhi Leonard won us a title, then left for the Clippers. What if he'd stayed?",
+   "dlg": "KAWHI LEFT FOR THE CLIPPERS.|WHAT IF HE'D STAYED?"
+  },
+  {
+   "kind": "fire",
+   "head": "WITHOUT HIM",
+   "key": "p:3012@TOR",
+   "name": "LOWRY",
+   "badge": "2019-20",
+   "lines": [
+    [
+     "53-19",
+     "RECORD"
+    ]
+   ],
+   "vo": "Without him, we still went fifty-three and nineteen. That's on pace for sixty wins.",
+   "dlg": "WITHOUT HIM: 53-19.|A 60-WIN PACE."
+  },
+  {
+   "kind": "fire",
+   "head": "GAME 7",
+   "key": "p:3149673@TOR",
+   "name": "SIAKAM",
+   "badge": "VS BOSTON",
+   "lines": [
+    [
+     "3-4",
+     "SERIES"
+    ]
+   ],
+   "vo": "And it took Boston seven games to knock us out in the second round.",
+   "dlg": "BOSTON NEEDED 7 GAMES|TO KNOCK US OUT."
+  },
+  {
+   "kind": "fire",
+   "head": "MEANWHILE",
+   "key": "p:6450@TOR",
+   "name": "LEONARD",
+   "badge": "CLIPPERS",
+   "lines": [
+    [
+     "3-1",
+     "BLOWN"
+    ]
+   ],
+   "vo": "Meanwhile, Kawhi's Clippers blew a three-one lead to Denver.",
+   "dlg": "KAWHI'S CLIPPERS BLEW|A 3-1 LEAD TO DENVER."
+  },
+  {
+   "kind": "fire",
+   "head": "THE WHAT IF",
+   "key": "p:6450@TOR",
+   "name": "LEONARD",
+   "badge": "ADD KAWHI",
+   "lines": [
+    [
+     "53",
+     "WINS"
+    ],
+    [
+     "+1",
+     "KAWHI"
+    ]
+   ],
+   "vo": "Now put the Finals MVP back on a team that won fifty-three without him.",
+   "dlg": "PUT THE FINALS MVP BACK|ON A 53-WIN TEAM."
+  },
+  {
+   "kind": "next",
+   "head": "BACK TO BACK?",
+   "logo": "l:TOR",
+   "rec": "2020",
+   "ntxt": "BACK TO",
+   "nday": "BACK?",
+   "vo": "Do we go back to back? Comment below.",
+   "dlg": "DO WE GO BACK TO BACK?|COMMENT BELOW!"
+  }
+ ],
+ "caption": "WHAT IF KAWHI STAYED? 🎮🏀 He left in July 2019. We kept winning anyway.\n\n• 2019: Kawhi, Finals MVP, our first title\n• July 2019: he signs with the Clippers\n• 2019-20 without him: 53-19, a 60-win pace in a 72-game season\n• 2020 second round: Boston needs 7 games to beat us\n• Same round: Kawhi's Clippers blow a 3-1 lead to Denver\n\nPut him back on that team. Do we go back to back? 👇",
+ "facts": [
+  {
+   "claim": "Leonard: 2019 NBA champion and Finals MVP with Toronto, the Raptors' first title; signed with the Los Angeles Clippers as a free agent in July 2019",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "2019-20 Raptors went 53-19 in a 72-game season, a winning percentage equal to 60 wins in a full season; 53 wins",
+   "source": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Toronto_Raptors_season"
+  },
+  {
+   "claim": "2020 playoffs: the Raptors lost to the Boston Celtics in seven (7) games in the Eastern Conference semifinals (second round), series 3-4",
+   "source": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Toronto_Raptors_season"
+  },
+  {
+   "claim": "2020: the Clippers were eliminated by the Denver Nuggets in the Western Conference semifinals after surrendering a 3-1 series lead",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "claim": "Adding one (+1) player, Kawhi, to the 2020 team is the hypothetical",
+   "source": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Toronto_Raptors_season"
+  }
+ ]
+}

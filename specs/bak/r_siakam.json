@@ -1,0 +1,14 @@
+{"team": "raptors", "name": "siakam", "record": "58-24",
+ "caption": "PICK 27 🎮🏀 The Raptors' best draft steal ever?\n\n• 2016 draft: Pascal Siakam goes 27th\n• 2019: Most Improved Player, 16.9 PPG\n• Finals Game 1 vs the Warriors: 32 points on 14-of-17, Raptors win 118-109\n• A ring and 2 All-NBA teams in Toronto\n\nBest Raptors draft pick ever? 👇",
+ "beats": [
+  {"kind": "fire", "head": "PASCAL SIAKAM", "key": "p:3149673@TOR", "name": "SIAKAM", "badge": "PICK 27", "lines": [["#27", "2016 DRAFT"]],
+   "vo": "The twenty sixteen draft. With pick twenty-seven, the Raptors take a raw forward from Cameroon: Pascal Siakam.", "dlg": "2016 DRAFT, PICK 27:|PASCAL SIAKAM."},
+  {"kind": "fire", "head": "LEVEL UP", "key": "p:3149673@TOR", "name": "SIAKAM", "badge": "MIP", "lines": [["2019", "MOST IMPROVED"], ["16.9", "PPG"]],
+   "vo": "Three years later: Most Improved Player, sixteen point nine a game.", "dlg": "2019: MOST IMPROVED PLAYER.|16.9 A GAME."},
+  {"kind": "final", "head": "FINALS GAME 1", "oname": "WARRIORS", "logo": "l:GSW", "ocol": "auto:GSW", "my": 118, "th": 109, "win": true,
+   "vo": "Finals Game one against the Warriors: thirty-two points, on fourteen of seventeen. Raptors win.", "dlg": "FINALS GAME 1: SIAKAM DROPS|32 ON 14-OF-17!"},
+  {"kind": "fire", "head": "CHAMPION", "key": "p:3149673@TOR", "name": "SIAKAM", "badge": "CHAMPION", "lines": [["1", "TITLE"], ["2X", "ALL-NBA"]],
+   "vo": "A ring, and two All-NBA teams... from pick twenty-seven.", "dlg": "A RING. 2X ALL-NBA.|FROM PICK 27."},
+  {"kind": "next", "head": "PICK 27", "logo": "l:TOR", "rec": "#43", "ntxt": "SIAKAM", "nday": "2016-2024",
+   "vo": "Best draft pick in Raptors history? Comment below.", "dlg": "BEST RAPTORS DRAFT PICK EVER?|COMMENT BELOW!"}
+ ]}

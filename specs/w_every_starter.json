@@ -1,0 +1,267 @@
+{
+ "team": "warriors",
+ "name": "every_starter",
+ "record": "7-3",
+ "caption": "IF OUR CORE FIVE WERE POKÉMON 🎮🏀\n\n🎤 PG Steph Curry = Jigglypuff: sings the whole room to sleep. Night night. 27.8 a night, 45.7% from three\n🐴 SG Brandin Podziemski = Mudsdale: its ability is Stamina. All 82 games last season, 16.5 a night this year\n🔥 SF Yaxel Lendeborg = Charmeleon: a rookie, already evolving. 20.2 a night\n📢 PF Draymond Green = Exploud: its bellow shakes the ground. 7.1 assists a night\n🦖 C Al Horford = Aerodactyl: a fossil brought back from amber. 40 and still flying\n\nWho would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If our core five were Pokemon, who'd be who?",
+   "dlg": "IF OUR CORE FIVE|WERE POKEMON..."
+  },
+  {
+   "kind": "p_intro",
+   "cont": true,
+   "vo": "Here's the party.",
+   "dlg": "HERE'S THE PARTY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "vo": "Point guard. Steph Curry is Jigglypuff.",
+   "dlg": "POINT GUARD:|STEPH CURRY!",
+   "first": true
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "vo": "It sings a song that puts the whole room to sleep. Sound familiar? Night night.",
+   "dlg": "IT SINGS THE ROOM TO SLEEP.|NIGHT NIGHT."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "vo": "Twenty-seven point eight a night, and forty-five point seven percent from three.",
+   "dlg": "27.8 A NIGHT,|45.7% FROM THREE!",
+   "stat": true
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "Shooting guard. Brandin Podziemski is Mudsdale.",
+   "dlg": "SHOOTING GUARD:|BRANDIN PODZIEMSKI!",
+   "first": true
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "Its ability is Stamina. Podz played all eighty-two games last season.",
+   "dlg": "ITS ABILITY: STAMINA.|ALL 82 GAMES LAST SEASON."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "Sixteen point five a night.",
+   "dlg": "16.5 POINTS A NIGHT!",
+   "stat": true
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "Small forward. Yaxel Lendeborg is Charmeleon.",
+   "dlg": "SMALL FORWARD:|YAXEL LENDEBORG!",
+   "first": true
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "A rookie, and already evolving.",
+   "dlg": "A ROOKIE, AND|ALREADY EVOLVING."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "Twenty point two a night.",
+   "dlg": "20.2 POINTS A NIGHT!",
+   "stat": true
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "Power forward. Draymond Green is Exploud.",
+   "dlg": "POWER FORWARD:|DRAYMOND GREEN!",
+   "first": true
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "Its bellow can trigger earthquakes. The loudest voice on our floor.",
+   "dlg": "ITS BELLOW SHAKES THE GROUND.|THE LOUDEST VOICE WE HAVE."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "Seven point one assists a night.",
+   "dlg": "7.1 ASSISTS A NIGHT!",
+   "stat": true
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "vo": "Center. Al Horford is Aerodactyl.",
+   "dlg": "CENTER:|AL HORFORD!",
+   "first": true
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "vo": "A fossil brought back from amber. Forty years old, and still flying.",
+   "dlg": "A FOSSIL FROM AMBER.|40 AND STILL FLYING."
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we're taking into any building.",
+   "dlg": "A PARTY WE'RE TAKING|INTO ANY BUILDING."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who would you swap in?",
+   "dlg": "WHO WOULD YOU SWAP IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 27.8
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 45.7
+  },
+  {
+   "player": "4709138",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 82
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 16.5
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 20.2
+  },
+  {
+   "player": "6589",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 7.1
+  },
+  {
+   "claim": "Green is noted for his vocal leadership on the court",
+   "source": "https://en.wikipedia.org/wiki/Draymond_Green"
+  },
+  {
+   "claim": "Horford born June 3, 1986 (age 40)",
+   "source": "https://en.wikipedia.org/wiki/Al_Horford"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  },
+  {
+   "claim": "Jigglypuff Pokédex (Red): sings a melody that lulls its enemies to sleep",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/jigglypuff"
+  },
+  {
+   "claim": "Aerodactyl Pokédex (Yellow): resurrected using DNA taken from amber",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/aerodactyl"
+  },
+  {
+   "claim": "Curry's 'night night' celebration, named by Curry, started in the 2022 playoffs",
+   "source": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/why-steph-claims-night-night-celly-regardless-of-receipts/1423670/"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3975@GSW",
+   "mon": "pk:jigglypuff",
+   "nick": "CURRY",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ],
+    [
+     "FAIRY",
+     "#ee99ac"
+    ]
+   ],
+   "label": "NIGHT NIGHT",
+   "stat": "27.8 PPG",
+   "pos": "PG"
+  },
+  {
+   "key": "p:4709138@GSW",
+   "mon": "pk:mudsdale",
+   "nick": "PODZ",
+   "types": [
+    [
+     "GROUND",
+     "#e0c068"
+    ]
+   ],
+   "label": "IRON MAN",
+   "stat": "16.5 PPG",
+   "pos": "SG"
+  },
+  {
+   "key": "p:5175737@GSW",
+   "mon": "pk:charmeleon",
+   "nick": "YAXEL",
+   "types": [
+    [
+     "FIRE",
+     "#f08030"
+    ]
+   ],
+   "label": "ROOKIE",
+   "stat": "20.2 PPG",
+   "pos": "SF"
+  },
+  {
+   "key": "p:6589@GSW",
+   "mon": "pk:exploud",
+   "nick": "DRAY",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "LOUD",
+   "stat": "7.1 APG",
+   "pos": "PF"
+  },
+  {
+   "key": "p:3213@GSW",
+   "mon": "pk:aerodactyl",
+   "nick": "HORFORD",
+   "types": [
+    [
+     "ROCK",
+     "#b8a038"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "AGE 40",
+   "stat": "AGE 40",
+   "pos": "C"
+  }
+ ],
+ "mode": "starters",
+ "full_party": true
+}

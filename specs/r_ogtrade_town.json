@@ -1,0 +1,1418 @@
+{
+ "team": "raptors",
+ "name": "ogtrade_town",
+ "template": "fmt_town_trade.html",
+ "pace": "wolves",
+ "record": "5-10",
+ "music": "calm",
+ "voice_eq": "bright",
+ "voff": 0.0,
+ "duck_bridge": true,
+ "duck_depth": 0.9,
+ "cps": 45,
+ "tts_speed": 1.15,
+ "caption": "WHO WON THE OG TRADE? 🦖🗽\n\nThree years later, here's the scoreboard:\n• Knicks got: OG Anunoby. Two deep playoff runs, then a ring in 2026, the Knicks' first title since 1973\n• We got: RJ Barrett, Immanuel Quickley and the pick that became Jonathan Mogbo (No. 31, 2024)\n• Years one and two: we missed the playoffs (RJ still put up 21.1 PPG in 2024-25)\n• Then we went out in round one in 2026, and Mogbo signed with Sacramento in July\n\nAdd it up: OG for RJ, IQ and a pick. We're 5-10 with RJ scoring 20.9 a night. The Knicks are 9-6, and OG beat us twice this week.\n\nStill, a ring is a ring. Tonight we're at Detroit, 7:30 PM ET. Win and we're 6-10.\n\nSo who won the OG trade: Knicks or Raptors? You make the call 👇",
+ "beats": [
+  {
+   "kind": "town",
+   "vo": "Three years ago, we traded OG Anunoby to the Knicks.",
+   "txt": {
+    "t_top": "RAPTORS DEBATES 1",
+    "t_main": "WHO WON THE OG TRADE?",
+    "da": "WE TRADED OG TO THE|KNICKS IN DEC 2023.",
+    "stamp_top": "TRADE: DEC 2023",
+    "stamp_main": "OG TO KNICKS",
+    "s_arena": "SCOTIABANK ARENA",
+    "s_arena_sub": "NOV 15 + NOV 17",
+    "db": "THIS WEEK, HE BEAT|US TWICE.",
+    "dc": "SO WHO ACTUALLY WON|THE OG TRADE?",
+    "m_a": "KNICKS",
+    "m_b": "RAPTORS",
+    "s_route": "ROUTE 2023",
+    "s_route_sub": "WHAT WE GOT",
+    "l_head": "RAPTORS GOT:",
+    "l_b": "BARRETT",
+    "l_c": "QUICKLEY",
+    "l_d": "'24 2ND-ROUND PICK",
+    "l_db": "MOGBO: NO. 31 PICK",
+    "n_rj": "BARRETT",
+    "n_iq": "QUICKLEY",
+    "n_mogbo": "MOGBO",
+    "n_og": "OG",
+    "n_knicks": "KNICKS",
+    "n_sac": "KINGS",
+    "dd": "HERE'S WHAT WE GOT.",
+    "de": "RJ, IQ AND A PICK:|JONATHAN MOGBO.",
+    "s_road": "PLAYOFF ROAD",
+    "s_road_sub": "2024 + 2025: YEARS 1-2",
+    "dg": "YEARS 1 AND 2: WE|MISSED THE PLAYOFFS.",
+    "b_l": "NO PLAYOFFS",
+    "b_r": "EAST FINALS",
+    "b_stop": "STOPPED HERE",
+    "st_name": "BARRETT",
+    "st_sub": "2024-25 SEASON",
+    "st_val": "21.1",
+    "st_unit": "PTS PER GAME",
+    "dh": "RJ: 21.1 A NIGHT|IN YEAR TWO.",
+    "s_ny": "NEW YORK",
+    "s_ny_sub": "2026: YEAR THREE",
+    "di": "YEAR THREE: OG WON|A RING.",
+    "champ": "CHAMPION",
+    "since": "1ST SINCE 1973",
+    "dj": "THE KNICKS' FIRST|TITLE SINCE 1973.",
+    "s_ctr": "RAPTORS CENTER",
+    "s_ctr_sub": "2026 PLAYOFFS",
+    "outb": "OUT IN ROUND 1",
+    "dba": "WE WENT OUT IN|ROUND 1.",
+    "s_tc": "TRADE CORNER",
+    "s_tc_sub": "JULY 2026",
+    "dbb": "THEN MOGBO, THE PICK|JOINED SACRAMENTO.",
+    "s_tor": "TORONTO",
+    "s_tor_sub": "NOV 2026",
+    "dbc": "ADD IT UP: OG FOR|RJ, IQ AND A PICK.",
+    "c_tor": "RAPTORS",
+    "c_tor_rec": "5-10",
+    "c_tor_tag": "RJ: 20.9 PPG",
+    "c_ny": "KNICKS",
+    "c_ny_rec": "9-6",
+    "c_ny_tag": "2026 CHAMPS",
+    "dbd": "WE'RE 5-10, WITH RJ|AT 20.9 A NIGHT.",
+    "dbe": "THE KNICKS ARE 9-6.",
+    "dbf": "STILL, A RING IS|A RING.",
+    "s_det": "DETROIT",
+    "s_det_sub": "FRI 11/20: 7:30 PM ET",
+    "t_us": "RAPTORS",
+    "t_them": "KNICKS",
+    "win": "WIN = 6-10",
+    "dbg": "BEAT DETROIT TONIGHT|AND WE'RE 6-10.",
+    "dbi": "YOUR CALL: KNICKS OR|RAPTORS?"
+   },
+   "stat": {
+    "shots": [
+     {
+      "t": 0,
+      "map": "town",
+      "mood": "day",
+      "crest": "l:TOR",
+      "title": [
+       "@t_top",
+       "@t_main"
+      ],
+      "sprites": [
+       {
+        "k": "m:clawrex",
+        "x": 155,
+        "y": 416,
+        "sz": 54,
+        "out": 1.4
+       },
+       {
+        "k": "p:3934719",
+        "x": 227,
+        "y": 416,
+        "tag": "@n_og",
+        "path": [
+         [
+          0,
+          196,
+          416
+         ],
+         [
+          0.8,
+          227,
+          416
+         ],
+         [
+          1.25,
+          227,
+          416
+         ],
+         [
+          1.4,
+          300,
+          405
+         ]
+        ],
+        "ball": 1.4
+       },
+       {
+        "k": "l:NY",
+        "x": 400,
+        "y": 416,
+        "sz": 64,
+        "path": [
+         [
+          0,
+          436,
+          416
+         ],
+         [
+          0.9,
+          400,
+          416
+         ],
+         [
+          1.4,
+          400,
+          416
+         ],
+         [
+          2.0,
+          353,
+          423
+         ],
+         [
+          3.0,
+          353,
+          423
+         ],
+         [
+          3.9,
+          318,
+          423
+         ]
+        ],
+        "hopmove": true
+       }
+      ],
+      "pages": [
+       {
+        "t": 0,
+        "dlg": "@da",
+        "pre": true
+       }
+      ],
+      "pops": [
+       {
+        "t": 1.4,
+        "type": "stamp",
+        "top": "@stamp_top",
+        "main": "@stamp_main"
+       }
+      ]
+     },
+     {
+      "t": 4.2,
+      "fin": 0.08,
+      "map": "town",
+      "mood": "night",
+      "crest": "l:TOR",
+      "sign": [
+       "@s_arena",
+       "@s_arena_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:3934719",
+        "x": 310,
+        "y": 416,
+        "tag": "@n_og",
+        "tagin": 6.3,
+        "bub": [
+         6.3,
+         "?"
+        ],
+        "path": [
+         [
+          4.2,
+          404,
+          416
+         ],
+         [
+          5.2,
+          310,
+          416
+         ]
+        ]
+       },
+       {
+        "k": "m:clawrex",
+        "x": 379,
+        "y": 416,
+        "sz": 50,
+        "flip": true,
+        "path": [
+         [
+          4.2,
+          472,
+          416
+         ],
+         [
+          5.25,
+          379,
+          416
+         ]
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 4.2,
+        "dlg": "@db"
+       },
+       {
+        "t": 6.3,
+        "dlg": "@dc"
+       }
+      ],
+      "pops": [
+       {
+        "t": 6.3,
+        "type": "menu",
+        "opts": [
+         "@m_a",
+         "@m_b"
+        ],
+        "x": 51,
+        "y": 448,
+        "moves": [
+         [
+          6.5,
+          1
+         ],
+         [
+          6.9,
+          0
+         ],
+         [
+          7.7,
+          1
+         ],
+         [
+          8.1,
+          0
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "t": 8.6,
+      "fin": 0.3,
+      "map": "route",
+      "mood": "day",
+      "sign": [
+       "@s_route",
+       "@s_route_sub"
+      ],
+      "sprites": [
+       {
+        "k": "ball",
+        "x": 143,
+        "y": 322,
+        "out": 10.0
+       },
+       {
+        "k": "p:4395625",
+        "x": 143,
+        "y": 322,
+        "in": 10.0,
+        "tag": "@n_rj"
+       },
+       {
+        "k": "ball",
+        "x": 270,
+        "y": 322,
+        "out": 11.0
+       },
+       {
+        "k": "p:4395724",
+        "x": 262,
+        "y": 322,
+        "in": 11.0,
+        "tag": "@n_iq"
+       },
+       {
+        "k": "m:clawrex",
+        "x": 322,
+        "y": 316,
+        "in": 9.0,
+        "sz": 46
+       },
+       {
+        "k": "l:TOR",
+        "x": 306,
+        "y": 356,
+        "in": 9.0,
+        "sz": 40
+       },
+       {
+        "k": "ball",
+        "x": 396,
+        "y": 322,
+        "out": 13.5
+       },
+       {
+        "k": "p:5107897",
+        "x": 396,
+        "y": 322,
+        "in": 13.5,
+        "tag": "@n_mogbo"
+       }
+      ],
+      "pages": [
+       {
+        "t": 8.6,
+        "dlg": "@dd"
+       },
+       {
+        "t": 10.02,
+        "dlg": "@de"
+       }
+      ],
+      "pops": [
+       {
+        "t": 8.6,
+        "type": "list",
+        "head": "@l_head",
+        "items": [
+         "@l_b",
+         "@l_c",
+         "@l_d"
+        ],
+        "at": [
+         10.0,
+         11.0,
+         12.5
+        ],
+        "swap": [
+         [
+          13.5,
+          2,
+          "@l_db"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "t": 14.5,
+      "fin": 0.2,
+      "map": "road",
+      "sign": [
+       "@s_road",
+       "@s_road_sub"
+      ],
+      "sprites": [
+       {
+        "k": "l:TOR",
+        "x": 125,
+        "y": 317,
+        "sz": 48
+       },
+       {
+        "k": "p:4395625",
+        "x": 125,
+        "y": 415,
+        "sz": 60,
+        "tag": "@n_rj"
+       },
+       {
+        "k": "l:IND",
+        "x": 414,
+        "y": 317,
+        "sz": 48
+       },
+       {
+        "k": "p:3934719",
+        "x": 414,
+        "y": 415,
+        "sz": 60,
+        "tag": "@n_og"
+       }
+      ],
+      "pages": [
+       {
+        "t": 14.5,
+        "dlg": "@dg"
+       },
+       {
+        "t": 17.5,
+        "dlg": "@dh"
+       }
+      ],
+      "pops": [
+       {
+        "t": 16.2,
+        "type": "banner",
+        "s": "@b_l",
+        "x": 67,
+        "y": 220,
+        "w": 118,
+        "col": "#d83a3a"
+       },
+       {
+        "t": 16.2,
+        "type": "banner",
+        "s": "@b_r",
+        "x": 356,
+        "y": 220,
+        "w": 118,
+        "col": "#2a5ab8"
+       },
+       {
+        "t": 16.6,
+        "type": "banner",
+        "s": "@b_stop",
+        "x": 62,
+        "y": 427,
+        "w": 124,
+        "col": "#d83a3a"
+       },
+       {
+        "t": 16.6,
+        "type": "banner",
+        "s": "@b_stop",
+        "x": 354,
+        "y": 427,
+        "w": 124,
+        "col": "#d83a3a"
+       },
+       {
+        "t": 17.5,
+        "type": "stat",
+        "name": "@st_name",
+        "sub": "@st_sub",
+        "val": "@st_val",
+        "unit": "@st_unit"
+       }
+      ]
+     },
+     {
+      "t": 20.5,
+      "fin": 0.3,
+      "map": "plaza",
+      "crest": "l:NY",
+      "sign": [
+       "@s_ny",
+       "@s_ny_sub"
+      ],
+      "sprites": [
+       {
+        "k": "p:3934719",
+        "x": 285,
+        "y": 374,
+        "sz": 66,
+        "tag": "@n_og"
+       },
+       {
+        "k": "m:clawrex",
+        "x": 360,
+        "y": 372,
+        "sz": 50,
+        "flip": true
+       },
+       {
+        "k": "trophy",
+        "x": 205,
+        "y": 374,
+        "in": 22.0
+       }
+      ],
+      "props": [
+       {
+        "type": "confetti",
+        "in": 22.0
+       }
+      ],
+      "pages": [
+       {
+        "t": 20.5,
+        "dlg": "@di"
+       },
+       {
+        "t": 22.72,
+        "dlg": "@dj"
+       }
+      ],
+      "pops": [
+       {
+        "t": 22.0,
+        "type": "big",
+        "s": "@champ",
+        "y": 224,
+        "col": "#f0a030",
+        "until": 24.0
+       },
+       {
+        "t": 24.0,
+        "type": "big",
+        "s": "@since",
+        "y": 224,
+        "col": "#2a6ad0",
+        "sfx": "blip"
+       }
+      ]
+     },
+     {
+      "t": 25.6,
+      "fin": 0.12,
+      "map": "room",
+      "crest": "l:TOR",
+      "sign": [
+       [
+        25.6,
+        "@s_ctr",
+        "@s_ctr_sub"
+       ],
+       [
+        27.2,
+        "@s_tc",
+        "@s_tc_sub"
+       ]
+      ],
+      "sprites": [
+       {
+        "k": "p:4395625",
+        "x": 223,
+        "y": 345,
+        "sz": 56,
+        "dim": true,
+        "tag": "@n_rj",
+        "out": 27.2,
+        "path": [
+         [
+          25.6,
+          223,
+          395
+         ],
+         [
+          26.2,
+          223,
+          345
+         ]
+        ]
+       },
+       {
+        "k": "p:4395724",
+        "x": 320,
+        "y": 345,
+        "sz": 56,
+        "dim": true,
+        "tag": "@n_iq",
+        "out": 27.2,
+        "path": [
+         [
+          25.6,
+          320,
+          395
+         ],
+         [
+          26.2,
+          320,
+          345
+         ]
+        ]
+       },
+       {
+        "k": "p:5107897",
+        "x": 223,
+        "y": 380,
+        "sz": 70,
+        "tag": "@n_mogbo",
+        "in": 27.2,
+        "path": [
+         [
+          27.69,
+          223,
+          380
+         ],
+         [
+          27.7,
+          124,
+          400
+         ]
+        ],
+        "out": 28.2
+       },
+       {
+        "k": "m:clawrex",
+        "x": 243,
+        "y": 400,
+        "sz": 70,
+        "in": 27.7,
+        "out": 28.2
+       },
+       {
+        "k": "ball",
+        "x": 185,
+        "y": 423,
+        "in": 28.2
+       },
+       {
+        "k": "ball",
+        "x": 117,
+        "y": 372,
+        "in": 28.2,
+        "noshadow": true
+       },
+       {
+        "k": "ball",
+        "x": 423,
+        "y": 372,
+        "in": 28.2,
+        "noshadow": true
+       },
+       {
+        "k": "l:SAC",
+        "x": 424,
+        "y": 470,
+        "sz": 56,
+        "in": 29.5,
+        "tag": "@n_sac",
+        "path": [
+         [
+          29.5,
+          424,
+          520
+         ],
+         [
+          29.9,
+          470,
+          470
+         ]
+        ]
+       }
+      ],
+      "pages": [
+       {
+        "t": 25.6,
+        "dlg": "@dba"
+       },
+       {
+        "t": 27.15,
+        "dlg": "@dbb"
+       }
+      ],
+      "pops": [
+       {
+        "t": 26.2,
+        "type": "big",
+        "s": "@outb",
+        "y": 370,
+        "col": "#d83a3a",
+        "until": 27.2,
+        "fin": 0.15
+       }
+      ]
+     },
+     {
+      "t": 30.7,
+      "fin": 0.13,
+      "map": "town",
+      "mood": "snow",
+      "crest": "l:TOR",
+      "sign": [
+       "@s_tor",
+       "@s_tor_sub"
+      ],
+      "sprites": [
+       {
+        "k": "m:clawrex",
+        "x": 70,
+        "y": 375,
+        "sz": 80,
+        "in": 31.4,
+        "path": [
+         [
+          31.4,
+          20,
+          375
+         ],
+         [
+          32.2,
+          70,
+          375
+         ],
+         [
+          34.7,
+          70,
+          375
+         ],
+         [
+          35.6,
+          100,
+          375
+         ]
+        ]
+       },
+       {
+        "k": "p:4395625",
+        "x": 155,
+        "y": 371,
+        "in": 31.4,
+        "tag": "@n_rj",
+        "path": [
+         [
+          31.4,
+          100,
+          371
+         ],
+         [
+          32.0,
+          155,
+          371
+         ]
+        ]
+       },
+       {
+        "k": "p:4395724",
+        "x": 223,
+        "y": 371,
+        "in": 32.8,
+        "tag": "@n_iq",
+        "tagdy": -22,
+        "path": [
+         [
+          32.8,
+          170,
+          371
+         ],
+         [
+          33.3,
+          223,
+          371
+         ]
+        ]
+       },
+       {
+        "k": "p:5107897",
+        "x": 294,
+        "y": 371,
+        "in": 33.3,
+        "tag": "@n_mogbo",
+        "path": [
+         [
+          33.3,
+          240,
+          371
+         ],
+         [
+          33.8,
+          294,
+          371
+         ]
+        ]
+       },
+       {
+        "k": "p:3934719",
+        "x": 395,
+        "y": 371,
+        "in": 30.8,
+        "tag": "@n_og",
+        "tag2": "@n_knicks",
+        "bobs": [
+         [
+          37.6,
+          40.2
+         ]
+        ]
+       },
+       {
+        "k": "m:clawrex",
+        "x": 455,
+        "y": 371,
+        "sz": 38,
+        "in": 30.8,
+        "flip": true
+       }
+      ],
+      "pages": [
+       {
+        "t": 30.7,
+        "dlg": "@dbc"
+       },
+       {
+        "t": 34.72,
+        "dlg": "@dbd"
+       },
+       {
+        "t": 37.52,
+        "dlg": "@dbe"
+       },
+       {
+        "t": 39.28,
+        "dlg": "@dbf"
+       }
+      ],
+      "pops": [
+       {
+        "t": 34.6,
+        "type": "card",
+        "side": 0,
+        "logo": "l:TOR",
+        "name": "@c_tor",
+        "rec": "@c_tor_rec",
+        "tag": "@c_tor_tag",
+        "tagt": 36.4
+       },
+       {
+        "t": 37.45,
+        "type": "card",
+        "side": 1,
+        "logo": "l:NY",
+        "bare": true,
+        "hdr": "#006bb6",
+        "name": "@c_ny",
+        "rec": "@c_ny_rec",
+        "tag": "@c_ny_tag",
+        "tagt": 39.6,
+        "tagc": "#e08a2a"
+       }
+      ]
+     },
+     {
+      "t": 41.0,
+      "fin": 0.12,
+      "map": "town",
+      "mood": "night",
+      "crest": "l:TOR",
+      "sign": [
+       "@s_det",
+       "@s_det_sub"
+      ],
+      "sprites": [
+       {
+        "k": "label",
+        "x": 148,
+        "y": 222,
+        "tag": "@t_us"
+       },
+       {
+        "k": "label",
+        "x": 407,
+        "y": 222,
+        "tag": "@t_them",
+        "tagc": "#2a6ad0"
+       },
+       {
+        "k": "p:4395625",
+        "x": 82,
+        "y": 371,
+        "sz": 56,
+        "tag": "@n_rj",
+        "bub": [
+         41.1,
+         "!",
+         null,
+         43.4
+        ]
+       },
+       {
+        "k": "p:4395724",
+        "x": 150,
+        "y": 371,
+        "sz": 56,
+        "tag": "@n_iq",
+        "tagdy": -22
+       },
+       {
+        "k": "p:5107897",
+        "x": 215,
+        "y": 371,
+        "sz": 56,
+        "tag": "@n_mogbo",
+        "path": [
+         [
+          42.1,
+          215,
+          371
+         ],
+         [
+          42.5,
+          240,
+          371
+         ],
+         [
+          42.95,
+          215,
+          371
+         ]
+        ]
+       },
+       {
+        "k": "p:3934719",
+        "x": 377,
+        "y": 371,
+        "sz": 56,
+        "tag": "@n_og",
+        "path": [
+         [
+          41.0,
+          470,
+          371
+         ],
+         [
+          42.0,
+          377,
+          371
+         ],
+         [
+          43.5,
+          377,
+          371
+         ],
+         [
+          44.4,
+          330,
+          371
+         ],
+         [
+          45.3,
+          377,
+          371
+         ]
+        ]
+       },
+       {
+        "k": "trophy",
+        "x": 446,
+        "y": 371
+       }
+      ],
+      "pages": [
+       {
+        "t": 41.0,
+        "dlg": "@dbg"
+       },
+       {
+        "t": 43.32,
+        "dlg": "@dc"
+       },
+       {
+        "t": 45.42,
+        "dlg": "@dbi"
+       }
+      ],
+      "pops": [
+       {
+        "t": 43.4,
+        "type": "menu",
+        "opts": [
+         "@m_a",
+         "@m_b"
+        ],
+        "x": 176,
+        "y": 397,
+        "h": 98,
+        "moves": [
+         [
+          43.9,
+          1
+         ],
+         [
+          44.5,
+          0
+         ],
+         [
+          45.7,
+          1
+         ],
+         [
+          46.3,
+          0
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "endDim": 47.35,
+    "arrow": [
+     [
+      0.2,
+      0.6
+     ],
+     [
+      1.0,
+      1.4
+     ],
+     [
+      1.8,
+      2.2
+     ],
+     [
+      2.6,
+      3.0
+     ],
+     [
+      3.4,
+      3.8
+     ],
+     [
+      4.2,
+      4.233
+     ],
+     [
+      5.033,
+      5.4
+     ],
+     [
+      5.8,
+      6.2
+     ],
+     [
+      7.0,
+      7.4
+     ],
+     [
+      7.8,
+      8.2
+     ],
+     [
+      8.6,
+      8.667
+     ],
+     [
+      9.433,
+      9.833
+     ],
+     [
+      11.133,
+      11.267
+     ],
+     [
+      11.667,
+      12.067
+     ],
+     [
+      12.467,
+      12.867
+     ],
+     [
+      13.267,
+      13.667
+     ],
+     [
+      14.067,
+      14.467
+     ],
+     [
+      15.533,
+      15.7
+     ],
+     [
+      16.1,
+      16.5
+     ],
+     [
+      16.9,
+      17.3
+     ],
+     [
+      18.3,
+      18.6
+     ],
+     [
+      19.0,
+      19.4
+     ],
+     [
+      19.8,
+      20.2
+     ],
+     [
+      21.333,
+      21.733
+     ],
+     [
+      22.133,
+      22.533
+     ],
+     [
+      23.633,
+      24.0
+     ],
+     [
+      24.4,
+      24.8
+     ],
+     [
+      25.2,
+      25.6
+     ],
+     [
+      26.4,
+      26.8
+     ],
+     [
+      28.067,
+      28.3
+     ],
+     [
+      28.7,
+      29.1
+     ],
+     [
+      29.5,
+      29.9
+     ],
+     [
+      30.3,
+      30.7
+     ],
+     [
+      31.667,
+      31.9
+     ],
+     [
+      32.3,
+      32.6
+     ],
+     [
+      33.1,
+      33.5
+     ],
+     [
+      33.9,
+      34.3
+     ],
+     [
+      34.7,
+      34.8
+     ],
+     [
+      35.533,
+      35.933
+     ],
+     [
+      36.333,
+      36.733
+     ],
+     [
+      37.133,
+      37.533
+     ],
+     [
+      38.367,
+      38.767
+     ],
+     [
+      39.167,
+      39.367
+     ],
+     [
+      40.1,
+      40.5
+     ],
+     [
+      40.9,
+      41.033
+     ],
+     [
+      41.8,
+      42.2
+     ],
+     [
+      42.6,
+      43.0
+     ],
+     [
+      44.1,
+      44.5
+     ],
+     [
+      44.9,
+      45.3
+     ],
+     [
+      46.233,
+      46.633
+     ],
+     [
+      47.033,
+      47.433
+     ]
+    ]
+   }
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.14
+  },
+  {
+   "kind": "town",
+   "vo": "This week, he beat us twice."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.46
+  },
+  {
+   "kind": "town",
+   "vo": "So, who actually won the OG trade?"
+  },
+  {
+   "kind": "town",
+   "vo": "Here's what we got."
+  },
+  {
+   "kind": "town",
+   "vo": "RJ Barrett, Immanuel Quickley,"
+  },
+  {
+   "kind": "town",
+   "vo": "and a pick that turned into Jonathan Mogbo."
+  },
+  {
+   "kind": "town",
+   "vo": "Years one and two, we missed the playoffs."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.4
+  },
+  {
+   "kind": "town",
+   "vo": "RJ still scored over 21 a night in year two."
+  },
+  {
+   "kind": "town",
+   "vo": "Year three, OG won a ring."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.08
+  },
+  {
+   "kind": "town",
+   "vo": "The Knicks' first title since 1973."
+  },
+  {
+   "kind": "town",
+   "vo": "We went out in round one."
+  },
+  {
+   "kind": "town",
+   "vo": "Then Mogbo, the pick, signed with Sacramento this July."
+  },
+  {
+   "kind": "town",
+   "vo": "Add it up, and it's OG for RJ, IQ and a pick."
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 0.76
+  },
+  {
+   "kind": "town",
+   "vo": "We're 5 and 10, with RJ scoring 20.9 a night."
+  },
+  {
+   "kind": "town",
+   "vo": "The Knicks are 9 and 6."
+  },
+  {
+   "kind": "town",
+   "vo": "Still, a ring is a ring."
+  },
+  {
+   "kind": "town",
+   "vo": "Beat Detroit tonight, and we're 6 and 10."
+  },
+  {
+   "kind": "town",
+   "vo": "So, who actually won the OG trade?"
+  },
+  {
+   "kind": "town",
+   "vo": "",
+   "hold": 1.16
+  }
+ ],
+ "facts": [
+  {
+   "claim": "On Dec 30, 2023 the Raptors traded OG Anunoby, Precious Achiuwa and Malachi Flynn to the Knicks for RJ Barrett, Immanuel Quickley and a 2024 second-round pick (Detroit's '24 2nd-round pick)",
+   "source": "https://en.wikipedia.org/wiki/2023%E2%80%9324_Toronto_Raptors_season"
+  },
+  {
+   "claim": "That pick was No. 31 in the 2024 NBA draft: Jonathan Mogbo, Toronto (from Detroit to L.A. Clippers to New York)",
+   "source": "https://en.wikipedia.org/wiki/2024_NBA_draft"
+  },
+  {
+   "claim": "Mogbo played for the Raptors 2024-2026 and signed a two-way contract with the Sacramento Kings on July 3, 2026",
+   "source": "https://en.wikipedia.org/wiki/Jonathan_Mogbo"
+  },
+  {
+   "game": "401909990",
+   "score": "112-108"
+  },
+  {
+   "claim": "Nov 15, 2026 at Scotiabank Arena (Raptors home): Knicks 112, Raptors 108; Anunoby 21 pts, 9 reb",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909990"
+  },
+  {
+   "game": "401909990",
+   "player": "3934719",
+   "stat": "PTS",
+   "value": "21"
+  },
+  {
+   "game": "401910002",
+   "score": "111-102"
+  },
+  {
+   "claim": "Nov 17, 2026 at Scotiabank Arena (Raptors home): Knicks 111, Raptors 102; Anunoby 16 pts. Two Knicks wins over us this week",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401910002"
+  },
+  {
+   "game": "401910002",
+   "player": "3934719",
+   "stat": "PTS",
+   "value": "16"
+  },
+  {
+   "claim": "Raptors 2023-24: 25-57; 2024-25: 30-52; missed the playoffs both years (years 1-2 after the trade)",
+   "source": "https://site.api.espn.com/apis/v2/sports/basketball/nba/standings?season=2025"
+  },
+  {
+   "claim": "Raptors 2024-25 eliminated from playoff contention (no playoffs, 3rd straight season)",
+   "source": "https://en.wikipedia.org/wiki/2024%E2%80%9325_Toronto_Raptors_season"
+  },
+  {
+   "claim": "Knicks 2024: lost to Indiana in round 2 (East semifinals); 2025: lost the Eastern Conference finals (East Finals) to Indiana",
+   "source": "https://en.wikipedia.org/wiki/2024%E2%80%9325_New_York_Knicks_season"
+  },
+  {
+   "claim": "Knicks won the 2026 NBA championship (2025-26 season), their first title since 1973 (1st since 1973); Anunoby tipped in the Game 4 winner",
+   "source": "https://en.wikipedia.org/wiki/2025%E2%80%9326_New_York_Knicks_season"
+  },
+  {
+   "claim": "Raptors 2025-26: 46-36, made the 2026 playoffs, lost to Cleveland in seven games in round 1 (out in round 1)",
+   "source": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Toronto_Raptors_season"
+  },
+  {
+   "player": "4395625",
+   "season": "2024-25",
+   "stat": "PTS",
+   "value": 21.1
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 20.9
+  },
+  {
+   "claim": "Raptors are 5-10 (ESPN, Nov 20 2026)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28"
+  },
+  {
+   "claim": "Knicks are 9-6 (ESPN, Nov 20 2026)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/18"
+  },
+  {
+   "claim": "Next game: tonight, Fri 11/20 2026, Raptors at Detroit Pistons, 7:30 PM ET (00:30Z Nov 21); a win makes us 6-10",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909308"
+  },
+  {
+   "claim": "'Raptors Debates 1' is our series label (episode 1), not a stat",
+   "source": "https://www.instagram.com/8bitraptors/"
+  }
+ ]
+}

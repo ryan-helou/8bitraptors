@@ -1,0 +1,176 @@
+{
+ "team": "warriors",
+ "name": "no2",
+ "pace": "wolves",
+ "record": "8-5",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "ALREADY OUR NO. 2?",
+   "key": "p:5175737@GSW",
+   "name": "LENDEBORG",
+   "badge": "PICK 11",
+   "lines": [
+    [
+     "20.2",
+     "PPG"
+    ]
+   ],
+   "vo": "Steph's the guy. But our number two scorer right now? A rookie.",
+   "dlg": "STEPH'S OUR NO. 1.|OUR NO. 2? A ROOKIE."
+  },
+  {
+   "kind": "fire",
+   "head": "BEHIND STEPH",
+   "key": "p:3975@GSW",
+   "name": "CURRY",
+   "badge": "NO. 1",
+   "lines": [
+    [
+     "27.8",
+     "STEPH"
+    ],
+    [
+     "20.2",
+     "YAXEL"
+    ]
+   ],
+   "vo": "Steph, twenty-seven point eight a night. Then Yaxel Lendeborg, the eleventh pick, at twenty point two.",
+   "dlg": "STEPH: 27.8 PPG.|YAXEL: 20.2 PPG."
+  },
+  {
+   "kind": "fire",
+   "head": "THE CASE",
+   "key": "p:5175737@GSW",
+   "name": "LENDEBORG",
+   "badge": "ROOKIE",
+   "lines": [
+    [
+     "41.4",
+     "FROM DEEP"
+    ],
+    [
+     "7.4",
+     "REB"
+    ]
+   ],
+   "vo": "Forty-one percent from three, and seven point four boards a night. In thirteen games.",
+   "dlg": "41.4% FROM THREE.|7.4 BOARDS A NIGHT."
+  },
+  {
+   "kind": "fire",
+   "head": "THE OTHER CASE",
+   "key": "p:4709138@GSW",
+   "name": "PODZIEMSKI",
+   "badge": "PODZ",
+   "lines": [
+    [
+     "16.5",
+     "PPG"
+    ],
+    [
+     "1.2",
+     "TO"
+    ]
+   ],
+   "vo": "Podz is right there. Sixteen point five a night, and only one point two turnovers.",
+   "dlg": "PODZ: 16.5 PPG.|ONLY 1.2 TURNOVERS."
+  },
+  {
+   "kind": "fire",
+   "head": "THE KNOCK",
+   "key": "p:5175737@GSW",
+   "name": "LENDEBORG",
+   "badge": "ROOKIE",
+   "lines": [
+    [
+     "3.2",
+     "TO"
+    ]
+   ],
+   "vo": "The knock on the rookie? Three point two turnovers a night.",
+   "dlg": "THE KNOCK ON YAXEL:|3.2 TURNOVERS A NIGHT."
+  },
+  {
+   "kind": "next",
+   "head": "NO. 2?",
+   "logo": "l:GSW",
+   "rec": "YAXEL",
+   "ntxt": "OR",
+   "nday": "PODZ?",
+   "vo": "A rookie, or Podz. Who's our number two? Comment below.",
+   "dlg": "YAXEL OR PODZ?|WHO'S OUR NO. 2?"
+  }
+ ],
+ "caption": "ALREADY OUR NO. 2? 🎮🏀 Steph's the guy. Our second-best scorer is a rookie.\n\n• Steph, 10 games: 27.8 PPG\n• Yaxel Lendeborg, pick 11, 13 games: 20.2 PPG, 41.4% from three, 7.4 RPG\n• Podz, 11 games: 16.5 PPG, just 1.2 turnovers a night\n• The knock on Yaxel: 3.2 turnovers a night\n\nYaxel or Podz? 👇",
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 27.8
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 20.2
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 13
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 41.4
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 7.4
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "TO",
+   "value": 3.2
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 16.5
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 11
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "TO",
+   "value": 1.2
+  },
+  {
+   "claim": "Warriors scoring this season: No. 1 Stephen Curry 27.8 PPG, No. 2 Yaxel Lendeborg 20.2, then Brandin Podziemski 16.5",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/gs/roster"
+  },
+  {
+   "claim": "Lendeborg: drafted 11th overall (pick 11) in 2026; a rookie",
+   "source": "https://en.wikipedia.org/wiki/Yaxel_Lendeborg"
+  }
+ ]
+}

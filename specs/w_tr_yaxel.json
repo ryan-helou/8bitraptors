@@ -1,0 +1,225 @@
+{
+ "team": "warriors",
+ "name": "tr_yaxel",
+ "record": "7-3",
+ "caption": "IF YAXEL HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🦀 Crabrawler: it punches its pincers off, and they grow right back. 870 rebounds in junior college, an all-time record\n🛡️ Scizor: a steel body that ordinary attacks can't faze. 2-time AAC Defensive Player of the Year at UAB\n🐺 Lycanroc: the Wolf Pokémon backs its prey into a corner. National champ and Big Ten Player of the Year at Michigan\n🐉 Dratini: it keeps shedding its skin and growing. We took him at #11\n🔥 Arcanine: the fire blazing inside it is its power. 37 vs the Clippers, most by a Warriors rookie since Steph\n🐲 Dragonite: big and bulky, and it still flies. 21.2 points a night through 10 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Yaxel Lendeborg had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF YAXEL HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Crabrawler. It punches so hard its pincers come off, then they grow right back. Eight hundred seventy rebounds in junior college, an all-time record.",
+   "dlg": "PINCERS GROW RIGHT BACK!|870 JUCO BOARDS, A RECORD!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Scizor. Its body is hard as steel, and ordinary attacks don't faze it. Two-time conference Defensive Player of the Year at U A B.",
+   "dlg": "A BODY HARD AS STEEL.|2-TIME AAC DPOY AT UAB!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Lycanroc, the Wolf Pokemon. It backs its prey into a corner with swift moves. National champion and Big Ten Player of the Year at Michigan.",
+   "dlg": "IT CORNERS ITS PREY.|NCAA CHAMP + BIG TEN POY!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Dratini. It keeps shedding its skin and growing bigger. We took him eleventh, and he's still evolving.",
+   "dlg": "IT SHEDS SKIN AND GROWS.|WE TOOK HIM AT #11!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Arcanine. The fire blazing inside its body is its source of power. Thirty-seven against the Clippers, the most by one of our rookies since Steph.",
+   "dlg": "A FIRE BLAZES INSIDE IT.|37: TOP ROOKIE SINCE STEPH"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "CHOOSE A STARTER.",
+   "hold": 1.0
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Dragonite. Its body is big and bulky, and it still flies. Twenty-one point two a night through ten games, as a rookie.",
+   "dlg": "BULKY, BUT IT STILL FLIES.|21.2 A NIGHT AS A ROOKIE!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.2
+  },
+  {
+   "player": "5175737",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "game": "401909905",
+   "player": "5175737",
+   "stat": "PTS",
+   "value": 37
+  },
+  {
+   "claim": "Lendeborg: 3 seasons at Arizona Western (junior college), NJCAA all-time record 870 rebounds; 2x AAC Defensive Player of the Year at UAB (2024, 2025); 2026 NCAA national champion and Big Ten Player of the Year at Michigan (Wolverines); drafted 11th overall (#11) in 2026 by Golden State; November 1: career-high 37 points vs the Clippers, most by a Warrior rookie since Curry",
+   "source": "https://en.wikipedia.org/wiki/Yaxel_Lendeborg"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:5175737@GSW",
+   "mon": "pk:crabrawler",
+   "nick": "CRABRAWLER",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "BOARD MAN",
+   "stat": "870 REB"
+  },
+  {
+   "key": "p:5175737@GSW",
+   "mon": "pk:scizor",
+   "nick": "SCIZOR",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "LOCKDOWN",
+   "stat": "2X AAC DPOY"
+  },
+  {
+   "key": "p:5175737@GSW",
+   "mon": "pk:lycanroc",
+   "nick": "LYCANROC",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ]
+   ],
+   "label": "THE WOLVERINE",
+   "stat": "NCAA CHAMP"
+  },
+  {
+   "key": "p:5175737@GSW",
+   "mon": "pk:dratini",
+   "nick": "DRATINI",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "label": "THE ROOKIE",
+   "stat": "PICK 11"
+  },
+  {
+   "key": "p:5175737@GSW",
+   "mon": "pk:arcanine",
+   "nick": "ARCANINE",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "THE HEATER",
+   "stat": "37 PTS"
+  },
+  {
+   "key": "p:5175737@GSW",
+   "mon": "pk:dragonite",
+   "nick": "DRAGONITE",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "21.2 PPG"
+  }
+ ],
+ "mode": "trainer"
+}

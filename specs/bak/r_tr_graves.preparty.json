@@ -1,0 +1,164 @@
+{
+ "team": "raptors",
+ "name": "tr_graves",
+ "record": "5-4",
+ "caption": "IF ALLEN GRAVES WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n🪨 Larvitar, the growth spurt: from 6-1 to 6-7 in one summer\n🐻 Ursaring, back to back: 2 straight state titles, 19 points and 20 rebounds in the second final\n👑 Nidoking, the king: Louisiana Mr. Basketball 2024\n🐈 Purrloin, quick hands: 67 steals, the most by a freshman in Santa Clara history\n⚡ Luxray, the spark: WCC Sixth Man and Freshman of the Year\n🦖 Tyranitar, the ace: our pick 19, just 20, and 9 games into his career\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "GRAVES' TEAM",
+   "key": "p:5149115@TOR",
+   "logo": "l:TOR",
+   "team": [
+    "pk:larvitar",
+    "pk:ursaring",
+    "pk:nidoking",
+    "pk:purrloin",
+    "pk:luxray",
+    "pk:tyranitar"
+   ],
+   "vo": "If Allen Graves was a trainer... this is his team.",
+   "dlg": "IF GRAVES WAS A TRAINER...|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "GRAVES' TEAM",
+   "key": "p:5149115@TOR",
+   "mon": "pk:larvitar",
+   "name": "GROWTH SPURT",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "species": "GROWS FAST",
+   "callout": "6-1 TO 6-7",
+   "vo": "First up, the growth spurt. He grew up playing football. Then, in one summer, he went from six-one to six-seven.",
+   "dlg": "FIRST UP: GROWTH SPURT!|6-1 TO 6-7 IN ONE SUMMER"
+  },
+  {
+   "kind": "mon",
+   "head": "GRAVES' TEAM",
+   "key": "p:5149115@TOR",
+   "mon": "pk:ursaring",
+   "name": "BACK TO BACK",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "species": "CLEANS THE GLASS",
+   "callout": "19 PTS 20 REB",
+   "vo": "The bear. Two straight state titles, with nineteen points and twenty rebounds in the second final.",
+   "dlg": "TWO STATE TITLES IN A ROW.|FINAL: 19 PTS, 20 REB!"
+  },
+  {
+   "kind": "mon",
+   "head": "GRAVES' TEAM",
+   "key": "p:5149115@TOR",
+   "mon": "pk:nidoking",
+   "name": "MR. BASKETBALL",
+   "types": [
+    [
+     "POISON",
+     "#a040a0"
+    ],
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "species": "STATE'S KING",
+   "callout": "LOUISIANA 2024",
+   "vo": "The king. Louisiana's Mister Basketball.",
+   "dlg": "THE KING:|LOUISIANA MR. BASKETBALL!"
+  },
+  {
+   "kind": "mon",
+   "head": "GRAVES' TEAM",
+   "key": "p:5149115@TOR",
+   "mon": "pk:purrloin",
+   "name": "QUICK HANDS",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "species": "STEALS IT ALL",
+   "callout": "67 STEALS",
+   "vo": "Quick hands. Sixty-seven steals as a freshman at Santa Clara, the most by a freshman in school history.",
+   "dlg": "QUICK HANDS: 67 STEALS.|A SANTA CLARA FROSH RECORD"
+  },
+  {
+   "kind": "mon",
+   "head": "GRAVES' TEAM",
+   "key": "p:5149115@TOR",
+   "mon": "pk:luxray",
+   "name": "THE SPARK",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "species": "OFF THE BENCH",
+   "callout": "WCC 6TH MAN",
+   "vo": "The spark. His conference's Sixth Man of the Year, and Freshman of the Year.",
+   "dlg": "THE SPARK OFF THE BENCH:|6TH MAN + FRESHMAN OF YEAR"
+  },
+  {
+   "kind": "mon",
+   "head": "GRAVES' TEAM",
+   "key": "p:5149115@TOR",
+   "mon": "pk:tyranitar",
+   "name": "THE ACE",
+   "types": [
+    [
+     "ROCK",
+     "#a89038"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "species": "THE FINAL FORM",
+   "callout": "PICK 19",
+   "vo": "And the ace. Still growing. We took him nineteenth, and he's just twenty. Nine games in, and only getting started.",
+   "dlg": "THE ACE: STILL GROWING.|PICK 19, JUST 20 YEARS OLD"
+  },
+  {
+   "kind": "next",
+   "head": "GRAVES' TEAM",
+   "logo": "l:TOR",
+   "rec": "#19",
+   "ntxt": "GRAVES",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "5149115",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "claim": "Grew up playing football; a growth spurt over one summer took him from 6 ft 1 in (6-1) to 6 ft 7 in (6-7); two consecutive state championships, 19 points and 20 rebounds in the senior-year state final, his second (2nd) consecutive title; Louisiana Mr. Basketball (2024); freshman at Santa Clara: 67 steals, the most by a freshman in program history; WCC Freshman of the Year and Sixth Man (6th Man) of the Year (2026); selected 19th overall by Toronto in the 2026 NBA draft; born July 28, 2006 (age 20)",
+   "source": "https://en.wikipedia.org/wiki/Allen_Graves"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "team": "warriors",
+ "name": "tr_jimmy",
+ "record": "7-3",
+ "caption": "IF JIMMY WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n🐜 Trapinch, the overlooked one: no recruiters, then pick #30, last in round 1\n🐉 Flygon, the evolution: 2015 Most Improved Player\n🦹 Sneasel, the thief: led the NBA in steals in 2021\n🌋 Heatran, Playoff Jimmy: 56 points in one playoff game, a Heat record\n⚡ Zeraora, big moments: 38 in his first play-in for us\n🔥 Moltres, the ace: 20.0 points a night in 38 games before the ACL\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "JIMMY'S TEAM",
+   "key": "p:6430@GSW",
+   "logo": "l:GSW",
+   "team": [
+    "pk:trapinch",
+    "pk:flygon",
+    "pk:sneasel",
+    "pk:heatran",
+    "pk:zeraora",
+    "pk:moltres"
+   ],
+   "vo": "If Jimmy Butler was a trainer... this is his team.",
+   "dlg": "IF JIMMY WAS A TRAINER...|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "JIMMY'S TEAM",
+   "key": "p:6430@GSW",
+   "mon": "pk:trapinch",
+   "name": "PICK 30",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "species": "LAST IN ROUND 1",
+   "callout": "PICK 30",
+   "vo": "First up, the overlooked one. Nobody recruited him out of high school. Then pick thirty, the last pick of round one.",
+   "dlg": "NOBODY RECRUITED HIM.|PICK 30, LAST IN ROUND 1."
+  },
+  {
+   "kind": "mon",
+   "head": "JIMMY'S TEAM",
+   "key": "p:6430@GSW",
+   "mon": "pk:flygon",
+   "name": "IT EVOLVED",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ],
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "species": "MOST IMPROVED",
+   "callout": "MIP 2015",
+   "vo": "Then it evolves. Most Improved Player in twenty fifteen.",
+   "dlg": "THEN IT EVOLVES:|MOST IMPROVED, 2015!"
+  },
+  {
+   "kind": "mon",
+   "head": "JIMMY'S TEAM",
+   "key": "p:6430@GSW",
+   "mon": "pk:sneasel",
+   "name": "THE THIEF",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "species": "STEALS LEADER",
+   "callout": "LED NBA 2021",
+   "vo": "The thief. He led the whole league in steals in twenty twenty-one.",
+   "dlg": "THE THIEF: LED THE|WHOLE NBA IN STEALS!"
+  },
+  {
+   "kind": "mon",
+   "head": "JIMMY'S TEAM",
+   "key": "p:6430@GSW",
+   "mon": "pk:heatran",
+   "name": "PLAYOFF JIMMY",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "species": "HEAT RECORD",
+   "callout": "56 PTS",
+   "vo": "Playoff Jimmy. Fifty-six points in one playoff game, a Heat record.",
+   "dlg": "PLAYOFF JIMMY:|56 IN ONE PLAYOFF GAME!"
+  },
+  {
+   "kind": "mon",
+   "head": "JIMMY'S TEAM",
+   "key": "p:6430@GSW",
+   "mon": "pk:zeraora",
+   "name": "BIG MOMENTS",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "species": "PLAY-IN HERO",
+   "callout": "38 PTS",
+   "vo": "The big-moment guy. His first play-in for us: thirty-eight points to beat Memphis.",
+   "dlg": "HIS FIRST PLAY-IN FOR US:|38 POINTS VS MEMPHIS!"
+  },
+  {
+   "kind": "mon",
+   "head": "JIMMY'S TEAM",
+   "key": "p:6430@GSW",
+   "mon": "pk:moltres",
+   "name": "THE ACE",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "species": "RISING AGAIN",
+   "callout": "20.0 PPG",
+   "vo": "And the ace. Twenty points a night for us before the knee. Come back soon, Jimmy.",
+   "dlg": "THE ACE: 20.0 A NIGHT.|COME BACK SOON, JIMMY!"
+  },
+  {
+   "kind": "next",
+   "head": "JIMMY'S TEAM",
+   "logo": "l:GSW",
+   "rec": "#30",
+   "ntxt": "JIMMY",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "6430",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 20.0
+  },
+  {
+   "player": "6430",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 38
+  },
+  {
+   "claim": "Butler: not recruited out of high school, went to Tyler Junior College; 2011 draft 30th overall by Chicago, the last pick of the first round (pick 31 started round 2); 2015 NBA Most Improved Player; NBA steals leader in 2021; career-high 56 points in game 4 vs Milwaukee in 2023, Miami Heat franchise playoff record; April 15 (2025) play-in debut with the Warriors: 38 points in a 121-116 win over Memphis; torn right ACL January 19, 2026; through 38 games averaged 20.0 points",
+   "source": "https://en.wikipedia.org/wiki/Jimmy_Butler"
+  },
+  {
+   "claim": "2011 NBA draft: Jimmy Butler round 1 pick 30 (30th) by Chicago; round 2 pick 31 Bojan Bogdanovic",
+   "source": "https://en.wikipedia.org/wiki/2011_NBA_draft"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

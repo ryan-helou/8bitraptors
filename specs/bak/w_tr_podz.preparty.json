@@ -1,0 +1,188 @@
+{
+ "team": "warriors",
+ "name": "tr_podz",
+ "record": "7-3",
+ "caption": "IF PODZ WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n🐣 Ducklett, the ugly duckling: 1.4 points a game as a college freshman\n🦢 Swanna, the glow-up: WCC co-Player of the Year at Santa Clara\n🐾 Eevee, the rookie: pick #19, All-Rookie First Team\n🛡️ Registeel, the iron man: all 82 games last season\n🔥 Blaziken, the heater: career-high 30 against Sacramento\n🦊 Zoroark, the ace: 15.8 points, 5.4 rebounds, 4.3 assists through 8 games\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "PODZ'S TEAM",
+   "key": "p:4709138@GSW",
+   "logo": "l:GSW",
+   "team": [
+    "pk:ducklett",
+    "pk:swanna",
+    "pk:eevee",
+    "pk:registeel",
+    "pk:blaziken",
+    "pk:zoroark"
+   ],
+   "vo": "If Brandin Podziemski was a trainer... this is his team.",
+   "dlg": "IF PODZ WAS A TRAINER...|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "PODZ'S TEAM",
+   "key": "p:4709138@GSW",
+   "mon": "pk:ducklett",
+   "name": "UGLY DUCKLING",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "species": "FRESHMAN YEAR",
+   "callout": "1.4 PPG",
+   "vo": "First up, the ugly duckling. One point four points a game as a college freshman.",
+   "dlg": "FRESHMAN YEAR:|1.4 POINTS A GAME."
+  },
+  {
+   "kind": "mon",
+   "head": "PODZ'S TEAM",
+   "key": "p:4709138@GSW",
+   "mon": "pk:swanna",
+   "name": "THE GLOW-UP",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "species": "SANTA CLARA",
+   "callout": "WCC CO-POY",
+   "vo": "Then it evolves. He transfers to Santa Clara and shares conference Player of the Year.",
+   "dlg": "SANTA CLARA: WCC|CO-PLAYER OF THE YEAR!"
+  },
+  {
+   "kind": "mon",
+   "head": "PODZ'S TEAM",
+   "key": "p:4709138@GSW",
+   "mon": "pk:eevee",
+   "name": "THE ROOKIE",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "species": "PICK 19",
+   "callout": "ALL-ROOKIE 1ST",
+   "vo": "The rookie. We took him nineteenth, and he made All-Rookie First Team.",
+   "dlg": "PICK 19, THEN|ALL-ROOKIE FIRST TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "PODZ'S TEAM",
+   "key": "p:4709138@GSW",
+   "mon": "pk:registeel",
+   "name": "IRON MAN",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "species": "NEVER SITS",
+   "callout": "82 GAMES",
+   "vo": "The iron man. All eighty-two games last season.",
+   "dlg": "THE IRON MAN:|ALL 82 GAMES LAST SEASON!"
+  },
+  {
+   "kind": "mon",
+   "head": "PODZ'S TEAM",
+   "key": "p:4709138@GSW",
+   "mon": "pk:blaziken",
+   "name": "CAREER NIGHT",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "species": "CAREER HIGH",
+   "callout": "30 PTS",
+   "vo": "The heater. A career-high thirty points against Sacramento.",
+   "dlg": "THE HEATER:|CAREER-HIGH 30 POINTS!"
+  },
+  {
+   "kind": "mon",
+   "head": "PODZ'S TEAM",
+   "key": "p:4709138@GSW",
+   "mon": "pk:zoroark",
+   "name": "THE ACE",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "species": "DOES IT ALL",
+   "callout": "15.8 PPG",
+   "vo": "And the ace. Fifteen point eight points, five point four rebounds, four point three assists, through eight games.",
+   "dlg": "THE ACE: 15.8 PTS,|5.4 REB, 4.3 AST!"
+  },
+  {
+   "kind": "next",
+   "head": "PODZ'S TEAM",
+   "logo": "l:GSW",
+   "rec": "#19",
+   "ntxt": "PODZ",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 15.8
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 5.4
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 4.3
+  },
+  {
+   "player": "4709138",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "4709138",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 82
+  },
+  {
+   "claim": "Podziemski: 16 games off the bench as an Illinois freshman, 1.4 points per game; transferred to Santa Clara, WCC co-Player of the Year (2023); drafted 19th overall in 2023 by Golden State; NBA All-Rookie First (1st) Team (2024); April 10, 2026: career-high 30 points vs Sacramento; appeared in all 82 games in 2025-26",
+   "source": "https://en.wikipedia.org/wiki/Brandin_Podziemski"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

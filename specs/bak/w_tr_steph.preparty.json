@@ -1,0 +1,166 @@
+{
+ "team": "warriors",
+ "name": "tr_steph",
+ "record": "7-3",
+ "caption": "IF STEPH WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n🐟 Feebas, the one nobody wanted: 6 teams passed, we took him at #7\n🥷 Greninja, the assassin: the Baby-Faced Assassin before he was Chef Curry\n🎯 Inteleon, the sniper: first player ever to 4,000 threes\n✨ Arceus, the legend: 2 MVPs, including the first unanimous one\n👑 Kingambit, the king: 4 rings, 2015, 2017, 2018, 2022\n🔥 Cinderace, the ace: 38 years old, 31.3 points a night through 8 games\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "STEPH'S TEAM",
+   "key": "p:3975@GSW",
+   "logo": "l:GSW",
+   "team": [
+    "pk:feebas",
+    "pk:greninja",
+    "pk:inteleon",
+    "pk:arceus",
+    "pk:kingambit",
+    "pk:cinderace"
+   ],
+   "vo": "If Stephen Curry was a trainer... this is his team.",
+   "dlg": "IF STEPH WAS A TRAINER...|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "STEPH'S TEAM",
+   "key": "p:3975@GSW",
+   "mon": "pk:feebas",
+   "name": "PASSED OVER",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "species": "SIX TEAMS PASSED",
+   "callout": "PICK 7",
+   "vo": "First up, the one nobody wanted. Six teams passed on Steph. We took him seventh.",
+   "dlg": "6 TEAMS PASSED ON HIM.|WE TOOK HIM AT #7!"
+  },
+  {
+   "kind": "mon",
+   "head": "STEPH'S TEAM",
+   "key": "p:3975@GSW",
+   "mon": "pk:greninja",
+   "name": "ASSASSIN",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "species": "BABY-FACED",
+   "callout": "CHEF CURRY",
+   "vo": "The assassin. They called him the Baby-Faced Assassin long before Chef Curry.",
+   "dlg": "THE BABY-FACED ASSASSIN.|NOW: CHEF CURRY!"
+  },
+  {
+   "kind": "mon",
+   "head": "STEPH'S TEAM",
+   "key": "p:3975@GSW",
+   "mon": "pk:inteleon",
+   "name": "THE SNIPER",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "species": "FIRST TO 4,000",
+   "callout": "4,000 THREES",
+   "vo": "The sniper. The first player ever to four thousand career threes.",
+   "dlg": "THE SNIPER: FIRST EVER|TO 4,000 THREES!"
+  },
+  {
+   "kind": "mon",
+   "head": "STEPH'S TEAM",
+   "key": "p:3975@GSW",
+   "mon": "pk:arceus",
+   "name": "THE LEGEND",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "species": "UNANIMOUS",
+   "callout": "2X MVP",
+   "vo": "The legend. Two MVPs, and the first unanimous one ever.",
+   "dlg": "2 MVPS, AND THE FIRST|UNANIMOUS ONE EVER!"
+  },
+  {
+   "kind": "mon",
+   "head": "STEPH'S TEAM",
+   "key": "p:3975@GSW",
+   "mon": "pk:kingambit",
+   "name": "THE KING",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "species": "FOUR RINGS",
+   "callout": "4 TITLES",
+   "vo": "The king. Four rings with us: twenty fifteen, seventeen, eighteen, and twenty twenty-two.",
+   "dlg": "THE KING: 4 RINGS.|2015, 2017, 2018, 2022!"
+  },
+  {
+   "kind": "mon",
+   "head": "STEPH'S TEAM",
+   "key": "p:3975@GSW",
+   "mon": "pk:cinderace",
+   "name": "THE ACE",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "species": "STILL COOKING",
+   "callout": "31.3 PPG",
+   "vo": "And the ace. Thirty-eight years old, and still thirty-one point three a night through eight games.",
+   "dlg": "THE ACE: AGE 38,|31.3 POINTS A NIGHT!"
+  },
+  {
+   "kind": "next",
+   "head": "STEPH'S TEAM",
+   "logo": "l:GSW",
+   "rec": "#7",
+   "ntxt": "STEPH",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 31.3
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "claim": "Curry: 2009 draft, 7th overall pick (#7) by Golden State; Minnesota took two other point guards at 5 and 6 (6 teams passed on him); referred to as the Baby-Faced Assassin since a young age and Chef Curry in the NBA; March 13, 2025: first player in NBA history to reach 4,000 career three-pointers; 2x MVP (2015, 2016), first ever unanimous MVP; 4x NBA champion (2015, 2017, 2018, 2022); born March 14, 1988 (age 38)",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

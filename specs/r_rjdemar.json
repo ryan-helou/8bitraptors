@@ -1,0 +1,158 @@
+{
+ "team": "raptors",
+ "name": "rjdemar",
+ "record": "5-4",
+ "caption": "AGE 26 🎮🏀 DeMar DeRozan at 26 was an All-Star for us. RJ Barrett, born in Toronto, is 26 right now.\n\n• DeMar at 26 (2015-16): 23.5 PPG, 4.5 RPG, 4.0 APG, 44.6 FG%, All-Star, East finals\n• RJ at 26, first 9 games: 21.6 PPG, 6.1 RPG, 3.9 APG, 47.4 FG%\n• DeMar scores more, RJ rebounds more and shoots better\n\nDeMar at 26 or RJ at 26? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "DEMAR VS RJ",
+   "key": "p:3978@TOR",
+   "name": "DEMAR",
+   "badge": "AGE 26",
+   "lines": [
+    [
+     "26",
+     "SAME AGE"
+    ]
+   ],
+   "vo": "DeMar DeRozan at twenty-six was an All-Star for us. RJ Barrett, born right here in Toronto, is twenty-six right now.",
+   "dlg": "DEMAR AT 26 VS|RJ AT 26."
+  },
+  {
+   "kind": "fire",
+   "head": "DEMAR AT 26",
+   "key": "p:3978@TOR",
+   "name": "DEMAR",
+   "badge": "ALL-STAR",
+   "lines": [
+    [
+     "23.5",
+     "PPG"
+    ],
+    [
+     "4.0",
+     "APG"
+    ]
+   ],
+   "vo": "DeMar at twenty-six: twenty-three point five points a night, an All-Star, and our first trip to the conference finals.",
+   "dlg": "DEMAR AT 26: 23.5 PPG.|ALL-STAR, EAST FINALS."
+  },
+  {
+   "kind": "fire",
+   "head": "RJ AT 26",
+   "key": "p:4395625@TOR",
+   "name": "RJ",
+   "badge": "HOMETOWN",
+   "lines": [
+    [
+     "21.6",
+     "PPG"
+    ],
+    [
+     "6.1",
+     "RPG"
+    ]
+   ],
+   "vo": "RJ at twenty-six, through nine games: twenty-one point six points and six rebounds a night.",
+   "dlg": "RJ AT 26: 21.6 PPG,|6.1 RPG."
+  },
+  {
+   "kind": "fire",
+   "head": "THE EDGE",
+   "key": "p:4395625@TOR",
+   "name": "RJ",
+   "badge": "EFFICIENT",
+   "lines": [
+    [
+     "47.4",
+     "RJ FG%"
+    ],
+    [
+     "44.6",
+     "DEMAR FG%"
+    ]
+   ],
+   "vo": "DeMar scores more. But RJ rebounds more, and shoots better: forty-seven percent to forty-four.",
+   "dlg": "FG%: RJ 47.4,|DEMAR 44.6."
+  },
+  {
+   "kind": "next",
+   "head": "WHO'S BETTER?",
+   "logo": "l:TOR",
+   "rec": "26",
+   "ntxt": "DEMAR OR",
+   "nday": "RJ?",
+   "vo": "DeMar at twenty-six, or RJ at twenty-six? Comment below.",
+   "dlg": "DEMAR OR RJ AT 26?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3978",
+   "season": "2015-16",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "3978",
+   "season": "2015-16",
+   "stat": "REB",
+   "value": 4.5
+  },
+  {
+   "player": "3978",
+   "season": "2015-16",
+   "stat": "AST",
+   "value": 4.0
+  },
+  {
+   "player": "3978",
+   "season": "2015-16",
+   "stat": "FG%",
+   "value": 44.6
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.6
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 6.1
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 3.9
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 47.4
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "claim": "DeRozan (born August 7, 1989) was 26 during the 2015-16 season, was named to the 2016 NBA All-Star Game, and that season Toronto reached the Conference Finals",
+   "source": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
+   "claim": "In 2015-16 Lowry led Toronto to the Eastern Conference finals for the first time",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Lowry"
+  },
+  {
+   "claim": "Barrett (born June 14, 2000 in Toronto, Ontario) is 26 and plays for the Toronto Raptors",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  }
+ ]
+}

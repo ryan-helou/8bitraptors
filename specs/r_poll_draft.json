@@ -1,0 +1,125 @@
+{
+ "team": "raptors",
+ "name": "poll_draft",
+ "l1": "DRAFT NIGHT...",
+ "q": "WHO'S OUR BEST PICK?",
+ "boxA": "DRAFT DAY",
+ "boxB": "OUR BEST DRAFT PICK EVER",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: DRAFT PICK 🎮🏀 We drafted all three of these guys. Which pick was the best one we ever made?\n\n1️⃣ DeMar DeRozan, #9 pick in 2009: our all-time leading scorer\n2️⃣ Pascal Siakam, #27 pick in 2016: 2019 Most Improved, 1 title\n3️⃣ Scottie Barnes, #4 pick in 2021: 2022 Rookie of the Year, 23.5 PPG through 8 games this season\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "3978",
+   "name": "DEROZAN",
+   "full": "DEMAR DEROZAN",
+   "jersey": "10",
+   "type": "SCORER",
+   "season": "RAPTORS 2009-2018",
+   "stats": [
+    [
+     "#9",
+     "PICK"
+    ],
+    [
+     "#1",
+     "POINTS"
+    ],
+    [
+     "27.3",
+     "PPG BEST"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3149673",
+   "name": "SIAKAM",
+   "full": "PASCAL SIAKAM",
+   "jersey": "43",
+   "type": "TWO-WAY",
+   "season": "RAPTORS 2016-2024",
+   "stats": [
+    [
+     "#27",
+     "PICK"
+    ],
+    [
+     "MIP",
+     "2019"
+    ],
+    [
+     "1",
+     "TITLE"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "4433134",
+   "name": "SCOTTIE",
+   "full": "SCOTTIE BARNES",
+   "jersey": "4",
+   "type": "ALL-AROUND",
+   "season": "RAPTORS 2021-NOW",
+   "stats": [
+    [
+     "#4",
+     "PICK"
+    ],
+    [
+     "ROY",
+     "2022"
+    ],
+    [
+     "23.5",
+     "PPG"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "DeRozan: selected ninth overall (#9) by Toronto in the 2009 NBA draft; played for Toronto 2009-2018; the franchise's all-time leading scorer (#1); No. 10",
+   "source": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
+   "claim": "DeRozan is #1 in Raptors career points (13296)",
+   "source": "https://www.basketball-reference.com/teams/TOR/leaders_career.html"
+  },
+  {
+   "claim": "DeRozan wore #10 for Toronto",
+   "source": "https://www.basketball-reference.com/players/d/derozde01.html"
+  },
+  {
+   "player": "3978",
+   "season": "2016-17",
+   "stat": "PTS",
+   "value": 27.3
+  },
+  {
+   "claim": "Siakam wore #43 for Toronto",
+   "source": "https://www.basketball-reference.com/players/s/siakapa01.html"
+  },
+  {
+   "claim": "Siakam: 27th overall pick (#27) by Toronto in 2016; Toronto 2016-2024; NBA champion 2019 (1 title); Most Improved Player 2019; No. 43",
+   "source": "https://en.wikipedia.org/wiki/Pascal_Siakam"
+  },
+  {
+   "claim": "Scottie Barnes: No. 4 for Toronto; 4th overall pick (#4) in 2021 by Toronto; Toronto Raptors 2021-present; NBA Rookie of the Year 2022",
+   "source": "https://en.wikipedia.org/wiki/Scottie_Barnes"
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  }
+ ]
+}

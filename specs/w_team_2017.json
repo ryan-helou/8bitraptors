@@ -1,0 +1,279 @@
+{
+ "team": "warriors",
+ "name": "team_2017",
+ "record": "7-3",
+ "mode": "team",
+ "caption": "IF OUR 2017 CHAMPIONSHIP STARTERS WERE POKÉMON 🎮🏀\n\n✈️ Steph Curry = Latios: folds its wings to overtake jet planes. 28.1 a night in the playoffs\n🐟 Klay Thompson = Barraskewda: surges forward at over 100 knots. 22.3 a night\n⚡ Kevin Durant = Raikou: they say it descended with lightning. Straight from the Thunder: 28.5 a night in the playoffs, Finals MVP\n🐸 Draymond Green = Toxicroak: even a scratch could prove fatal. Defensive Player of the Year, 2.0 steals a night\n🦛 Zaza Pachulia = Hippowdon: a mouth almost 7 feet across. 70 starts at center\n\nThat's a team we're taking into any gym in the league. Who would you change? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "key": "p:3975@GSW",
+   "mon": "pk:latios",
+   "nick": "CURRY",
+   "types": [
+    [
+     "DRAGON",
+     "#6838f0"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "label": "JET SPEED",
+   "stat": "28.1 PPG"
+  },
+  {
+   "key": "p:6475@GSW",
+   "mon": "pk:barraskewda",
+   "nick": "THOMPSON",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "SKEWER",
+   "stat": "22.3 PPG"
+  },
+  {
+   "key": "p:3202@GSW",
+   "mon": "pk:raikou",
+   "nick": "DURANT",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "label": "THUNDER",
+   "stat": "FINALS MVP"
+  },
+  {
+   "key": "p:6589@GSW",
+   "mon": "pk:toxicroak",
+   "nick": "GREEN",
+   "types": [
+    [
+     "POISON",
+     "#a040a0"
+    ],
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "label": "DPOY",
+   "stat": "2.0 SPG"
+  },
+  {
+   "key": "p:2016@GSW",
+   "mon": "pk:hippowdon",
+   "nick": "PACHULIA",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "HEAVYWEIGHT",
+   "stat": "5.9 RPG"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If our twenty seventeen champs were Pokemon, here's the team.",
+   "dlg": "IF OUR 2017 CHAMPIONSHIP|STARTERS WERE MONSTERS..."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "vo": "Steph Curry is Latios.",
+   "dlg": "GO! STEPH CURRY!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "vo": "By folding back its wings in flight, it can overtake jet planes.",
+   "dlg": "IT FOLDS ITS WINGS TO|OVERTAKE JET PLANES."
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "stat": true,
+   "vo": "Steph in the playoffs. Twenty-eight point one points a night.",
+   "dlg": "STEPH IN THE PLAYOFFS:|28.1 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "vo": "Klay Thompson is Barraskewda.",
+   "dlg": "GO! KLAY THOMPSON!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "vo": "It surges forward at over a hundred knots, then spears right into its prey.",
+   "dlg": "IT SURGES AT 100 KNOTS|AND SPEARS ITS PREY."
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "stat": true,
+   "vo": "Klay, always on the attack. Twenty-two point three a night.",
+   "dlg": "KLAY ON THE ATTACK:|22.3 POINTS A NIGHT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "vo": "Kevin Durant is Raikou.",
+   "dlg": "GO! KEVIN DURANT!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "vo": "They say it descended with lightning.",
+   "dlg": "THEY SAY IT DESCENDED|WITH LIGHTNING."
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "stat": true,
+   "vo": "He came to us straight from the Thunder. Twenty-eight point five a night in the playoffs, and Finals MVP.",
+   "dlg": "FROM THE THUNDER: 28.5|PPG AND FINALS MVP!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "vo": "Draymond Green is Toxicroak.",
+   "dlg": "GO! DRAYMOND GREEN!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "vo": "Its claws carry a toxin so vile that even a scratch could prove fatal.",
+   "dlg": "EVEN A SCRATCH|COULD PROVE FATAL."
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "stat": true,
+   "vo": "Defensive Player of the Year. Two steals a night, the most in the league.",
+   "dlg": "DEFENSIVE PLAYER OF THE|YEAR: 2.0 STEALS A NIGHT"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "fx": "aura",
+   "vo": "And Zaza Pachulia is Hippowdon.",
+   "dlg": "GO! ZAZA PACHULIA!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "fx": "aura",
+   "vo": "Its huge mouth is almost seven feet across, with enough power to crush a car.",
+   "dlg": "ITS MOUTH IS ALMOST|7 FEET ACROSS!"
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "fx": "aura",
+   "stat": true,
+   "vo": "Zaza did the dirty work. Seventy starts at center, five point nine boards a night.",
+   "dlg": "70 STARTS AT CENTER,|5.9 REBOUNDS A NIGHT!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a team we're taking into any gym in the league.",
+   "dlg": "A TEAM WE'RE TAKING INTO|ANY GYM IN THE LEAGUE."
+  },
+  {
+   "kind": "p_sum",
+   "cont": true,
+   "vo": "Who would you change? Comment below.",
+   "dlg": "WHO WOULD YOU CHANGE?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2016-17",
+   "stat": "PTS",
+   "value": 28.1,
+   "type": "playoffs"
+  },
+  {
+   "player": "6475",
+   "season": "2016-17",
+   "stat": "PTS",
+   "value": 22.3
+  },
+  {
+   "player": "3202",
+   "season": "2016-17",
+   "stat": "PTS",
+   "value": 28.5,
+   "type": "playoffs"
+  },
+  {
+   "player": "6589",
+   "season": "2016-17",
+   "stat": "STL",
+   "value": 2.0
+  },
+  {
+   "player": "2016",
+   "season": "2016-17",
+   "stat": "GS",
+   "value": 70
+  },
+  {
+   "player": "2016",
+   "season": "2016-17",
+   "stat": "REB",
+   "value": 5.9
+  },
+  {
+   "claim": "Our starters in the title-clinching Game 5 of the 2017 Finals: Kevin Durant, Draymond Green, Zaza Pachulia, Stephen Curry, Klay Thompson",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=400954514"
+  },
+  {
+   "claim": "Durant played for the Seattle SuperSonics / Oklahoma City Thunder 2007-2016, signed with Golden State in 2016; NBA champion and Finals MVP 2017",
+   "source": "https://en.wikipedia.org/wiki/Kevin_Durant"
+  },
+  {
+   "claim": "Green: NBA Defensive Player of the Year 2017 and NBA steals leader 2017",
+   "source": "https://en.wikipedia.org/wiki/Draymond_Green"
+  },
+  {
+   "claim": "Latios: by folding back its wings in flight, it can overtake jet planes",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/latios"
+  },
+  {
+   "claim": "Barraskewda: surging forward at speeds of over 100 knots before ramming prey and spearing into them",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/barraskewda"
+  },
+  {
+   "claim": "Raikou: they say that it descended with lightning",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/raikou"
+  },
+  {
+   "claim": "Toxicroak: its knuckle claws secrete a toxin so vile that even a scratch could prove fatal",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/toxicroak"
+  },
+  {
+   "claim": "Hippowdon: its huge mouth is almost 7 (seven) feet across; it has enough power to completely crush a car",
+   "source": "https://pokeapi.co/api/v2/pokemon-species/hippowdon"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

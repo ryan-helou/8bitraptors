@@ -1,0 +1,158 @@
+{
+ "team": "raptors",
+ "name": "kawhig7",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "39 SHOTS 🎮🏀 Everybody remembers Kawhi's last shot in Game 7. He took 38 others.\n\n• May 12, 2019, Game 7 vs Philly: 41 PTS on 16-of-39, 8 REB\n• Everyone else on our team combined: 51 points\n• We win 92-90 on the bounce, then he averages 30.5 PPG in the playoffs and wins Finals MVP\n• Now 35 and back with us: 23 on 17 shots on opening night\n• Scottie Barnes leads us at 23.5 PPG through 8 games\n\nGame 7 tonight, last shot: Kawhi or Scottie? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "39 SHOTS",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "VS PHILLY",
+   "lines": [
+    [
+     "39",
+     "SHOTS"
+    ]
+   ],
+   "vo": "Everybody remembers the shot. Nobody talks about the other thirty-eight. In Game seven against Philly, Kawhi Leonard took thirty-nine shots.",
+   "dlg": "EVERYONE KNOWS THE SHOT.|KAWHI TOOK 39 OF THEM."
+  },
+  {
+   "kind": "fire",
+   "head": "41 POINTS",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "GAME 7",
+   "lines": [
+    [
+     "41",
+     "PTS"
+    ],
+    [
+     "16-39",
+     "FG"
+    ]
+   ],
+   "vo": "He made sixteen of them. Forty-one points. Everybody else on our team combined: fifty-one.",
+   "dlg": "41 PTS ON 16-OF-39.|THE REST OF US: 51."
+  },
+  {
+   "kind": "fire",
+   "head": "THE RUN",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "FINALS MVP",
+   "lines": [
+    [
+     "30.5",
+     "PLAYOFF PPG"
+    ],
+    [
+     "92-90",
+     "GAME 7"
+    ]
+   ],
+   "vo": "The last one dropped at the buzzer, ninety-two to ninety. He averaged thirty point five that whole playoff run, and won Finals MVP.",
+   "dlg": "30.5 PPG IN THE PLAYOFFS.|FINALS MVP."
+  },
+  {
+   "kind": "fire",
+   "head": "NOW",
+   "key": "p:6450@TOR",
+   "name": "KAWHI",
+   "badge": "AGE 35",
+   "lines": [
+    [
+     "23",
+     "PTS"
+    ],
+    [
+     "17",
+     "SHOTS"
+    ]
+   ],
+   "vo": "Now he's back with us at thirty-five. Opening night: twenty-three points on seventeen shots. But Scottie Barnes leads us at twenty-three point five a game.",
+   "dlg": "KAWHI, OPENING NIGHT: 23.|SCOTTIE: 23.5 PPG."
+  },
+  {
+   "kind": "next",
+   "head": "GAME 7 TONIGHT",
+   "logo": "l:TOR",
+   "rec": "41",
+   "ntxt": "IN GAME 7",
+   "nday": "2019",
+   "vo": "Game seven tonight, one shot to win it. Kawhi, or Scottie? Comment below.",
+   "dlg": "GAME 7 TONIGHT, LAST SHOT:|KAWHI OR SCOTTIE?"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401129105",
+   "player": "6450",
+   "stat": "PTS",
+   "value": 41
+  },
+  {
+   "game": "401129105",
+   "player": "6450",
+   "stat": "FG",
+   "value": "16-39"
+  },
+  {
+   "game": "401129105",
+   "player": "6450",
+   "stat": "REB",
+   "value": 8
+  },
+  {
+   "game": "401129105",
+   "score": "92-90"
+  },
+  {
+   "claim": "Game 7, May 12, 2019 vs Philadelphia: Toronto scored 92 on 34-89 shooting; Leonard 41 on 16-39, so his teammates scored 51 on 50 shots; 38 shots besides the last one",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401129105"
+  },
+  {
+   "claim": "Leonard's buzzer-beater won Game 7 92-90, the first Game 7 buzzer beater in NBA history; he won 2019 Finals MVP; born June 29, 1991 (age 35); back with Toronto",
+   "source": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "player": "6450",
+   "season": "2018-19",
+   "stat": "PTS",
+   "value": 30.5,
+   "type": "playoffs"
+  },
+  {
+   "game": "401909837",
+   "player": "6450",
+   "stat": "PTS",
+   "value": 23
+  },
+  {
+   "game": "401909837",
+   "player": "6450",
+   "stat": "FG",
+   "value": "5-17"
+  },
+  {
+   "claim": "Oct 21, 2026 vs Chicago was Toronto's opening night of 2026-27; Leonard had 23 points on 17 shots",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/schedule?season=2027"
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 23.5
+  },
+  {
+   "player": "4433134",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  }
+ ]
+}

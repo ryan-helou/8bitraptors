@@ -1,0 +1,219 @@
+{
+ "team": "warriors",
+ "name": "tr_steph",
+ "record": "7-3",
+ "caption": "IF STEPH HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🐟 Feebas: so ragged that no one catches it. 6 teams passed, we took him at #7\n🥷 Greninja: it appears and vanishes like a ninja. The Baby-Faced Assassin before he was Chef Curry\n🎯 Inteleon: its ability is Sniper, and it shoots from its fingertips. First player ever to 4,000 threes\n✨ Arceus: legend says it shaped the world. 2 MVPs, including the first unanimous one\n👑 Kingambit: it commands a massive army. 4 rings, 2015, 2017, 2018, 2022\n🔥 Cinderace: it gets pumped up when cheered on. 38 years old, 30.6 points a night in his first 9 games\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Stephen Curry had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF STEPH HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Feebas. It looks so ragged that no one bothers to catch it. Six teams passed on Steph. We took him seventh.",
+   "dlg": "NO ONE BOTHERS CATCHING IT|6 PASSED. WE TOOK HIM #7!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Greninja. It appears and vanishes with a ninja's grace. They called him the Baby-Faced Assassin long before Chef Curry.",
+   "dlg": "VANISHES LIKE A NINJA.|BABY-FACED ASSASSIN!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Inteleon. Its ability is literally called Sniper, and it shoots water from its fingertips. The first player ever to four thousand career threes.",
+   "dlg": "ITS ABILITY IS SNIPER.|FIRST EVER TO 4,000 THREES"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Arceus. Legend says it shaped the whole world. Two MVPs, and the first unanimous one ever.",
+   "dlg": "IT SHAPED THE WORLD.|2 MVPS, FIRST UNANIMOUS!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Kingambit. It commands a massive army. Four rings with us: twenty fifteen, seventeen, eighteen, and twenty twenty-two.",
+   "dlg": "COMMANDS A MASSIVE ARMY.|2015, 2017, 2018, 2022!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Cinderace. It gets pumped up when the crowd cheers it on. Thirty-eight years old, and still thirty point six a night in his first nine games.",
+   "dlg": "PUMPED UP WHEN CHEERED ON.|AGE 38, 30.6 A NIGHT!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 30.6
+  },
+  {
+   "player": "3975",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "claim": "Curry: 2009 draft, 7th overall pick (#7) by Golden State; Minnesota took two other point guards at 5 and 6 (6 teams passed on him); referred to as the Baby-Faced Assassin since a young age and Chef Curry in the NBA; March 13, 2025: first player in NBA history to reach 4,000 career three-pointers; 2x MVP (2015, 2016), first ever unanimous MVP; 4x NBA champion (2015, 2017, 2018, 2022); born March 14, 1988 (age 38)",
+   "source": "https://en.wikipedia.org/wiki/Stephen_Curry"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3975@GSW",
+   "mon": "pk:feebas",
+   "nick": "FEEBAS",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "PASSED OVER",
+   "stat": "PICK 7"
+  },
+  {
+   "key": "p:3975@GSW",
+   "mon": "pk:greninja",
+   "nick": "GRENINJA",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ],
+    [
+     "DARK",
+     "#5a4636"
+    ]
+   ],
+   "label": "ASSASSIN",
+   "stat": "CHEF CURRY"
+  },
+  {
+   "key": "p:3975@GSW",
+   "mon": "pk:inteleon",
+   "nick": "INTELEON",
+   "types": [
+    [
+     "WATER",
+     "#6890f0"
+    ]
+   ],
+   "label": "THE SNIPER",
+   "stat": "4,000 THREES"
+  },
+  {
+   "key": "p:3975@GSW",
+   "mon": "pk:arceus",
+   "nick": "ARCEUS",
+   "types": [
+    [
+     "NORMAL",
+     "#a8a878"
+    ]
+   ],
+   "label": "THE LEGEND",
+   "stat": "2X MVP"
+  },
+  {
+   "key": "p:3975@GSW",
+   "mon": "pk:kingambit",
+   "nick": "KINGAMBIT",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "THE KING",
+   "stat": "4 TITLES"
+  },
+  {
+   "key": "p:3975@GSW",
+   "mon": "pk:cinderace",
+   "nick": "CINDERACE",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "30.6 PPG"
+  }
+ ],
+ "mode": "trainer"
+}

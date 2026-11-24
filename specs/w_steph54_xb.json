@@ -1,0 +1,143 @@
+{
+ "team": "warriors",
+ "pace": "wolves",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "HOW DID WE LOSE?",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "AT MSG",
+   "lines": [
+    [
+     "11-13",
+     "3PT"
+    ]
+   ],
+   "vo": "Steph hit eleven of thirteen threes at the Garden. So how did we lose?",
+   "dlg": "11 OF 13 FROM THREE.|SO HOW DID WE LOSE?"
+  },
+  {
+   "kind": "fire",
+   "head": "SHORT-HANDED",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "FEB 27, 2013",
+   "lines": [
+    [
+     "48",
+     "MIN"
+    ]
+   ],
+   "vo": "February twenty-seventh, twenty thirteen. No David Lee, no Andrew Bogut. Steph plays all forty-eight minutes.",
+   "dlg": "NO LEE. NO BOGUT.|STEPH PLAYS ALL 48."
+  },
+  {
+   "kind": "fire",
+   "head": "ON FIRE",
+   "key": "p:3975@GSW",
+   "name": "STEPH",
+   "badge": "FROM THREE",
+   "lines": [
+    [
+     "54",
+     "PTS"
+    ],
+    [
+     "11-13",
+     "3PT"
+    ]
+   ],
+   "vo": "Fifty-four points. Eleven of thirteen from three, one shy of the record back then.",
+   "dlg": "54 POINTS. 11 OF 13 FROM 3.|1 SHY OF THE RECORD THEN."
+  },
+  {
+   "kind": "fire",
+   "head": "TIED AT 105",
+   "key": "l:NYK",
+   "name": "KNICKS",
+   "badge": "1:28 LEFT",
+   "lines": [
+    [
+     "105",
+     "NYK"
+    ],
+    [
+     "105",
+     "GS"
+    ]
+   ],
+   "vo": "Tied at one-oh-five, a minute twenty-eight left. Raymond Felton blocks Steph.",
+   "dlg": "TIED AT 105, 1:28 LEFT.|FELTON BLOCKS STEPH."
+  },
+  {
+   "kind": "fire",
+   "head": "THE DAGGER",
+   "key": "l:NYK",
+   "name": "KNICKS",
+   "badge": "FINAL",
+   "lines": [
+    [
+     "109",
+     "NYK"
+    ],
+    [
+     "105",
+     "GS"
+    ]
+   ],
+   "vo": "J.R. Smith scores the go-ahead bucket, Melo adds one more. Knicks win, one-oh-nine to one-oh-five.",
+   "dlg": "SMITH, THEN MELO.|KNICKS WIN 109-105."
+  },
+  {
+   "kind": "next",
+   "head": "BEST LOSS EVER?",
+   "logo": "l:GSW",
+   "rec": "L 105-109",
+   "ntxt": "54 PTS",
+   "nday": "STILL LOST",
+   "vo": "Greatest game ever in a loss? Comment below.",
+   "dlg": "GREATEST GAME IN A LOSS?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "game": "400278573",
+   "player": "3975",
+   "stat": "PTS",
+   "value": "54"
+  },
+  {
+   "game": "400278573",
+   "player": "3975",
+   "stat": "MIN",
+   "value": "48"
+  },
+  {
+   "game": "400278573",
+   "player": "3975",
+   "stat": "FG",
+   "value": "18-28"
+  },
+  {
+   "game": "400278573",
+   "player": "3975",
+   "stat": "3PT",
+   "value": "11-13"
+  },
+  {
+   "game": "400278573",
+   "score": "109-105"
+  },
+  {
+   "claim": "Feb. 27, 2013 at Madison Square Garden (MSG): Curry scored 54 points (passing his previous career best of 42, a career high at the time), 18 of 28 from the field, 11 of 13 from three (one shy of the NBA record), all 48 minutes; Knicks won 109-105. Box score 3PT: 11-13 (3-pointers).",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=400278573"
+  },
+  {
+   "claim": "Recap: Knicks stopped Curry with 1:28 to play and the score tied at 105 (Raymond Felton blocked shot); J.R. Smith's tiebreaking basket with 1:10 left; Carmelo Anthony (Melo) followed with another basket; Warriors without David Lee (suspended one game) and Andrew Bogut (back injury). Curry finished one (1) 3-pointer shy of the NBA record at the time with 11 in 13 attempts.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=400278573"
+  }
+ ],
+ "name": "steph54_xb",
+ "caption": "11 OF 13 FROM THREE. HOW DID WE LOSE? 🎮🏀\n\n• Feb 27, 2013, at Madison Square Garden, with no David Lee (suspended) and no Andrew Bogut (hurt)\n• All 48 minutes: 54 points, 18 of 28 from the field, 11 of 13 from three (1 shy of the record then)\n• Tied at 105 with 1:28 left, Raymond Felton blocks Steph\n• J.R. Smith's go-ahead bucket with 1:10 left, Melo adds one more\n• Knicks win 109-105\n\nGreatest game ever in a loss? 👇"
+}

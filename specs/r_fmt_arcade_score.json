@@ -1,0 +1,201 @@
+{
+ "team": "raptors",
+ "name": "fmt_arcade_score",
+ "template": "fmt_arcade_score.html",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "NEW HIGH SCORE 🕹️🦖 Scottie Barnes passed Pascal Siakam for No. 5 on our all-time assists list!\n\n🎯 It happened on opening night: his 5th assist vs Chicago (Wed 10/21) was No. 1,847\n🏆 Most assists in Raptors history (thru Mon 11/9):\n1️⃣ Kyle Lowry: 4,277\n2️⃣ José Calderón: 3,770\n3️⃣ Fred VanVleet: 2,199\n4️⃣ DeMar DeRozan: 2,078\n5️⃣ Scottie Barnes: 1,883\n6️⃣ Pascal Siakam: 1,846\n\nNext up: DeMar, 195 away 👀 …and Scottie is only 25\n\n🦖 Raptors 135, Bulls 92 (Wed 10/21) · Scottie 23 PTS, 5 AST\n\nWill Scottie catch DeMar? Comment 👇",
+ "beats": [
+  {
+   "kind": "a_mach",
+   "who": "p:4433134",
+   "pname": "SCOTTIE",
+   "pno": "NO. 4",
+   "head": "RAPTORS ALL-TIME ASSISTS",
+   "headHot": "NEW HIGH SCORE!",
+   "label": "RAPTORS ASSISTS",
+   "count": [
+    "1844",
+    "1845",
+    "1846"
+   ],
+   "shots": true,
+   "hold": 2.13,
+   "dlg": "SCOTTIE IS CHASING|PASCAL SIAKAM!",
+   "fast": true
+  },
+  {
+   "kind": "a_mach",
+   "who": "p:4433134",
+   "pname": "SCOTTIE",
+   "pno": "NO. 4",
+   "head": "RAPTORS ALL-TIME ASSISTS",
+   "headHot": "NEW HIGH SCORE!",
+   "label": "RAPTORS ASSISTS",
+   "count": [
+    "1846"
+   ],
+   "bang": "!",
+   "shotEnd": true,
+   "hold": 1.88,
+   "dlg": "OPENING NIGHT VS BULLS...|ANOTHER DIME!"
+  },
+  {
+   "kind": "a_mach",
+   "who": "p:4433134",
+   "pname": "SCOTTIE",
+   "pno": "NO. 4",
+   "head": "RAPTORS ALL-TIME ASSISTS",
+   "headHot": "NEW HIGH SCORE!",
+   "label": "RAPTORS ASSISTS",
+   "count": [
+    "1847"
+   ],
+   "hot": true,
+   "first": true,
+   "hold": 1.63,
+   "dlg": "ASSIST! SCOTTIE PASSES|PASCAL FOR NO. 5 ALL-TIME!"
+  },
+  {
+   "kind": "a_mach",
+   "who": "p:4433134",
+   "pname": "SCOTTIE",
+   "pno": "NO. 4",
+   "head": "RAPTORS ALL-TIME ASSISTS",
+   "headHot": "NEW HIGH SCORE!",
+   "label": "RAPTORS ASSISTS",
+   "count": [
+    "1847"
+   ],
+   "hot": true,
+   "box": [
+    "NOW",
+    "5TH",
+    "EVER",
+    "IN RAPTORS ASSISTS"
+   ],
+   "hold": 3.88,
+   "dlg": "1,847 ASSISTS. ONLY 4 GUYS|IN OUR HISTORY HAVE MORE!"
+  },
+  {
+   "kind": "a_board",
+   "head": "HIGH SCORES",
+   "head2": "NEXT UP: DEMAR, 195 AWAY",
+   "title": "MOST ASSISTS, RAPTORS HISTORY",
+   "unit": "AST",
+   "rows": [
+    {
+     "name": "K. LOWRY",
+     "val": "4,277"
+    },
+    {
+     "name": "J. CALDERON",
+     "val": "3,770"
+    },
+    {
+     "name": "F. VANVLEET",
+     "val": "2,199"
+    },
+    {
+     "name": "D. DEROZAN",
+     "val": "2,078",
+     "hl": true
+    },
+    {
+     "name": "SCOTTIE BARNES",
+     "val": "1,883",
+     "tag": "NOW",
+     "hi": true
+    },
+    {
+     "name": "P. SIAKAM",
+     "val": "1,846"
+    }
+   ],
+   "hold": 4.88
+  },
+  {
+   "kind": "a_mach",
+   "who": "p:4433134",
+   "pname": "SCOTTIE",
+   "pno": "NO. 4",
+   "head": "RAPTORS ALL-TIME ASSISTS",
+   "headHot": "NEW HIGH SCORE!",
+   "label": "RAPTORS ASSISTS",
+   "count": [
+    "1883"
+   ],
+   "bang": "?",
+   "hold": 2.88,
+   "dlg": "...AND SCOTTIE IS|ONLY 25!"
+  },
+  {
+   "kind": "a_mach",
+   "who": "p:4433134",
+   "pname": "SCOTTIE",
+   "pno": "NO. 4",
+   "head": "RAPTORS ALL-TIME ASSISTS",
+   "headHot": "NEW HIGH SCORE!",
+   "label": "RAPTORS ASSISTS",
+   "count": [
+    "1883"
+   ],
+   "hold": 1.78,
+   "dlg": "WED 10/21: W 135-92 VS CHI|SCOTTIE 23 PTS, 5 AST"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401909837",
+   "score": "135-92"
+  },
+  {
+   "game": "401909837",
+   "player": "4433134",
+   "stat": "PTS",
+   "value": "23"
+  },
+  {
+   "game": "401909837",
+   "player": "4433134",
+   "stat": "AST",
+   "value": "5"
+  },
+  {
+   "claim": "Raptors career assists leaders (updated Tue Nov 10 2026): 1 Kyle Lowry 4277, 2 Jose Calderon 3770, 3 Fred VanVleet 2199, 4 DeMar DeRozan 2078, 5 Scottie Barnes 1883, 6 Pascal Siakam 1846",
+   "source": "https://www.basketball-reference.com/teams/TOR/leaders_career.html"
+  },
+  {
+   "claim": "Barnes (all career assists with TOR, ESPN career 1883) entered 2026-27 with 1842 (1883 minus 41 this season); his 5 assists in the opener vs CHI on Wed 10/21 took him 1843, 1844, 1845, 1846 (tying Siakam) and 1847, passing Siakam for No. 5. Only 4 Raptors have more; DeRozan is 195 ahead (2078-1883)",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433134"
+  },
+  {
+   "claim": "Scottie Barnes is 25, jersey No. 4",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433134"
+  },
+  {
+   "claim": "Stats thru Mon 11/9 (our 10th game, vs MEM)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/schedule"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:3012"
+  },
+  {
+   "key": "p:2806"
+  },
+  {
+   "key": "p:2991230"
+  },
+  {
+   "key": "p:3978"
+  },
+  {
+   "key": "p:4433134"
+  },
+  {
+   "key": "p:3149673"
+  }
+ ]
+}

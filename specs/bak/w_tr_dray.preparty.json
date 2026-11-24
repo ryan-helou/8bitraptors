@@ -1,0 +1,172 @@
+{
+ "team": "warriors",
+ "name": "tr_dray",
+ "record": "7-3",
+ "caption": "IF DRAYMOND WAS A POKÉMON TRAINER, THIS IS HIS TEAM 🎮🏀\n\n💪 Machop, the second-rounder: 34 players went before him, we took him at #35\n🧱 Shuckle, the wall: 2017 Defensive Player of the Year, and the steals leader\n🧠 Metagross, the brain: 7.8 assists a night through 8 games\n🐒 Primeape, the hothead: 16 technicals in one season\n❤️ Conkeldurr, the heart and soul: 4 rings, 2015, 2017, 2018, 2022\n🏋️ Machamp, the ace: 36 years old, started all 8 games\n\nWhich one would you add? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "team",
+   "head": "DRAYMOND'S TEAM",
+   "key": "p:6589@GSW",
+   "logo": "l:GSW",
+   "team": [
+    "pk:machop",
+    "pk:shuckle",
+    "pk:metagross",
+    "pk:primeape",
+    "pk:conkeldurr",
+    "pk:machamp"
+   ],
+   "vo": "If Draymond Green was a trainer... this is his team.",
+   "dlg": "IF DRAYMOND WAS A TRAINER|THIS IS HIS TEAM!"
+  },
+  {
+   "kind": "mon",
+   "head": "DRAYMOND'S TEAM",
+   "key": "p:6589@GSW",
+   "mon": "pk:machop",
+   "name": "PICK 35",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "species": "SECOND ROUND",
+   "callout": "PICK 35",
+   "vo": "First up, the second-rounder. Thirty-four players went before him. We took him thirty-fifth.",
+   "dlg": "34 WENT BEFORE HIM.|WE TOOK HIM AT #35!"
+  },
+  {
+   "kind": "mon",
+   "head": "DRAYMOND'S TEAM",
+   "key": "p:6589@GSW",
+   "mon": "pk:shuckle",
+   "name": "THE WALL",
+   "types": [
+    [
+     "BUG",
+     "#a8b820"
+    ],
+    [
+     "ROCK",
+     "#a89038"
+    ]
+   ],
+   "species": "DEFENSIVE POY",
+   "callout": "DPOY 2017",
+   "vo": "The wall. Defensive Player of the Year in twenty seventeen, and he led the league in steals.",
+   "dlg": "THE WALL: 2017|DEFENSIVE PLAYER OF YEAR!"
+  },
+  {
+   "kind": "mon",
+   "head": "DRAYMOND'S TEAM",
+   "key": "p:6589@GSW",
+   "mon": "pk:metagross",
+   "name": "THE BRAIN",
+   "types": [
+    [
+     "STEEL",
+     "#8888a8"
+    ],
+    [
+     "PSYCHIC",
+     "#f85888"
+    ]
+   ],
+   "species": "RUNS THE OFFENSE",
+   "callout": "7.8 APG",
+   "vo": "The brain. He still runs our offense: seven point eight assists a night through eight games.",
+   "dlg": "THE BRAIN: RUNS OUR O.|7.8 ASSISTS A NIGHT!"
+  },
+  {
+   "kind": "mon",
+   "head": "DRAYMOND'S TEAM",
+   "key": "p:6589@GSW",
+   "mon": "pk:primeape",
+   "name": "THE HOTHEAD",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "species": "ALWAYS FIRED UP",
+   "callout": "16 TECHS",
+   "vo": "The hothead. Sixteen technicals in one season. We love him anyway.",
+   "dlg": "THE HOTHEAD:|16 TECHS IN ONE SEASON!"
+  },
+  {
+   "kind": "mon",
+   "head": "DRAYMOND'S TEAM",
+   "key": "p:6589@GSW",
+   "mon": "pk:conkeldurr",
+   "name": "HEART + SOUL",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "species": "DYNASTY BUILDER",
+   "callout": "4 TITLES",
+   "vo": "The heart and soul. Four rings with us.",
+   "dlg": "HEART AND SOUL:|4 RINGS WITH US!"
+  },
+  {
+   "kind": "mon",
+   "head": "DRAYMOND'S TEAM",
+   "key": "p:6589@GSW",
+   "mon": "pk:machamp",
+   "name": "THE ACE",
+   "types": [
+    [
+     "FIGHT",
+     "#c03028"
+    ]
+   ],
+   "species": "FULLY EVOLVED",
+   "callout": "AGE 36",
+   "vo": "And the ace. Thirty-six years old, and he's started all eight games.",
+   "dlg": "THE ACE: AGE 36,|8 STARTS IN 8 GAMES!"
+  },
+  {
+   "kind": "next",
+   "head": "DRAYMOND'S TEAM",
+   "logo": "l:GSW",
+   "rec": "#35",
+   "ntxt": "DRAYMOND",
+   "nday": "TRAINER",
+   "vo": "Which one would you add? Comment below.",
+   "dlg": "WHICH ONE WOULD YOU ADD?|COMMENT BELOW!"
+  }
+ ],
+ "facts": [
+  {
+   "player": "6589",
+   "season": "2026-27",
+   "stat": "AST",
+   "value": 7.8
+  },
+  {
+   "player": "6589",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 8
+  },
+  {
+   "player": "6589",
+   "season": "2026-27",
+   "stat": "GS",
+   "value": 8
+  },
+  {
+   "claim": "Green: drafted 35th overall (2nd round) in 2012 by Golden State, 34 players before him; 2017 Defensive Player of the Year and NBA steals leader (2017); March 16, 2023: suspended for his 16th technical foul of the season; emotional heart and soul of the Warriors, noted for vocal leadership; 4x NBA champion (2015, 2017, 2018, 2022); born March 4, 1990 (age 36)",
+   "source": "https://en.wikipedia.org/wiki/Draymond_Green"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ]
+}

@@ -1,0 +1,751 @@
+{
+ "team": "raptors",
+ "name": "bench_pkmn",
+ "template": "fmt_bench.html",
+ "pace": "wolves",
+ "record": "5-9",
+ "music": "bench92",
+ "voice_eq": "bright",
+ "cps": 40,
+ "caption": "THE RAPTORS BENCH AS A POKÉMON TEAM 🦖⚡\n\n💪 6TH Collin Murray-Boyles = Hariyama (ability Guts, 4.6 boards a night in 23.5 minutes)\n🔮 7TH Jamal Shead = Alakazam (season-high 16 assists vs Milwaukee, in 34 minutes)\n🎯 8TH Jamison Battle = Kingdra (ability Sniper: 42.5% from three in 18.7 minutes)\n🦀 9TH Allen Graves = Krabby (all claws: 1.7 offensive boards in 14.9 minutes. One step below a Kingler)\n🥋 10TH Alijah Martin = Riolu (5.4 points in 12.3 minutes. One day, a Lucario)\n🐌 11TH Kyle Anderson = Slowpoke (they call him Slow Mo for a reason)\n\n💻 PC box: Trayce Jackson-Davis = Wooper · Jaden Bradley = Pichu · Malachi Smith = Magikarp · Kevin McCullar Jr. = Abra · Nate Bittle = Kakuna (hardening till he's back)\n\n5-9, and this bench is how we climb back. Who would you swap out, and what Pokémon would you give them?\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "party": [
+  {
+   "id": "b0",
+   "role": "b",
+   "key": "p:5093267",
+   "mon": "m:pmdanim_hariyama_12_6",
+   "tag": "MURRAY-BOYLES"
+  },
+  {
+   "id": "b1",
+   "role": "b",
+   "key": "p:4432241",
+   "mon": "m:pmdanim_alakazam_8_6",
+   "tag": "SHEAD"
+  },
+  {
+   "id": "b2",
+   "role": "b",
+   "key": "p:4431893",
+   "mon": "m:pmdanim_kingdra_12_6",
+   "tag": "BATTLE"
+  },
+  {
+   "id": "b3",
+   "role": "b",
+   "key": "p:5149115",
+   "mon": "m:pmdanim_krabby_2_30",
+   "tag": "GRAVES"
+  },
+  {
+   "id": "b4",
+   "role": "b",
+   "key": "p:4702656",
+   "mon": "m:pmdanim_riolu_4_21",
+   "tag": "MARTIN",
+   "evo": "m:pmdanim_lucario_6_9"
+  },
+  {
+   "id": "b5",
+   "role": "b",
+   "key": "p:2993874",
+   "mon": "m:pmdanim_slowpoke_4_16",
+   "tag": "ANDERSON"
+  },
+  {
+   "id": "pc0",
+   "role": "pc",
+   "key": "p:4431684",
+   "mon": "m:pmdanim_wooper_2_20",
+   "tag": "JACKSON-DAVIS"
+  },
+  {
+   "id": "pc1",
+   "role": "pc",
+   "key": "p:4432737",
+   "mon": "m:pmdanim_pichu_4_12",
+   "tag": "BRADLEY"
+  },
+  {
+   "id": "pc2",
+   "role": "pc",
+   "key": "p:4397784",
+   "mon": "m:pmdanim_magikarp_4_10",
+   "tag": "SMITH"
+  },
+  {
+   "id": "pc3",
+   "role": "pc",
+   "key": "p:4411057",
+   "mon": "m:pmdanim_abra_6_13",
+   "tag": "MCCULLAR"
+  },
+  {
+   "id": "pc4",
+   "role": "pc",
+   "key": "p:4432586",
+   "mon": "m:pmdanim_kakuna_6_8",
+   "tag": "BITTLE"
+  }
+ ],
+ "beats": [
+  {
+   "kind": "bench",
+   "scene": "intro",
+   "cfg": {
+    "title": "RAPTORS BENCH AS A|POKEMON TEAM",
+    "outro": "5-9: HOW WE CLIMB BACK"
+   },
+   "dlg": "HERE'S THE SQUAD:|6TH MAN TO 11TH.",
+   "full": true,
+   "vo": "Here's the Raptors bench as a Pokemon team."
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.28
+  },
+  {
+   "kind": "bench",
+   "vo": "Collin Murray-Boyles is Hariyama, its ability is Guts, and Collin's grabbing four point eight boards a night.",
+   "pages": [
+    {
+     "scene": "court",
+     "first": true,
+     "hdr": "BENCH: 6TH",
+     "dlg": "COLLIN MURRAY-BOYLES|IS HARIYAMA."
+    },
+    {
+     "scene": "court",
+     "fx": "shot",
+     "dlg": "ITS ABILITY:|GUTS.",
+     "w": "its"
+    },
+    {
+     "scene": "court",
+     "bar": {
+      "head": "GUTS: 4.6 REB IN 23.5 MIN"
+     },
+     "dlg": "COLLIN'S GRABBING|4.6 BOARDS PER GAME.",
+     "w": "and"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 0,
+      "st": {
+       "fl2": 0.0
+      },
+      "cut": 3.1
+     },
+     {
+      "i": 0,
+      "st": {
+       "fl1": 0.3
+      },
+      "cut": 5.3
+     },
+     {
+      "i": 0,
+      "st": {},
+      "cut": 7.3
+     }
+    ],
+    "pt": [
+     0,
+     2.2,
+     4.2
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.08
+  },
+  {
+   "kind": "bench",
+   "vo": "Jamal Shead is Alakazam, pure Psychic, a season high sixteen assists on Milwaukee earlier this month,",
+   "pages": [
+    {
+     "scene": "court",
+     "first": true,
+     "hdr": "BENCH: 7TH",
+     "dlg": "JAMAL SHEAD IS|ALAKAZAM."
+    },
+    {
+     "scene": "court",
+     "fx": "spark",
+     "dlg": "PURE PSYCHIC.",
+     "w": "pure"
+    },
+    {
+     "scene": "court",
+     "fx": "spark",
+     "count": {
+      "v": 16
+     },
+     "dlg": "A SEASON-HIGH 16 DIMES|ON MILWAUKEE,",
+     "w": "season"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 1,
+      "st": {
+       "fl2": 0.0
+      },
+      "cut": 9.2
+     },
+     {
+      "i": 1,
+      "st": {
+       "fl1": 0.3
+      },
+      "cut": 11.4
+     },
+     {
+      "i": 1,
+      "st": {
+       "count": 0.2
+      },
+      "cut": 12.6
+     }
+    ],
+    "pt": [
+     0,
+     2.2,
+     3.4
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.4
+  },
+  {
+   "kind": "bench",
+   "vo": "thirty-four minutes running the show, because he sees the whole floor.",
+   "pages": [
+    {
+     "scene": "court",
+     "bar": {
+      "head": "16 AST: SEASON HIGH",
+      "sub": "10 PTS, 34 MIN VS MIL"
+     },
+     "dlg": "34 MINUTES,|RUNNING THE SHOW,"
+    },
+    {
+     "scene": "court",
+     "dlg": "BECAUSE HE SEES|THE WHOLE FLOOR.",
+     "w": "because"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 1,
+      "st": {},
+      "cut": 15.5
+     },
+     {
+      "i": 1,
+      "st": {},
+      "cut": 17.3
+     }
+    ],
+    "pt": [
+     0,
+     1.8
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.54
+  },
+  {
+   "kind": "bench",
+   "vo": "Jamison Battle is Kingdra, Sniper, give him one clean look and it's already falling.",
+   "pages": [
+    {
+     "scene": "court",
+     "first": true,
+     "hdr": "BENCH: 8TH",
+     "dlg": "JAMISON BATTLE|IS KINGDRA."
+    },
+    {
+     "scene": "court",
+     "fx": "after",
+     "bar": {
+      "head": "42.5% 3PT IN 18.7 MIN"
+     },
+     "dlg": "SNIPER:|ONE LOOK, IT'S FALLING.",
+     "w": "sniper"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 2,
+      "st": {
+       "fl2": 0.17,
+       "mt": 1.0
+      },
+      "cut": 19.4
+     },
+     {
+      "i": 2,
+      "st": {
+       "bar": 0.7
+      },
+      "cut": 21.6
+     }
+    ],
+    "pt": [
+     0,
+     2.2
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.64
+  },
+  {
+   "kind": "bench",
+   "vo": "Allen Graves is Krabby, all claws on the glass, one step below a Kingler.",
+   "pages": [
+    {
+     "scene": "half",
+     "first": true,
+     "diss": true,
+     "hdr": "RAPTORS COURT",
+     "sub": "BENCH: 9TH",
+     "dlg": "ALLEN GRAVES|IS KRABBY."
+    },
+    {
+     "scene": "half",
+     "hdr": "RAPTORS COURT",
+     "sub": "BENCH: 9TH",
+     "bar": {
+      "head": "ALL CLAWS",
+      "sub": "1.7 OREB IN 14.9 MIN"
+     },
+     "dlg": "ALL CLAWS, ONE STEP|BELOW KINGLER.",
+     "w": "all"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 3,
+      "st": {},
+      "cut": 24.6
+     },
+     {
+      "i": 3,
+      "st": {
+       "hdrOff": 0.5
+      },
+      "cut": 26.8
+     }
+    ],
+    "pt": [
+     0,
+     2.2
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.68
+  },
+  {
+   "kind": "bench",
+   "vo": "Alijah Martin is Riolu, quick, tough, fearless, and one day, a Lucario.",
+   "pages": [
+    {
+     "scene": "half",
+     "first": true,
+     "fx": "dots",
+     "hdr": "BENCH: 10TH",
+     "dlg": "ALIJAH MARTIN|IS RIOLU."
+    },
+    {
+     "scene": "half",
+     "fx": "ghost",
+     "bar": {
+      "head": "5.4 PTS IN 12.3 MIN"
+     },
+     "dlg": "QUICK, TOUGH, AND|ONE DAY, A LUCARIO.",
+     "w": "quick"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 4,
+      "st": {
+       "fl2": 0.12
+      },
+      "cut": 29.5
+     },
+     {
+      "i": 4,
+      "st": {
+       "gt": 1.0
+      },
+      "cut": 31.7
+     }
+    ],
+    "pt": [
+     0,
+     2.19
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.92
+  },
+  {
+   "kind": "bench",
+   "vo": "Kyle Anderson is Slowpoke, slow, calm, never in a hurry.",
+   "pages": [
+    {
+     "scene": "half",
+     "first": true,
+     "hdr": "BENCH: 11TH",
+     "dlg": "KYLE ANDERSON|IS SLOWPOKE."
+    },
+    {
+     "scene": "half",
+     "fx": "ball",
+     "bar": {
+      "head": "THEY CALL HIM SLOW MO"
+     },
+     "dlg": "SLOW, CALM,|NEVER IN A HURRY.",
+     "w": "slow"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": 5,
+      "st": {
+       "fl2": 0.35
+      },
+      "cut": 34.7
+     },
+     {
+      "i": 5,
+      "st": {},
+      "cut": 36.7
+     }
+    ],
+    "pt": [
+     0,
+     1.84
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.7
+  },
+  {
+   "kind": "bench",
+   "vo": "And the PC box, Wooper, Pichu, Magikarp, Abra,",
+   "pages": [
+    {
+     "scene": "pc",
+     "first": true,
+     "diss": true,
+     "hdr": "RAPTORS PC: BOX 2",
+     "sub": "DEEP BENCH",
+     "dlg": "AND THE PC BOX:"
+    },
+    {
+     "scene": "pc",
+     "hdr": "RAPTORS PC: BOX 2",
+     "sub": "DEEP BENCH",
+     "dlg": "WOOPER, PICHU,|MAGIKARP, ABRA...",
+     "w": "wooper",
+     "pa": [
+      "wooper",
+      "pichu",
+      "magikarp",
+      "abra"
+     ]
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": null,
+      "st": {
+       "pcn": 0
+      },
+      "cut": 38.8
+     },
+     {
+      "i": null,
+      "st": {
+       "hdrOff": 0.25,
+       "pcn": 4,
+       "pct": [
+        0,
+        0,
+        0.22,
+        0.94
+       ]
+      },
+      "cut": 41.0
+     }
+    ],
+    "pt": [
+     0,
+     1.96
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 1.4
+  },
+  {
+   "kind": "bench",
+   "vo": "and Nate's a Kakuna, hardening till he's back.",
+   "pages": [
+    {
+     "scene": "pc",
+     "dlg": "AND NATE'S A KAKUNA,",
+     "pa": [
+      "kakuna"
+     ]
+    },
+    {
+     "scene": "pc",
+     "dlg": "...HARDENING TILL|HE'S BACK.",
+     "w": "harden"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": null,
+      "st": {
+       "pcn": 5,
+       "pct": [
+        0.7
+       ]
+      },
+      "cut": 43.5
+     },
+     {
+      "i": null,
+      "st": {
+       "pcn": 5
+      },
+      "cut": 45.0
+     }
+    ],
+    "pt": [
+     0,
+     1.5
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 0.14
+  },
+  {
+   "kind": "bench",
+   "vo": "We're five and nine, and this bench is how we climb back.",
+   "pages": [
+    {
+     "scene": "outro",
+     "dlg": "WE'RE 5-9,"
+    },
+    {
+     "scene": "outro",
+     "dlg": "AND THIS BENCH IS|HOW WE CLIMB BACK.",
+     "w": "this"
+    }
+   ],
+   "stat": {
+    "pg": [
+     {
+      "i": null,
+      "st": {
+       "pop": [
+        3,
+        0.35
+       ]
+      },
+      "cut": 46.2
+     },
+     {
+      "i": null,
+      "st": {},
+      "cut": 47.6
+     }
+    ],
+    "pt": [
+     0,
+     1.4
+    ]
+   }
+  },
+  {
+   "kind": "bench",
+   "cont": true,
+   "vo": "",
+   "hold": 1.2,
+   "end": true
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Bench rule (ESPN 2026-27 averages, Nov 18): the starters are the five players with the most starts (Barrett 13, Walter 11, Quickley 11, Barnes 9, Poeltl 9). The bench, ranked 6th, 7th, 8th, 9th, 10th and 11th, is everyone else not listed Out (Leonard is Out), by minutes per game: Murray-Boyles 24.9 (7 starts), Shead 24.0, Battle 17.6, Graves 13.8, Martin 11.9, Anderson 7.6. PC box 2 = the rest: Jackson-Davis 7.4, Bradley 4.7, Smith 1.0, McCullar (no games), Bittle (Out).",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/roster"
+  },
+  {
+   "claim": "Raptors record 5-9 (ESPN, Nov 18 2026)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28"
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 4.6
+  },
+  {
+   "player": "5093267",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 23.5
+  },
+  {
+   "game": "401909292",
+   "player": "4432241",
+   "stat": "AST",
+   "value": "16"
+  },
+  {
+   "game": "401909292",
+   "player": "4432241",
+   "stat": "PTS",
+   "value": "10"
+  },
+  {
+   "game": "401909292",
+   "player": "4432241",
+   "stat": "MIN",
+   "value": "34"
+  },
+  {
+   "claim": "Raptors beat Milwaukee on Nov 7 (W, Shead 16 assists)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909292"
+  },
+  {
+   "claim": "Shead's 16 assists vs Milwaukee (Nov 7) are his 2026-27 season high (next best: 11 vs Memphis)",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432241/gamelog"
+  },
+  {
+   "player": "4431893",
+   "season": "2026-27",
+   "stat": "3P%",
+   "value": 42.5
+  },
+  {
+   "claim": "3PT = 3-point shooting, ESPN's label for three-pointers",
+   "source": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4431893/stats"
+  },
+  {
+   "player": "4431893",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 18.7
+  },
+  {
+   "player": "5149115",
+   "season": "2026-27",
+   "stat": "OR",
+   "value": 1.7
+  },
+  {
+   "player": "5149115",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 14.9
+  },
+  {
+   "player": "4702656",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 5.4
+  },
+  {
+   "player": "4702656",
+   "season": "2026-27",
+   "stat": "MIN",
+   "value": 12.3
+  },
+  {
+   "claim": "Kyle Anderson is nicknamed \"Slow Mo\" after his deliberate style",
+   "source": "https://en.wikipedia.org/wiki/Kyle_Anderson_(basketball)"
+  },
+  {
+   "claim": "Hariyama has the ability Guts",
+   "source": "https://pokeapi.co/api/v2/pokemon/hariyama"
+  },
+  {
+   "claim": "Alakazam is pure Psychic type",
+   "source": "https://pokeapi.co/api/v2/pokemon/alakazam"
+  },
+  {
+   "claim": "Kingdra has the ability Sniper",
+   "source": "https://pokeapi.co/api/v2/pokemon/kingdra"
+  },
+  {
+   "claim": "Krabby evolves into Kingler",
+   "source": "https://pokeapi.co/api/v2/evolution-chain/43/"
+  },
+  {
+   "claim": "Riolu evolves into Lucario",
+   "source": "https://pokeapi.co/api/v2/evolution-chain/232/"
+  },
+  {
+   "claim": "Kakuna learns Harden",
+   "source": "https://pokeapi.co/api/v2/pokemon/kakuna"
+  },
+  {
+   "claim": "Monster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "tts_speed": 1.15
+}

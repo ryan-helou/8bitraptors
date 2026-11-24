@@ -1,0 +1,125 @@
+{
+ "team": "raptors",
+ "name": "poll_big",
+ "l1": "ONE GAME TO WIN...",
+ "q": "PICK YOUR BIG MAN!",
+ "boxA": "RAPTORS BIGS",
+ "boxB": "WHO OWNS OUR PAINT?",
+ "rest": "",
+ "caption": "CHOOSE YOUR STARTER: BIG MAN 🎮🏀 One game, one big to hold down our paint. Who are you taking?\n\n1️⃣ Chris Bosh, franchise big: #1 in our history in rebounds and blocks, 11x All-Star\n2️⃣ Marc Gasol, anchor: 2013 DPOY, 3x All-Star, won the 2019 title with us\n3️⃣ Jakob Poeltl, today: 6.6 RPG on 61.7% shooting through 10 games this season\n\nComment 1, 2 or 3 👇",
+ "cands": [
+  {
+   "id": "1977",
+   "name": "BOSH",
+   "full": "CHRIS BOSH",
+   "jersey": "4",
+   "type": "FRANCHISE",
+   "season": "RAPTORS 2003-2010",
+   "stats": [
+    [
+     "#1",
+     "REBOUNDS"
+    ],
+    [
+     "#1",
+     "BLOCKS"
+    ],
+    [
+     "11X",
+     "ALL-STAR"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3206",
+   "name": "GASOL",
+   "full": "MARC GASOL",
+   "jersey": "33",
+   "type": "ANCHOR",
+   "season": "RAPTORS 2019-2020",
+   "stats": [
+    [
+     "DPOY",
+     "2013"
+    ],
+    [
+     "3X",
+     "ALL-STAR"
+    ],
+    [
+     "1",
+     "TITLE"
+    ]
+   ],
+   "team": "TOR"
+  },
+  {
+   "id": "3134908",
+   "name": "POELTL",
+   "full": "JAKOB POELTL",
+   "jersey": "19",
+   "type": "RIM RUNNER",
+   "season": "2026-27",
+   "stats": [
+    [
+     "6.6",
+     "RPG"
+    ],
+    [
+     "61.7",
+     "FG%"
+    ],
+    [
+     "#9",
+     "PICK"
+    ]
+   ],
+   "team": "TOR"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Chris Bosh is the Raptors' career leader (#1) in total rebounds (4776) and blocks (600)",
+   "source": "https://www.basketball-reference.com/teams/TOR/leaders_career.html"
+  },
+  {
+   "claim": "Bosh: 11x NBA All-Star (2006-2016); played for Toronto 2003-2010; wore No. 4",
+   "source": "https://en.wikipedia.org/wiki/Chris_Bosh"
+  },
+  {
+   "claim": "Bosh wore #4 for Toronto",
+   "source": "https://www.basketball-reference.com/players/b/boshch01.html"
+  },
+  {
+   "claim": "Marc Gasol: NBA Defensive Player of the Year (DPOY) 2013; 3x NBA All-Star; NBA champion 2019 (1 title); Toronto Raptors 2019-2020",
+   "source": "https://en.wikipedia.org/wiki/Marc_Gasol"
+  },
+  {
+   "claim": "Gasol wore #33 for Toronto",
+   "source": "https://www.basketball-reference.com/players/g/gasolma01.html"
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "REB",
+   "value": 6.6
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 61.7
+  },
+  {
+   "player": "3134908",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 10
+  },
+  {
+   "claim": "Poeltl: No. 19 for the Toronto Raptors; selected #9 (ninth overall) by Toronto in the 2016 draft",
+   "source": "https://en.wikipedia.org/wiki/Jakob_Poeltl"
+  }
+ ]
+}

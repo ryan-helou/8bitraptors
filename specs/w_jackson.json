@@ -1,0 +1,85 @@
+{
+ "team": "warriors",
+ "name": "jackson",
+ "pace": "wolves",
+ "caption": "WE FIRED HIM AFTER 51 WINS 🎮🏀\n\n• 2013-14: Mark Jackson led us to 51-31, our second straight playoff trip\n• We fired him in May 2014 anyway\n• May 14, 2014: we hired Steve Kerr\n• Kerr's first season: 67-15 and the 2015 title\n\nRight call? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "51 WINS",
+   "key": "l:GSW",
+   "name": "JACKSON",
+   "badge": "2013-14",
+   "lines": [
+    [
+     "51-31",
+     "RECORD"
+    ],
+    [
+     "2",
+     "STRAIGHT PLAYOFFS"
+    ]
+   ],
+   "vo": "Fifty-one wins. Back-to-back playoff trips. And we fired our coach anyway.",
+   "dlg": "51 WINS. PLAYOFFS AGAIN.|WE FIRED HIM ANYWAY."
+  },
+  {
+   "kind": "fire",
+   "head": "THE NEW GUY",
+   "key": "l:GSW",
+   "name": "KERR",
+   "badge": "MAY 14, 2014",
+   "lines": [
+    [
+     "1ST",
+     "HEAD COACH JOB"
+    ]
+   ],
+   "vo": "So we hired Steve Kerr, a first-time head coach.",
+   "dlg": "WE HIRED STEVE KERR.|A ROOKIE HEAD COACH."
+  },
+  {
+   "kind": "fire",
+   "head": "YEAR ONE",
+   "key": "l:GSW",
+   "name": "KERR",
+   "badge": "2014-15",
+   "lines": [
+    [
+     "67-15",
+     "RECORD"
+    ],
+    [
+     "2015",
+     "NBA CHAMPS"
+    ]
+   ],
+   "vo": "Year one? Sixty-seven wins, and the title.",
+   "dlg": "YEAR ONE: 67 WINS.|AND THE TITLE."
+  },
+  {
+   "kind": "next",
+   "head": "RIGHT CALL?",
+   "logo": "l:GSW",
+   "rec": "67-15",
+   "ntxt": "JACKSON",
+   "nday": "OR KERR?",
+   "vo": "Was firing a fifty-one win coach the right call? Comment below.",
+   "dlg": "WAS IT THE RIGHT CALL?|COMMENT BELOW."
+  }
+ ],
+ "facts": [
+  {
+   "claim": "2013-14 Golden State Warriors: 51-31 under coach Mark Jackson, lost in the first round. Jackson coached three seasons and was fired in 2014 despite leading the Warriors to consecutive (2 straight) playoff appearances for the first time in over 20 years.",
+   "source": "https://en.wikipedia.org/wiki/Mark_Jackson_(basketball)"
+  },
+  {
+   "claim": "On May 14, 2014, Steve Kerr agreed to become head coach of the Warriors, succeeding Mark Jackson; he was an NBA rookie head coach in 2014-15 (his 1st head coaching job). 2014-15 Warriors under Kerr: 67-15, NBA champions (2015).",
+   "source": "https://en.wikipedia.org/wiki/Steve_Kerr"
+  },
+  {
+   "claim": "2014-15 Golden State Warriors: 67-15, coach Steve Kerr, NBA champions (defeated Cavaliers 4-2).",
+   "source": "https://en.wikipedia.org/wiki/2014%E2%80%9315_Golden_State_Warriors_season"
+  }
+ ]
+}

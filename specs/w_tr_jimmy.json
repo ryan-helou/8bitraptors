@@ -1,0 +1,231 @@
+{
+ "team": "warriors",
+ "name": "tr_jimmy",
+ "record": "7-3",
+ "caption": "IF JIMMY HAD A POKÉMON TEAM, HERE'S WHO WE'D SEND OUT 🎮🏀\n\n🐜 Trapinch: a patient hunter waiting at the bottom of its pit. No recruiters, then pick #30, last in round 1\n🐉 Flygon: Trapinch evolves into the Desert Spirit. 2015 Most Improved Player\n🦹 Sneasel: its ability is Pickpocket. Led the NBA in steals in 2021\n🌋 Heatran: blood that boils like magma. Playoff Jimmy, 56 points in one playoff game, a Heat record\n⚡ Zeraora: it moves at the speed of lightning. 38 in his first play-in for us\n🔥 Moltres: when hurt, it dips into magma to heal. 20.0 points a night in 38 games before the ACL\n\nThat's a party we'd take into any building. Which one would you swap in? 👇\n\nMonster sprites: PMD Sprite Collab (sprites.pmdcollab.org), CC BY-NC 4.0",
+ "beats": [
+  {
+   "kind": "p_intro",
+   "vo": "If Jimmy Butler had a Pokemon team, here's what we'd be running.",
+   "dlg": "IF JIMMY HAD A TEAM|OF MONSTERS..."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 0,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 0,
+   "first": true,
+   "stat": true,
+   "vo": "First up, Trapinch. A patient hunter, it waits at the bottom of its pit. Nobody recruited him out of high school. Then pick thirty, the last pick of round one.",
+   "dlg": "A PATIENT HUNTER.|PICK 30, LAST IN ROUND 1."
+  },
+  {
+   "kind": "p_menu",
+   "sel": 1,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 1,
+   "first": true,
+   "stat": true,
+   "vo": "Flygon. Trapinch evolves into the Desert Spirit. Most Improved Player in twenty fifteen.",
+   "dlg": "BECOMES THE DESERT SPIRIT.|MOST IMPROVED, 2015!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 2,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 2,
+   "first": true,
+   "stat": true,
+   "vo": "Sneasel. Its ability is Pickpocket, and it steals eggs from unguarded nests. He led the whole league in steals in twenty twenty-one.",
+   "dlg": "ABILITY: PICKPOCKET.|LED THE NBA IN STEALS!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 3,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 3,
+   "first": true,
+   "stat": true,
+   "vo": "Heatran. Boiling blood, like magma, runs through its body. Playoff Jimmy. Fifty-six points in one playoff game, a Heat record.",
+   "dlg": "BLOOD BOILS LIKE MAGMA.|56 IN A PLAYOFF GAME!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 4,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 4,
+   "first": true,
+   "stat": true,
+   "vo": "Zeraora. It strikes at the speed of lightning. His first play-in for us: thirty-eight points to beat Memphis.",
+   "dlg": "FAST AS A LIGHTNING STRIKE|38 VS MEMPHIS IN PLAY-IN!"
+  },
+  {
+   "kind": "p_menu",
+   "sel": 5,
+   "vo": "",
+   "dlg": "GO!",
+   "hold": 0.1
+  },
+  {
+   "kind": "p_mon",
+   "i": 5,
+   "first": true,
+   "stat": true,
+   "vo": "And the ace. Moltres. When it's hurt, it's said to dip into magma to heal. Twenty points a night for us before the knee. Come back soon, Jimmy.",
+   "dlg": "IT HEALS ITSELF IN MAGMA.|20.0 A NIGHT. COME BACK!"
+  },
+  {
+   "kind": "p_sum",
+   "vo": "That's a party we'd take into any building. Which one would you swap in? Comment below.",
+   "dlg": "A PARTY WE'D TAKE INTO|ANY BUILDING. WHO'S IN?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "6430",
+   "season": "2025-26",
+   "stat": "PTS",
+   "value": 20.0
+  },
+  {
+   "player": "6430",
+   "season": "2025-26",
+   "stat": "GP",
+   "value": 38
+  },
+  {
+   "claim": "Butler: not recruited out of high school, went to Tyler Junior College; 2011 draft 30th overall by Chicago, the last pick of the first round (pick 31 started round 2); 2015 NBA Most Improved Player; NBA steals leader in 2021; career-high 56 points in game 4 vs Milwaukee in 2023, Miami Heat franchise playoff record; April 15 (2025) play-in debut with the Warriors: 38 points in a 121-116 win over Memphis; torn right ACL January 19, 2026; through 38 games averaged 20.0 points",
+   "source": "https://en.wikipedia.org/wiki/Jimmy_Butler"
+  },
+  {
+   "claim": "2011 NBA draft: Jimmy Butler round 1 pick 30 (30th) by Chicago; round 2 pick 31 Bojan Bogdanovic",
+   "source": "https://en.wikipedia.org/wiki/2011_NBA_draft"
+  },
+  {
+   "claim": "Sprite credit: CC BY-NC 4.0",
+   "source": "https://sprites.pmdcollab.org"
+  }
+ ],
+ "party": [
+  {
+   "key": "p:6430@GSW",
+   "mon": "pk:trapinch",
+   "nick": "TRAPINCH",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ]
+   ],
+   "label": "PICK 30",
+   "stat": "PICK 30"
+  },
+  {
+   "key": "p:6430@GSW",
+   "mon": "pk:flygon",
+   "nick": "FLYGON",
+   "types": [
+    [
+     "GROUND",
+     "#c0a050"
+    ],
+    [
+     "DRAGON",
+     "#6838f0"
+    ]
+   ],
+   "label": "IT EVOLVED",
+   "stat": "MIP 2015"
+  },
+  {
+   "key": "p:6430@GSW",
+   "mon": "pk:sneasel",
+   "nick": "SNEASEL",
+   "types": [
+    [
+     "DARK",
+     "#5a4636"
+    ],
+    [
+     "ICE",
+     "#58b8d0"
+    ]
+   ],
+   "label": "THE THIEF",
+   "stat": "LED NBA 2021"
+  },
+  {
+   "key": "p:6430@GSW",
+   "mon": "pk:heatran",
+   "nick": "HEATRAN",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "STEEL",
+     "#8888a8"
+    ]
+   ],
+   "label": "PLAYOFF JIMMY",
+   "stat": "56 PTS"
+  },
+  {
+   "key": "p:6430@GSW",
+   "mon": "pk:zeraora",
+   "nick": "ZERAORA",
+   "types": [
+    [
+     "ELECTRIC",
+     "#f8d030"
+    ]
+   ],
+   "label": "BIG MOMENTS",
+   "stat": "38 PTS"
+  },
+  {
+   "key": "p:6430@GSW",
+   "mon": "pk:moltres",
+   "nick": "MOLTRES",
+   "types": [
+    [
+     "FIRE",
+     "#e86020"
+    ],
+    [
+     "FLYING",
+     "#a890f0"
+    ]
+   ],
+   "label": "THE ACE",
+   "stat": "20.0 PPG"
+  }
+ ],
+ "mode": "trainer"
+}

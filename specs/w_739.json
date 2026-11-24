@@ -1,0 +1,16 @@
+{"team": "warriors", "name": "s739", "record": "73-9",
+ "caption": "73-9 🎮🏀 The best regular season in NBA history... and it still wasn't enough.\n\n• Started 24-0, best start ever\n• Steph: 30.1 PPG, 402 threes, first unanimous MVP\n• West Finals: down 3-1 to OKC, won 3 straight\n• Finals: up 3-1 on Cleveland\n• Cavs won 3 straight. Game 7: 93-89\n\n73 wins and no ring. Best team ever or not? 👇",
+ "beats": [
+  {"kind": "trainer", "head": "THE 73-9 WARRIORS", "tag": "2015-16", "reveal": true, "chip": "24-0 START", "games": [],
+   "vo": "The best regular season in NBA history... and it still wasn't enough.", "dlg": "THE BEST SEASON EVER...|AND IT WASN'T ENOUGH."},
+  {"kind": "fire", "head": "UNANIMOUS MVP", "key": "p:3975", "name": "STEPH", "badge": "MVP", "lines": [["30.1", "PPG"], ["402", "THREES"]],
+   "vo": "Steph: thirty point one a game, four hundred and two threes, and the first unanimous MVP ever.", "dlg": "STEPH: 402 THREES.|FIRST UNANIMOUS MVP!"},
+  {"kind": "gym", "head": "WEST FINALS: OKC", "logo": "l:OKC", "ocol": "auto:OKC", "rec": "1-3", "chip": "DOWN 1-3", "me": true, "line": "WON IN 7",
+   "vo": "West finals: down three games to one against OKC... they win three straight.", "dlg": "DOWN 3-1 TO OKC...|THEY WIN 3 STRAIGHT!"},
+  {"kind": "gym", "head": "THE FINALS: CAVS", "logo": "l:CLE", "ocol": "auto:CLE", "rec": "3-1", "chip": "UP 3-1", "me": true, "line": "1 WIN AWAY",
+   "vo": "The Finals: up three games to one on Cleveland. One win away.", "dlg": "THE FINALS: UP 3-1|ON CLEVELAND..."},
+  {"kind": "final", "head": "GAME 7", "oname": "CAVALIERS", "logo": "l:CLE", "ocol": "auto:CLE", "my": 89, "th": 93, "win": false,
+   "vo": "Then the Cavs won three straight. Game seven: ninety-three, eighty-nine.", "dlg": "THEN... CAVS IN 7.|93-89."},
+  {"kind": "next", "head": "73 WINS. NO RING.", "logo": "l:GSW", "rec": "73-9", "ntxt": "NO RING", "nday": "2015-16",
+   "vo": "Seventy-three wins, and no ring. Best team ever, or not? Comment below.", "dlg": "BEST TEAM EVER, OR NOT?|COMMENT BELOW!"}
+ ]}

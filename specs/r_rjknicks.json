@@ -1,0 +1,142 @@
+{
+ "team": "raptors",
+ "name": "rjknicks",
+ "record": "5-4",
+ "caption": "NEW YORK GAVE UP 🎮🏀 The Knicks drafted RJ Barrett #3 and paid him $120M. Then the Knicks traded him to us.\n\n• 2019 draft: New York takes him #3\n• Sept 2022: Knicks extension, 4 years, $120M. Dec 30, 2023: traded to us\n• Best Knicks season (2021-22): 20.0 PPG on 40.8% shooting\n• 2024-25 with us: 21.1 PPG, 5.4 APG\n• First 9 games this season: 21.6 PPG on 47.4%\n\nDid the Knicks give up on him too early? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "PICK 3",
+   "key": "p:4395625@NYK",
+   "name": "RJ",
+   "badge": "2019 DRAFT",
+   "lines": [
+    [
+     "#3",
+     "2019 DRAFT"
+    ],
+    [
+     "$120M",
+     "EXTENSION"
+    ]
+   ],
+   "vo": "New York drafted RJ Barrett third overall and gave him a hundred and twenty million dollar extension. Sixteen months later, the Knicks traded him to us.",
+   "dlg": "NY: PICK 3, THEN $120M.|DEC 2023: TRADED TO US."
+  },
+  {
+   "kind": "fire",
+   "head": "BEST KNICKS YEAR",
+   "key": "p:4395625@NYK",
+   "name": "RJ",
+   "badge": "2021-22",
+   "lines": [
+    [
+     "20.0",
+     "PPG"
+    ],
+    [
+     "40.8",
+     "FG%"
+    ]
+   ],
+   "vo": "His best year in New York: twenty points a night, but on forty point eight percent shooting.",
+   "dlg": "BEST KNICKS YEAR: 20.0 PPG|ON 40.8% SHOOTING."
+  },
+  {
+   "kind": "fire",
+   "head": "WITH US",
+   "key": "p:4395625@TOR",
+   "name": "RJ",
+   "badge": "2024-25",
+   "lines": [
+    [
+     "21.1",
+     "PPG"
+    ],
+    [
+     "5.4",
+     "APG"
+    ]
+   ],
+   "vo": "Two seasons ago with us: twenty-one point one points and five point four assists. More than he ever gave New York.",
+   "dlg": "2024-25 WITH US: 21.1 PPG,|5.4 APG."
+  },
+  {
+   "kind": "fire",
+   "head": "FIRST 9 GAMES",
+   "key": "p:4395625@TOR",
+   "name": "RJ",
+   "badge": "OUR GUY",
+   "lines": [
+    [
+     "21.6",
+     "PPG"
+    ],
+    [
+     "47.4",
+     "FG%"
+    ]
+   ],
+   "vo": "And through nine games this season: twenty-one point six points, on forty-seven percent shooting.",
+   "dlg": "FIRST 9 GAMES: 21.6 PPG|ON 47.4% SHOOTING."
+  },
+  {
+   "kind": "next",
+   "head": "TOO EARLY?",
+   "logo": "l:TOR",
+   "rec": "#3",
+   "ntxt": "RJ",
+   "nday": "2019 PICK",
+   "vo": "Did the Knicks give up on him too early? Comment below.",
+   "dlg": "DID NEW YORK GIVE UP|ON RJ TOO EARLY?"
+  }
+ ],
+ "facts": [
+  {
+   "player": "4395625",
+   "season": "2021-22",
+   "stat": "PTS",
+   "value": 20.0
+  },
+  {
+   "player": "4395625",
+   "season": "2021-22",
+   "stat": "FG%",
+   "value": 40.8
+  },
+  {
+   "player": "4395625",
+   "season": "2024-25",
+   "stat": "PTS",
+   "value": 21.1
+  },
+  {
+   "player": "4395625",
+   "season": "2024-25",
+   "stat": "AST",
+   "value": 5.4
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "GP",
+   "value": 9
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "PTS",
+   "value": 21.6
+  },
+  {
+   "player": "4395625",
+   "season": "2026-27",
+   "stat": "FG%",
+   "value": 47.4
+  },
+  {
+   "claim": "June 20, 2019: Knicks draft Barrett #3 (third overall) in the 2019 NBA draft; September 1, 2022: re-signs with the Knicks on a 4-year, $120M deal; December 30, 2023: Knicks trade him to the Raptors",
+   "source": "https://en.wikipedia.org/wiki/RJ_Barrett"
+  }
+ ]
+}

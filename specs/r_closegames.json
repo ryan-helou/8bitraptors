@@ -1,0 +1,151 @@
+{
+ "team": "raptors",
+ "name": "closegames",
+ "pace": "wolves",
+ "record": "5-5",
+ "caption": "NO CLOSE GAMES? 🎮🏀 Our first 10 games: not one decided by 5 points or fewer.\n\n• Closest: lost by 6 at the Lakers (131-125), lost by 7 to Orlando (121-114), won by 7 at the Clippers (125-118)\n• In single-digit games, we're 1-2\n• Our 5 wins: by 20.8 a game on average, +43 vs Chicago\n• Our 5 losses: by 14.2 a game, -23 at Minnesota\n\nBlowouts both ways: good sign or bad sign? 👇",
+ "beats": [
+  {
+   "kind": "fire",
+   "head": "NO CLOSE GAMES?",
+   "key": "l:TOR",
+   "name": "US",
+   "badge": "FIRST 10",
+   "lines": [
+    [
+     "0",
+     "CLOSE GAMES"
+    ],
+    [
+     "6",
+     "CLOSEST GAP"
+    ]
+   ],
+   "vo": "Ten games in, and not one close game. Zero decided by five points or fewer.",
+   "dlg": "FIRST 10 GAMES: ZERO|DECIDED BY 5 OR FEWER."
+  },
+  {
+   "kind": "hot",
+   "head": "CLOSEST THREE",
+   "rows": [
+    {
+     "logo": "l:LAL",
+     "name": "AT LAKERS",
+     "sub": "131-125",
+     "val": "-6",
+     "w": 0
+    },
+    {
+     "logo": "l:ORL",
+     "name": "VS ORLANDO",
+     "sub": "121-114",
+     "val": "-7",
+     "w": 0
+    },
+    {
+     "logo": "l:LAC",
+     "name": "AT CLIPPERS",
+     "sub": "125-118",
+     "val": "+7",
+     "w": 1
+    }
+   ],
+   "vo": "Our closest: a six-point loss to the Lakers, a seven-point loss to Orlando, and a seven-point win over the Clippers.",
+   "dlg": "IN SINGLE-DIGIT GAMES,|WE'RE 1-2."
+  },
+  {
+   "kind": "fire",
+   "head": "OUR WINS",
+   "key": "l:TOR",
+   "name": "US",
+   "badge": "5 WINS",
+   "lines": [
+    [
+     "5",
+     "WINS"
+    ],
+    [
+     "20.8",
+     "AVG MARGIN"
+    ]
+   ],
+   "vo": "Our five wins came by an average of twenty point eight points, including forty-three against Chicago.",
+   "dlg": "5 WINS BY 20.8 A GAME.|+43 VS CHICAGO."
+  },
+  {
+   "kind": "fire",
+   "head": "OUR LOSSES",
+   "key": "l:TOR",
+   "name": "US",
+   "badge": "5 LOSSES",
+   "lines": [
+    [
+     "5",
+     "LOSSES"
+    ],
+    [
+     "14.2",
+     "AVG MARGIN"
+    ]
+   ],
+   "vo": "Our five losses? By fourteen point two a game. The worst: twenty-three at Minnesota.",
+   "dlg": "5 LOSSES BY 14.2 A GAME.|-23 AT MINNESOTA."
+  },
+  {
+   "kind": "next",
+   "head": "GOOD OR BAD?",
+   "logo": "l:TOR",
+   "rec": "5-5",
+   "ntxt": "NO CLOSE ONES",
+   "nday": "FIRST 10",
+   "vo": "Blowouts, both ways. Is that a good sign, or a bad sign? Comment below.",
+   "dlg": "BLOWOUTS BOTH WAYS.|GOOD SIGN OR BAD SIGN?"
+  }
+ ],
+ "facts": [
+  {
+   "game": "401909837",
+   "score": "135-92"
+  },
+  {
+   "game": "401909846",
+   "score": "112-102"
+  },
+  {
+   "game": "401909864",
+   "score": "117-94"
+  },
+  {
+   "game": "401909885",
+   "score": "129-99"
+  },
+  {
+   "game": "401909281",
+   "score": "121-114"
+  },
+  {
+   "game": "401909906",
+   "score": "131-125"
+  },
+  {
+   "game": "401909920",
+   "score": "125-118"
+  },
+  {
+   "game": "401909931",
+   "score": "128-109"
+  },
+  {
+   "game": "401909292",
+   "score": "121-107"
+  },
+  {
+   "game": "401909955",
+   "score": "118-102"
+  },
+  {
+   "claim": "ESPN schedule/results, Toronto's first 10 games of 2026-27 (5-5): wins by 43 (CHI), 10 (WSH), 30 (ORL), 7 (LAC), 14 (MIL) = average 20.8; losses by 23 (MIN), 7 (ORL), 6 (LAL), 19 (DEN), 16 (MEM) = average 14.2; 0 games decided by 5 or fewer, smallest margin 6; 1-2 in single-digit games; closest three games listed",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/28/schedule?season=2027"
+  }
+ ]
+}
