@@ -4,3 +4,6 @@
 cd "${0:A:h}/.." || exit 1
 git add -A && git diff --cached --quiet || git commit -qm "daily backup $(date +%F)"
 git pull -q --rebase --autostash && git push -q && echo "backup pushed"
+
+# Refresh the public copy (github.com/ryan-helou/8bitraptors): code + README only.
+zsh "${0:A:h}/publish_public.sh"
