@@ -48,7 +48,7 @@ PROMPT = f"""News reel run for @8bit{item['acc']} (repo ~/Developer/8bitraptors)
    exists). 20-35 s, hook in line 1, fan voice we/us/our, no emojis in voiceover or dialog, every number in the spec's facts
    with its source. Build: PATH=/Library/Frameworks/Python.framework/Versions/3.12/bin:$PATH zsh gen/batch.sh specs/<spec>.json
    (QA must pass), then python3 gen/factcheck.py specs/<spec>.json must say "facts OK". One build at a time (8 GB Mac).
-3. Queue it in the soonest :00 or :30 slot (the cloud poster only runs then) that is at least 90 min after this account's last post and before 22:30 Toronto, keeping the
+3. Queue it in the soonest slot that is at least 90 min after this account's last post and before 22:30 Toronto, keeping the
    account at 5 posts a day or fewer (Warriors 3): if the day is full, push that day's lowest-scoring queued reel
    (data/learn/scores.json) to the end of the queue by editing its due_et in data/api_queue.json, then queue with
    python3 bin/api_queue.py api_{item['acc']}_<stem> {item['acc']} out/<stem>.mp4 out/<stem>.caption.txt <YYYY-MM-DD> <HH:MM>
@@ -61,7 +61,7 @@ Before step 3, REVIEW: start ONE fresh general-purpose subagent with only the mp
 - No style nitpicks.
 Reply PASS (both 4+, nothing broken), or FIX with a short list."
 Fix and re-review, at most 2 rounds; never queue a reel that still gets FIX.
-After queueing, run python3 bin/cloud_sync.py and confirm the label is in ~/Developer/8bit-poster/queue.json.
+After queueing, confirm the label is in data/api_queue.json with state queued.
 Be token-efficient: minimal file reads, short final summary."""
 log = open(ROOT / "data/logs/news_run.log", "a"); log.write(f"\n=== {now.isoformat(timespec='minutes')} {item['headline']}\n"); log.flush()
 subprocess.Popen([str(pathlib.Path.home() / ".local/bin/claude"), "-p", PROMPT, "--permission-mode", "bypassPermissions"],

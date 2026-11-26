@@ -13,9 +13,17 @@ git = lambda *a: subprocess.run(["git", "-C", str(ROOT), *a], capture_output=Tru
 git("pull", "-q", "--rebase", "--autostash")
 st = json.loads((REPO / "state.json").read_text()); rq = {r["label"]: r for r in json.loads((REPO / "queue.json").read_text())}
 qf = ROOT / "data/api_queue.json"; q = json.loads(qf.read_text()); changed = 0
+import datetime as _dt
+def _requeue(j):   # a post the cloud skipped for lateness goes back in line: same clock time, the day after the account's last queued post
+    last = max([x["due_et"] for x in q if x["account"] == j["account"] and x["state"] == "queued"] or [j["due_et"]])
+    d = _dt.datetime.fromisoformat(last).date() + _dt.timedelta(days=1); t = _dt.datetime.fromisoformat(j["due_et"])
+    j["due_et"] = t.replace(year=d.year, month=d.month, day=d.day).isoformat(); j["state"] = "queued"; j["label_retry"] = j.get("label_retry", 0) + 1
 for j in q:                                    # 1. cloud results win
     s = st.get(j["label"], {}).get("state")
-    if s in ("posted", "skipped", "failed") and j["state"] in ("queued", "running"): j["state"] = s; j["cloud_why"] = st[j["label"]].get("why", ""); changed += 1
+    if s in ("posted", "skipped", "failed") and j["state"] in ("queued", "running") and st[j["label"]].get("attempt", 0) >= j.get("label_retry", 0):
+        if s == "skipped" and "late" in st[j["label"]].get("why", "") and j.get("label_retry", 0) < 2:
+            _requeue(j); changed += 1; continue
+        j["state"] = s; j["cloud_why"] = st[j["label"]].get("why", ""); changed += 1
 r = subprocess.run(["gh", "release", "view", "videos", "-R", "ryan-helou/8bitraptors-ops", "--json", "assets", "-q", ".assets[].name"], capture_output=True, text=True)
 assets = set(r.stdout.split())
 out = []
@@ -26,7 +34,7 @@ for j in q:                                    # 2. push the queue
         up = subprocess.run(["gh", "release", "upload", "videos", str(v), "--clobber", "-R", "ryan-helou/8bitraptors-ops"], capture_output=True, text=True)
         if up.returncode: print("upload failed", j["label"], up.stderr[-200:]); continue
     shutil.copy(j["caption"], REPO / "captions" / f"{j['label']}.txt")
-    out.append(dict(label=j["label"], account=j["account"], due_et=j["due_et"], md5=md5, thumb=1300, **({"trial": True} if j.get("trial") else {})))
+    out.append(dict(label=j["label"], account=j["account"], due_et=j["due_et"], md5=md5, thumb=1300, attempt=j.get("label_retry", 0), **({"trial": True} if j.get("trial") else {})))
 # 3. merge the cloud's publish log (permalink -> file) so learn.py can match posts to reels and lengths
 try:
     lp = ROOT / "data/posts.json"; loc = json.loads(lp.read_text()); have = {r.get("permalink") for r in loc}

@@ -11,18 +11,14 @@ TOR = ZoneInfo("America/Toronto"); now = dt.datetime.now(TOR); REPO = "ryan-helo
 age_h = lambda p: (time.time() - p.stat().st_mtime) / 3600 if p.exists() else 1e9
 bad, ok = [], []
 
-# 1. cloud runs in the last 24 h
-r = subprocess.run(["gh", "run", "list", "-R", REPO, "-w", "post.yml", "-L", "40", "--json", "conclusion,createdAt,event"], capture_output=True, text=True)
-try:
-    runs = [x for x in json.loads(r.stdout) if (now - dt.datetime.fromisoformat(x["createdAt"].replace("Z", "+00:00"))).total_seconds() < 86400]
-    fails = [x for x in runs if x["conclusion"] == "failure"]
-    (bad if fails else ok).append(f"cloud poster: {len(runs)} runs in 24 h, {len(fails)} failed")
-except Exception: bad.append("cloud poster: could not read GitHub runs (gh not logged in?)")
+# 1. the Mac poster is loaded (posting runs on the Mac since 2026-11-25)
+r = subprocess.run(["launchctl", "list"], capture_output=True, text=True)
+(ok if "com.8bitraptors.apidispatch" in r.stdout else bad).append("Mac poster (com.8bitraptors.apidispatch): " + ("loaded" if "com.8bitraptors.apidispatch" in r.stdout else "NOT loaded"))
 
 # 2. posts due in the last 24 h that did not go out
 q = json.loads((ROOT / "data/api_queue.json").read_text())
 due = [j for j in q if now - dt.timedelta(hours=24) <= dt.datetime.fromisoformat(j["due_et"]) <= now - dt.timedelta(minutes=45)]
-missed = [f"{j['label']} ({j['state']}{': ' + j.get('cloud_why', '')[:60] if j.get('cloud_why') else ''})" for j in due if j["state"] not in ("posted", "held")]
+missed = [f"{j['label']} ({j['state']}{': ' + j.get('cloud_why', '')[:60] if j.get('cloud_why') else ''})" for j in due if j["state"] not in ("posted", "held", "bs_scheduled")]
 (bad if missed else ok).append(f"posts due in 24 h: {len(due)}, not posted: {len(missed)} " + "; ".join(missed))
 
 # 3. queue depth
@@ -31,7 +27,7 @@ for acc, need in (("raptors", 3), ("warriors", 2)):
     (bad if days < need else ok).append(f"{acc}: {days} days queued")
 
 # 4. the moving parts ran recently
-for name, p, hours in (("cloud sync", ROOT / "data/logs/cloudsync.log", 30), ("learn (daily)", ROOT / "data/learn/latest.md", 30),
+for name, p, hours in (("learn (daily)", ROOT / "data/learn/latest.md", 30),
                        ("news check", ROOT / "data/logs/news.launchd.log", 30), ("weekly refill", ROOT / "data/learn/decisions.md", 24 * 8)):
     a = age_h(p); (bad if a > hours else ok).append(f"{name}: last ran {a:.0f} h ago" if a < 1e8 else f"{name}: never ran")
 lock = ROOT / "data/news/running.lock"

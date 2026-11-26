@@ -31,7 +31,8 @@ try:
     _due = json.loads(stp.read_text()).get("due_et")
     if _due:
         _late = (dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(_due)).total_seconds() / 3600
-        if _late > 2:
+        _tor = dt.datetime.now(dt.timezone(dt.timedelta(hours=-5)))
+        if _late > 3 or not ((11, 30) <= (_tor.hour, _tor.minute) <= (23, 30)):   # 2026-11-25: up to 3 h late, daytime only
             P(f"SKIPPED: {_late:.1f} h late (Mac asleep or offline at post time)"); notify(f"{label} MISSED", f"@8bit{account} post {label} was {_late:.1f} h late (Mac asleep or offline), so it was not posted."); done(); sys.exit(0)
 except Exception as e:
     P("lateness check failed, continuing:", e)

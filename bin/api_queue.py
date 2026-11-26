@@ -39,7 +39,10 @@ due = dt.datetime.fromisoformat(f"{day}T{hm}").replace(tzinfo=ZoneInfo("America/
 st = json.loads((ROOT / (video[:-4] + ".qa.json")).read_text())
 v = ROOT / "scheduled" / f"{label}.mp4"; shutil.copy(ROOT / video, v)
 c = ROOT / "data" / f"caption_{label}.txt"; shutil.copy(ROOT / cap, c)
+sys.path.insert(0, str(ROOT / "bin")); import follow_line; follow_line.add(c, account)   # follow line on every post (2026-11-25)
 (ROOT / "data" / f"stamp_{label}.json").write_text(json.dumps({**st, "label": label, "due_et": due.isoformat()}))
 qf = ROOT / "data/api_queue.json"; q = json.loads(qf.read_text()) if qf.exists() else []
 q = [x for x in q if x["label"] != label] + [{**({"trial": True} if "--trial" in sys.argv else {}), "label": label, "account": account, "video": str(v), "caption": str(c), "due_et": due.isoformat(), "state": "queued"}]
 qf.write_text(json.dumps(sorted(q, key=lambda x: x["due_et"]), indent=1)); print(f"{label}: queued for {day} {hm} Toronto")
+# Follow end card at the end of every reel (2026-11-25), after the queue entry exists.
+subprocess.run([sys.executable, str(ROOT / "bin/endcard.py"), label], cwd=str(ROOT))

@@ -88,8 +88,7 @@ if True:   # daily (Ryan 2026-11-24: why not more often? free, no tokens)
     try: subprocess.run([sys.executable, "-I", str(ROOT / "bin/fanpages.py")], cwd=str(ROOT), capture_output=True, timeout=300)
     except Exception as e: print("fanpages.py failed:", e)
 # Push the re-ordered queue to the cloud right away, before the Mac can go back to sleep (2026-11-24).
-try: subprocess.run([sys.executable, "-I", str(ROOT / "bin/cloud_sync.py")], cwd=str(ROOT), capture_output=True, timeout=900)
-except Exception as e: print("cloud_sync failed:", e)
+pass   # cloud posting off since 2026-11-25 (posting runs on the Mac)
 # Daily backup of the whole project to GitHub (2026-11-24).
 try: subprocess.run(["/bin/zsh", str(ROOT / "bin/backup.sh")], cwd=str(ROOT), capture_output=True, timeout=600)
 except Exception as e: print("backup failed:", e)
