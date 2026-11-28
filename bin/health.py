@@ -30,8 +30,8 @@ for acc, need in (("raptors", 3), ("warriors", 2)):
 for name, p, hours in (("learn (daily)", ROOT / "data/learn/latest.md", 30),
                        ("news check", ROOT / "data/logs/news.launchd.log", 30), ("weekly refill", ROOT / "data/learn/decisions.md", 24 * 8)):
     a = age_h(p); (bad if a > hours else ok).append(f"{name}: last ran {a:.0f} h ago" if a < 1e8 else f"{name}: never ran")
-lock = ROOT / "data/news/running.lock"
-if lock.exists() and age_h(lock) > 3: bad.append(f"news run stuck for {age_h(lock):.0f} h (data/news/running.lock); see data/logs/news_run.log")
+pend = ROOT / "data/news/pending.json"
+if pend.exists() and age_h(pend) > 26: bad.append(f"news story waiting {age_h(pend):.0f} h for a reel (data/news/pending.json); is the 8bit-news-reel task running?")
 
 md = [f"# Health {now:%a %b %d %H:%M}", "", "## Problems" if bad else "## All good", *[f"- {b}" for b in bad], "", "## OK", *[f"- {o}" for o in ok]]
 (ROOT / "data/learn").mkdir(parents=True, exist_ok=True); (ROOT / "data/learn/health.md").write_text("\n".join(md)); print("\n".join(md))

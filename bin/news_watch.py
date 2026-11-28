@@ -17,7 +17,6 @@ BIG = [(3, r"\bTRADE[DS]?\b|ACQUIRE|\bSIGN(S|ED|ING)\b|EXTENSION|WAIVE|\bFIRED\b
 seen_p = D / "seen.json"; seen = set(json.loads(seen_p.read_text())) if seen_p.exists() else set()
 runs_p = D / "runs.json"; runs = json.loads(runs_p.read_text()) if runs_p.exists() else []
 # runs at any hour (Ryan 2026-11-23: the Mac is reliably on 1-8 AM, so overnight game news is caught then)
-if (D / "running.lock").exists() and (now.timestamp() - (D / "running.lock").stat().st_mtime) < 3 * 3600: sys.exit(0)
 
 found = []
 for acc, (code, rx) in TEAMS.items():
@@ -39,31 +38,9 @@ if DRY or not found: sys.exit(0)
 
 item = found[0]; seen.add(item["id"]); seen_p.write_text(json.dumps(sorted(seen)))
 runs.append(dict(day=str(now.date()), acc=item["acc"], headline=item["headline"])); runs_p.write_text(json.dumps(runs[-60:], indent=1))
-(D / "pending.json").write_text(json.dumps(item, indent=1)); (D / "running.lock").write_text(now.isoformat())
-PROMPT = f"""News reel run for @8bit{item['acc']} (repo ~/Developer/8bitraptors). Breaking item from ESPN, in data/news/pending.json:
-"{item['headline']}" ({item['url']}).
-1. Open the source URL and confirm the facts. If it is not real team news worth a reel (fans would care TODAY), log why
-   in data/news/decisions.md, delete data/news/running.lock and stop.
-2. Read data/learn/playbook.md and follow it. Build ONE reel with the news-drop format (gen/fmt_news_drop.html; copy the newest specs/*news* spec as a model if one
-   exists). 20-35 s, hook in line 1, fan voice we/us/our, no emojis in voiceover or dialog, every number in the spec's facts
-   with its source. Build: PATH=/Library/Frameworks/Python.framework/Versions/3.12/bin:$PATH zsh gen/batch.sh specs/<spec>.json
-   (QA must pass), then python3 gen/factcheck.py specs/<spec>.json must say "facts OK". One build at a time (8 GB Mac).
-3. Queue it in the soonest slot that is at least 90 min after this account's last post and before 22:30 Toronto, keeping the
-   account at 5 posts a day or fewer (Warriors 3): if the day is full, push that day's lowest-scoring queued reel
-   (data/learn/scores.json) to the end of the queue by editing its due_et in data/api_queue.json, then queue with
-   python3 bin/api_queue.py api_{item['acc']}_<stem> {item['acc']} out/<stem>.mp4 out/<stem>.caption.txt <YYYY-MM-DD> <HH:MM>
-   Never --force, never print .env tokens, never change account settings.
-4. Append one line to data/news/decisions.md (date, headline, what you queued and when), delete data/news/running.lock.
-Before step 3, REVIEW: start ONE fresh general-purpose subagent with only the mp4, spec, caption and source URL. Its brief:
-"Review this reel like a strict editor before it is posted.
-- Pull frames at 0, 2, 5 s and every 5 s after that (ffmpeg); read every number against the source page.
-- Rate the HOOK (reason to stay in 1-2 s) and the PAYOFF (does the end deliver it?) 1-5; flag only broken things (wrong fact, typo, cut-off text, not fan voice).
-- No style nitpicks.
-Reply PASS (both 4+, nothing broken), or FIX with a short list."
-Fix and re-review, at most 2 rounds; never queue a reel that still gets FIX.
-After queueing, confirm the label is in data/api_queue.json with state queued.
-Be token-efficient: minimal file reads, short final summary."""
-log = open(ROOT / "data/logs/news_run.log", "a"); log.write(f"\n=== {now.isoformat(timespec='minutes')} {item['headline']}\n"); log.flush()
-subprocess.Popen([str(pathlib.Path.home() / ".local/bin/claude"), "-p", PROMPT, "--permission-mode", "bypassPermissions"],
-                 cwd=str(ROOT), stdout=log, stderr=log, start_new_session=True)
-print("started news run for", item["acc"])
+# 2026-11-27: a headless `claude -p` started by launchd cannot sign in ("OAuth session expired"). So this script only
+# QUEUES the story; the Claude app's scheduled task 8bit-news-reel (6:05 + 7:00 AM, signed in) builds the reel.
+pp = D / "pending.json"; pend = json.loads(pp.read_text()) if pp.exists() else []
+pend = pend if isinstance(pend, list) else [pend]
+pend.append({**item, "found": now.isoformat(timespec="minutes")}); pp.write_text(json.dumps(pend, indent=1))
+print("queued news for", item["acc"], "-", item["headline"])

@@ -24,6 +24,7 @@ def fmt(title):
     if "TRADE COURT" in t or "WHO WON THE" in t: return "trade_court"
     if "CHOOSE YOUR" in t or "PAUSE AND PICK" in t or t.startswith("OUR GOAT"): return "poll"
     if re.match(r"^(RAPTORS|WARRIORS) \d+, |^(VICTORY|FINAL|WIN|LOSS)\b", t): return "recap"
+    if re.search(r"GAMES IN|STARTING FIVE|PARTY CHECK|IS OUT|GAME DAY|WHAT'S WRONG", t): return "game_day"
     if re.search(r"HIGH SCORE|HOW WE BUILT|HOW .* GOT HOME", t): return "explainer"
     if re.search(r"\bNEWS\b|BREAKING|JUST IN", t): return "news"
     return "story"
@@ -62,6 +63,18 @@ for p in sorted((ROOT / "data/insights").glob("*.json"), key=lambda p: p.stat().
         if isinstance(r, dict) and r.get("permalink"): latest[r["permalink"]] = r
 rows = [r for r in latest.values() if 24 <= (r.get("age_h") or 0) <= 21 * 24 + 48 and r.get("views")]
 
+# follows per post, read daily from Business Suite by the 8bit-bs-schedule task (data/learn/follows.jsonl)
+FOL = {}
+fp = OUT / "follows.jsonl"
+if fp.exists():
+    for line in fp.read_text().splitlines():
+        try: d = json.loads(line); FOL[(d["account"], (d.get("caption_start") or "").upper().strip())] = d.get("follows")
+        except Exception: pass
+def fol_of(acc, title):   # caption starts match either way round (titles and caption_start can differ in length)
+    t = (title or "").upper().strip()
+    for (a, c), v in FOL.items():
+        if a == acc and len(c) >= 8 and (t.startswith(c[:30]) or c.startswith(t[:30])): return v
+    return None
 scores, hours, base, lens = {}, {}, {}, {}
 for acc in ("raptors", "warriors"):
     mine = [r for r in rows if r["acc"] == acc and r["permalink"] not in TRIAL]
@@ -75,9 +88,17 @@ for acc in ("raptors", "warriors"):
         en = eng(r) / me
         if r["views"] < 300: en, wn = 1.0, min(wn, 1.0)   # rates on a tiny audience are noise (self-review 2026-11-23)
         r["_s"] = 0.30 * min(r["views"] / mv, 4) + 0.35 * min(en, 2.5) + 0.35 * min(wn, 2.5)
+        f = fol_of(acc, r.get("title"))
+        if f is not None: r["_f"] = f
+    # once enough posts have follows, they become half the score (follows per 1K views vs the account median)
+    withf = [r for r in mine if "_f" in r and r["views"] >= 300]
+    if len(withf) >= 10:
+        mf = med([r["_f"] * 1000 / r["views"] for r in withf]) or 0.5
+        for r in withf: r["_s"] = 0.5 * r["_s"] + 0.5 * min((r["_f"] * 1000 / r["views"]) / mf, 3)
+    base_f = len(withf)
     scores[acc] = grp(mine, lambda r: fmt(r["title"])); hours[acc] = grp(mine, hour_of)
     lens[acc] = grp(mine, lambda r: (lambda L: None if L is None else ("<25 s" if L < 25 else "25-35 s" if L < 35 else "35-45 s" if L < 45 else "45 s+"))(LEN.get(r["permalink"])))
-    base[acc] = dict(median_views=int(mv), shares_saves_per_1k=round(me, 1), watched_share=round(mws or 0, 2), lengths_known=sum(1 for r in mine if LEN.get(r["permalink"])), posts=len(mine))
+    base[acc] = dict(median_views=int(mv), shares_saves_per_1k=round(me, 1), watched_share=round(mws or 0, 2), lengths_known=sum(1 for r in mine if LEN.get(r["permalink"])), posts=len(mine), posts_with_follows=base_f)
 
 
 def shrunk(table, acc, k):
@@ -115,6 +136,16 @@ for acc in ("raptors", "warriors"):
         if opts:
             best = min(opts, key=lambda o: hn(o.hour))
             if hn(best.hour) < hn(t.hour): item[1] = best
+    # series stay in order (2026-11-27: Trade Court #3/#4 went out before #1/#2): numbered episodes of the same series
+    # ("CASE #N", "PART N") swap times among themselves so the lower number always posts first
+    SER = re.compile(r"^(.*?)(?:CASE|PART|EPISODE|EP\.?)\s*#?\s*(\d+)", re.I)
+    groups = {}
+    for item in plan:
+        m = SER.match(title_of(item[0]["j"]).upper())
+        if m: groups.setdefault(m.group(1).strip(" ,:-"), []).append((int(m.group(2)), item))
+    for eps in groups.values():
+        times = sorted(it[1] for _, it in eps)
+        for (n, it), tm in zip(sorted(eps, key=lambda e: e[0]), times): it[1] = tm
     for pick, t, explore in plan:
         new = t.isoformat()
         if pick["j"]["due_et"] != new: moves.append((acc, pick["j"]["label"], pick["j"]["due_et"][5:16], new[5:16], pick["f"] + (" EXPLORE" if explore else "")))
